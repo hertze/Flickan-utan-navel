@@ -8,6 +8,8 @@ Jag blev kallad till Dekanus på förmiddagen. Professor Lekén har gått bort o
 
 Jag ber att få lindring, att få se en ljusning. Hjälp mig Gud. Hjälp mig.
 
+	Lite väl pretentiöst?
+	
 Din,
 Lars-Erik
 
