@@ -10,11 +10,11 @@ Rösterna fortsatte, men det gick inte att urskilja några ord. En mörk mansrö
 
 Det bankade på dörren och hon kunde höra sin mors röst. Den dränktes nästan i det öronbedövande sorlet av röster.
 
-"Ester? Ester! Öppna dörren!"
+"Kerstin? Kerstin! Öppna dörren!"
 
 Dörrhandtaget ryckte upp och ner, men dörren rubbades inte. En hand slog mot trät.
 
-"Öppna dörren, Ingrid! Varför har du låst?"
+"Öppna dörren, Kerstin! Varför har du låst?"
 
 Rösterna sänktes till viskningar och försvann sedan helt. Det var overkligt tyst i rummet. Flickan öppnade ögonen. Rummet var mörkt. Spetsgardinen i fönstret rörde sig. Hon kunde höra sin mor slå mot dörren, men det lät dämpat, avlägset.
 
