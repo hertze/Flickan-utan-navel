@@ -106,7 +106,7 @@ Vakten kastade sig ner på golvet, gled mot Peder och sparkade undan hans ben. P
 Polissirener närmade sig från fjärran.
 
 
-### Scen ###
+### Peder springer från vakten ###
 
 Peder försökte vrida loss, men vakten höll honom tryckt mot golvet tills två poliser klev ur en av hissarna. En lite folksamling hade hunnit bildas i hisshallen. Sixten gick fram och pratade med den ena polisen, men Peder kunde inte höra vad hans sa. Sedan satte de handfängsel på Peder och tog med honom ner.
 
@@ -215,7 +215,7 @@ Hon såg trött ut. Peder tog hennes utsträckta hand.
 En halvtimme senare låg Peder på britsen i sitt nya rum -- den här gången ett enkelrum. Det var lugnt på avdelningen igen. Han försökte tänka klart. Uppenbarligen hade han träffat en rå nerv, eftersom de sett till att låsa in honom här. Ju mer han berättade för läkarna om vad han visste, desto värre hade det blivit. Det var uppenbarligen dags att byta strategi -- att göra vad som krävdes för att komma härifrån. Han skrattade för sig själv. Det var en riktig klassiker att spärra in obekväma människor på sinnessjukhus. Ut skulle han, omedelbart. *De* visste inte vem de hade att göra med.
 
 
-### Scen ###
+### Första dygnet på akuten ###
 
 Avdelningen var lugnare än akuten, men Peder hade ändå svårt att sova på natten. Ännu en gång avböjde han erbjudandet om en sömntablett och låg istället på sidan och stirrade in i väggen. Han somnade i vargtimman och sov ännu tungt, när en skötare ruskade hans axel.
 
@@ -338,7 +338,7 @@ Underläkaren slog ihop sitt block och följde efter överläkaren ut. Hon gick 
 Peder satt kvar själv i halvdunklet. Han kände sig illamående.
 
 
-### Scen ###
+### Var är rum nummer 13? ###
 
 Peder gick långsamt genom korridoren, med blicken sänkt. Han tvekade i korsningen där tre korridorer möttes i en T-korsning och tog till höger. Det såg likadant ut överallt. Gulmålade väggar och ett gråspräckligt plastgolv. Dörrar i gulnad bokfaner. Han läste siffrorna som var målade på dem. Nitton, tjugo, tjugoett. På andra sidan korridoren låg sexton, sjutton, arton. Han stannade i slutet av korridoren, vid en dörr med ett runt fönster. En kortläsare vid sidan av dörren blinkade rött och låset klickade till. En skötare kom in genom dörren från trapphuset. Hon såg på Peder och la huvudet på sned.
 
@@ -353,7 +353,7 @@ Peder nickade och gick korridoren tillbaka. I korsningen såg han åt vänster, 
 Dörren till rummet till höger öppnades och en kvinna puttade en städvagn över tröskeln. Hon ställde den i korridoren och gick tillbaka in för att hämta en mopp, som hon lämnat lutad mot ena väggen. Peder såg in i rummet och kände igen det. Den döde mannen med snaran kring halsen var borta. Golvet var blött och en doft av alkohol svävade ut genom dörröppningen. Sängen saknade sängkläder, garderoben stod tom med dörren vidöppen. Städerskan kom ut igen och stängde dörren efter sig. På dörren stod siffran tolv. Peder rynkade pannan. Fjorton och tolv. Var finns rum nummer tretton, tänkte han.
 
 
-### Scen ###
+### Briefing efter Görans självmord ###
 
 Dagen gick långsamt. Peder låg på sängen fram till lunch och försökte läsa ett veckogammalt nummer av Metro, som låg kvarglömt i hans nattduksbord. Han hade svårt att fokusera blicken och bokstäverna flöt in i varandra. Han ryckte till vid halv tolv och insåg att han hade somnat. T-shirten var våt av saliv i halslinningen. Vänsterarmen, som han hade haft bakom huvudet, var domnas. Det pirrade i handen, som om han hade sockerdricka i ådrorna.
 
@@ -396,7 +396,7 @@ Han såg på sina patienter, nickade kort och lämnade rummet, med Cecilia i sl�
 Vid sjutiden gick Peder till matsalen igen och åt två smörgåsar med ost och skinka. Han stoppade en banan i fickan, som han sedan åt på sängen. Ögonlocken kändes allt tyngre och vid niotiden tog han av sig sina kläder, kröp ner under täcket och somnade.
 
 
-### Scen ###
+### Peder drömmer ###
 
 I drömmen var Peder hemma i sin lägenhet. Han stod i hallen. Lamporna var släckta. Bruset av trafiken utanför var det enda som hördes. Peder såg ner och la märke till att han inte hade några kläder på sig. Han tittade upp och såg ett vitt lamm som stod i dörröppningen in till sovrummet. Lammet stod alldeles stilla och såg på honom. Ullen glittrade i skenet från fullmånen utanför. Det såg nästa självlysande ut.
 

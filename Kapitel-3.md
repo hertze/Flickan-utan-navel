@@ -1,4 +1,4 @@
-# Kapitel fem #
+# Kapitel tre #
 
 
 "Du vet mycket väl att patienter inte får vistas inne på expeditionen."
@@ -90,3 +90,42 @@ Han rosslade till.
 
 Andetagen blev ytligare och ytligare. Kroppen skälvde till och Carsten stönade svagt. Peder sträckte sig upp och tryckte på larmknappen vid sängen. En lampa började lysa rött. Ett högt pipade hördes i korridoren.
 
+### Scen ###
+
+De två skötarna kom springande med nattsköterskan i släptåg. De ryggade tillbaka när de såg Peder och Carsten på golvet.
+
+"Du där -- ut härifrån!" skrek sköterskan åt Peder. Sedan pekade han på en av skötarna. "Du larmar narkos, Jörgen!"
+
+Den ena skötaren sprang ut i korridoren och tillbaka mot expeditionen. Sköterskan satte sig på knä på golvet och lyfte upp Carstens armar i luften. Peder satte sig på golvet i korridoren utanför, med ryggen mot väggen. Han satt fortfarande kvar när män och kvinnor i gröna kläder rullade ut Carsten på en bår. Slangar var fästa vid hans armar, en syrgasmask satt över hans mun. Nattsköterskan ställde sig bredvid Peder.
+
+"Sitter du kvar här?"
+
+"Hur är det med Carsten?"
+
+Sköterskan drog en hand genom håret.
+
+"Inte bra. Det ser inte alls bra ut. Han har förlorat mycket blod."
+
+Han la en hand på Peders axel.
+
+"Gå och lägg dig nu, Peder. Du kan inte sitta här ute i korridoren."
+
+Peder reste sig långsamt upp och gick tillbaka till sitt rum. Han la sig på sängen och stirrade upp i taket. Tankarna rusade och han kunde inte somna. Varje gång han slöt ögonen såg han Carsten framför sig i en pöl av blod. Han spruckna läppar rörde sig och han hörde hans sista ord, om och om igen. *Hitta månen, sök den allvetande, rädda oss alla*. Han låg kvar och vred sig i två timmar innan han steg upp och smög ut i korridoren igen. Den var helt öde. En radio skvalade lågt på sjuksköterskeexpeditionen. Han gick med korta steg längs ena väggen, tills han stod utanför Carstens rum igen. Han tryckte ner dörrhandtaget och öppnade dörren på glänt. Lamporna var släckta, men ett blekt månljus silade in genom fönstret. Blodpölen var upptorkad. Peder drog fram en stol till väggen under ventilationstrumman och klev upp. Gallret var fäst med två skruvar. Han såg sig om i rummet. Sängen var fortfarande obäddad. Garderobsdörren stod på glänt. Han hoppade ner på golvet och drog ut lådan i nattduksbordet. Den var tom så när som på ett paket näsdukar och några mynt. Peder tog en femtioöring mellan tummen och pekfingret och klev upp på stolen igen. Han skruvade ut skruvarna med myntet, lossade gallret och ställde ner det på golvet. Ventilationstrumman var mörk. Det brummande svagt långt därinne. Peder stack in armen kände över den släta plåten. Längst därinne kände han något, hårda föremål inuti något mjukt. Han tryckte in sin arm en bit till och fick grepp om det. Han drog ut det och höll upp det i månljuset. Det var en liten påse av skinn, hopknuten med en rem. Peder stoppade den innanför byxlinningen och satte tillbaka gallret och stolen på sina platser. Han smög tillbaka till sitt eget rum, förbi köket där några samtalade med dämpade röster.
+
+Han stängde försiktigt dörren efter sig och tände sänglampan. I det varma glödlampsskenet undersökte han påsen. Den var stor som en knuten näve, sydd i brunt sprucket skinn. Peder nöp med naglarna för att lossa den knutna remmen kring pungens hals, vidgade öppningen den med två fingrar och tömde ut innehållet på lakanen. Det var två identiska föremål av metall, stora som tändsticksaskar. Peder plockade upp den ena och vred på den. På en platta av metall satt en liten metallcylinder, med upphöjda prickar. Mot cylindern vilade ett metallbleck, uppslitsat i fingrar av olika längder. Det såg ut som mekaniken till en speldosa. Peder vände upp och ner på föremålet. På undersidan satt en gyllene sjutaggad stjärna infälld i metallplattan. Han vände upp undersidan på den andra speldosan. Där fanns en gyllene cirkel, omgiven av strålar. *En stjärna och en sol*, tänkte Peder. *Varför är de här speldosorna så viktiga?* Han kände med pekfingret längs en av metallcylindrarna. Det kändes precis som blindskrift.
+
+Peder stoppade tillbaka speldosorna i skinnpungen och knöt ihop den. Han drog fram stolen från hörnet och gömde den i sin egen ventilationstrumma. Han hann precis kliva ner på golvet igen innan dörren öppnades och en skötare stack in huvudet.
+
+"Så du *är* vaken, Peder. Jag tyckte väl jag hörde ljud."
+
+Peder satte sig på sängkanten.
+
+"Jag kan inte sova."
+
+"Vill du ha en insomningstablett?"
+
+"Nej, tack. Jag lägger mig och läser istället."
+
+"Som du vill."
+
+Dörren stängdes. Peder tog av sig byxorna och den ljusblå koftan. Han kröp ner under täcket och öppnade sin pocketbok. Han hann läsa tre sidor innan han somnade.
