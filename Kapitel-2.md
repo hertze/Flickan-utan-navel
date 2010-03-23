@@ -190,7 +190,7 @@ Peder sänkte blicken. Han bet ihop käkarna och knöt nävarna under bordet, ti
 Överläkaren och underläkaren lämnade rummet. Peder satt kvar en stund och stirrade på bordet. Han sög sig på underläppen. Sedan reste han sig upp, gick ut ur rummet och smällde igen dörren efter sig så det ekade i korridoren.
 
 
-### Scen ###
+### Samtal i rökrummet ###
 
 Peder vandrade upp och ner i korridoren tills han hade lugnat sig. Då stannade han vid vagnen av rostfritt stål, där han hällde upp en mugg vatten från tillbringaren och valde ut ett oskatt äpple från fruktskålen. Någon meter bort stod dörren till sjuksköterskeexpeditionen öppen. Peder kände igen syster Ingers röst.
 
@@ -227,9 +227,6 @@ Peder såg besviken ut.
 "Ok."
 
 Peder gick nedåt i korridoren och tittade i i lunchrummet. En äldre kvinna satt vid ett av borden och försökte dricka kaffe. Hennes hände skakade så våldsamt att hon spillde det mesta på vaxduken. Hennes käkar rörde sig rytmiskt, som om hon idisslade. Peder gick vidare nedåt. Han kikade in genom fönstret till samtalsrummet, med det var mörkt där inne. Han vände tillbaka och tog till vänster i T-korsningen. Han stannade utanför den stängda dörren till rökrummet, tog ett djupt andetag och tryckte ner handtaget.
-
-
-### Scen ###
 
 Mannen med det grå stripiga håret satt tillbakalutad i en stol av röd plast med ena benet vilande över det andra. Han drog halsbloss på en cigarettstump och blåste ut röken genom näsan i två vita strålar. Peder ryggade tillbaka för den skarpa rökdoften, men gick sedan in och stängde dörren efter sig.
 
@@ -350,7 +347,7 @@ Carsten log.
 Peder lyfte handen till farväl.
 
 
-### Scen ###
+### Kvällsmedicin ###
 
 Det knackade på dörren. Peder låg på sängen och läste i samma nummer av Metro han bläddrat i sedan han kom till avdelningen.
 
@@ -381,7 +378,7 @@ Hon tog med sig plastmuggen och gick ut ur rummet. Peder la sig på rygg på sä
 Han såg på klockan och suckade. Den var bara åtta. Flera timmar kvar. Han plockade upp Metro igen och började om från början. Han hade bara kommit till sidan fyra när han dåsade till och tappade tidningen.
 
 
-### Scen ###
+### Erotisk dröm om Cecilia ###
 
 Dörren knarrade till. Peder ryckte till i sängen och satte sig upp. Han stirrade på dörren. Allt var tyst. Egendomligt tyst. Peder hörde bara sin egen andhämtning. Så rörde sig dörren och öppnades långsamt -- centimeter för centimeter. I dörrhålet stod en siluett, knappt skönjbar mot den mörka korridoren bakom.
 
@@ -404,7 +401,7 @@ Peders hand gled in genom tyget i toppen, in genom huden. I brösthålan kunde h
 Han ryckte till och var vaken. Tankarna var fördunklade. Han satte sig upp på sängkanten med pannan i händerna. Det tog en stund innan erektionen hade lagt sig.
 
 
-### Scen ###
+### Peder snokar på expeditionen ###
 
 Peder såg på sitt armbandsur. Det var dags. Han reste sig upp och sträckte på sig. Sedan smög han ut i korridoren. Allt var nersläckt och dörrarna till alla patientrum var stängda. Tv:n stod på med avstängt ljud i sällskapsrummet. Han fortsatte ner till rum nummer sju och knackade försiktigt på.
 

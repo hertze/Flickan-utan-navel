@@ -44,7 +44,7 @@ Peder nickade och blev lämnad ensam på gårdsplanen. Han såg sig om. Gården 
 Peder började frysa och han gick tillbaka uppför trappan till dörren. Han bankade en lång stund innan han blev insläppt. Lunchen hade kommit och Peder tog för sig i matsalen. Eftermiddagen tillbringade han på rummet med pocketboken av Denise Rudberg, med korta pauser för kaffe och toalettbesök. På kvällen kom sköterskan med kvällsmedicinen och Peder låtsades som vanligt svälja ner den med vatten, innan han gömde den med de andra tabletterna. Han somnade tidigt och började drömma.
 
 
-### Scen ###
+### Peder drömmer om Carsten, Carsten dör ###
 
 Peder gick genom ett öde landskap. Marken var stekhet sand, som brände hans fötter. Torra buskar växte glest runt om kring stigen han gick på. Det var vindstilla. Luften var tung att andas. Han nådde basen av en kulle och kisade upp mot solen. En mörk siluett tornade upp sig på krönet. Peder började klättra uppför. Hans fötter blödde och färgade fotspåren röda.
 
@@ -90,7 +90,7 @@ Han rosslade till.
 
 Andetagen blev ytligare och ytligare. Kroppen skälvde till och Carsten stönade svagt. Peder sträckte sig upp och tryckte på larmknappen vid sängen. En lampa började lysa rött. Ett högt pipade hördes i korridoren.
 
-### Scen ###
+### Peder hittar skinnpungen ###
 
 De två skötarna kom springande med nattsköterskan i släptåg. De ryggade tillbaka när de såg Peder och Carsten på golvet.
 
