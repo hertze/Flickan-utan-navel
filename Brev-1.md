@@ -1,4 +1,4 @@
-# Lund, 11 mars 1959 #
+## Lund, 11 mars 1959 ##
 
 Jag känner hur jag faller. Anita avvisade mig igen på lördagskvällen. Hon sa att hon var för trött. Hon är alltid för trött. Det mer än ett år sedan vi låg tillsammans. Anita säger att hon vill ha delade sovrum -- för barnets skull. Jag vet inte hur mycket längre jag klarar. Åh Gud, varför måste jag prövas så här?
 
