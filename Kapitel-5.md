@@ -1,335 +1,323 @@
 # ???? #
 
-Peder stod på trottoaren i ett villaområde på Fridhem i västra Malmö. Framför honom tornade en hög vitkalkad mur upp sig. Mellan spjälorna i en svartmålad järngrind såg han en stor villa, i gulmålad puts. Det var skymning och den fuktiga kylan trängde in genom kläderna. Peder såg sig omkring och satte sedan foten på en av grindens tvärribbor och hävde sig upp. Han saxade över toppen och hoppade ner på andra sidan. Han landade på en grusgång, täckt av ett tunt lager snö.
+Peder vaknade av sig själv på morgonen. Det var redan ljust ute. Han drog på sig byxorna och gick på toaletten, innan han gick till matsalen för att äta frukost. En ensam skötare satt och la patients på datorn när han passerade expeditionen. En mager man med stripigt grått hår och gles skäggväxt satt i soffan i korridoren och muttrade för sig själv. Matsalen var i stort sätt tom. Peder bredde två smörgåsar vid serveringsvagnen och försökte fylla en kaffemugg från termosen, men den var tom. Brunt skum pyste ner i hans kopp när han tryckte ner spaken i termoslocket. Syster Inger kom och fyllde på med rykande kaffe från en glaskanna. Hon hällde det sista direkt ner i Peders mugg.
 
-### Tillbakablick ###
+"Tack", sa Peder.
 
-Det hade gått tre dagar sedan Peder rymde från sjukhuset. Han hade gått om sin lägenhet och hämtat några ombyten, sin laptop, mobiltelefon, pass och sitt kreditkort. Han hade gått ut på gatan från en grannport och då sett en svart Volvo som stannade till utanför hans port. Peder hade gått åt andra hållet, hade tömt sina konton i omgångar och sedan gjort sig av med kortet. Han hade slängt SIM-kortet till sin mobil och köpt ett kontantkort i en liten kiosk. Han hade hittat ett litet hotell vid centralstationen, där de accepterade kontant betalning.
+Inger log till svar.
 
-Han hade ägnat två dagar åt att spåra Göran Eilertsson, mannen som dött samma dag Peder kom till psykosavdelning 87 på sjukhuset. Carsten hade varit övertygad om Göran inte begått självmord. Göran hade lämnat en skinnpung till Carsten, samma pung som Peder nu hade i sin ägo. Den verkade lämna död efter sig och Peder ville veta varför. Ett registerutdrag från Skatteverket hade listat fyra Göran Eilertsson i Sverige, men bara en som var skriven i Skåne. Den Göran var registrerad som avliden, men hade varit skriven i Arlöv, någon mil utanför Malmö. Han stod angiven som fastighetsskötare för en fastighet på Hellasvägen, den adress som Peder nu befann sig på.
+"Här är så tyst", sa Peder. "Var är alla?"
 
-### Inbrott i logen ###
+"Vilka?"
 
-Peder sträckte på sig och lyssnade. Trafiken brusade i fjärran, men annars var det tyst. Villan har helt nersläckt. Snön låg i drivor upp mot huvudentrén, en enorm trädörr i två delar. Brevid gången upp mot huset dolde en ängel av brons ansiktet i händerna och doppade ena foten i en frusen fontän. Peder gick runt på baksidan av huset och lämnade mörka fotavtryck i snön. Det var mörkt i fönstren även på baksidan. Han kände på handtaget till en bakdörr, men den var låst. Han klev ner i rabatten och gick fram till ett av fönstren. Han fällde upp det minsta bladet på sin fickkniv, stack in det mellan fönsterkarmen och fönstret och drog det uppåt. Med ett dämpat klirrande lyftes haspen ur öglan och fönstret gled upp. Peder tog sats och hävde sig över karmen och in i huset. Han tog upp en liten ficklampa ut fickan, tände den och riktade ljuset in mot rummet. Han befann sig i någon typ av bibliotek. Väggarna var klädda med mörka träpaneler. Längs två av väggarna stod bokhyllor, fulla av böcker. Två fåtöljer i brunt skinn stod mitt i rummet, på röd matta, med ett litet bord emellan dem.
+"Alla patienter?"
 
-Peder drog fingrarna över över bokryggarna. De flesta var klädda i skinn, med titlarna tryckta i guldfärg. Han la huvudet på sned och läste.
+"Det är sent på förmiddagen. En del är på sina rum, många är på permission."
 
-"Apokryferna? Enoks bok?" sa han tyst. "Vad är det?"
+"Permission", sa Peder. Han roterade kaffet i koppen.
 
-Många av titlarna var på latin, eller något som såg ut som grekiska.
+Inger satte tillbaka locket på termosen och la sedan en hand på Peders axel.
 
-Mellan två av hyllorna fanns en dörr. Peder tryckte ner handtaget och öppnade den ut till en korridor. Längs med den motstående väggen hängde en rad porträtt av vithåriga män, draperade i svart, smyckade med röda ordenskors och kedjor i guld. Alla höll sin högra hand mot bröstet och avslöjade en klackring med en vinkelhake och en passare.
+"Du kommer också få gå på permission, Peder. Det är bara en tidsfråga. Ta upp det med doktorn idag."
 
-"Frimurare", sa Peder. "Men vad är det där?"
+Inger gick ut till köket med den tomma kannan. Peder hällde en skvätt mjölk i sin kopp och tömde den i några få djupa klunkar. Kaffet brände på tungan. Han ställde disken på vagnen och gick tillbaka till sitt rum. Där satte han sig i sängen och läste det sista kapitlet i sin pocketbok och väntade på att klockan skulle bli elva.
 
-Alla männen var avbildade med svarta pekfingrar.
+### Samtal med överläkaren ###
 
-Han riktade ficklampan åt höger. Korridoren ledde in till ett kök, med rostfria bänkar och glimmande kastruller hängande från krokar på väggarna. Peder tog åt vänster istället och kom in i ett större rum med ett runt bord i mörkt trä, mitt på golvet. Tolv stolar med höga ryggar stod kring bordet. Fler porträtt smyckade väggarna. Ett rött sammetsdraperi täckte en av väggarna. Peder gick genom rummet och fram till två enorma motstående dörrar. Han tog tag i de båda dörrhandtagen och drog. Dörrarna gled upp med ett knirrande. Sval luft slog mot Peders ansikte. Det luktade stearin och fuktig sten. Han lyfte ficklampan och lyste framför sig. Ett gigantiskt avlångt rum öppnade upp sig. Peder tog ett steg och befann sig i ena kortändan. Han såg sig omkring. Det var åtminstone tre meter upp till taket. Pelare av marmor bildade en allé genom rummet, fram mot ett altare täckt av en blodröd sidenduk. På väggen bakom altaret hängde en oljemålning, åtminstone två meter hög. På en kulle av gräs stod ett vitt lamm och såg rakt mot betraktaren. Den hade ett sår i sidan och ullen var färgad röd av blod. Över lammet hängde mörka ovädersmoln, kring ett öga inneslutet i en glödande triangel.
+Fem minuter före avtalad tid knackade det på dörren och en skötare tog med Peder till samtalsrummet. Idag var det bara överläkaren som satt där.
 
-Peder lyste över tavlan. Munnen kändes torr, det susade i öronen. Han kände igen det här. Var hade han sett den här tavlan förut? Tiden bromsade in och stod stilla. Det sved i Peders ögon och han blev till sist tvungen att blinka. Förtrollningen bröts och han skadade av sig känslan. 
+"Hej, Peder", sa Gunnar. "Hur är det med dig?"
 
-Han skiftade ljuset åt vänster. Bakom ett draperi skymtade han en dörr. Han drog tyget åt sidan och kände på handtaget. Den var låst. Över låscylindern blinkade en lysdiod i rött. *Någon slags elektroniskt säkerhetslås*, tänkte Peder. Han såg sig om i rummet, på marmorpelarna, de röda sammetsdraperierna och på oljemålningen. Ett elektroniskt säkerhetslås verkade malplacerat här. *Någon har något att dölja.* 
+"Bra", sa Peder. "Lite ledsen, kanske."
 
-Han började gå åt det håll han kommit ifrån. Ljuskäglan pendlade över golvet. Mitt i rummet blänkte något till och den fastnade vid en svart marmorplatta. Mitt i plattan var bokstäverna *XII* infällda i gyllene metall.
-
-"Tolv", sa Peder. "Vad betyder *tolv*?"
-
-Han bet sig i underläppen och betraktade stenen en stund, innan han fortsatte. Han skulle just lämna rummet när han tittade upp på väggen ovanför dörrarna. I en ram av mörkt trä hängde ett porträtt i olja av en vithårig man, draperad i svart, med samma regalia som på alla de andra tavlorna. Den här mannen kände Peder igen. Han kände nackhåren resa sig. Det var överläkare Gunnar Hierta som blicka ner mot honom.
-
-### E-post ###
-
-Peder stod som fastfrusen och stirrade upp mot målningen. Tankarna staplades huller om buller på varandra. Vad var det han hade blivit indragen i? Han lämnade rummet och fortsatte ut samma väg han kommit. Han kröp ut genom fönstret, stängde det efter sig och gick mot muren som omgav tomten. *Gunnar Hierta är frimurare -- medlem i en loge, vars lokaler sköts av Göran Eilertsson. Det kan inte vara ett sammanträffande.* Han klättrade över grinden och fortsatte till fots ut ur kvarteret och ner mot ICA-affären vid busshållsplatsen. *Göran hade tagit något han inte borde -- var det något härifrån? Var det härifrån speldosorna kom?* Han hoppade på en grön stadsbuss mot Centralstationen. *Var det en slump att jag blev inlåst på samma avdelning?* Han skakade på huvudet och muttrade för sig själv. Det verkade allt mindre troligt att slumpen hade del i det som hänt. En äldre dam med plommonfärgad filthatt stirrade på honom. Peder mötte hennes blick. Hon hoppade till, flackade hit och dit med blicken, tills hon fäste den vid stolsryggen framför.
-
-Peder hoppade av bussen och gick rakt upp till sitt hotellrum. Han slängde ryggsäcken på sängen, gick på toaletten och gick sedan ut på stan igen för att äta. När han kom tillbaka en timme senare var klockan redan halv tio på kvällen. Han slog på TV:n, vred ner volymen och la sig i sängen. Han fällde upp locket på sin laptop, pluggade in ethernetkabeln och öppnade mejlprogrammet. Inkorgen var full av spam och några enstaka lyckönskningar från kollegor på tidningen. Han markerade dem alla och drog dem till papperskorgen. Just som de försvann såg han ett annat mejl och han öppnade papperskorgen och drog tillbaka det till inkorgen. Det var ett brev skickat till hans adress på tidningen från någon som kallade sig *CW79*. Det var ett kort meddelande utan signatur:
-
-> Vill du veta varför Göran och Carsten dog?
-
-Peder läste meningen flera gånger. Han klickade på brevhuvudet för att se detaljerna. Det var skickat från en Gmail-adress. Han klickade på *svara*, skrev "Ja" och skickade iväg brevet. Han stirrade en stund på skärmen och la sedan datorn bredvid sig i sängen med mejlprogrammet igång. Han zappade en stund mellan TV-kanalerna, utan att fastna för något. Efter en timme plockade han upp datorn igen och ställde den på bröstet. Han googlade på 'CW79', men fick inga träffar. Precis när han stängde webbläsaren plingade det till i mejlprogrammet. Ett nytt brev från CW79 låg överst i inkorgen. Peder öppnade det och läste.
-
-> Möt mig på Mocka på Friisgatan, i morgon 11.00.
-
-Peder rynkade pannan. *Mocka? Som i cafét?"* Han stängde av TV:n och laptopen, gick in i badrummet och borstade tänderna, sedan kröp han ner i sängen och släckte lampan. Ljuset från månen silade in genom fönstret och fick det vita sänglinnet att se självlysande ut. För en sekund såg Peder skuggan av en man med hatt mot väggen över sängen, men när han blinkade försvann den. Han klev ur sängen och drog för gardinerna. Sedan slog han på TV:n igen på låg volym. Efter en halvtimme hade han somnat.
-
-### På cafét ###
-
-När Peder öppnade ögonen igen var det redan ljust ute. Han såg på sin armbandsklocka. Den visade redan halv tio. Han duschade snabbt och gick ner och åt frukost i matsalen, sedan promenerade han till Centralstationen och hoppade på en buss mot Triangeln. Han var fem minuter sen när han gick uppför trappstegen till Mocka. Värme slog emot honom när han öppnade dörren. En ung kvinna i mörkt hår och svart t-shirt stod bakom disken och skummade mjölk i en kanna av rostfritt stål. Ångröret på espressomaskinen spottade och fräste.
-
-"Hej", sa hon. "Vad får det lov att vara?"
-
-"En cappucino", sa Peder. Han plockade fram en femtiolapp ur plånboken.
-
-"Javisst. Något annat?"
-
-"Det är bra så."
-
-"Trettiotvå kronor."
-
-Peder räckte över sin sedel och tog emot växeln. Han lutade sig mot disken och väntade på sitt kaffe. Lokalen var nästintill tom. En ung man satt med en laptop vid disken vid fönstret, två tjejer satt bredvid varandra och pratade över var sin kopp te vid ett litet bord vid ena väggen. Peder trodde att han varit här förut, men han kunde inte komma ihåg väggarna som var tapetserade i guldmönster mot brun bakgrund. Hade de gjort om? Ambient techno skvalade på låg volym från små högtalare infällda i taket.
-
-"Varsågod." Baristan räckte över en mugg och han tog emot den med båda händerna.
-
-"Går det bra att sitta där inne?" Peder nickade in mot ett tomt inre rum, möblerat med ekbord och svartmålade trästolar.
-
-"Absolut."
-
-Peder hällde upp ett glas vatten från en karaff och balanserade dryckerna in till ett litet bord för två, längst in mot väggen. Mjölkskummet och kaffet bildade ett hjärta i hans mugg, som drogs ut på längden när han tog en liten klunk. Det smakade mjukt, med en bränd eftersmak.
-
-Mannen som suttit med sin laptop gick förbi och vidare in på toaletten. Peder hörde honom kissa och spola, sedan kom han ut utan att tvätta händerna. Peder rynkade näsan. Han tog en klunk kaffe till. Magen började kurra. Hade han blivit lurad?
-
-"Peder?"
-
-Han tittade upp. En kvinna i trettioårsåldern, med klarblå ögon och mörkt brunt hår samlat i en hästvans stod framför honom.
-
-"Cecilia?"
-
-Peder kastade en blick mot utgången. Där syntes inga poliser, inga människor i vita sjukhuskläder.
-
-"Vad gör du här?" sa Peder.
-
-"Jag är här för att prata om Göran och Carsten".
-
-Hon slog sig ner på en stol och lossade på halsduken.
-
-"Vill du ha något?"
-
-"Nej, tack."
-
-"Så", sa Peder. "Göran och Carsten."
-
-"Ja, de tog inte livet av sig. Det tror jag du redan vet."
-
-Peder nickade.
-
-"Jag pratade en hel del med Göran veckan innan han dog. Jag tror jag vet vad som hände -- eller en del av det i alla fall."
-
-"Fortsätt."
-
-"Göran kom till psyk akut med polis ungefär en vecka innan du blev inskriven. De hade hittat honom under en bro, alkhoholpåverkad. Han pratade om jordens undergång -- om en stor konspiration -- så de gjorde som de brukade och dumpade honom på sjukhuset."
-
-Hon la båda händerna på bordet och gned de nariga fingrarna. Hon hade inga ringar.
-
-"När jag pratade med honom dagen efter var han livrädd. Han sa att någon var efter honom. När jag undrade varför berättade han att han tagit något -- något han inte borde -- en stor hemlighet."
-
-Peder tog en klunk kaffe och snurrade återstoden i muggen.
-
-"Vi satte in honom på lugnande medicin och neuroleptika -- antipsykotiskt läkemedel. Under den närmaste veckan började han sova bättre och var mindre skärrad, men han höll fast vid sin historia. Jag frågade honom vad han tagit, men det ville han inte säga. Jag frågade vem han stulit ifrån, men det ville han inte säga det heller. Jag tänkte att han tagit något från ett av gängen här i Malmö. Pengar, droger, eller något åt det hållet."
-
-Peder tömde sin mugg och ställde den åt sidan. Han tog en mun vatten för att skölja ner den bittra smaken.
-
-"Göran blev snabbt så bra att vi lät honom komma ut på permissioner på sjukhusområdet och till slut på stan. Så bytte man överläkare på avdelningen och allt förändrades. När Göran fick syn på den nya överläkaren, Gunnar Hierta, som du pratat med, blev han vit som ett lakan. Han vägrade prata med oss, skrek hysteriskt och försökte slå sig ut från avdelningen. Vi fick nästan söva honom helt."
-
-"Menar du att han kände Hierta?"
-
-"Det verkar ju så. Fast det är svårt att veta med en sådan typ av patient. Ibland hänger de upp sig på en person utan anledning, blir omotiverat paranoida på någon de kanske aldrig träffat tidigare."
-
-"Men du tror inte det?"
-
-Cecilia var tyst en stund.
-
-"Nej", sa hon sedan. "Jag tror han kände igen honom. Göran slog mig inte som en typisk paranoid schizofren patient. Några dagar senare tog han mig avsides i korridoren och frågade om vi kunde prata på hans rum. Han sa att han inte hade så lång tid på sig -- och så berättade han vem han stulit från."
-
-"Vem?"
-
-"Tolv."
-
-"Va?"
-
-"Han kallade dem så. En sammanslutning som gick under namnet *Tolv*.
-
-"Sa han vad de var för några?"
-
-"Nej."
-
-Peder sög på underläppen.
-
-"Kan det vara en frimurarloge?"
-
-"Frimurare? Förklara."
-
-Peder berättade om hans besök på Görans arbetsplats, frimurarlogen på Fridhem. Han berättade att han funnit Gunnar Hiertas avbildad i högtidsdräkt med frimurarregalier.
-
-"Huh", sa Cecilia. "Du är inte dum, du."
-
-"Du visste redan vilka *Tolv* är?"
-
-Hon nickade.
-
-"Hur?"
-
-Hon såg mot utgången under tystnad.
-
-"Det är inte första gången jag har hört om dem. När jag var tio år dog min morfar -- i fängelse. De påstod att han tog sitt liv, men jag har aldrig trott på det. Inte min mamma heller. Min morfar var frimurare, medlem av en ordern med namnet Tolv."
-
-Peder lutade sig tillbaka i stolen.
-
-"Så..." Han harklade sig. "Vad tror du Göran stulit? Vad kan vara så viktigt att man mördar för att få det tillbaka?"
-
-"Ingen aning, men det brukar ju alltid vara pengar i slutändan, eller hur. Eller religion. Pengar, eller tro. Det är väl det man dödar för."
-
-Hon drog pekfingret över bordsskivan.
-
-"Vad det än var är jag övertygad om att han smugglade in det på avdelningen, efter en av sina permissioner. Jag är säker på att det kostade honom livet."
-
-"Jag vet vad det var", sa Peder.
-
-Cecilias ögon vidgades. "Vad?"
-
-"Jag kan inte berätta", sa Peder. "Men jag kan visa dig. Har du tid?"
-
-Cecilia såg på sitt armbandsur. "Jag har tid."
-
-"Kom." 
-
-Peder reste sig upp och tog på sig skinnjackan, medan Cecilia stängde sin kappa och drog halsduken tätare kring halsen. De lämnade cafét tillsammans och promenerade ner genom stan.
-
-### Promenad genom stan ###
-
-"Varför vill du hjälpa mig?" frågade Peder.
-
-"Jag vill veta vad som hände min morfar", svarade Cecilia. "Du då, varför gör du det här?"
-
-Peder log. "Jag är journalist. Det här är en sjuhelvetes story. Jag känner det i magen."
-
-Han drog upp jackkragen mot vinden.
-
-"Sedan är det min chans att visa att jag inte är galen. Det är min chans att få upprättelse."
-
-De gick bredvid varandra under tystnad. Trafiken brusade bredvid och människor myllrade omkring dem. Vid Triangeln stod en man med megafon och skrek ut att domedagen var nära. Bakom honom spelade en rullbandspelare kristna sånger, medan en kvinna skramlade med en insamlingsbössa.
-
-"Det är lustigt", sa Peder. "Vad skall de ha pengar till om slutet är nära?"
-
-Cecilia skrattade. "Det är en paradox."
-
-De fortsatte ner längs Stora Södergatan.
-
-"Bor du i stan?" frågade Peder.
-
-Cecilia nickade.
-
-"Har du din familj här också?"
-
-"Bara min mamma."
-
-"Ingen man -- eller pojkvän?"
-
-Hon skakade på huvudet.
-
-"Eller flickvän?"
-
-Hon log och skakade igen på huvudet.
-
-"Du, då?" sa hon.
-
-"Jag har en pappa en bit utanför stan. I Staffanstorp. Inga syskon. Min mor -- min mor vet jag inte riktigt var hon är. Hon stack för ett par år sedan."
-
-Peder stannade till. På andra sidan gatan, i en trappuppgång knappt tio meter bort, stod en man i svarta kläder och hatt. Peder hade solen i ryggen, men mannens låg ändå i skugga. Människor rusade fram och tillbaka som om de inte kunde se honom. Peder rös -- mannen stirrade rakt emot honom.
-
-"Vad är det?" frågade Cecilia.
-
-Peder vred huvudet och såg på henne. "Den där mannen i svart, som stirrar på oss, jag såg honom på sjukhuset när Carsten dog."
-
-"Vilken man?"
-
-Han vände blicken mot trappuppgången igen. Den var tom. Han såg sig om kring. Den svartklädda mannen var borta. Peder skakade på huvudet.
-
-"Han var där för en sekund sedan. Jag är kanske tokig trots allt."
-
-"Kom, vi går vidare", sa Cecilia.
-
-De fortsatte ner mot centralstationen. Peder såg sig om med jämna mellanrum, men den mörka mannen syntes inte till. De gick upp på hans hotellrum. Peder slängde sin jacka på sängen och la sig ner på knä. Han stack in handen under sängen och lossade skinnpungen, som suttit klämd mellan madrassen och en av träribborna.
-
-"Kom och sätt dig", sa han.
-
-Cecilia satte sig bredvid honom på sängen. Peder lossade remmen kring skinnpungens hals och tömde ut speldosorna i ena handflatan.
-
-"Är det dem?" sa Cecilia. "Är det vad Göran gömde?"
+"För det som hände med Carsten?"
 
 "Ja."
 
-"Vad är de?"
+Gunnar tog av sina glasögon och sög på ena skalmen. Han kisade åt Peder.
 
-"Jag tror att det är mekanismer till speldosor."
+"Fruktansvärt", sa han sedan. "Obeskrivligt fasansfullt. Var ni vänner?"
 
-"Kan man få dem att spela?"
+Peder ryckte på axlarna. "Kanske inte vänner, men vi hade pratat en del med varandra."
 
-"Jag har inte kunnat dra upp dem", sa Peder. "Man behöver en liten nyckel. Se."
+"Om vad?"
 
-Han visade på det lilla hålet i sidan på en av dosorna. Cecilia tog den ur hans hand och vred på den. Hon kände med pekfingret över hålet, i små cirkelrörelser. Sedan stack hon den andra handen innanför tröjans halslinning och fiskade upp en nyckel, som hängde i en guldkedja. Det var en liten nyckel, i ärgad koppar. "En sådan här nyckel?" sa hon.
+Peder bet sig i läppen.
 
-Peder rätade på sig. Nyckeln såg ut att passa. Cecilia lossade den från kedjan, satte den i hålet och vred. Fjädern tickade när den spändes, tills det inte gick att vrida mer. Cecilia drog ut nyckeln, men inget hände.
+"Han berättade om sitt liv, om varför han var här."
 
-"Nu du?"
+"Aha."
 
-Peder tog dosan. "Det sitter en liten spärr här", sa han och tryckte in en liten knapp på toppen. Cylindern började snurra och dosan började spela. Cecilia tog den igen och höll den mot örat.
+Överläkaren slog upp en pärm och tittade igenom Peders medicinlista.
 
-"Den låter så svagt."
+"Nu har du stått på Zyprexa i en vecka. Känner du av några biverkningar? Är du väldigt trött?"
 
-"Här", sa Peder. "Ställ den på bordet."
+Peder skakade på huvudet.
 
-Cecilia satte ner dosan på bordsskivan och spröda toner fyllde rummet.
+"Tar du medicinen, Peder?"
 
-"Den behöver en resonanslåda", sa Peder. "Vad är det för melodi?"
+"Ja, självklart."
 
-De lyssnade en stund under tystnad. Cecilia skakade på huvudet.
+Överläkaren satte på sig glasögonen igen och stirrade stint på Peder.
 
-"Jag vet inte. Det låter inte som en melodi över huvud taget. Det är kanske något modernt?"
+"Är du säker på det?"
 
-Tonerna lät lösryckta, som om de inte alls hörde ihop.
+"Hur skulle jag inte kunna vara säker på det? Ni kommer ju med pillren vareviga kväll. Ni vet väl om ni har gett dem till mig eller inte."
 
-"Vi testar den andra också", sa Peder.
+"Jag kan se här att sköterskan har delat ut dem till dig."
 
-De drog upp den andra dosan och startade den. Den lät helt annorlunda, men den spelade inte heller en melodi som gick att känna igen.
+"Då, så."
 
-"Jag fattar inte", sa Peder. "Varför mörda två män för två trasiga speldosor?"
+"Minns du blodproven vi tog i för ett par dagar sedan?" frågade Gunnar.
 
-Cecilia rynkade pannan.
+Peder såg ner på sina fötter.
 
-"Var har du fått nyckeln ifrån?" frågade Peder.
+"Ett av proven var i syfte att kontrollera halten av läkemedel i sin kropp. Vet du vad det provet visade?"
 
-"Morfar. Det är det enda jag har kvar efter honom. Jag har haft den kring halsen sedan jag var barn. Kan det vara en slump att den passade i de här speldosorna?"
+Peder ryckte på axlarna.
 
-Peder sög på underläppen. "Det är möjligt, men jag tror allt mindre på slumpen. Det finns ett samband, vi måste bara se det."
+"Provet visade noll. Du hade inga spår av läkemedlet i din kropp."
 
-Peder la sig ner på rygg i sängen, med fötterna kvar på golvet.
+Överläkaren slog igen pärmen med en liten smäll.
 
-"Carsten sa något precis innan han dog", sa han. "Hitta månen, sök den allvetande. Säger det dig något?"
+"I min värld kan det bara betyda en sak: du har inte tagit medicinen, Peder."
 
-Cecilia skakade på huvudet. Hon vände först på den ena speldosan, sedan på den andra.
+Peder mötte inte hans blick.
 
-"Symbolerna på de här två, en sol och en stjärna, är himlakroppar -- precis som månen. Kan *månen* betyda en tredje speldosa?"
+"Ni har ju själva gett mig pillren", sa han tyst.
 
-"Kanske", sa Peder. "Det verkar logiskt. Var letar man efter en sådan?"
+"Hursa? Se på mig när jag pratar med dig, Peder.
 
-De var båda tysta en stund.
+Peder höjde rösten. "Ni har ju själva gett mig pillren. Kanske är det fel på blodprovet."
 
-"Huh", sa Cecilia sedan. Hon bet i ena pekfingerblomman.
+"Peder, nu får du ge dig. Vi har hittat tabletterna under din kudde. Det är inte första gången en patient smusslar med mediciner här."
+
+Peder knöt nävarna. Han kände musklerna spännas, när adrenalin pumpade genom ådrorna.
+
+"Nu blir det så här, Peder: I kväll får du ta din medicin under övervakning. Om du vägrar kommer du få en injektion istället. Det är ditt val. Det blir inga permissioner förrän jag är övertygad om att du har medicin i kroppen."
+
+"Men", sa Peder.
+
+"Tack för samtalet", sa överläkaren. Han reste sig upp och lämnade rummet.
+
+Peder satt kvar i sin stol och stirrade tomt framför sig. Skötaren la en hans på hans axel, men han skakade av den.
+
+"Kom nu, Peder. Nu gör vi det bästa av det här."
+
+Peder följde efter ut ur rummet. Han drog igen dörren efter sig med en skarp smäll, som ekade i korridoren
+
+### Tvångsinjektion ###
+
+Peder åt sin lunch under tystnad, ensam vid sitt bord. Tre av hans medpatienter satt tillsammans några bord bort. Peder iakttog dem när de åt. Mannen med det stripiga håret skakade så mycket att han hade svårt att få in minestronesoppan i munnen. Efter maten satte sig Peder i TV-rummet och zappade mellan kanalerna tills han fastnade för Gilmore Girls på kanal fem. En kvinna med fettglänsande ansikte kom in och satte sig i soffan som stod i vinkel till den Peder halvlåg i. Hon stirrade rakt framför sig och upprepade samma fras om och om igen, med pipig entonig röst:
+
+"Det var inte mitt fel. Det var inte mitt fel."
+
+Peder sträckte sig efter fjärrkontrollen och höjde volymen. Kvinnan höll för öronen, reste sig och gick.
+
+När mörkret föll utanför fönstret kände Peder urinblåsan spänna. Han stängde av TV:n och vandrade ut i korridoren. Toaletten mittemot var ledig och han låste in sig. Lysröret i taket blinkade till innan det tändes. Det doftade starkt av desinfektionsmedel. Peder fällde ner sittringen och satte sig. Det tog en stund för strålen att komma igång och han suckade när spänningen släppte. Han satt kvar en stund, med pannan i händerna. Varför hade två människor dött för ett par speldosors skull? Vad menade Carsten med "hitta månen"? Peder skakade på huvudet. Vad det än var måste det vara något viktigt. Han måste vara något gigantiskt på spåren. Han rev av en bit toalettpapper från rullen och torkade sig. När han reste sig föll ett par droppar urin och fläckade kalsongerna. Peder suckade och torkade sig på nytt, sedan spolade han, tvättade händerna och gick ut.
+
+När han rundande hörnet och gick korridoren fram förbi sjuksköterskeexpeditionen såg han en svartklädd gestalt gå in på hans rum och stänga dörren efter sig. Peder backade några steg och blev stående. Korridoren var tom på folk.
+
+"Va, fan", sa han tyst.
+
+Han backade ett par steg till, vände sig om och sprang till sjuksköterskeexpeditionen.
+
+"Hallå?" skrek Peder. "Är det någon här?"
+
+En manlig sjuksköterska reste sig upp från skrivbordet.
+
+"Peder. Vad står på?"
+
+"Det är någon i mitt rum."
+
+"Någon? Vad menar du? Vem då?"
+
+"Inte fan vet jag!" skrek Peder. "Någon som inte borde vara där."
+
+"Personal eller patient?"
+
+"Varken eller. Det är någon annan."
+
+Sköterskan satte sig igen. Skrivbordsstolen knarrade under hans tyngd.
+
+"Peder, vi har inga besökare på avdelningen nu. Besökstiden är över. Här finns *ingen*. Din hjärna spelar dig ett spratt."
+
+Peder höjde rösten.
+
+"I helvete heller. Jag vet väl vad jag såg! Gör ditt förbannade jobb och gå och kolla efter!"
+
+"Peder..."
+
+"Nu!" Peder lutade sig över skrivbordet och tog tag i sköterskans handled. Sköterskan drog den till sig och reste sig upp.
+
+"Backa, Peder. Gå härifrån!" Han famlade efter en liten svart dosa, som satt fastklämd i halslinningen.
+
+Peder gick runt skrivbordet och mot sköterskan. En skarp signal ekade genom korridoren. Peder snurrade runt. Tre skötare kom springande in genom dörröppningen.
+
+"Lägg ner honom", sa sköterskan.
+
+Den ena skötaren fångade Peders ena arm. Peder försökte vrida sig loss.
+
+"Släpp mig! Släpp mig för helvete!"
+
+Adrenalinet pumpade genom hans kropp. Synfältet smalnade av. Han slog till skötaren i magen med sin fria hand. Sköterskan la en arm kring hans hals och drog honom bakåt, de två andra skötarna tvingade ner honom på golvet. Han låg med magen neråt med ett knä i ryggslutet och det blev svårt att få luft. Han väste mellan sammanbitna tänder.
+
+"Ring på Hierta!"
+
+Peder ryckte och drog, men han satt som i ett skruvstäd.
+
+"Kan -- inte andas", sa han svagt.
+
+"Släpp trycket över ryggen innan han blir blå", sa sköterskan. "Var fan är Hierta?"
+
+"Jag är här", sa överläkaren.
+
+Han förste upp glasögonen mot näsroten och betraktade Peder under tystnad.
+
+"Bälta honom", sa han sedan. "Ge femton milligram Stesolid."
+
+De fyra vitklädda männen bar Peder in till hans rum, la honom på mage i sängen och spände fast armar, ben och midja med läderremmar.
+
+"Kan du andas?" frågade en av skötarna.
+
+Peder svarade inte. Hans hjärta slog så hårt att sängen vibrerade. Sköterskan drog ner Peders byxor och kalsonger. Han tvättade ett litet hudområde på skinkan med en spritsudd, stack in sprutkanylen, kontrollerade att spetsen inte låg i ett blodkärl och injicerade. Peder kände det spänna till i skinkan och han grymtade ner i sängkläderna.
+
+"Vi vänder på honom."
+
+De hjälptes åt att lossa remmarna, vända Peder och fixera honom på rygg. Sedan lämnade alla utom en skötare rummet. Mannen som stannade kvar släckte taklampan, drog fram fåtöljen mot sängen och slog sig ner.
+
+"Försök nu ta det lugnt, Peder. Låt medicinen göra nytta."
+
+Peder stirrade upp i taket. Han började känna sig dåsig och ögonlocken förr ihop. Han drev en stund på gränsen mellan sömn och vakenhet. Han hörde avlägsna röster, märkligt förvridna, som letade sig in i sömnen.
+
+"Har det lugnat sig?"
+
+"Det verkar så."
+
+"Bra."
+
+Han försökte vrida huvudet mot ljudet och öppna ögonen, men musklerna ville inte lyda. Till slut lyckades han öppna ett öga och såg skötaren sitta och läsa en veckotidning i skenet från sänglampan. Ljuset stack i Peders ögon. Han öppnade munnen för att säga något, men det kom ingen ljud. Ögat föll samman igen och han försvann bort.
+
+### Mannen i svart ###
+
+Nästa gång Peder öppnade ögonen var fåtöljen tom. Veckotidningen låg uppslagen på sitsen. Dörren till rummet var stängd.
+
+"Hallå?" sa Peder svagt. "Är det någon där?"
+
+Det kom ingen svar, men Peder hörde andetag. Rummet var kyligt och han frös.
+
+"Jag hör att det är någon här."
+
+En mörk gestalt klev fram ur skuggorna. Den tornade upp sig över Peder, klädd i en lång svart rock och en svart hatt. Sänglampan lyste upp rockkragen och hattbrättets undersida, men ansiktet doldes i skugga.
+
+"Du", sa Peder. Han ryckte i läderremmarna som höll honom fången, men han kom ingenstans. Gestalten lutade sig fram mot Peders ansikte. Andetagen rosslade och doftade svagt av mylla. Den talade långsamt, med raspig röst.
+
+"Var är den?"
+
+Peder andades häftigt, pupillerna vidgades. Orden stockade sig i hans hals.
 
 "Vad?"
 
-"Vet inte -- en tanke."
+Gestalten betraktade honom en stund under tystnad, innan den talade igen.
 
-"Säg."
+"Skinnpungen. Var är den?"
 
-"Hmm. När jag fyllde fem, sommaren innan min morfar blev satt i fängelse, firade hela familjen min födelsedag hemma i vår trädgård. Mamma och morfar grälade och skrek -- jag ville bara försvinna. Det var sista gången de pratade med varandra över huvud taget. Jag fick en present av morfar, en sak han byggt själv. Han berättade att han lagt ner sin själ i den."
+Peder skakade på huvudet.
 
-"Vad var det?"
+"Jag vet inte vad du pratar om."
 
-"Det var en speldosa, i formen av ett arabiskt palats. Det hade tinnar och torn, målade i rött och guld. Jag minns hur det glimmade i solen. Längst upp på den största lökkupolen satt en månskära."
+Gestalten rosslade. Det mullrade från bröstet. Peder förstod att den skrattade.
 
-Hon rörde vid nyckeln i halskedjan. "Jag fick den här för att kunna dra upp den. Morfar sa att jag aldrig fick skiljas från den -- att den skulle vara vår lilla hemlighet."
+"Så du vill leka? Du kan inte lura mig. Jag vet att Carsten lämnade över den innan han dog."
 
-"Månen", sa Peder. "Det måste vara månen!"
+Peder ljudet av metall mot metall. Gestalten höjde sin hand. I den höll han en kniv med ett blad smitt till en skära. Metallen blänkte i det svaga ljuset från sänglampan, en ljuskatt svepte över Peders bröst.
 
-"Men tror du verkligen det?"
+"Du kommer att berätta var den finns", sa den mörka gestalten. "Vare sig du vill eller inte."
 
-"Du sa själv att din morfar var medlem av samma orden son Göran stulit från. Han hade stulit de här speldosorna, som dras upp av en nyckel du fått av din morfar. Det kan inte vara en tillfällighet. Det måste vara din morfar som har gjort de här två speldosorna. Han måste ha gjort den tredje också.
+En upprörd röst hördes från korridoren.
 
-Han hoppade upp och ställde sig på golvet framför Cecilia.
+"Du vet mycket väl att du inte får lämna honom ensam i bälte."
 
-"Var är den? Har du den kvar?"
+"Men jag skulle på toa. Tommy sa han skulle lösa av mig."
 
-Cecilia skakade på huvudet. "Nej, den är borta."
+"Tommy är inte där, eller hur? Det är ditt förbannade ansvar att se till att någon ersätter dig."
 
-"Hur då borta?"
+Den mörka gestalten morrade och drog sig bakåt in bland skuggorna.
 
-"Mitt barndomshem brann ner när jag var tolv år. Allt förstördes."
+"Nu har du min fulla uppmärksamhet, Peder", sa den. "Jag ser varje rörelse du gör."
+
+Dörren slogs upp och sköterskan skyndade in i rummet med skötaren i släptåg. Bakom dem gled en skugga ut innan dörren slog igen.
+
+"Du är vaken", sa sköterskan.
+
+Peder nickade.
+
+"Känns det lugnare?"
+
+Peder nickade igen. Han försökte lugna andhämtningen. Sköterskan drog fram sin nyckelknippa.
+
+"Då provar vi att släppa upp dig."
+
+Han låste upp remmarna och hjälpte Peder upp i sittande. Musklerna kändes stela och det ömmade över anklar och vrister. När han rörde sig i sängen gjorde det ont i ena skinkan. Han kom långsamt på fötter och gick ut till köket och tog ett äpple från fruktkorgen. Han fyllde en kopp med kaffe, hällde i lite mjölk och satte sig vid ett bord. *Vad är det som händer? Håller jag verkligen på att bli galen?* Huden på underarmarna var skrovlig av gåshud, de små ljusa hårstråna stod på ända. Han tog en klunk kaffe och kände värmen sprida sig i kroppen. *Jag måste härifrån -- innan han kommer tillbaka.*
+
+### Rekognosering ###
+
+Peder ställde den tomma koppen på vagnen och gick in till sjuksköterskeexpeditionen. Han bad om en kort stund på innergården och fick tillstånd efter att sköterskan betraktat honom en stund under tystnad. Peder hämtade sin ljusblå kofta på rummet och plockade också fram skinnpungen ur ventilationstrumman och gömde den i kalsongerna. En skötare följde honom till dörren och Peder lovade att knacka när han ville in igen.
+
+Luften var råkall och det började skymma. Peder gick över gården och såg sig omkring. Han var helt ensam. Silhuetter rörde sig i den upplysta fönstren i tegelhusen som omgav honom. Han gick emot det höga planket, som avskiljde gården från gatan utanför. Han kände med handen över de målade träplanken och la sig sedan ner på alla fyra. Det fanns en springa på en knapp decimeter mellan marken och plankets underkant. På andra sidan växte tuja, gröna i vintermörkret. Peder plockade fram skinnpungen och föste den under planket och in under en buske. Han rätade på sig och la avståndet till tegelväggen på minnet. Han drog närmare kroppen och gick tillbaka och knackade på dörren. En annan skötare släppte in honom.
+
+"Skönt med frisk luft?"
+
+"Nej."
+
+Skötaren skrockade. I korridoren utanför expeditionen föll Peder ihop på golvet. Han låg på sidan i fosterställning, sträckte ut sig i sprättbåde och rullade över på rygg. Han blev högröd i ansiktet och hela kroppen ryckte i konvulsioner. Han skrek hest och en våt fläck spred sig i grenen. Skötaren som gått efter Peder rusade fram mot honom.
+
+"Helvete!" skrek han. "Peder är dålig!"
+
+Sköterskan och en annan skötare kom rusande genom korridoren.
+
+"Vad har hänt?"
+
+"Han föll ihop och krampade", sa skötaren.
+
+Sköterskan la örat mot Peders mun och satte ett pekfinger på halsen.
+
+"Han andas och har puls. Det måste ha varit ett epileptiskt anfall."
+
+Sköterskan bet sig i läppen. "Ep efter Stesolid. Det stämmer inte."
+
+Han vände sig mot den ena skötaren. "Hämta stickvagnen så sätter vi nål."
+
+Överläkaren kom gående i korridoren.
+
+"Vad försigår här?"
+
+"Peder är medvetslös", sa sköterskan. "Det ser ut att ha varit ett ep-anfall. Skall vi larma narkos?"
+
+"Puls och andning?" frågade överläkaren.
+
+"De är ok."
+
+"Då skickar vi honom direkt till medicinakuten så får de leta efter en förklaring. Ringer du, så skriver jag en snabb remiss."
+
+Man hjälptes åt att lyfta upp Peder i en säng och körde ut honom till hisshallen. Peder snarkade i sängen. Två skötare tog honom med ner till källarplanet och rullade honom genom kulverten till stora akutmottagningen.
+
+"Jaha, vad har vi här då?" frågade en sköterska bakom akutdisken.
+
+"Ep. Vi kommer från psyk", sa en av skötarna. "Här är remissen."
+
+Sköterskan suckade och läste det gula pappret.
+
+"Ni får ställa sängen i korridoren så länge. Vi har inga rum lediga. Allt är fullt, som ni ser."
+
+De ställde sängen vid ena väggen och väntade. Efter en halvtimme hade fortfarande ingen läkare tagit sig an Peder och den ena skötaren började bli hungrig.
+
+"Du, jag sticker och letar efter en godisautomat."
+
+"Jag hänger på."
+
+"Öh, borde inte en av oss stanna kvar?"
+
+"Äh, det dräller ju av sjukvårdspersonal här. Vad skulle kunna hända?"
+
+Den förste skötaren ryckte på axlarna och så gick de iväg. De hittade en automat i väntrummet och tryckte ut var sin snickers. När de kom tillbaka var sängen tom.

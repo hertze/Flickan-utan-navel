@@ -1,612 +1,440 @@
-# Varför dog Göran? #
+# Intagen #
 
 
-"Nu har du varit här i några dagar, Peder. Hur trivs du?"
+Dörren vräktes upp och slog i väggen med en smäll. Luftdraget blåste en hög med pappersark av skrivbordet och fick gardinerna framför fönstret att bölja. En man i t-tröja och jeans rusade in. Han hade en stor brun fläck över hela bröstet och det våta tyget klibbade mot huden när han rörde sig. Hans blonda kalufs var rufsig och hans ögon rödsprängda. Han höll en hoprullad tidning i ena handen.
 
-De satt i samma samtalsrum, kring det lilla bordet. Peder satt återigen närmast dörren, med överläkaren och underläkaren mittemot sig. Peder var trött. Håret hängde på ända. Det hade varit en orolig natt.
+"Vad i helvete menar du med det här?" skrek han.
 
-"Sådär", sa Peder. "Jag är inlåst. Vem gillar att vara inlåst."
+Bakom skrivbordet satt en gråhårig man med glasögonen nerkasade på nästippen. Han lutade sig tungt tillbaka i stolen, rynkade ögonbrynen och kisade. Bakom honom strilade det bleka februariljuset in mellan persiennerna. 
 
-Han skakade på huvudet.
+"Jaha, här kommer du", sa han och föste upp glasögonen mot näsroten.
 
-"Jag beklagar att det behöver vara så", sa överläkaren. "Om du pratar uppriktigt med mig skall jag se vad jag kan göra."
+"Det kan du ge dig fan på! Var är min story?"
 
-"Du menar att du tänker släppa ut mig?"
+"Vilken story?"
 
-"Det vet jag inte ännu. Men jag kan lova dig att jag inte vill behålla dig här längre än nödvändigt."
+"Den som skulle med i dagens upplaga! Den som absolut var tvungen att vara med i dagens upplaga!"
 
-Han satt tyst en stund, innan han fortsatte.
+Den blonde mannen lyfte den hoprullade tidningen över huvudet och kastade den med full kraft mot mannen bakom skrivbordet. Den träffade honom i pannan och slog av glasögonen. Huvudet rycktes bakåt av smällen. Den gråhåriga mannen satt först alldeles stilla, med ett häpet uttryck i ansiktet. Sedan böjde han sig ner och plockade upp glasögonen från golvet.
 
-"Har det dykt upp några frågor sedan sist?"
+"Peder, för fan", mumlade han tyst.
 
-Peder såg på överläkarens händer.
+"Sixten, jag trodde du var på min sida!" skrek den ljushåriga mannen vid dörren. Underläppen darrade och en salivsträng töjdes mellan tänderna. Han drog händerna genom sitt hår. T-tröjan hade mörka fläckar över armhålorna.
 
-"Du undrar över den här?"
+"Jag trodde du var på min sida."
 
-Han höll upp sin högra hand, med den vita handsken. Peder nickade.
+"Peder, jag *är* på din sida. Jag kunde inte trycka din story. Du hade fått ett helvete, jag hade fått ett helvete. Vi hade blivit polisanmälda för förtal. Du vet mycket väl hur det fungerar."
 
-"Eksem. Jag lider av ett tämligen besvärande handeksem. Det blir alltid värre under vintern. Handsken är till för att alla mina salvor skall hålla sig på handen, snarare än att spridas i min omgivning."
+Peder tittade rakt mot Sixten. Hans pupiller vidgades och gjorde ögonen svarta.
 
-Peder nickade.
+"Det skiter väl jag i. Är vi inte en nyhetstidning? Är det inte vårt jobb att förmedla sanningen, oavsett konsekvenserna?"
 
-"Då har jag några frågor till dig, Peder" sa överläkaren. "Varför är du här."
+"Var inte barnslig, Peder. Vi måste ha på fötterna. Du har ju inte en enda namngiven källa för dina påståenden. Hela historien är osannolik. Det är mitt ansvar att sätta stopp."
 
-Peder såg på honom och suckade.
+Peder knöt sina nävar. Han rusade fram till skrivbordet och böjde sig över skivan. Sixten sjönk bakåt ner i stolen.
 
-"Som sagt, jag är här på grund av ett missförstånd. Jag blev arg och skrek på min chef."
+"Jag *har* på fötterna!", skrek Peder. Han stödde sig på knogarna. Saliv droppade på vita pappersark.
 
-"Som jag förstår saken hade du skrivit en ogrundad artikel, där du pekade ut flera riksdagsledamoter för att vara marionetter styrda av ett hemligt sällskap."
+"Gör inte så här, Peder. Inte igen."
 
-"Ogrundade?" Peder höjde rösten något. "Hur vet *du* om de är ogrundade? Jag har bra på fötterna för mina påståenden."
+"Sluta? Jag tänker fan inte sluta! Sanningen skall ut!" 
 
-"Så sant. Jag kan inte veta om det stämmer eller ej, men jag måste säga att det låter *oerhört* osannolikt."
+Peders röst var gäll, hans ögon uppspärrade. Sixten rullade åt sidan och kom ur stolen och ner på golvet. Han kröp bort mot en bokhylla i hörnet av rummet och kurade in sig i hörnet. Peder följde efter och ställde framför honom, med knutna nävar. Sixten drog upp knäna och skyddade ansiktet med händerna.
 
-De satt båda tysta en stund. Underläkaren skrev något i sitt block. Hon bar håret uppsatt på samma sätt som vid förra samtalet.
+"Hallå, vad händer här?"
 
-"Sover du gott om nätterna, Peder?" sa överläkaren.
+En Securitasvakt stod i dörröppningen. Han höll handen på batongen i bältet. Sixten slöt ögonen och andades häftigt.
 
-"Så där."
+"Tack gode gud", sa han tyst. 
 
-"Enligt din kontaktperson har du svårt att komma till ro på kvällen."
+Han reste sig upp på fötter.
 
-"Jag är en nattmänniska."
+"Vill du vara vänlig att följa med Peder ut? Vi är färdiga här."
 
-"Du har inte provat en insomningstablett?"
+Peder såg från Sixten till vakten i dörrhålet.
 
-"Jag tror inte på mediciner."
+"Peder, du behöver ledigt. Jag vill inte se dig här igen förrän du lugnat dig. Ring din läkare, eller åk till sjukhuset. Gör något innan det blir värre."
 
-"Ah."
+"Du också", sa Peder. "Jag litade på dig."
 
-Överläkaren vände blad i pärmen han hade i knät.
+"Jag gör det här för att jag bryr mig om dig, Peder. Gå nu."
 
-"Skulle du vilja berätta mer om din bakgrund, Peder. När är du född?"
+"Du hörde honom", sa vakten. "Kom."
 
-"24 november 1976."
+Han spände ut bröstet. Svett fuktade överläppen. Peder sänkte huvudet och iakttog honom under lugg.
 
-"Var?"
+"Tror du att du kan ta mig?" frågade han.
 
-"Karlskrona."
+"Va?" sa vakten. Han skiftade tyngden från ben till ben. 
 
-"Är du uppvuxen i Karlskrona?"
+Peder stod stilla. Rummet var alldeles tyst. En telefon ringde i rummet utanför. Signal efter signal. Ingen svarade. Peder log ett trött leende, tog sats och började springa mot dörren.
 
-"Ja. Jag bodde där tills jag flyttade till Lund för att plugga."
+Vakten såg förvånad ut. Han fumlade med knäppningen till hölstret hann dra upp batongen till hälften, innan Peder träffade honom med en knuten näve rakt i mellangärdet. Vakten gav ifrån sig ett brölande läte när luften slogs ur lungorna. Han föll bakåt mot ena dörrkarmen, men båda händerna tryckta mot magen. Munnen öppnades och slöts som en fisks, när han kämpade efter luft. Peder tryckte undan hans kropp och fortsatte ut i kontorslandskapet på andra sidan dörröppningen.
 
-"Har du några syskon?"
+Han stannade upp och såg ut över rummet. Vita skärmar delade upp ytan i små arbetsbås, vart och ett möblerat med skrivbord, stol och förvaringsskåp. Peders kollegor var som fastfrusna. En radio skrålade på ett bord. På väggen visade en tv-skärm nyheter från CNN. I andra ändan av rummet, borta vid kopiatorn, riktade en av fotograferna en kamera mot honom. Peder kunde höra slutaren smattra.
 
-"Ja, en storasyster. Men jag har inte haft kontakt med henne på flera år?"
+Bakom honom reste sig vakten upp på fötter.
 
-"Varför?"
+"Din jävel", sa han. Andningen lät ansträngd. "Ring polisen! Ring polisen, någon!"
 
-Peder ryckte på axlarna.
+Peder satte fart igen. Han sprang rakt in bland båsen och välte en av skärmarna. En kvinna i brun skinnjacka skrek och kastade sig ner på golvet. Hon kastade sin kopp ifrån sig och den flög genom luften med en svans av kaffe. Peder hoppade över skrivbordet i båset intill och råkade sparka till datorskärmen, som föll till golvet med ett brak. Han fortsatte ut i mittgången och zick-zackade sig fram mellan båsen. Vakten började få upp farten bakom honom. Hans kängor dunsade mot golvet.
 
-"Vet inte. Det har bara inte blivit av. Hon har mycket med sitt och jag har mycket med mitt."
+"Stoppa honom!"
 
-"Växte du upp med båda föräldrarna?"
+Peder fortsatte förbi kopiatorn och ut i korridoren som ledde mot trapphuset. Fotografen kastade sig åt sidan, men kameran fortsatte smattra. En man i rutig skjorta och hornbågade glasögon stod vid vattenkylaren. Han slängde sin mugg på golvet och tryckte sig platt mot väggen. Peder sprang förbi honom, men halkade i vattenpölen på golvet. Bakhuvudet slog i golvet med en smäll när han landade på rygg och gled in i väggen. Han slog i med skuldran och blev liggande. Bröstkorgen värkte och gjorde det svårt att andas. Huvudet pulserade, han kände sig omtöcknad och illamående.
 
-"Till en början. Min mor tog livet av sig när jag var sju år. Efter det var det bara min farsa."
+Tunga steg närmade sig. Upprörda röster larmade i bakgrunden. Peder hävde sig upp på fötter och fortsatte ut mot hissarna. Ingen av hissarna väntade. Peder tryckte på knappen till bägge två, men inget hände. 
 
-"Varför tog din mor livet av dig?"
+"Kom igen!"
 
-"Vet inte."
+Steg närmade sig i korridoren. Han sprang mot dörren som ledde till trapphuset, tryckte ner handtaget och drog. Den rörde sig inte. 
 
-"Var hon sjuk?"
+"Helvete!" Han svor mellan tänderna. 
 
-"Jag tror det. Farsan berättade att min hade perioder med tungsinne -- när hon bara låg i sängen. Farsan fick hjälpa henne med allt. Tvätta henne. Mata henne."
+Han såg sig omkring. Det fanns en dörr till på andra sidan rummet. Peder började springa och hade hunnit halvvägs när vakten rusade in i hisshallen. 
 
-"Vårdades hon på sjukhus?"
+"Stanna, din jävel!"
 
-"Jag minns inte. Vi har inte pratat så mycket om det i familjen efteråt. Syrran hade flyttat hemifrån när det hände -- hon är åtta år äldre -- jag tror att det var efter det som vi gled isär."
+Vakten kastade sig ner på golvet, gled mot Peder och sparkade undan hans ben. Peder landade på rygg och vakten kastade sig över honom, rullade över honom på mage och tryckte ner honom mot marken. Peder hade svårt att andas under hans tyngd. Hans armar var låsta på ryggen och han kände ett knä i ryggslutet.
 
-"Hade din mor perioder när hon var uppåt -- i farten?"
+"Nu har jag dig, ditt lilla sicko."
 
-Peder rynkade pannan.
+"Släpp mig", väste Peder.
 
-"Jag minns inte. Kanske."
+"Jag tänker stanna precis här tills snuten kommer."
 
-"Inbillade hon sig saker?"
+Polissirener närmade sig från fjärran.
 
-"Hur då, menar du?"
 
-"Hörde hon saker som ni andra inte hörde? Såg hon saker?"
+### Peder springer från vakten ###
 
-"Inte vad jag minns."
+Peder försökte vrida loss, men vakten höll honom tryckt mot golvet tills två poliser klev ur en av hissarna. En lite folksamling hade hunnit bildas i hisshallen. Sixten gick fram och pratade med den ena polisen, men Peder kunde inte höra vad hans sa. Sedan satte de handfängsel på Peder och tog med honom ner.
 
-Underläkaren strök luggen från ögonen. De lyste klarblått. Peder såg på henne.
+Från baksätet på radiobilen försökte han prata allvar med poliserna, men de svarade knappt. Han hade svårt att tänka klart, ansiktet blossade. Varför är folk så sabla dumma? Ser de inte vad som pågår? Om Sixten är inblandad, vem kan jag då lita på? Han var fortfarande förbannad när bilen svängde in framför entrén till ingång 56 på Universitetssjukhuset MAS.
 
-"Är det bara du som skall ställa frågor?" sa han.
+"Ni måste skämta. Psyk akut?"
 
-"Vem skulle annars göra det, menar du?" svarade överläkaren.
+"Bara följ med oss."
 
-"Hon", sa Peder och gjorde en gest mot underläkaren.
+"Glöm det."
 
-Överläkaren vände kort huvudet mot hennes håll och vände sedan tillbaka blicken mot Peder. Han rynkade pannan."
+Peder klev ur bilen och började gå mot ut mot vägen igen, men en av polismännen la händerna på hans axlar, vred honom runt och puttade honom mot dörren. De gick uppför en trappa och ringde på dörren. En vitklädd kvinna öppnade och visade in dem. Peder och de två poliserna fick vänta i ett avskilt rum, tills en skötare kom. Peder visiterades och fick lämna ifrån sig sin plånbok, sina nycklar, sina skosnören och sitt bälte. Hjärtat slog fort, pulsslagen ekade i huvudet. Rummet tycktes krympa.
 
-"Finns det någon annan sjukdom i släkten?" fortsatte han.
+En dryg timme senare kom en ung kvinnlig läkare, i en alldeles för stor läkarrock, in i rummet och presenterade sig. Peder uppfattade inte namnet. Hon frågade vad som hade hänt och han berättade sin historia. Hon frågade om han kunde tänka sig att stanna på sjukhus och ta medicin.
 
-"Nej. Eller, ja. Farsan har kärlkramp."
+"Varför då? Jag är inte sjuk, förstår du inte det?" hade Peder svarat.
 
-"Du bor själv idag, förstår jag Peder."
+Den unge läkaren började prata om vårdintyg och Peder kände musklerna spänna sig igen. De tänker låsa in mig. De tänkte fan-ta-mig låsa in mig. Jävla idioter! Peder bet ihop käkarna och stirrade ner i golvet. Han knöt nävarna tills knogarna vitnade. 
 
-"Ja."
+När natten föll värkte käkarna av muskelspänningen. Han satt på sin säng i en två-sal. Hans rumskompis snarkade i sängen bredvid. Dörren ut till korridoren var stängd, men vitklädda män och kvinnor tittade in genom ett runt fönster med jämna mellanrum. I ett annat rum skrek en kvinna på ett utländskt språk. Någon bankade i en vägg, en larmsignal ljöd och Peder hörde ljudet av springande fötter. Han la sig ner på sängen och la kudden över huvudet. 
 
-"Har du alltid gjort det?"
+Peder stirrade ut i mörkret i flera timmar. Vid tio-tiden kom nattsköterskan in och erbjöd honom en sömntablettt. Han tackade nej och vände sig bort.
 
-"Nä. Jag bodde ihop med en kvinna tidigare, men vi separerade för några år sedan."
+Han hade fortfarande inte somnat, när gryningsljuset trängde in genom det lilla gallerförsedda fönstret. Han satte sig upp på sängkanten. Huvudet kändes tungt, benen domnade.
 
-"Inga barn?"
+Han gläntade på dörren och gick ut ur rummet. Korridoren utanför var öde. En TV-apparat stod påslagen i lunchrummet. På soffan låg en vitklädd vårdare och sov. Peder gick vidare mot sjuksköterskeexpeditionen.
 
-"Nä."
+"När får jag prata med överläkaren?"
 
-Peder skruvade på sig. Ländryggen molvärkte och han försökte hitta en ställning som lindrade, men fåtöljen var inte förlåtande.
+Sköterskan hoppade till och stängde snabbt ner patiensspelet på datorn.
 
-"Händer det att du hör saker som andra inte hör?" frågade överläkaren.
+"Överläkaren? Du, klockan är bara halv åtta. De börjar inte förrän åtta och sedan brukar de ronda till nio. Ta du dig en kopp kaffe och sätt dig och vänta."
 
-"Som vadå?"
+Peder gick tillbaka till lunchrummet och tog en tom kaffekopp från den rostfria stålvagnen vid dörren. Skötaren vaknade när Peder pumpade ut kaffe från termosen.
 
-"Röster, knäppningar, susande ljud?"
+"God morgon", sa Peder.
 
-"Nej, det tror jag inte."
+Vårdaren mumlade något ohörbart och gick därifrån. Peder slog sig ner i den uppvärmda soffan. På TV:n skvalade Nyhetsmorgon på TV4.
 
-"Har du någon gång sett saker som andra inte har sett?"
+Peder hann dricka två koppar kaffe till, innan han blev hämtad till överläkarsamtalet. Han visades in i ett litet rum, möblerat med ett skrivbord och två stolar. En kortvuxen kvinna med vitt hår och läkarrock presenterade sig och bad honom sitta ner. Hon pratade med en tydlig polsk brytning.
 
-Peder tänkte på den mörka gestalten som sökt igenom rum nummer tolv.
+Peder bliv irriterad när hon frågade samma frågor som läkaren ställt dagen innan. Han vred sig i stolen, foten skrapade i golvet.
 
-"Nä."
+"Det är inte första gången du är här, eller hur?" sa läkaren.
 
-Överläkaren bläddrade bland sina papper igen.
+"Nej, men förra gången var ett missförstånd, det också", svarade Peder.
 
-"Förra gången du var hos oss fick du en medicin som heter Zyprexa. Vad jag kan se här hade du god nytta av den."
+"Vad är det som hänt denna gången?"
 
-Peder gjorde en grimas.
+Peder berättade om bråket på tidningen, hur ingen trodde honom och varför sanningen måste fram.
 
-"Du gillade den inte?"
+"Sanningen om vad?"
 
-"Jag blev trött och fet."
+Peder tvekade.
 
-"Ja, det kan ju vara vanliga biverkningar. Hur mycket gick du upp i vikt?"
+"Om du inte pratar med mig kan jag inte hjälpa dig", sa läkaren. Hon la huvudet på sned.
 
-"Ett par kilo."
+Peder berättade om sin story. Han berättade hur en hemlig förgrening av Frimurarordern infiltrerat alla viktiga maktstrukturer i Sverige och hur nätet sträckte sig ända upp på regeringsnivå. Han la fram bevis för hur denna sammanslutning dikterat alla viktiga beslut i det här landet de senaste trettio åren. Det var upp till honom att föra fram detta i ljuset.
 
-"Ett par kilo får man nog räkna med, tyvärr. Hur länge stod du på medicinen?"
+Läkaren bet sig i läppen och satt tyst. Peder började känna sig rädd. Hade han sagt för mycket? Tänk om hon också var inblandad?
 
-"Ett par veckor. Jag slutade självmant. Det gick inte att arbeta. Det var som om hjärnan var ingjuten i betong."
+"Peder, det är min uppfattning att du behöver stanna hos oss för att få psykiatrisk vård. Jag tänker godkänna vårdintyget och ta in dig för tvångsvård."
 
-"Jag hör vad du säger, Peder -- men jag kan inte blunda för att Zyprexa hade god effekt på dina besvär."
+Peder kände sig bedövad. Läkaren berättade hur han skulle bära sig åt för att överklaga, men han hörde inte på. Nätet hade dragits åt. Han var fast.
 
-"Besvär? Jag hade inga besvär. Inte den gången heller. Vad är det med er? Varför vill ni hela tiden ge mig mediciner?"
+Benen bar honom knappt när vårdaren hjälpte honom upp ur stolen och ut ur rummet. Han höll sig i väggen när han gick tillbaka till sitt rum och la sig på sin säng. Han vägrade stiga upp för att äta lunch och han hoppade över kvällsmaten. När skymningen föll låg han kvar på sin säng och stirrade i taket. Magen värkte av hunger, skinkorna var domnade. Till slut drev han bort i sömn, utan att drömma.
 
-"Jag håller inte med dig där, Peder. Jag anser att du har besvär. Det du har berättat för mig och mina kollegor tyder på att du har *betydande* vanföreställningar av förföljelsenatur. Jag tänker sätta in dig på Zyprexa igen -- och jag rekommenderar dig verkligen att ta tabletterna."
+Han väcktes av en skötare, som ruskade honom i skuldran.
 
-"Annars?"
+"Peder, vakna nu. Du behöver äta frukost, sedan skall du få komma upp på avdelning."
 
-Överläkaren slog igen pärmen och föste upp glasögonen mot näsroten.
+Peder steg upp utan att säga ett ord och gick ut och drack kaffe. Han försåg sig av bröd och smör, men struntade i den rumsvarma osten. Sedan eskorterades han ut från avdelningen och via en hiss upp till avdelning 87. Skötaren drog sitt kort i läsaren och de gick in. 
 
-"Annars blir jag tvungen att medicinera dig med injektioner."
+På andra sidan dörren var ett tumult. Sköterskor och skötare sprang genom korridoren in till ett rum längre ner. Larmet ljöd och en display i taket visade nummer 12 i blinkande röd LED-skrift. Män och kvinnor i ljusblå och vita patientkläder vankade av och an. Några pratade oroligt för sig själva, andra vred sina händer. En man med grått helskägg satt i en fåtölj vid väggen och skrattade hysteriskt.
 
-Peder sänkte blicken. Han bet ihop käkarna och knöt nävarna under bordet, tills armarna darrade.
+Skötaren som följt med Peder haffade en av sina kollegor i armen.
 
-"Jag ser att du blir arg nu, Peder. Jag förstår det -- men det ändrar inget. Du får första tabletten redan i kväll."
+"Vad är det som händer?"
 
-Överläkaren och underläkaren lämnade rummet. Peder satt kvar en stund och stirrade på bordet. Han sög sig på underläppen. Sedan reste han sig upp, gick ut ur rummet och smällde igen dörren efter sig så det ekade i korridoren.
+"Självmord", svarade den andra. "Vi har en som hängt sig."
 
+"Fy fan."
 
-### Samtal i rökrummet ###
+Peder gick långsamt mot rum nummer 12. En klunga av människor stod i dörrhålet. Upprörda röster hördes inifrån.
 
-Peder vandrade upp och ner i korridoren tills han hade lugnat sig. Då stannade han vid vagnen av rostfritt stål, där han hällde upp en mugg vatten från tillbringaren och valde ut ett oskatt äpple från fruktskålen. Någon meter bort stod dörren till sjuksköterskeexpeditionen öppen. Peder kände igen syster Ingers röst.
+"Skär ner honom."
 
-"Jag förstår inte varför han vill att vi håller rum tolv ledigt, när platssituationen ser ut som den gör. Det är skitjobbigt att komma med undanflykter varje gång akuten ringer och vill lägga upp någon."
+"Det kan vi väl inte göra. Han är ju död. Polisen måste komma först."
 
-"Han har väl sina skäl, antar jag", svarade en manlig röst. "Har det inte med polisutredningen att göra?"
+"Skär ner honom, för helvete."
 
-"Polisutredningen, pyttsan. Inte tusan lär polisen komma hit och göra en teknisk undersökning för ett självmord. Snarare lär väl Socialstyrelsen nagelfara vår journalföring tills vi blir blå."
+Peder ställde sig på tå och kikade över huvudena. I mörkret såg han en säng uppställd med gaveln mot ena väggen. En man satt hopsjunken med en bälte i en ögla runt halsen. Han var blå i ansiktet, tungan hängde ut och fyllde hans uppspärrade mun. Ögonen stod ut ur sina hålor. Den andra ändan av bältet var fäst vid sänggaveln. En sköterska försökte klippa av det med en alldeles för liten sax.
 
-Peder tog en tugga av äpplet, men satte i halsen. Han hostade våldsamt och sköt iväg äpplebiten som en projektil. Den slog i väggen på andra sidan korridoren och lämnade en våt fläck efter sig. Inger kom utspringande från expeditionen.
+"Flytta på er! Låt oss komma fram!"
 
-"Peder, hur är det fatt?"
+Två grönklädda personer trängde sig igenom folkmassan. En av dem bar en blå väska.
 
-Hon dunkade honom hårt i ryggen. Peder kippade efter luft. Ögonen tårades. Så småningom avtog hostreflexerna.
+Peder gick därifrån och satte sig i en röd soffa, som stod utanför sjuksköterskeexpeditionen. Där satt han i närmare en timme, innan en sköterska kom fram till honom.
 
-"Ok", sa han. "Det är ok nu. Jag satte i halsen."
+"Är det Peder? Jag beklagar att du fått vänta. Vi har haft det lite körigt."
 
-"Milde tid, unge man. Ta det varligt."
+Hon såg trött ut. Peder tog hennes utsträckta hand.
 
-Peder fyllde ännu en mugg med vatten och drack med djupa klunkar. Kläderna var fuktiga av svett.
+"Jag heter Inger. Välkommen till oss. Jag hoppas att du skall trivas här."
 
-"Tack", sa han och slängde muggen i papperskorgen. "Förresten, Inger -- har överläkaren gett mig tillstånd att gå ut ännu?"
+En halvtimme senare låg Peder på britsen i sitt nya rum -- den här gången ett enkelrum. Det var lugnt på avdelningen igen. Han försökte tänka klart. Uppenbarligen hade han träffat en rå nerv, eftersom de sett till att låsa in honom här. Ju mer han berättade för läkarna om vad han visste, desto värre hade det blivit. Det var uppenbarligen dags att byta strategi -- att göra vad som krävdes för att komma härifrån. Han skrattade för sig själv. Det var en riktig klassiker att spärra in obekväma människor på sinnessjukhus. Ut skulle han, omedelbart. *De* visste inte vem de hade att göra med.
 
-"Kom med så skall vi kolla", sa Inger.
 
-Inger gick tillbaka in på expeditionen och lämnade Peder stående i dörrhålet. En manlig skötare, kort i växten, med mörkt kortklippt hår och mustasch satt vi en av datorerna. Han nickade till hälsning. Peder såg sig omkring. På en av hyllorna stod arton numrerade pärmar, hälften röda och hälften blå. De var av samma typ som den pärm överläkaren brukade ha med sig till deras samtal.
+### Första dygnet på akuten ###
 
-"Då skall vi se", sa Inger och tog ner en grön pärm från en av hyllorna. Hennes pekfinger löpte längs flikarna, tills hon hittade rätt. "Här." Hon vände upp en sida. "Nej, jag beklagar. Här står inget."
+Avdelningen var lugnare än akuten, men Peder hade ändå svårt att sova på natten. Ännu en gång avböjde han erbjudandet om en sömntablett och låg istället på sidan och stirrade in i väggen. Han somnade i vargtimman och sov ännu tungt, när en skötare ruskade hans axel.
 
-Peder såg besviken ut.
+"Peder, vakna! Du har läkarsamtal klockan nio. Om du vill äta frukost innan får du sätta fart."
 
-"Vet du vad. Jag lovar att ta upp det med honom när vi har rond nu på torsdag."
+Peder reste sig upp och blev sittande en stund på sängkanten. Tankarna rörde sig trögt och det tog en stund innan han insåg var han var. 
+
+"Jag äter frukost när jag kommit hem."
+
+"Ah." Skötaren stod tyst en stund. "Ta åtminstone en kopp kaffe. Du kommer nog att behöva den."
+
+Peder böjde huvudet åt ena sidan för att sträcka ut kappmuskeln och reste sig sedan upp och gick ut i korridoren. När toaletten blev ledig låste han om sig och kissade koncentrerad gulbrun morgonurin. Pappershandukarna var slut, så han torkade sina tvättade händer på byxbenen.
+
+Peder gick förbi sjuksköterskeexpeditionen och in i den lilla matsalen. Han tog en mugg kaffe och bredde sig trots allt en smörgås och satte sig vid ett ledigt bord. Kaffet smakade beskt, som det hade stått på värmning för länge.
+
+"Du har jag inte sett förr, broder. Ny?"
+
+En äldre man glasögon satte sig ner på stolen bredvid. Lågt grått hår hängde ner från tinningarna och täckte ögonen, resten av huvudet var kalt.
+
+Peder sa ingenting, men nickade lätt.
+
+"Jaha. Vilket rum har du fått?"
+
+Peder tänkte efter. "Fjorton."
+
+"Fjorton? Inte tretton, då?" Mannen log.
+
+"Nä. Fjorton."
+
+"Eller tolv?"
+
+Peder såg på honom och rynkade pannan. Sedan vände han blicken ut mot rummet och tog en klunk från muggen.
+
+"Blir du här länge?" frågade mannen.
+
+"Nej. Jag sticker idag."
+
+"Åhå. Du låter säker på din sak."
+
+"Ja. Jag är inte sjuk."
+
+Mannen började skratta. Först lågt och hest, men sedan högre och högre. Peder såg sig omkring.
+
+"Vad är det som är så roligt?"
+
+"Det du just sa", svarade den gråhåriga mannen. "Jag har sagt precis samma sak i ett halvår."
+
+En skötare stack in huvudet genom dörrhålet.
+
+"Peder, det är dags."
+
+Peder tryckte in den sista delen av smörgåsen i munnen och följde efter till samtalsrummet. Utanför dörren tvekade han i ett par sekunder, innan han gick in.
+
+"God morgon, Peder. Var så god och sitt."
+
+En äldre man klädd i läkarrock, skjorta och slips reste sig upp och sträckte fram sin högra hand. Den var klädd i en tunn vit bomullshandske.
+
+"Jag heter Gunnar Hierta. Jag är överläkare på den här avdelningen."
+
+Överläkaren var lång och kutryggig, byggd som en buffel. Peder gav honom ett handslag och satte sig ner. Rummet var möblerat med fem fåtöljer runt ett litet bord. En golvlampa kastade en ljuskägla upp mot taket. Det bleka morgonljuset sipprade in genom ett litet fönster.
+
+På överläkarens högra sida satt en ung kvinna, även hon klädd i läkarrock. Framför henne låg ett anteckningsblock och en svart BIC-penna. Namnskylten presenterade henne som Cecilia Wagner, underläkare.
+
+"Hur har natten varit?" frågade överläkaren.
 
 "Ok."
 
-Peder gick nedåt i korridoren och tittade i i lunchrummet. En äldre kvinna satt vid ett av borden och försökte dricka kaffe. Hennes hände skakade så våldsamt att hon spillde det mesta på vaxduken. Hennes käkar rörde sig rytmiskt, som om hon idisslade. Peder gick vidare nedåt. Han kikade in genom fönstret till samtalsrummet, med det var mörkt där inne. Han vände tillbaka och tog till vänster i T-korsningen. Han stannade utanför den stängda dörren till rökrummet, tog ett djupt andetag och tryckte ner handtaget.
+"Bra, bra. Då så, Peder -- jag har förstått att det är andra gången du är inlagd här hos oss på sjukhuset."
 
-Mannen med det grå stripiga håret satt tillbakalutad i en stol av röd plast med ena benet vilande över det andra. Han drog halsbloss på en cigarettstump och blåste ut röken genom näsan i två vita strålar. Peder ryggade tillbaka för den skarpa rökdoften, men gick sedan in och stängde dörren efter sig.
+Peder sa inget.
 
-"Är du kvar, broder?" sa mannen.
+"Hur mår du?"
 
-Peder nickade.
+"Bra", sa Peder. Han strök sig över skäggstubben. "Jag mår bra."
 
-"Vill du ha en cigg?" Mannen räckte fram ett skrynkligt paket gul blend.
+"Det låter hoppfullt", svarade överläkaren. Hans handskbeklädda hand vilade på en grön pärm av plast. "Skulle du vilja berätta med egna ord om varför du är här?"
 
-"Nej, tack. Jag röker inte."
+Peder såg på underläkaren. Hon bar sitt mörkbruna hår uppsatt i en knut i nacken. Luggen var kammad framåt och skymde de klarblå ögonen.
 
-Mannen ryckte på axlarna. 
+"Genom ett missförstånd", sa Peder. "Allt är ett missförstånd".
 
-"Bra för dig."
+Överläkaren öppnade pärmen och bläddrade bland papperna.
 
-Peder räckte fram sin högerhand.
+"När du kom till akuten -- med polis för övrigt -- berättade du hur du upptäckt en dold organisation med avgörande inflytande över maktstrukturer här i Sverige."
 
-"Vi hälsade aldrig tidigare. Peder heter jag. Peder Nielsen."
+Peder log snett. Han drog i sitt ena långfinger tills leden knäppte.
 
-Mannen tog hans hand. Hans fingertoppar var gulbruna. Underarmens vener stod ut, som rep.
+"Sa jag det? Det låter ju helt galet. Jag måste ha skämtat."
 
-"Carsten."
+Överläkaren log inte.
 
-Peder satte sig ner på en ledig plaststol. Han såg ut genom fönstret på innergården. Träd och buskar kantade en rund yta täckt av kullersten. Sjukhusbyggnader kringgärdade den. Peder kände igen Psyk akut mittemot.
+"Skämtat? Påstår du att polisen fängslade dig och tog med dig till sjukhus över ett skämt?"
 
-"Tragiskt, det där som hände killen på rum tolv", sa Peder. "Det gör ont bara att tänka på hur dåligt han måste ha mått för att ta livet av sig."
+Peder ryckte med axlarna. Den unga kvinnan skrev något i sitt block.
 
-"Han tog inte livet av sig", sa Carsten.
+"Du misshandlade en vakt och hotade din chef till livet. Det här är knappast ett missförstånd."
 
-"Inte?"
+Han slog ihop pärmen och la den framför sig, i rät vinkel mot bordskanten.
 
-"Inte en chans."
+"Nu vill jag att du berättar vad som verkligen hände, Peder."
 
-Peder sög på underläppen.
+"Jag har inget mer att säga. Det här är ett misstag. Det finns ingen anledning att hålla mig kvar här.
 
-"Hur kan du veta det?"
+Överläkaren lutade sig tillbaka i sin fåtölj. Han gned slipsen mellan tummen och pekfingret, ögonen smalnade till springor.
 
-"Jag kände Göran rätt väl. Han kom hit en månad innan mig, så vi hade gott om tid att snacka. Tror mig, han var *inte* typen som kastar in handduken."
+"Jag tänker behålla dig här", sa han sedan, "För observation. Jag tror inte att du har berättat hela sanningen för oss."
 
-Peder ryckte på axlarna.
+Han reste sig upp ur fåtöljen.
 
-"Jag är ingen expert direkt, men jag vet att det inte alltid är så lätt att se tecknen. Min mor tog sitt liv när jag var liten och jag kommer ihåg vilken chock det var för min far. Vi trodde att hon hade blivit bättre. Hon verkade så lugn dagarna innan. Så ändå..."
+"Ni kan fan inte hålla mig inlåst här!"
 
-Carsten såg på honom genom en rökpuff.
+"Det är just det jag kan, Peder."
 
-"Hur?"
+Överläkaren gick mot dörröppningen, men stannade halvvägs och vände sig in mot rummet.
 
-"Hur vadå?"
+"I fyra veckor är du min."
 
-"Hur gjorde hon det?"
+Underläkaren slog ihop sitt block och följde efter överläkaren ut. Hon gick ljudlöst, som om hon var barfota.
 
-"Sömntabletter."
-
-"Fy fan."
-
-"Jag vet."
-
-"Hur gammal var du?"
-
-"Sju år."
-
-Carsten skakade på huvudet.
-
-"Fy fan."
-
-Han tog ett bloss till och blåste ut röken genom munnen. Peder såg ut genom fönstret. En man i ljusblå mysbyxor och kofta gick omkring nere på den inhägnade gården.
-
-"Varför var Göran här?" frågade Peder sedan.
-
-"För att söka skydd. Han var rädd för att bli mördad." Carsten grinade. "Det verkar som han hade rätt."
-
-"Mördad av vem?"
-
-"Det vet jag inte. Han berättade aldrig vem det var som var efter honom -- bara att han upptäckt något han inte borde. Han arbetade som vaktmästare i en fastighet här i Malmö -- fråga mig inte var."
-
-"Du har ingen tanke om vad det gällde?"
-
-"Tankar har jag. Massvis av tankar. Men jag vet inte. Han sa att han tagit något, något som var viktigt. Så viktigt livet stod på spel."
-
-"Huh." Peder drog fingarna genom luggen. Håret började bli långt och skymde hans sikt.
-
-"Men jag kan säga dig en sak", fortsatte Carsten. "Göran hade besök kvällen innan han hittades död. Sent besök."
-
-"Sent?"
-
-"Klockan elva på kvällen. Som du vet långt efter att besökstiden är slut."
-
-"Besök av vem?"
-
-Carsten skakade på huvudet igen.
-
-"Vet inte. Jag såg bara en svartklädd person som lämnade hans rum och gick ut genom dörren till trapphuset."
-
-Han lutade sig fram mot Peder. Rökdoften var kväljande.
-
-"Och han hade passerkort."
-
-Peder kände hur det kittlade i nacken.
-
-"Vet du vad Göran hette i efternamn?"
-
-Carsten skakade på huvudet.
-
-"Beklagar. Efternamn är inte så viktiga här inne."
-
-Den gråhårige mannen fimpade i askfaten i fönsterkarmen. Han borstade vit aska från byxorna och ställde sig upp.
-
-"Du", sa Peder. "Var finns egentligen rum nummer tretton?"
-
-Carsten log.
-
-"Säg det."
-
-"Vet du inte?"
-
-"Nä. Jag har aldrig träffat någon som vet. Personalen vill inte säga. Nu *måste* jag gå och pissa. Vi ses, broder."
-
-Peder lyfte handen till farväl.
+Peder satt kvar själv i halvdunklet. Han kände sig illamående.
 
 
-### Kvällsmedicin ###
+### Var är rum nummer 13? ###
 
-Det knackade på dörren. Peder låg på sängen och läste i samma nummer av Metro han bläddrat i sedan han kom till avdelningen.
+Peder gick långsamt genom korridoren, med blicken sänkt. Han tvekade i korsningen där tre korridorer möttes i en T-korsning och tog till höger. Det såg likadant ut överallt. Gulmålade väggar och ett gråspräckligt plastgolv. Dörrar i gulnad bokfaner. Han läste siffrorna som var målade på dem. Nitton, tjugo, tjugoett. På andra sidan korridoren låg sexton, sjutton, arton. Han stannade i slutet av korridoren, vid en dörr med ett runt fönster. En kortläsare vid sidan av dörren blinkade rött och låset klickade till. En skötare kom in genom dörren från trapphuset. Hon såg på Peder och la huvudet på sned.
+
+"Har du gått vilse?"
+
+"Nej", sa Peder. "Inte alls. Jag ser mig omkring."
+
+"Ok", sa skötaren. "Säg till om du behöver hjälp."
+
+Peder nickade och gick korridoren tillbaka. I korsningen såg han åt vänster, kände igen matsalen och dörren till samtalsrummet längre ner och tog därför åt höger. Femton, fjorton. Peder stannade vid sin dörr och la handen på handtaget. 
+
+Dörren till rummet till höger öppnades och en kvinna puttade en städvagn över tröskeln. Hon ställde den i korridoren och gick tillbaka in för att hämta en mopp, som hon lämnat lutad mot ena väggen. Peder såg in i rummet och kände igen det. Den döde mannen med snaran kring halsen var borta. Golvet var blött och en doft av alkohol svävade ut genom dörröppningen. Sängen saknade sängkläder, garderoben stod tom med dörren vidöppen. Städerskan kom ut igen och stängde dörren efter sig. På dörren stod siffran tolv. Peder rynkade pannan. Fjorton och tolv. Var finns rum nummer tretton, tänkte han.
+
+
+### Briefing efter Görans självmord ###
+
+Dagen gick långsamt. Peder låg på sängen fram till lunch och försökte läsa ett veckogammalt nummer av Metro, som låg kvarglömt i hans nattduksbord. Han hade svårt att fokusera blicken och bokstäverna flöt in i varandra. Han ryckte till vid halv tolv och insåg att han hade somnat. T-shirten var våt av saliv i halslinningen. Vänsterarmen, som han hade haft bakom huvudet, var domnas. Det pirrade i handen, som om han hade sockerdricka i ådrorna.
+
+Vid tolv gick han ut till matsalen och åt en portion grönsakssoppa. Den smakade tunt och fick honom att tänka på skolmaten han ätit som liten. Han satt själv vid ett bord vid fönstret. Då och då tittade han upp och såg på de andra patienterna. Var och en höll sig för sig själv.
+
+På eftermiddagen gick han fram och tillbaka i korridorerna och försökte lära sig att hitta. Avdelningen bestod av en lång korridor, med en kort arm som löpte ut från mitten. Peder tänkte att det påminde mer om ett halv versalt H, snarare än ett T. Där korridorerna möttes låg sjuksköterskeexpeditionen, vars dörr oftast stod öppen. Peder tittade in när han gick förbi och såg ett skrivbord med en dator som stod vid ena väggen. Vid skrivbordet stod två blå skrivbordsstolar, där skötare och sjuksköterskor turades om att sitta. I anslutning till expeditionen låg ett litet rum, med hyllor på väggarna. På hyllorna trängdes förpackningar av läkemedel.
+
+Peder räknade till tjugoen patientrum, jämt fördelade i korridorerna. Han såg tre vägar in till avdelningen, en slutet av varje korridor. Alla tre ingångar var låsta och öppnades med en kortläsare. I slutet av den kortare korridoren låg underläkarrummet och vägg i vägg med det fanns ett rökrum. Han såg in genom det runda fönstret i dörren och såg en överviktig kvinna i vit nattsärk blossa på en cigarett. Hennes blick var ihålig.
+
+Peder knackade på dörrposten till den öppna sjuksköterskeexpeditionen. Syster Ingrid kom ut ifrån läkemedelsrummet. Hon höll en liten bricka av papper, med en spruta och en tuss av bomull. Hon log emot honom.
+
+"Förlåt, jag har en fråga."
 
 "Ja?"
 
-Syster Inger kom in genom dörren. Hon höll en liten genomskinlig mugg av plast i handen. I muggen låg ett enda vitt piller.
+"Skulle jag kunna få gå ut och ta en promenad på sjukhusområdet? Det börjar kännas instängt."
 
-"Det är dags för kvällsmedicin, Peder."
+"Jag är ledsen, Peder. Jag kan inte släppa ut dig utan ett skriftligt godkännande från överläkaren. Han har uttryckligen förbjudit permissioner tills vidare."
 
-Peder suckade.
+"Så jag är instängd här?"
 
-"Den jag. Den hade jag glömt."
+"Ja. Tills vidare."
 
-"Du har haft den förut, förstår jag. Då vet du att man brukar bli rätt trött i början."
+Peder bet sig i underläppen och gick mot sitt rum. Dörren till rum nummer tolv stod på glänt, men han kunde inte se någon därinne. Han kuffade till den så den stängdes och gick sedan in och la sig på sin säng igen.
 
-Peder satte sig upp på sängkanten och tog emot muggen. Han såg på det runda pillret. Ytan var matt. Det såg ut som det var gjort av gips.
+På eftermiddagen samlade man alla patienter i matsalen. Överläkaren kom in i rummet, harklade sig och berättade att patienten på rum tolv hade tagit sitt under gårdagen. Peder såg på sina medpatienter. Alla stod tysta, med blicken fäst vid golvet. Alla utom mannen med det långa stripiga håret, som tilltalat Peder i matsalen på morgonen.
 
-"Jo, jag vet."
+"Varför i hela friden skulle Göran ha tagit sitt liv? Kan ni inte se att det är något lurt här?"
 
-Inger tog glaset från Peders nattduksbord och fyllde det med vatten från kranen vid tvättstället och räckte över det. Peder stoppade pillret i munnen och tog en klunk vatten. Han tvekade en kort stund, men svalde hårt.
+Gunnar Hierta suckade.
 
-"Bra", sa Inger. "Jag hoppas du får sova bättre i natt."
+"Det finns ingen anledning att misstänka något annat än självmord. Men det är polisens sak att avgöra. Allt jag kan säga är att det inte alltid finns uppenbara skäl när någon tar sitt liv. Göran mådde mycket dåligt, annars hade han inte varit här."
 
-Hon tog med sig plastmuggen och gick ut ur rummet. Peder la sig på rygg på sängen och väntade. När han hörde Inger prata med någon annan inne på expeditionen spottade han ut pillret han dolt under tungan och la det under madrassen.
+Underläkaren Cecilia stod bredvid Gunnar. Hon var tyst, men såg rakt mot Peder. 
 
-"Skulle inte tro det", sa han.
+"Om någon känner att ni vill prata om det som hänt är ni välkomna att säga till någon i personalen -- enklast er kontaktperson", fortsatte Gunnar.
 
-Han såg på klockan och suckade. Den var bara åtta. Flera timmar kvar. Han plockade upp Metro igen och började om från början. Han hade bara kommit till sidan fyra när han dåsade till och tappade tidningen.
+Han såg på sina patienter, nickade kort och lämnade rummet, med Cecilia i släptåg. Patienterna stod kvar en stund och lämnade sedan rummet en och en.
 
+Vid sjutiden gick Peder till matsalen igen och åt två smörgåsar med ost och skinka. Han stoppade en banan i fickan, som han sedan åt på sängen. Ögonlocken kändes allt tyngre och vid niotiden tog han av sig sina kläder, kröp ner under täcket och somnade.
 
-### Erotisk dröm om Cecilia ###
 
-Dörren knarrade till. Peder ryckte till i sängen och satte sig upp. Han stirrade på dörren. Allt var tyst. Egendomligt tyst. Peder hörde bara sin egen andhämtning. Så rörde sig dörren och öppnades långsamt -- centimeter för centimeter. I dörrhålet stod en siluett, knappt skönjbar mot den mörka korridoren bakom.
+### Peder drömmer ###
 
-"Vem är det?" frågade Peder.
+I drömmen var Peder hemma i sin lägenhet. Han stod i hallen. Lamporna var släckta. Bruset av trafiken utanför var det enda som hördes. Peder såg ner och la märke till att han inte hade några kläder på sig. Han tittade upp och såg ett vitt lamm som stod i dörröppningen in till sovrummet. Lammet stod alldeles stilla och såg på honom. Ullen glittrade i skenet från fullmånen utanför. Det såg nästa självlysande ut.
 
-Gestalten tog ett steg in i ljuset från Peders sänglampa. Det var underläkaren, Ceilia. Hennes vita rock var nästan självlysande. Håret var uppsatt. Han anade hennes ögon bakom luggen.
+"Vad gör du här", försökte Peder säga, men hans mun var täckt av en munkavel. Han försökte lyfta sin hand för att ta bort den, men hans händer var sammanbundna med rep.
 
-"Du? Vad vill du?"
+Lammen vände sig om och gick in i sovrummet. På dess högra sida stod bokstäverna "RHL" målade i mörkt rött.
 
-Cecilia tog ännu ett steg mot Peder, men sa inget. Hon knäppte långsamt upp rocken, tryckknapp för tryckknapp. Den föll till golvet bakom henne. Hon var klädd i ljusa jeans och en mörk topp utan ärmar. Peder satt som fastfrusen i sängen.
+En gäll kvinnoröst ljöd från sovrummet.
 
-Cecilia klev upp i sängen och satte sig gränsle över Peder. Hon var barfota. Hon såg på honom under tystnad och böjde sig sedan ner och kysste honom på munnen. Peder kände hennes tungspets mellan sina läppar. Hon tog Peders högra hand i sin egen och tryckt den mot sitt vänstra bröst. Hon hade ingen BH. Peder kände bröstvårtan genom tyget.
+"Ester! Ester! Vakna! Vakna, Ester!"
 
-"Åh, Gud", sa han.
+Ett blått sken växte i intensitet tills det var bländande. Gnistor slog ut från vägglampan i hallen. Peder kände håren resa sig på armarna. Det doftade elektricitet. Han försökte gå till sovrummet, men hans fötter var också sammanbundna och han föll handlöst mot golvet.
 
-Peders hand gled in genom tyget i toppen, in genom huden. I brösthålan kunde han känna hennes hjärta i sin öppna hand. Det slog stark och regelbundet. Hennes lungor ökade och minskade i volym runt omkring. Hon såg på honom. Hennes ögon lyste isblå.
+Peder ryckte till i sängen och vaknade. Känslan av att falla dröjde sig kvar och han låg tyst och stirrade ut i mörkret. De röda siffrorna på klockradion angav tiden till tjugo över tre.
 
-"Jag drömmer", sa Peder.
+Ett skrapade ljud fick Peder att vakna till. Sedan en duns. Det lät som om någon flyttade på något tungt i rummet intill.
 
-Han ryckte till och var vaken. Tankarna var fördunklade. Han satte sig upp på sängkanten med pannan i händerna. Det tog en stund innan erektionen hade lagt sig.
+Peder lyfte på täcket och svängde ut benen. Han reste sig långsamt upp och smög fram mot väggen som delades med rum nummer tolv. Han la örat mot. En duns till, följt av en smäll. Han bet sig i underläppen och smög mot dörren. Hans bara fötter klistrade fast i plastmattan. Han tryckte långsamt ner handtaget och öppnade dörren. Gångjärnen gnisslade svagt. Korridoren utanför var öde. Inget hördes. Peder öppnade dörren ännu mer och snack ut huvudet. Dörren till rum nummer tolv stod på glänt. Något rörde sig i slutet av korridoren. Lysröret i taket var släckt, men Peder kunde se en mörk gestalt vid dörren. Skuggan drog något genom kortläsaren, låset klickade till och den försvann ut genom dörren. Lysröret gnistrade till.
 
+Peder sprang ut i korridoren och mot dörren. Han satte händerna mot det runda fönstret och tittade ut. Trapphuset var öde.
 
-### Peder snokar på expeditionen ###
+"Vad håller du på med?"
 
-Peder såg på sitt armbandsur. Det var dags. Han reste sig upp och sträckte på sig. Sedan smög han ut i korridoren. Allt var nersläckt och dörrarna till alla patientrum var stängda. Tv:n stod på med avstängt ljud i sällskapsrummet. Han fortsatte ner till rum nummer sju och knackade försiktigt på.
+En skötare stod utanför expeditionen och såg åt Peder.
 
-"Carsten? Är du där?"
+"Någon gick just ut", sa Peder. "Någon var inne på rum tolv."
 
-Dörren öppnades och Carsten stod i dörrhålet, enbart klädd i kalsonger. Han såg sömndrucken ut.
+"Nu?" sa skötaren. "Mitt i natten? Jag skulle inte tro det. Vi tar inte emot några besökare vid den här tiden."
 
-"Peder? Vad är klockan?"
+"Kanske någon som jobbar här?"
 
-Peder drog upp ärmen till den ljusblå sjukhuskoftan och såg på sitt armbandsur.
+"Knappast", sa skötaren. "Vi är bara fyra stycken och alla sitter här."
 
-"Hon är halv tolv på natten."
+Ännu en vitklädd man stack ut huvudet genom dörren.
 
-Carsten knep ihop ögonen.
+"Vad händer?"
 
-"Varför väcker du mig halv tolv på natten?"
+"Inget", sa den första. "Gå och lägg dig, Peder."
 
-"Jag behöver din hjälp."
+Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen, men kunde inte somna om.
 
-"Med vad?"
-
-"Du behöver avleda nattsköterskan och skötarna i ett par minuter."
-
-"Varför?"
-
-"Jag behöver vara själv på expeditionen i ett par minuter."
-
-Carsten var tyst en kort stund och ryckte sedan på axlarna.
-
-"Ok. Ge mig tio minuter."
-
-Carsten drog igen dörren igen och Peder gick mot sitt eget rum. Han gick så tyst han kunde, men när han passerade den upplysta expeditionen stack ändå en skötare ut huvudet.
-
-"Hur är det, kan du inte sova?"
-
-"Jag hade glömt min bok i sällskapsrummet", sa Peder och höll upp en sliten pocketbok.
-
-"Läser du chick-lit?" frågade skötaren.
-
-Peder såg på boken. Det var en roman av Denise Rudberg.
-
-"Tydligen. Säg inget till någon."
-
-Skötare flinade brett.
-
-"Din hemlighet är säker hos mig. Sov gott, Peder."
-
-Peder gick in på sitt rum och lämnade dörren lite på glänt. Han satte sig på sängkanten och väntade. Minuterna passerade långsamt. Utanför fönstret lät det som om någon tappade en glasflaska. Peder reste sig och gick fram till fönstret. Nere på gården, till hälften dold bland skuggorna vid motsatta husväggen stod en mörk gestalt, alldeles stilla. Det såg ut som den såg rakt mot honom. Peder kände nackhåren resa sig. Det ilade längs ryggraden. Någon började skrika, lågt till en början, men sedan allt högre. Peder kände pulsslagen i bröstet.
-
-Utanför hans rum hördes höjda röster och springande fotsteg.
-
-"Var är det?"
-
-"Rum sju, tror jag!"
-
-Carstens röst ekade i korridorerna.
-
-"Neeej! Ta bort dem! De är överallt! Överallt!"
-
-"Larma!" skrek nattsköterskan.
-
-Ett högt pipade ljud överröstade skriken.
-
-Peder smög ut ur rummet. I taket utanför sjuksköterskeexpeditionen blinkade siffran sju i rött. Expeditionen var övergiven. Peder gick in och stängde dörren efter sig. Han tog ner den röda pärmen märkt med rumsnummer tolv från hyllan och öppnade den. Den innehöll ett flikat register av grön plast. Han bläddrade igenom alla flikar, men hittade inga papper.
-
-"Fan."
-
-Peder ställde tillbaka pärmen igen och såg sig om i rummet. Datorn på skrivbordet var upplåst. Någon hade uppenbarligen blivit avbruten i sin journalföring. Peder lutade sig över skrivbordet, tog musen och klickade runt på skärmen. Han hittade en drop-down meny med alla avdelningens patienter, men han kunde inte se någon som hette Göran. Han rätade på sig igen. En papperskorg stod under skrivbordet, men den innehöll bara ett bananskal och en snusprilla.
-
-På väg ut såg Peder att dörren till läkemedelsrummet var öppen. Han gläntade på den. Ingen var där. Rummet var upptänt. På bänken under läkemedelshyllorna låg ett antal medicinlistor. Peder gick fram till bänken och bläddrade igenom listorna. Ingen Göran. Han vände sig om och såg en rondvagn stå parkerad mot ena väggen. På vagnen låg några placeringslistor i en liten hög. Peder löpte med pekfingret nerför rumsnumren. Tio, elva, tolv. Vid sidan om tolvan fanns ett namn och ett personnummer: Göran Eilertsson, 480713-1234.
-
-"Yes. Där har vi dig."
-
-Peder tog pappret, vek ihop det och stoppade det i fickan. Han lämnade dörren till läkemdelsrummet på glänt, precis som han hittat den och öppnade dörren ut i korridoren. Rösterna hade tystnat nere i korridoren. Några andra patienter gläntade på sina dörrar och plirade i mörkret.
-
-"Vad i helvete har du gjort där inne?"
-
-Peder snurrade runt. Bakom honom stod nattsköterskan med en liten bricka av papp. På brickan låg en spruta och några spritsuddar.
-
-
-"Du vet mycket väl att patienter inte får vistas inne på expeditionen."
-
-Nattsköterskan såg trött ut. Pannan var fuktig av svett.
-
-"Jag kan inte sova", sa Peder. "Jag ville bara be om en insomningstablett."
-
-"Jaha. Vänta här. Jag skall kolla vad du har fått ordinerat."
-
-Sköterskan gick in på expeditionen och stängde dörren efter sig. En kort stund senare kom han ut med ett piller i en liten plastmugg och en mugg med vatten.
-
-"Här."
-
-"Tack", sa Peder och vände sig om för att gå.
-
-"Du måste ta den när jag ser på", sa sköterskan.
-
-"Ursäkta?"
-
-"Jag måste se när du tar den, annars vet vi ju inte vilka mediciner du verkligen får i dig."
-
-Peder suckade. Han stoppade tabletten i munnen och tog en klunk vatten. Sedan gapade han och sträckte ut tungan.
-
-"Sådär. Bra så?"
-
-"Utmärkt", sa sköterskan. "God natt."
-
-Peder gick tillbaka till sitt rum. Han spottade ut insomningstabletten och stoppade den också under madrassen. Han tog av sig byxorna och koftan och kröp ner under täcket. Han tänkte på vad som egentligen hade hänt Göran och på vem det var som snokade runt i hans rum på nätterna. Var det samma person som besökte honom precis innan han dog? 
-
-Peder somnade efter en halvtimme och vaknade inte igen förrän solljuset lyste upp rummet. Han steg upp, tog på sig sina kläder och gick på toaletten ute i korridoren. Matsalen var nästan fullsatt, men han såg inte till Carsten. Han slog sig ner bredvid en överviktig kvinna med fetblänkande ansikte.
-
-"God morgon."
-
-Kvinnan svarade inte och Peder åt sin frukost under tystnad. Efteråt borstade han ihop smulorna efter sina smörgåsar och la dem i sin urdruckna kaffekopp. Han ställde koppen på vagnen och gick ut i korridoren igen. Utanför expeditionen mötte han syster Inger. Hon log mot honom och berättade att han hade blivit beviljad en timmes utevistelse om dagen, nere på den inhägnade gården.
-
-Peder gick på toaletten igen och eskorterades sedan genom den låsta dörren och ner för en ståltrappa.
-
-"Jag hämtar dig om en timme", sa skötaren. "Knacka på dörren om du vill in tidigare."
-
-Peder nickade och blev lämnad ensam på gårdsplanen. Han såg sig om. Gården var begränsad på tre sidor av höga byggnader av smutsigt rött tegel. Den återstående sidan stängdes till av ett högt plank av grönmålat trä. Själva gården var kullerstensbelagd och mitt på stod en bänk, omgiven av buskar. Peder drog koftan tätare omkring sig. Andedräkten bolmade genomskinligt vit i det råkalla vädret. Han promenerade långsamt fram mot planket och kikade ut genom en smal glipa, där trät var fäst i tegelväggen. På andra sidan syntes en av huvudgatorna på sjukhusområdet. Några människor vandrade på trottoarerna, ett par av dem klädda i vita sjukhuskläder. Någon enskaka bil körde förbi. Peder lyfte blicken. Planket såg ut att vara åtminstone två och en halv meter högt. Han drog handen över träytan. Väggen var slät och det fanns egentligen ingenting att klättra på.
-
-Peder började frysa och han gick tillbaka uppför trappan till dörren. Han bankade en lång stund innan han blev insläppt. Lunchen hade kommit och Peder tog för sig i matsalen. Eftermiddagen tillbringade han på rummet med pocketboken av Denise Rudberg, med korta pauser för kaffe och toalettbesök. På kvällen kom sköterskan med kvällsmedicinen och Peder låtsades som vanligt svälja ner den med vatten, innan han gömde den med de andra tabletterna. Han somnade tidigt och började drömma.
-
-
-### Peder drömmer om Carsten, Carsten dör ###
-
-Peder gick genom ett öde landskap. Marken var stekhet sand, som brände hans fötter. Torra buskar växte glest runt om kring stigen han gick på. Det var vindstilla. Luften var tung att andas. Han nådde basen av en kulle och kisade upp mot solen. En mörk siluett tornade upp sig på krönet. Peder började klättra uppför. Hans fötter blödde och färgade fotspåren röda.
-
-Uppe på kullen var en man korsfäst. Han hängde upp och ner, med spikar drivna genom händer och fötter. Huvudet var avskiljt från kroppen. Strängar av koagulerat blod hängde från halsen. Bröstkorgen rörde sig, som om han fortfarande andades. Det bubblade i såret på halsen, när luften drogs fram och tillbaka. Marken under var täckt av blod. 
-
-Vid sidan om korset stod ett altare av sten. På altaret låg mannens huvud på en bricka av silver. Peder kände igen mannen som Carsten. Hans långa grå hår var tovigt av stelnat blod. Ögonen var slutna, men läpparna rörde sig.
-
-"Peder", sa Carsten. "Hjälp mig."
-
-Det prasslade bakom Peder. Ur buskaget kom ett lamm gående. Det stannade en bit ifrån Peder och bräkte.
-
-Peder vaknade till och drog efter andan. Något var på tok. Han tände sänglampan och såg på sitt armbandsur. Klockan var efter midnatt. Han lås stilla i sängen och lyssnade. Allt var tyst. Han vred ut benen över sängkanten och ställde sig upp. Golvet kändes kallt mot hans bara fotsulor. Han gick fram till dörren och öppnade den någon centimeter. I korridoren hördes dämpade skratt från avdelningsexpeditionen. Ljuset därifrån speglade sig i den nybonade plastmattan på golvet.
-
-En skugga passerade framför dörrspringan och Peder ryggade bakåt. Han höll andan och väntade, sedan öppnade han dörren lite till såg ut i korridoren. En mörk gestalt drog något genom kortläsaren vid dörren ut från avdelningen. Låset klickade till och gestalten öppnade dörren. På väg ut stannade den till och vred huvudet åt sidan, som om den lyssnade efter något. Sedan gick den ut. Dörren gled igen med en liten smäll.
-
-Peder smet ut ur rummet och gick längs korridoren. Ingen la märke till honom när han passerade expeditionen. Han kunde se en man och en kvinna, som satt med ryggen mot honom. De såg ut att göra något vid datorn. Peder fortsatte nedåt i korridoren och stannade utanför rum nummer sju. Dörren var stängd. Peder knackade försiktigt.
-
-"Carsten?"
-
-Inget svar.
-
-Han tryckte ner handtaget och dörren gled upp. Rummet var släckt. Månljuset strilade in genom fönstret och fångades i en gardin. Något andades tungt på golvet vid sängen.
-
-"Hjälp", sa en svag röst.
-
-Peders kände något varmt och klibbigt under fötterna. Han sträckte sig över sängen och tände lampan. På golvet låg Carsten, med huvudet lutat mot sängbordet. Hans ansikte var blekt, andhämtningen tung och långsam. Han låg i en pöl av blod. Båda handlederna var uppskurna i armens längsriktning.
-
-"Carsten!"
-
-Peder kastade sig ner på knä. Han lyfte upp Carstens huvud. Ögonen var slutna, läpparna torra och spruckna. Det grå håret var mörkt och tovigt av blod.
-
-"Du måste härifrån, Peder. Hitta månen -- sök den allvetande! Rädda oss alla."
-
-Han rosslade till.
-
-"Jag har gömt dem i ventilationen."
-
-"Vad har du gömt?" frågade Peder.
-
-"Jag fick den av Göran. Du får inte låta dem ta den, Peder." 
-
-"Vad har du gömt, Carsten? Vem har gjort så här mot dig?"
-
-Andetagen blev ytligare och ytligare. Kroppen skälvde till och Carsten stönade svagt. Peder sträckte sig upp och tryckte på larmknappen vid sängen. En lampa började lysa rött. Ett högt pipade hördes i korridoren.
-
-### Peder hittar skinnpungen ###
-
-De två skötarna kom springande med nattsköterskan i släptåg. De ryggade tillbaka när de såg Peder och Carsten på golvet.
-
-"Du där -- ut härifrån!" skrek sköterskan åt Peder. Sedan pekade han på en av skötarna. "Du larmar narkos, Jörgen!"
-
-Den ena skötaren sprang ut i korridoren och tillbaka mot expeditionen. Sköterskan satte sig på knä på golvet och lyfte upp Carstens armar i luften. Peder satte sig på golvet i korridoren utanför, med ryggen mot väggen. Han satt fortfarande kvar när män och kvinnor i gröna kläder rullade ut Carsten på en bår. Slangar var fästa vid hans armar, en syrgasmask satt över hans mun. Nattsköterskan ställde sig bredvid Peder.
-
-"Sitter du kvar här?"
-
-"Hur är det med Carsten?"
-
-Sköterskan drog en hand genom håret.
-
-"Inte bra. Det ser inte alls bra ut. Han har förlorat mycket blod."
-
-Han la en hand på Peders axel.
-
-"Gå och lägg dig nu, Peder. Du kan inte sitta här ute i korridoren."
-
-Peder reste sig långsamt upp och gick tillbaka till sitt rum. Han la sig på sängen och stirrade upp i taket. Tankarna rusade och han kunde inte somna. Varje gång han slöt ögonen såg han Carsten framför sig i en pöl av blod. Han spruckna läppar rörde sig och han hörde hans sista ord, om och om igen. *Hitta månen, sök den allvetande, rädda oss alla*. Han låg kvar och vred sig i två timmar innan han steg upp och smög ut i korridoren igen. Den var helt öde. En radio skvalade lågt på sjuksköterskeexpeditionen. Han gick med korta steg längs ena väggen, tills han stod utanför Carstens rum igen. Han tryckte ner dörrhandtaget och öppnade dörren på glänt. Lamporna var släckta, men ett blekt månljus silade in genom fönstret. Blodpölen var upptorkad. Peder drog fram en stol till väggen under ventilationstrumman och klev upp. Gallret var fäst med två skruvar. Han såg sig om i rummet. Sängen var fortfarande obäddad. Garderobsdörren stod på glänt. Han hoppade ner på golvet och drog ut lådan i nattduksbordet. Den var tom så när som på ett paket näsdukar och några mynt. Peder tog en femtioöring mellan tummen och pekfingret och klev upp på stolen igen. Han skruvade ut skruvarna med myntet, lossade gallret och ställde ner det på golvet. Ventilationstrumman var mörk. Det brummande svagt långt därinne. Peder stack in armen kände över den släta plåten. Längst därinne kände han något, hårda föremål inuti något mjukt. Han tryckte in sin arm en bit till och fick grepp om det. Han drog ut det och höll upp det i månljuset. Det var en liten påse av skinn, hopknuten med en rem. Peder stoppade den innanför byxlinningen och satte tillbaka gallret och stolen på sina platser. Han smög tillbaka till sitt eget rum, förbi köket där några samtalade med dämpade röster.
-
-Han stängde försiktigt dörren efter sig och tände sänglampan. I det varma glödlampsskenet undersökte han påsen. Den var stor som en knuten näve, sydd i brunt sprucket skinn. Peder nöp med naglarna för att lossa den knutna remmen kring pungens hals, vidgade öppningen den med två fingrar och tömde ut innehållet på lakanen. Det var två identiska föremål av metall, stora som tändsticksaskar. Peder plockade upp den ena och vred på den. På en platta av metall satt en liten metallcylinder, med upphöjda prickar. Mot cylindern vilade ett metallbleck, uppslitsat i fingrar av olika längder. Det såg ut som mekaniken till en speldosa. Peder vände upp och ner på föremålet. På undersidan satt en gyllene sjutaggad stjärna infälld i metallplattan. Han vände upp undersidan på den andra speldosan. Där fanns en gyllene cirkel, omgiven av strålar. *En stjärna och en sol*, tänkte Peder. *Varför är de här speldosorna så viktiga?* Han kände med pekfingret längs en av metallcylindrarna. Det kändes precis som blindskrift.
-
-Peder stoppade tillbaka speldosorna i skinnpungen och knöt ihop den. Han drog fram stolen från hörnet och gömde den i sin egen ventilationstrumma. Han hann precis kliva ner på golvet igen innan dörren öppnades och en skötare stack in huvudet.
-
-"Så du *är* vaken, Peder. Jag tyckte väl jag hörde ljud."
-
-Peder satte sig på sängkanten.
-
-"Jag kan inte sova."
-
-"Vill du ha en insomningstablett?"
-
-"Nej, tack. Jag lägger mig och läser istället."
-
-"Som du vill."
-
-Dörren stängdes. Peder tog av sig byxorna och den ljusblå koftan. Han kröp ner under täcket och öppnade sin pocketbok. Han hann läsa tre sidor innan han somnade.
