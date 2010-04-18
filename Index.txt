@@ -4,10 +4,12 @@ Kapitel-1.md
 
 Brev-1.md
 
-Kapitel-2.md
-
 Kapitel-3.md
 
 Kapitel-4.md
 
 Kapitel-5.md
+
+Kapitel-6.md
+
+Kapitel-7.md
