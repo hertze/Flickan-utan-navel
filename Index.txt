@@ -13,3 +13,7 @@ Kapitel-5.md
 Kapitel-6.md
 
 Kapitel-7.md
+
+Kapitel-8.md
+
+Kapitel-9.md
