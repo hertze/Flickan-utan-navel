@@ -321,3 +321,4 @@ De ställde sängen vid ena väggen och väntade. Efter en halvtimme hade fortfa
 "Äh, det dräller ju av sjukvårdspersonal här. Vad skulle kunna hända?"
 
 Den förste skötaren ryckte på axlarna och så gick de iväg. De hittade en automat i väntrummet och tryckte ut var sin snickers. När de kom tillbaka var sängen tom.
+

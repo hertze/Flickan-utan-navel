@@ -333,3 +333,4 @@ Cecilia skakade på huvudet. "Nej, den är borta."
 "Hur då borta?"
 
 "Mitt barndomshem brann ner när jag var tolv år. Allt förstördes -- det fanns inget kvar."
+

@@ -310,3 +310,4 @@ Peder svarade inte. Han tog av sin leriga skinnjacka och sina skor. Hans far kom
 "Ingenting", sa Peder och gick förbi honom och uppför trappan. "Jag har ramlat."
 
 Hans far stod kvar och såg efter honom. Peder gick in på sitt rum och stängde dörren efter sig. Han drog ner persiennerna och drog för gardinerna, sedan sjönk han ner på golvet med ryggen mot väggen. Han skakade i hela kroppen, tårar vällde upp i ögonen. Illamåendet steg och sjönk i magen, det stack i fingrar och läppar. Peder var livrädd.
+

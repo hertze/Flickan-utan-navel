@@ -374,3 +374,4 @@ Peder nickade. "Ok. Jag följer dig ut. Skall jag följa dig till busshållsplat
 "Jag ringer", sa Peder och stängde ytterdörren efter henne.
 
 På köksbordet stod Cecilias vinglas orört. Peder rynkade pannan och tömde sedan glaset själv i tre djupa klunkar. Det snurrade ordentligt i huvudet och han fick hålla sig i räcket när han gick uppför trappan till sitt sovrum. När han tog av sig byxorna svajade han till och satte sig på golvet med en duns. Han krånglade av sig strumporna och la sig på sängen i bara kalsongerna. Han dåsade bort. Alkoholen luckrade upp hans drömmar till osammanhängande bilder som fladdrade förbi. Han hörde inte sin far skrika längre ner i korridoren.
+

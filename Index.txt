@@ -4,6 +4,8 @@ Kapitel-1.md
 
 Brev-1.md
 
+Kapitel-2.md
+
 Kapitel-3.md
 
 Kapitel-4.md
@@ -17,3 +19,8 @@ Kapitel-7.md
 Kapitel-8.md
 
 Kapitel-9.md
+
+Kapitel-10.md
+
+Kapitel-11.md
+

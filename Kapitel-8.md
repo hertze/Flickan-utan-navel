@@ -216,3 +216,4 @@ Peder fick möte och bländade ner ljuset tills bilen passerat. När han slog p�
 Luftkudden krympte undan efter någon minut. Det luktade krut och gas. Han fumlade efter bilbältesfästet, tryckte ner knappen och föll ur stolen, ner i bilens tak. Han fick upp bildörren och kröp ut. Bilmotorn var fortfarande igång. Helljusen lyste genom åkern, som två gröna kvastar. Peder såg sig om. Tio meter längre bort låg vägen han kommit från. Skuggan syntes inte till.
 
 Det ringde i öronen. Det smakade metall i munnen. Något varmt rann ur näsan och han torkade av sig på handryggen. Han såg röda strimmor av blod i ljuset från bilen. Han böjde sig in i kupén och slog av motorn. Ljusen slocknade och åkern blev mörk igen. Han gick ut till vägen och började följa den mot Staffanstorp. Han hade en obehaglig känsla av att vara iakttagen, men när han såg sig om fanns ingen där.
+

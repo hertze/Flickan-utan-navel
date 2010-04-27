@@ -610,3 +610,4 @@ Peder satte sig på sängkanten.
 "Som du vill."
 
 Dörren stängdes. Peder tog av sig byxorna och den ljusblå koftan. Han kröp ner under täcket och öppnade sin pocketbok. Han hann läsa tre sidor innan han somnade.
+
