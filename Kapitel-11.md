@@ -291,7 +291,7 @@ Peder smuttade på sin öl. "Jag har stuckit från sjukhuset. De försökte lås
 
 "Hmmm", sa Peder.
 
-"Vad som än finns på andra sidan dörren måste vara väldigt värdefullt", sa Boris.
+"Det måste vara värdefullt, det som finns på andra sidan dörren", sa Boris.
 
 "Betyder de här att jag inte kan komma förbi låset?"
 
@@ -301,9 +301,9 @@ Peder tog emot kuvertet och började öppna det, men hejdades av Boris.
 
 "Inte här. Du får kolla in grejerna hemma."
 
-"Behövs det ett batteri till chipet?"
+"Behövs det ström till chipet? Ett batteri?"
 
-Boris skakade på huvudet. "Nej, chipet är passivt. Det sitter en avläsare vid låscylindern. De bara till att hålla chipet i närheten när du dyrkar upp låset."
+Boris skakade på huvudet. "Nej, chipet är passivt. Det sitter en avläsare vid låscylindern. Se bara till att hålla chipet i närheten när du dyrkar upp låset."
 
 Peder la skinnetuit och kuvertet i sin egen jackficka och Boris reste sig upp.
 
