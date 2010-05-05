@@ -295,7 +295,7 @@ Cecilia ryckte på axlarna. "Ingen aning."
 
 "Den måste vara enorm. Hur kan man dölja en sådan så väl att ingen hittar den på tjugosex år?"
 
-"Cecilia slog sig för pannan. "*You hide it in plain sight*", sa hon.
+Cecilia slog sig för pannan. "*You hide it in plain sight*", sa hon.
 
 "Va?"
 
