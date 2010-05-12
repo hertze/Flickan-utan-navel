@@ -1,4 +1,4 @@
- #???#
+# Gravskändarna #
 
 Klockan var tio på förmiddagen. Peder hade sovit tungt hela natten, men var än mer om i kroppen efter att ha sovit på golvet. Cecilia hade stannat över och hade lånat hans säng och en av hans gamla t-shirts som nattlinne. De hade tagit bussen in till Malmö så snart de hade vaknat och ätit frukost på ett fik. Nu promenerade de längs grusgången som ledde fram till Malmö stadsbibliotek, förbi glasväggen och fram emot huvudingången. Det var en vacker vårdag, varm, utan moln på himmeln. De passerade svängdörrarna och gick fram till receptionen. En kvinna i scarf log mot dem.
 

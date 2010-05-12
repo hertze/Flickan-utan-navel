@@ -1,4 +1,4 @@
-#????#
+# ???? #
 
 Peder vaknade av att det knackade på ytterdörren. Han blinkade till i morgonljuset och vred sig runt på sidan i sängen. Det knackade igen, hårdare den här gången. Peder kastade ett blick på klockan på nattduksbordet. Klockan var halv elva. Han hörde ytterdörren öppnas på nedervåningen och ljudet av dämpade röster.
 

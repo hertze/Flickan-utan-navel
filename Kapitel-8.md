@@ -1,4 +1,4 @@
-#???#
+# ??? #
 
 Peder parkerade på gatan mittemot ingång 52 på sjukhusområdet. Magen kurrade och han öppnade kartongen och tog ett bett av sin hamburgare. Majonäs droppade ner på hans jeans och hans svor till. Dörren på passagerarsidan öppnades och Cecilia hoppade in. Hon var klädd i vita sneakers och en grön canvasjacka.
 
