@@ -62,6 +62,9 @@ Cecilia var tyst en stund. "Ska vi ses i kväll", sa hon sedan.
 
 "Då säger vi det. I morgon. Vi ses."
 
+
+### Vid Spillepengen ###
+
 Peder tog en taxi ut till Spillepengen och promenerade den sista biten till bron där han träffat den allvetande första gången. Trafiken brusade över hans huvud. Kartongerna låg kvar på marken, solkade och skrynkliga. Oljefaten fanns också där, fullt av aska. Peder stack ner ett finger bland de förkolnade träresterna. Askan var kall. Han rynkade pannan och torkade av fingret mot byxbenet.
 
 "Jag ska nog hitta dig", sa han. "Jag vet att du finns och jag ska nog hitta dig."
