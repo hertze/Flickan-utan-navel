@@ -1,4 +1,4 @@
-# ???? #
+# Början på något nytt #
 
 Peder satt vid sitt skrivbord på tidningen och stirrade på skärmen till sin laptop. Efter en rekordvarm sommar var september här och luften hade börjar bli svalare. Han svettades ändå där han satt och när han flätade fingrarna bakom huvudet syntes mörka fläckar på tyget i hans armhålor.
 

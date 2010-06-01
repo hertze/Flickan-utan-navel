@@ -1,4 +1,4 @@
-# ???? #
+# Den allvetande #
 
 När Cecilia berättade att speldosan hennes morfar byggt var förstörd kände Peder det som om någon ryckt undan mattan under honom. Hur skulle han nu komma vidare? Han var frustrerad och gick av och an utan att säga något. Cecilia stannade kvar en knapp halvtimme. Hon satt på sängen och såg på när Peder muttrade för sig själv. Innan de skiljdes åt bytte de telefonnummer och lovade att höras av om någon av dem fick upp ett nytt spår. På kvällen ringde Peder Jessicas nummer några gånger, men lyckades bara få tag på talsvaret. Efter fjärde försöket lämnade han ett meddelande.
 

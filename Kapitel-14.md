@@ -1,4 +1,4 @@
-# ???? #
+# Rum tretton #
 
 Peder var tillbaka på psyk akut igen. Civilpolisen från spaningsroteln visades in direkt till ett rum i korridoren och satte Peder på en brits. Ögonen var fortfarande rödsvullna och rinnande efter pepparsprayen, han såg bara otydliga konturer av vitklädda människor i korridoren utanför. En av poliserna klappade honom på axeln, innan de lämnade honom ensam.
 

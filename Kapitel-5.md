@@ -1,4 +1,4 @@
-# ???? #
+# Flykten från sjukhuset #
 
 Peder vaknade av sig själv på morgonen. Det var redan ljust ute. Han drog på sig byxorna och gick på toaletten, innan han gick till matsalen för att äta frukost. En ensam skötare satt och la patients på datorn när han passerade expeditionen. En mager man med stripigt grått hår och gles skäggväxt satt i soffan i korridoren och muttrade för sig själv. Matsalen var i stort sätt tom. Peder bredde två smörgåsar vid serveringsvagnen och försökte fylla en kaffemugg från termosen, men den var tom. Brunt skum pyste ner i hans kopp när han tryckte ner spaken i termoslocket. Syster Inger kom och fyllde på med rykande kaffe från en glaskanna. Hon hällde det sista direkt ner i Peders mugg.
 

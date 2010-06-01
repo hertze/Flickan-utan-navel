@@ -1,4 +1,4 @@
-# Varför dog Göran? #
+# Solen, månen och stjärnorna #
 
 
 "Nu har du varit här i några dagar, Peder. Hur trivs du?"
