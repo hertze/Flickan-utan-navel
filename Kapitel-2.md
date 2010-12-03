@@ -1,6 +1,6 @@
 # Lammet på kontoret #
 
-Peder satt framåtlutad vid sitt skrivbord på Sydsvenska dagbladet med hakan stödd mot ena handen. Han stirrade på skärmen till sin laptop och läpparna rörde sig när han läste texten tyst för sig själv. Det sved i ögonen och gnuggade dem med baksidan av handen och blinkade några gånger. Han lutade sig tillbaka, suckade och drog fingarna genom sitt rufsiga blonda hår.
+Peder satt framåtlutad vid sitt skrivbord på Sydsvenska dagbladet med hakan stödd mot ena handen. Han stirrade på skärmen till sin laptop och läpparna rörde sig när han läste texten tyst för sig själv. Det sved i ögonen och gnuggade dem med baksidan av handen och blinkade några gånger. Han lutade sig tillbaka, suckade och drog fingrarna genom sitt rufsiga blonda hår.
 
 Det surrade av ljud från kontorslandskapet omkring honom. Han hörde klickandet av tangenter blandas med telefonsamtal. Över kanten på skärmarna som begränsade hans arbetsyta såg han överdelen av kollegors huvuden. Trots att det nästan var lunchtid orkade den bleka februarisolen knappt lysa in genom fönstren.
 
