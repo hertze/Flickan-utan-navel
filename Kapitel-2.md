@@ -219,3 +219,4 @@ De båda unga männen såg på honom med medlidande.
 "Vi beklagar verkligen att du känner så", sa den första. "Ha en fortsatt bra kväll."
 
 Peder stängde dörren efter dem och återvände till TV-soffan. Han slog på TV:n och DVD-spelaren. *Princessa på vift*, med Audrey Hepburn låg kvar i spelaren och han startade filmen från början. Han tog upp sin laptop från ryggsäcken, startade den och öppnade texteditorn. *Snart klar*, tänkte han. *Sedan blir allt annorlunda.*
+
