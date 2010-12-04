@@ -7,15 +7,14 @@ Address:	Porfyrvägen 5
 Language:	Swedish
 LaTeX XSLT:	utkast.xslt
 
-# Brädet är uppställt och pjäserna sätts i rörelse #
 
-	Här får Kerstin sitt psykosgenombrott. Samuel sätter bollen i rullning.
+# Brädet är uppställt och pjäserna sätts i rörelse #
 
 Rösterna kom från alla håll. De sköljde över henne som vågor mot en strand. Män och kvinnor skrattade, grät och skrek om vartannat. Flickan satt i mörkret på golvet, med knäna uppdragna mot hakan. Hon tryckte handflatorna mot öronen och blundade hårt. Hennes tår kramade heltäckningsmattan.
 
 "Sluta!", skrek flickan och grät. "Sluta!"
 
-Rösterna fortsatte, men det gick inte att urskilja några ord. En mörk mansröst dånade från sängen i hörnet. En barnröst svarade från lampan i taket. Ett skrik kom emot flickan med sådan kraft att hon kastade sig åt sidan. Med skriket följde en stank av ruttna ägg. Flickan drog ihop sig i fosterställning, med händerna framför ansiktet. Hon andades snabbt och ytligt. Ett surrande ljud växte i styrka, tills hon kände det vibrera i magen. 
+Rösterna fortsatte, men det gick inte att urskilja några ord. En mörk mansröst dånade från sängen i hörnet. En barnröst svarade från lampan i taket. Ett skrik kom emot flickan med sådan kraft att hon kastade sig åt sidan. Med skriket följde en stank av ruttna ägg. Flickan drog ihop sig i fosterställning, med händerna framför ansiktet. Hon andades snabbt och ytligt. Ett surrande ljud växte i styrka, tills hon kände det vibrera i magen.
 
 "Sluta, jag orkar inte mer", viskade hon. Hon var röd och svullen kring ögonen.
 
@@ -51,9 +50,8 @@ Rösten kom nu från fåtöljen. Flickan sträckte sin hand in i elden. Lågorna
 
 Rösten omfamnade henne. Hon kände sig varm och trygg. Med ens förstod hon allt.
 
-# Lammet på kontoret #
 
-	Vi introducerar Peder. Han ser ett lamm i sitt arbetsbås, som ett förebådande. Han skrämmer Jessica, som vill avsluta förhållandet.
+# Lammet på kontoret #
 
 Peder satt framåtlutad vid sitt skrivbord på Sydsvenska dagbladet med hakan stödd mot ena handen. Han stirrade på skärmen till sin laptop och läpparna rörde sig när han läste texten tyst för sig själv. Det sved i ögonen och gnuggade dem med baksidan av handen och blinkade några gånger. Han lutade sig tillbaka, suckade och drog fingrarna genom sitt rufsiga blonda hår.
 
@@ -275,9 +273,8 @@ De båda unga männen såg på honom med medlidande.
 
 Peder stängde dörren efter dem och återvände till TV-soffan. Han slog på TV:n och DVD-spelaren. *Princessa på vift*, med Audrey Hepburn låg kvar i spelaren och han startade filmen från början. Han tog upp sin laptop från ryggsäcken, startade den och öppnade texteditorn. *Snart klar*, tänkte han. *Sedan blir allt annorlunda.*
 
-# Intagen #
 
-	Peder tas in på psyk akut och bevittnar Görans självmord.
+# Intagen #
 	
 Dörren vräktes upp och slog i väggen med en smäll. Luftdraget blåste en hög med pappersark av skrivbordet och fick gardinerna framför fönstret att bölja. En man i t-tröja och jeans rusade in. Han hade en stor brun fläck över hela bröstet och det våta tyget klibbade mot huden när han rörde sig. Hans blonda kalufs var rufsig och hans ögon rödsprängda. Han höll en hoprullad tidning i ena handen.
 
@@ -716,9 +713,8 @@ En skötare stod utanför expeditionen och såg åt Peder.
 
 Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen, men kunde inte somna om.
 
-# Solen, månen och stjärnorna #
 
-	Peder träffar Carsten och Cecilia. Carsten dör. Peder får skinnpungen med solen, månen och stjärnorna.
+# Solen, månen och stjärnorna #
 
 "Nu har du varit här i några dagar, Peder. Hur trivs du?"
 
@@ -1330,9 +1326,8 @@ Peder satte sig på sängkanten.
 
 Dörren stängdes. Peder tog av sig byxorna och den ljusblå koftan. Han kröp ner under täcket och öppnade sin pocketbok. Han hann läsa tre sidor innan han somnade.
 
-# Flykten från sjukhuset #
 
-	Peder hotas av Samuel. Han fejlkar ett EP-anfall och rymmer.
+# Flykten från sjukhuset #
 	
 Peder vaknade av sig själv på morgonen. Det var redan ljust ute. Han drog på sig byxorna och gick på toaletten, innan han gick till matsalen för att äta frukost. En ensam skötare satt och la patients på datorn när han passerade expeditionen. En mager man med stripigt grått hår och gles skäggväxt satt i soffan i korridoren och muttrade för sig själv. Matsalen var i stort sätt tom. Peder bredde två smörgåsar vid serveringsvagnen och försökte fylla en kaffemugg från termosen, men den var tom. Brunt skum pyste ner i hans kopp när han tryckte ner spaken i termoslocket. Syster Inger kom och fyllde på med rykande kaffe från en glaskanna. Hon hällde det sista direkt ner i Peders mugg.
 
@@ -1656,9 +1651,8 @@ De ställde sängen vid ena väggen och väntade. Efter en halvtimme hade fortfa
 
 Den förste skötaren ryckte på axlarna och så gick de iväg. De hittade en automat i väntrummet och tryckte ut var sin snickers. När de kom tillbaka var sängen tom.
 
-# Frimurarna på Fridhem #
 
-	Han bryter sig in i frimurarlogen. Han får mystiska mejl från någon som verkar ha svar på några av hans frågor.
+# Frimurarna på Fridhem #
 	
 Peder stod på trottoaren i ett villaområde på Fridhem i västra Malmö. Framför honom tornade en hög vitkalkad mur upp sig. Mellan spjälorna i en svartmålad järngrind såg han en stor villa, i gulmålad puts. Det var skymning och den fuktiga kylan trängde in genom kläderna. Peder såg sig omkring och satte sedan foten på en av grindens tvärribbor och hävde sig upp. Han saxade över toppen och hoppade ner på andra sidan. Han landade på en grusgång, täckt av ett tunt lager snö.
 
@@ -1994,9 +1988,8 @@ Cecilia skakade på huvudet. "Nej, den är borta."
 
 "Mitt barndomshem brann ner när jag var tolv år. Allt förstördes -- det fanns inget kvar."
 
-# Den allvetande #
 
-	Peder flyttar hem till prästgården. En dröm leder honom till den allvetande.
+# Den allvetande #
 	
 När Cecilia berättade att speldosan hennes morfar byggt var förstörd kände Peder det som om någon ryckt undan mattan under honom. Hur skulle han nu komma vidare? Han var frustrerad och gick av och an utan att säga något. Cecilia stannade kvar en knapp halvtimme. Hon satt på sängen och såg på när Peder muttrade för sig själv. Innan de skiljdes åt bytte de telefonnummer och lovade att höras av om någon av dem fick upp ett nytt spår. På kvällen ringde Peder Jessicas nummer några gånger, men lyckades bara få tag på talsvaret. Efter fjärde försöket lämnade han ett meddelande.
 
@@ -2458,9 +2451,8 @@ Peder såg på sitt armbandsur. Klockan var nästan fem.
 
 Peder la på och stoppade tillbaka telefonen i fickan. Han tog på sina ytterkläder, tog bilnycklarna från faderns jacka och klev in i bilen. Bensinmätaren visade på rött, men han hoppades att det skulle klara sig in till Malmö. På väg ut ur Staffanstorp stannade han till vid James Grill och köpte med sig en hamburgare och en kola.
 
-# Flickan utan navel #
 
-	De träffar Kerstin, flickan utan navel. Peder väjer på vägen hem och kör av vägen.
+# Flickan utan navel #
 	
 Peder parkerade på gatan mittemot ingång 52 på sjukhusområdet. Magen kurrade och han öppnade kartongen och tog ett bett av sin hamburgare. Majonäs droppade ner på hans jeans och hans svor till. Dörren på passagerarsidan öppnades och Cecilia hoppade in. Hon var klädd i vita sneakers och en grön canvasjacka.
 
@@ -2546,7 +2538,7 @@ Peder och Cecilia följde efter kvinnan med den blå västen in genom en hall oc
 
 "Kerstin tycker inte om att vara här ute. Hon dricker sitt kaffe på rummet. Vi har gett upp att få ut henne."
 
-"Är det så bra, det?" sa Cecilie.
+"Är det så bra, det?" sa Cecilia.
 
 Kvinnan i den blå västen tycktes inte höra henne.
 
@@ -2679,9 +2671,8 @@ Luftkudden krympte undan efter någon minut. Det luktade krut och gas. Han fumla
 
 Det ringde i öronen. Det smakade metall i munnen. Något varmt rann ur näsan och han torkade av sig på handryggen. Han såg röda strimmor av blod i ljuset från bilen. Han böjde sig in i kupén och slog av motorn. Ljusen slocknade och åkern blev mörk igen. Han gick ut till vägen och började följa den mot Staffanstorp. Han hade en obehaglig känsla av att vara iakttagen, men när han såg sig om fanns ingen där.
 
-# På Café Lundagård #
 
-	Peder och Cecilia pratar om hennes morfar, Lars-Erik. Peder hoppas på romantik, men det blir inget.
+# På Café Lundagård #
 	
 Peder vaknade av att det knackade på ytterdörren. Han blinkade till i morgonljuset och vred sig runt på sidan i sängen. Det knackade igen, hårdare den här gången. Peder kastade ett blick på klockan på nattduksbordet. Klockan var halv elva. Han hörde ytterdörren öppnas på nedervåningen och ljudet av dämpade röster.
 
@@ -3058,9 +3049,8 @@ Peder nickade. "Ok. Jag följer dig ut. Skall jag följa dig till busshållsplat
 
 På köksbordet stod Cecilias vinglas orört. Peder rynkade pannan och tömde sedan glaset själv i tre djupa klunkar. Det snurrade ordentligt i huvudet och han fick hålla sig i räcket när han gick uppför trappan till sitt sovrum. När han tog av sig byxorna svajade han till och satte sig på golvet med en duns. Han krånglade av sig strumporna och la sig på sängen i bara kalsongerna. Han dåsade bort. Alkoholen luckrade upp hans drömmar till osammanhängande bilder som fladdrade förbi. Han hörde inte sin far skrika längre ner i korridoren.
 
-# Anita #
 
-	Peder intervjuar nämndemannen Anite, innan hennes hus brinner ner. Peder ser Samuel.
+# Anita #
 	
 Nästa morgon hade Peder svårt att komma ur sängen. Huvudet kändes tungt och tungan torr. Klockan var åtta, himlen utanför var mulen. Nere i köket satt hans far med ett vinglas framför sig. Ögonen var rödsprängda, ansiktet var kritvitt och han darrade i hela kroppen.
 
@@ -3373,9 +3363,8 @@ Peder svarade inte. Han tog av sin leriga skinnjacka och sina skor. Hans far kom
 
 Hans far stod kvar och såg efter honom. Peder gick in på sitt rum och stängde dörren efter sig. Han drog ner persiennerna och drog för gardinerna, sedan sjönk han ner på golvet med ryggen mot väggen. Han skakade i hela kroppen, tårar vällde upp i ögonen. Illamåendet steg och sjönk i magen, det stack i fingrar och läppar. Peder var livrädd.
 
-# Samuel och nycklarna #
 
-	Peder pratar med den allvetande och får tipset att speldosorna är nycklar. Han träffar Boris, som hjälper honom med dyrkar.
+# Samuel och nycklarna #
 
 "Kan du beskriva honom?"
 
@@ -3704,9 +3693,8 @@ Han ställde sig vid busshållsplatsen och väntade. Han var ensam i kuren, luft
 
 På bussen slutade en pojke äta av sin Snickers och såg på Peder med öppen mun. Chokladen smälte mellan hans fingrar, gled ur hans grepp och föll på golvet i mittgången. Pojken rörde sig inte ur fläcken.
 
-# Månen #
 
-	De bryter sig in i logen igen, och tar sig in genom dörren bakom altaret. De hittar den sista speldosan. Senare låter de dosorna spela tillsammans.
+# Månen #
 
 "Skit -- här är folk."
 
@@ -4023,9 +4011,8 @@ Peder sök på sin underläpp.
 
 "Jag tror jag har en idé", sa han.
 
-# En grav i Malmö #
 
-	På biblioteket letar de efter tips på var bomben kan vara begravd. De inser att det är i en grav. De bryter sig in i en grav i Malmö, men hittar inget. Peder hämtas av polis
+# En grav i Malmö #
 
 Klockan var tio på förmiddagen. Peder hade sovit tungt hela natten, men var än mer om i kroppen efter att ha sovit på golvet. Cecilia hade stannat över och hade lånat hans säng och en av hans gamla t-shirts som nattlinne. De hade tagit bussen in till Malmö så snart de hade vaknat och ätit frukost på ett fik. Nu promenerade de längs grusgången som ledde fram till Malmö stadsbibliotek, förbi glasväggen och fram emot huvudingången. Det var en vacker vårdag, varm, utan moln på himmeln. De passerade svängdörrarna och gick fram till receptionen. En kvinna i scarf log mot dem.
 
@@ -4512,9 +4499,8 @@ Peder tryckte på och försökte klämma sig fram mellan dem. Den ena polismanne
 
 Den andra polisen tog fram en burk pepparsprej ur jackfickan och fyrade av mot Peders ögon. Det brände som eld. Tårarna sprutade och Peder föll ner på knä. De satte handfängsel på honom, lyfte upp honom på fötter och förde ut honom till en svart Volvo, som väntade ute på gårdsplanen. Vid köksbordet satt Peders far och grät.
 
-# Rum tretton #
 
-	Peder är tillbaka på psyk och sätts i rum nummer 13, en isoleringscell. Hjärta försöker få honom att tro att allt är en psykos. Samuel försöker förmå honom att ta sitt liv. Cecilia befriar Peder. Hemma i prästgården ser de att Peders far försökt ta sitt liv. De ringer ambulans.
+# Rum tretton #
 
 Peder var tillbaka på psyk akut igen. Civilpolisen från spaningsroteln visades in direkt till ett rum i korridoren och satte Peder på en brits. Ögonen var fortfarande rödsvullna och rinnande efter pepparsprayen, han såg bara otydliga konturer av vitklädda människor i korridoren utanför. En av poliserna klappade honom på axeln, innan de lämnade honom ensam.
 
@@ -4891,9 +4877,8 @@ Peder såg på henne.
 
 "Jag har kommit på något", sa hon. "Om jag har rätt har vi inte mycket tid på oss."
 
-# En kupol av glas #
 
-	Cecilia berättar att hon insett att de varit vid fel grav. Bomben ligger begravd i Staffanstorp. De tar sig dit och hittar bomben, men innan de hinner desarmera den dyker Hierta och Samuel upp. Showdown.
+# En kupol av glas #
 	
 De gick upp till badrummet på övervåningen och Cecilia hjälpte Peder tvätta underarmen med tvål och vatten. Hon letade runt bland skåpen tills hon hittade en flaska sårtvätt och en bomullstuss. Det sved i såret när hon rengjorde det och Peder bet ihop käkarna.
 
@@ -5234,9 +5219,7 @@ Peder snurrade runt och riktade ljuset mot rösten. Samuel stod i hörnet, med a
 
 "Samuel känner du ju", sa Hierta.
 
-
 ### Showdown ###
-
 
 Peder och Cecilia gick ut ur mausoleet och ner på grusgången. Överläkaren följde efter, med pistolen riktad mot dem. Samuel cirklade runt och ställde sig på andra sidan. Stenänglarna höjde sig över dem.
 
@@ -5466,8 +5449,6 @@ Peder skakade på huvudet.
 
 
 # Början på något nytt #
-
-	Peder är tillbaka på tidningen. Hans nya projekt är att hitta den allvetande.
 
 Peder satt vid sitt skrivbord på tidningen och stirrade på skärmen till sin laptop. Efter en rekordvarm sommar var september här och luften hade börjar bli svalare. Han svettades ändå där han satt och när han flätade fingrarna bakom huvudet syntes mörka fläckar på tyget i hans armhålor.
 
