@@ -5625,6 +5625,8 @@ När hon snubblar upp för trappan städade jag upp resterna efter speldosan och
 
 ## Datum ##
 
+<!-- Ändra på LEs klädsel till blus öppen över bröstet, med snara runt halsen. Se inledningen till Dan Browns Den förlorade symbolen. -->
+
 Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i november och ett ösregn smattrade mot vindrutan.
 
 "Jag väntar i bilen", sa han. "Lycka till."
@@ -5664,3 +5666,97 @@ Bägaren gick runt bland männen. En efter en doppade de sitt högra pekfinger i
 Efter ceremonin samlades vi i matsalen och åt middag. En brasa knastrade i den öppna spisen och drev sakta ut den fuktiga kylan. Vi åt under tystnad till en början, men så småningom kom samtalen igång. Jag kände spänningen rinna av mig och jag tror att jag drack för mycket vin -- så pass mycket att jag inte har ett tydligt minne av resten av kvällen.
 
 Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt rödfärgade pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
+
+### Datum ###
+
+Jag vaknade i natt igen. Klockan var halv fyra -- vargtimmen. Jag vet inte vad jag drömde, men jag minns känslan av att falla. Det var mörkt i sovrummet. Jag hörde Märta andas bredvid mig. Det kändes som om någon satt på mitt bröst. Jag hade svårt att få luft. Hjärtat bankade. Lakanen var fuktiga av svett.
+
+Först kunde jag inte röra mig. Jag låg alldeles stilla, inlåst i min egen kropp. Paniken slog emot mig som vågor mot en klippstrand. Det ryckte till i min högra fot och jag fick långsamt tillbaka kontrollen över mina muskler. Jag klev upp och gick ner till köket och drack ett glas vatten från kranen. Jag slog mig ner på en köksstol och såg ut genom fönstret på natten utanför. Ett tunt snötäcke låg över gatan. Det gnisstrade och glimmade i ljuset från gatlyktorna. Paniken ebbade ut och lämnade ett hål efter sig. Jag kände mig alldeles tom.
+
+Så här kan det inte fortsätta. Jag står inte ut.
+
+### Datum ###
+
+Håkan stod och väntade på mig på parkeringen utanför Fysikum. Han stod med ryggen lutad mot sin bil och rökte en cigarett. Jag blev förvånad över att se honom.
+
+"Hej, Lars-Erik", sa han. "Har du lust att följa med på en kopp kaffe?"
+
+Jag nickade åt min cykel, som stod fastlåst i stället.
+
+"Jag vet inte", sa jag. "Märta väntar på mig därhemma med middagen."
+
+"Det tar inte lång tid. En kopp."
+
+Jag ryckte på axlarna och vi hjälptes åt att lirka in min cykel i bagageutrymmet på hans Saab. Luckan gick inte att stänga helt, så Håkan surrade fast den med ett nylonrep.
+
+"Kaffe", sa jag när vi svängde ut från parkeringen.
+
+"Ja. Jag var på väg upp nå norr i ett ärende och kom att tänka på dig när jag passerade Teknis", sa Håkan.
+
+"Ärende?"
+
+"Jag ska leverera lite grönsaker till ett kvinnohärbärge på Getingevägen." Han vände huvudet mot mig och släppte för en sekund vägen med blicken. "Vill du följa med?"
+
+"Jag vet inte."
+
+"Det tar bara en minut. Jag lovar."
+
+Innan jag hann säga mer saktade han ner och svängde in på en grusuppfart framför ett tvåvåningshus i rött tegel. Ett kastanjeträd stod på gården, så stort att grenarna smekte fasaden.
+
+"Här. Ta den här." Håkan räckte mig en trälåda full av isbergssallad. "Du får inte berätta för någon om det här stället. Lova mig det."
+
+"Varför?"
+
+Jag såg upp mot huset. Det var mörkt och tillbommat. En gardin rörde sig i ett fönster på andra våningen.
+
+"Det är ett härbärge för misshandlade kvinnor", sa Håkan. "Hit flyr kvinnor som blir slagna av sina män. För att de ska vara trygga vill vi inte att platsen blir känd."
+
+"Ok."
+
+Vi gick runt på baksidan, in genom en liten port, och följde en plattlagd gång genom en vanskött trädgård. Fyra trästolar stod kring ett bord. Den bruna färgen flagnade. Håkan låste upp köksdörren och vi gick in.
+
+Köket var rent och prydligt. Rostfria kastruller hängde på väggarna. Håkan ställde ner sina lådor på köksbänken och jag gjorde likadant. Huset var alldeles tyst.
+
+"Bor det någon här nu?"
+
+Håkan nickade.
+
+"Här är fullt. Här är alltid fullt. Huset skulle behöva vara dubbelt så stort."
+
+När jag vände mig om stod en flicka i dörrspringan som skilde köket från resten av huset. Jag är värdelös på att bedöma ålder, men hon såg inte ut att ha varit mer än fem, sex år. Håret var långt och brunt och ögonen sorgsna. Runt ena ögat hade hon en blåtira och hennes överläpp var svullen.
+
+"Hej", sa Håkan. "Vill du ha ett äpple?"
+
+Flickan sa inget, men hon tog emot det gröna äpplet och försvann.
+
+"En del tar med sina barn hit också", sa Håkan. Han skakade på huvudet. "Jag blir alldeles iskall bara tänker på vad den lilla stackaren har fått uppleva." Han gjorde en rörelse med handen åt dörröppningen som flickan försvunnit genom.
+
+Jag kände mig sorgsen när vi lämnade huset. Ledsnaden tyngde hela min kropp. Håkan körde ner till stan och vi tog var sin kopp kaffe på Lundagård.
+
+"Jag har börjat förlora hoppet om människan", sa Håkan när han rörde ner sockret i sin kopp. "Jag har sett så mycket elände. Människan är kapabel till så mycket elände. Hon verkar inte klara att leva upp förtroendet vi fått från Gud."
+
+"Så illa är det inte", försökte jag.
+
+Han såg på mig.
+
+"Inte? Krig, tortyr, misshandel, våldtäkt, barn som slås ihjäl av sina föräldrar, barn som dödar andra barn, skogar som skövlas. Mänskligheten är destruktiv."
+
+"Men också kapabel till kärlek."
+
+"Är den verkligen det? Skulle vår värld se ut som den gör om människan verkligen kunde älska någon annan än sig själv."
+
+Håkan skakade på huvudet.
+
+"Jag tror att det vi kallar kärlek bara är förhärligad egoism. Vi försöker intala oss själva att allt är som det ska. Det är det inte."
+
+Jag tog en mun kaffe.
+
+"Men hoppet finns", sa jag. "Vi kan alltid bättra oss."
+
+"Jag tror inte det", sa Håkan. "Om man ser tillbaka på mänsklighetens historia verkar vi vara oförmögna att lära oss -- att förstå. Situationen har hela tiden blivit värre -- inte bättre."
+
+Vi drack resten av vårt kaffe under tystnad innan Håkan körde mig hem. Hans ord hängde kvar inom mig hela kvällen och jag hade svårt att somna när jag väl låg i sängen. Jag vände och vred på mig, utan att hitta en bekväm ställning. Märta snarkade i rummet intill. Var hoppet verkligen ute för mänskligheten? Kunde vi inte bättra oss? Levande bilder från kvällsnyheterna spelade för mitt inre öga -- bilder av krig, förstörda hem, bedrägeri och mord. Det knöt sig i min mage.
+
+### Datum ###
+
+Något förändrades efter kaffet med Håkan. Efter det har jag sett verkligheten omkring mig i ett nytt ljus. Det tycks mig som om världen är full av lidande. Vart jag än vänder min blick ser jag elände. När jag betraktar mina studenter, eller till och med främlingar på stan, ser jag bara självupptagenhet och egoism, oförmåga att se bortom sina egna behov. Har Håkan rätt? Är mänskligheten förtappad? Har vi fallit för långt från Gud? Är det försent?
