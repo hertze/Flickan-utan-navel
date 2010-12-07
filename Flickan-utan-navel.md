@@ -5554,7 +5554,7 @@ Peder tog en taxi ut till Spillepengen och promenerade den sista biten till bron
 
 # Breven #
 
-## Datum ## 
+### Datum ###
 
 [Datum direkt som nivå 2-titlar?]
 Märta förlorade synen på ett öga igen. Höger öga, den här gången. Hon vaknade på söndagen och berättade att det molvärkte i huvudet kring ögat. Jag trodde det var vanlig spänningshuvudvärk. Under gudstjänsten grep hon tag in min arm och viskade att hon såg suddigt. Hon var alldeles vit i ansiktet. Hennes underläpp darrade. Vi satt kvar tills gudstjänsten var över och sedan ledde jag henne ut till bilen. Kerstin ryckte Märta i kjolen och frågade vad som var fel, men vi berättade inte.
@@ -5569,7 +5569,7 @@ Till slut kom ögonläkaren tillbaka med en äldre man i vit rock och glasögon.
 
 "Du verkar lite svagare i den vänstra handen", sa Hougaard med dansk brytning. "Hur länge har det varit så?"
 
-"Jag vet inte", sa Märta. "Jag är högerhänt. Jag har inte tänkt på det."
+"Jag vet inte", sa Märta. "Jag är högerhändt. Jag har inte tänkt på det."
 
 "Har du kännt dig fumligare senaste tiden?"
 
@@ -5600,6 +5600,16 @@ Kerstin kramade mig. Jag smekte henne över ryggen.
 "Sjukdomen kan inte botas, men vi kan försöka hejda symtomen med medicin."
 
 Märta sa ingenting när vi körde hem. Jag koncentrerade mig på trafiken så det pulserade i öronen. Händerna värkte, så hårt jag höll i ratten. Kerstin sov i baksätet. I backspegeln såg jag solen gå i moln.
+
+### Datum ###
+
+Jag hade terminens första föreläsningsdag idag -- en alldeles färsk kurs. Salen fylldes av unga män och kvinnor, fortfarande brunbrända efter sommaren. Trots att det är september nu är det varmt. Det var kvavt i föreläsningssalen och min strupe torkade ut redan efter de första timmarna.
+
+När jag såg mig om i salen, på alla ansikten, såg jag inte en enda som verkade lyssna på mig. Alla såg ut att vilja vara någon annanstans. Utomhus, antar jag. Jag klandrade dem inte. Jag ville ju inte heller vara där.
+
+Prefekten säger att det är sista terminen jag behöver föreläsa på grundkursen. Jag hoppas vid allas vår fader att han står vid sitt ord den här gången. Jag har prövats tillräckligt för en karriär. Min själ dör en smula varje dag jag tvingas stå inför elever helt utan intresse och ambition -- som bara sitter av tiden. Jag tar mig gärna an studenter högre upp på utbildningsstegen -- där kurserna kokat ner till de begåvade. Där känner jag stimulans. Där får jag ett meningsutbyte. Där känner jag att jag bidrar till något viktigt, något större än jag själv.
+
+De kunde lika gärna ställa en åsna vid pulpeten på grundkursen. Då skulle åtminstone studenterna vakna till.
 
 ## Datum ##
 
