@@ -5633,49 +5633,13 @@ Märta lyfte upp min halvfärdiga speldosa och slungade den genom luften och in 
 
 När hon snubblar upp för trappan städade jag upp resterna efter speldosan och satt sedan kvar i mörkret och bad. Jag bad om hjälp att förstå -- förstå varför allt detta hemska kommit in i våra liv. Jag grät för mig själv och hoppades på ett svar, men inget kom.
 
-## Datum ##
+### Datum ###
 
-<!-- Ändra på LEs klädsel till blus öppen över bröstet, med snara runt halsen. Se inledningen till Dan Browns Den förlorade symbolen. -->
+Hösten har kommit, men solen värmer fortfarande mitt på dagen. Jag satte mig utomhus på lunchen för att äta mina smörgåsar. Från bänken jag satt på hade jag utsikt över en stor gräsmatta, där studenter satt på sina jackor och åt av sina matsäckar.
 
-Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i november och ett ösregn smattrade mot vindrutan.
+Jag såg upp mot himlen och insåg förnuftsmässigt att solstrålarna borde värma min hud, men jag kände ingenting. Det är som om ingenting når fram till mig längre, som om jag har en osynlig hinna mellan mig och omvärlden. Jag känner ingen glädje längre, det är som om inget längre spelar någon roll. Jag förstår inte hur det har kunnat bli så här. Jag vill inte ha det så här, men jag vet inte hur jag ska ta mig ur det.
 
-"Jag väntar i bilen", sa han. "Lycka till."
-
-"Kan du inte vänta inomhus åtminstone?"
-
-"Nej. När Riddarna av det Heliga Lammet sammanträder är vi andra inte välkomna i huset."
-
-Jag stod på trottoaren utanför det putsade vita huset och såg på honom. Han vevade ner vindrutan och log.
-
-"In med dig nu, innan du blir dyngsur."
-
-Jag höjde handen till avsked och gick mot ingången. Det fanns inga tända facklor idag. Hållarna gapade svarta och tomma, där de stod nerpålade i marken på var sin sida om grusgången. Utebelysningen lyste svagt ovanför trappan upp mot dörren.
-
-Professor Nilsonne väntade på mig i hallen. Han tog min våta överrock och ledde mig vidare in till ceremonisalen, utan att säga ett ord. Han såg allvarlig ut, såg bara rakt framför sig när han gick. Lamporna i ceremonisalen var släckta, men tända stearinljus lyste upp altaret, som en ö av ljus i mörkret. Stolar stod i en halvcirkel framför. Vid stolarna stod tio män, draperade i röda högtidsdräkter, med blänkande ordenskors kring halsen. Jag kände igen dem allihop från de vanliga ordensmöterna, även om jag aldrig umgåtts mera direkt med dem. Bankir Jakobsson nickade åt mig, men log inte. Vid altaret stod Gunnar Hierta med en avlång huvudbonad på sig, som en biskops mitra. Rubiner glittrade i skenet från stearinljusen.
-
-"Stig fram, broder", sa Hierta.
-
-Jag passerade stolarna och tygen prasslade när de tio männen satte sig. Jag föll på knä framför Hierta. Han la eggen av en kniv mot min strupe och jag svor att aldrig yppa det som skulle sägas i denna sal.
-
-Därefter följde ett skådespel, vars like jag aldrig tidigare upplevt. De visade mig hur bräckligt Guds rike är här på jorden, hur det ständigt utsätts för attacker från mörkret. De visade mig hur Riddarna av det Heliga Lammet fått till uppdrag att skydda riket från angrepp -- hur man skyddar mänskligheten från undergång.
-
-Jag kände hur bindeln föll från mina ögon. Plötsligt såg jag världen som den var. Saker jag tidigare tagit för självklara framstod i en helt ny dager. Jag hade fått en uppgift -- en livsuppgift -- den viktigaste uppgiften en människa kan ha. Jag hade fått det yttersta uppdraget.
-
-Hierta la knivbladet på min högra axel, sedan på min vänstra.
-
-"Jag dubbar dig till Riddare av det Heliga Lammet", sa han.
-
-Han vände sig till de andra och lyfte en gyllene bägare från altaret.
-
-"Nu samlas vi kring tecknet -- låt oss doppa våra fingrar i lammets blod."
-
-Bägaren gick runt bland männen. En efter en doppade de sitt högra pekfinger i en mörkt röd vätska. Bägaren kom sist till mig. Jag doppade mitt finger, drog upp det och lät vätskan droppa av innan jag räckte bägaren till Hierta. Han höjde den över sitt huvud.
-
-"Detta är lammets tecken", sa han. "Lammets tecken som förenar oss."
-
-Efter ceremonin samlades vi i matsalen och åt middag. En brasa knastrade i den öppna spisen och drev sakta ut den fuktiga kylan. Vi åt under tystnad till en början, men så småningom kom samtalen igång. Jag kände spänningen rinna av mig och jag tror att jag drack för mycket vin -- så pass mycket att jag inte har ett tydligt minne av resten av kvällen.
-
-Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt rödfärgade pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
+Nu för tiden är det bara tanken på min dotter som sprider en smula ljus i mitt hjärta.
 
 ### Datum ###
 
@@ -5770,3 +5734,128 @@ Vi drack resten av vårt kaffe under tystnad innan Håkan körde mig hem. Hans o
 ### Datum ###
 
 Något förändrades efter kaffet med Håkan. Efter det har jag sett verkligheten omkring mig i ett nytt ljus. Det tycks mig som om världen är full av lidande. Vart jag än vänder min blick ser jag elände. När jag betraktar mina studenter, eller till och med främlingar på stan, ser jag bara självupptagenhet och egoism, oförmåga att se bortom sina egna behov. Har Håkan rätt? Är mänskligheten förtappad? Har vi fallit för långt från Gud? Är det försent?
+
+### Datum ###
+
+Jag arbetade sent idag. Jag hade en massa labbrapporter att gå igenom och det fanns ingen chans att hinna med det under dagen. Klockan var efter åtta när jag släckte lampan på mitt skrivbord och låste dörren till arbetsrummet jag delade med de andra lektorerna. När jag gick mot utgången hörde jag ett märkligt ljud. Jag stannade och lyssnade i mörkret. En bil passerade på gatan utanför. Mina andetag pep i bröstet. Så kom ljudet igen. Det lät som om någon snyftade. Jag rörde inte en muskel medan jag försökte avgöra varifrån gråten kom. Från administrationsbyggnaden. Det lät som om det kom från administrationsbyggnaden. Jag gick långsamt ditåt, så ljudlöst jag någonsin kunde. Gråten tilltog i styrka och nu hörde jag något annat också -- ett mörkare bakgrundsljud -- mumlet av en mansröst. Ljuden ledde mig fram till prefektens dörr och jag blev stående, med ena handen på dörrhandtaget.
+
+"Nej", sa en kvinnoröst. "Nej, låt bli. Jag vill inte."
+
+"Sluta sjåpa dig", sa mansrösten. "Jag vet vad du vill. Jag ser det i dina ögon."
+
+Gråten växte till skrik. Tankarna ven genom mitt huvud. Tänk om jag hade fel? Jag tryckte ner dörrhandtaget och slängde upp dörren. 
+
+På golvet i prefektens arbetsrum låg en ung kvinna -- en flicka faktiskt -- på rygg. Hennes hår smetade mot hennes panna. Mascara rann utmed hennes kinder. Hennes tröja var upplyft så att brösten var bara. Hennes kjol och trosor var nerdragna till anklarna. En man med nerdragna byxor låg ovanpå henne. Han ryckte till när dörren slog i väggen, snurrade runt och satte sig på golvet, medan han drog upp sina kalsonger och byxor. Ansiktet var högrött och svettigt. Det var prefekten. 
+
+"Wagner", sa han och log. "Kan jag hjälpa dig med något?"
+
+Jag stod tyst och kände äcklet värka i magen.
+
+Han kom på fötter och fumlade med bältet. Flickan fick sina kläder i ordning och sprang ut ur rummet. Snyftandet dog bort i korridoren.
+
+"Det här är inte vad det ser ut som, Wagner. Inte alls."
+
+"Vad var det då?" sa jag.
+
+"Hon ville själv. Det var hon som började. Hon har hetsat mig hela terminen."
+
+"Hon är en student."
+
+Prefekten såg på mig under tystnad. Leendet smälte bort.
+
+"Din skenheliga lilla skit", sa han. "Jag ger väl blanka fan i vad du tycker. Om du vet vad som är bra för dig glömmer du det här."
+
+"Ursäkta?"
+
+"Om du vill ha någon framtid vid det här universitetet -- vid något universitet -- håller du käften. Har jag varit tydlig?"
+
+Jag vände på klacken och gick därifrån. Illamåendet hävde sig över mig i vågor. Jag gick in på en toalett, lutade mig över vasken och öppnade munnen, men ingen kom. Ilskan kokade i mig när jag cyklade hemåt.
+
+<!-- Här skall nog ett brev till fogas in, med lite annat tema. -->
+
+### Datum ###
+
+Vi kom nästan försent till gudstjänsten idag. Märta var svagare i högerbenet och det tog en evighet att hjälpa henne ur badet och i kläderna. Vi stormade in genom porten när klockorna börjat ringa, bara för att se att kyrkan bara var halvfull.
+
+När vi kommit till ro på en bänk slängdes porten upp igen och prefekten kom insläntrandes med sin hustru och tre döttrar. De gick altargången ner, som om de paraderade. Prefekten log och hälsade åt höger och vänster, som om han var en celebritet. Påfågel. Han log brett när han såg mig och blinkade med ena ögat. Jag vände bort blicken. Det smakade illa i munnen. Han är ondskefull. Hur kan han tillåtas komma in i vår kyrka? I Guds hus?
+
+Hela gudstjänsten passerade som i ett töcken. Märta satte en armbåge i sidan på mig varje gång det var dags att stå upp och sjunga. Varje ord i predikan skorrade falsk, varje strof i psalmerna likaså. Gudstjänsten var tom, i det närmaste parodisk. Jag kände mig febersjuk. Så snart det var över drog jag med mig Märta ut till bilen så snabbt jag kunde. Jag hörde prefekten ropa mitt namn från kyrktrappan, men jag låtsades inte höra.
+
+### Datum ###
+
+När natten kom låg jag sömnlös. Jag hörde Märta snarka i rummet intill. Sängkläderna var varma och klibbiga. Jag steg upp, drog fram skrivbordsstolen till fönstret och såg ut på världen utanför. Dimman skapade glorior kring gatlyktorna. Det kändes som en ål sprattlade i mitt inre. Jag kunde se den svarta blänkande kroppen framför mig, dess små själlösa ögon och fixerade mig. Jag tänkte på Håkans ord på cafét. Jag tänkte på profetian från flickan utan navel och på allt elände som fyllde världen. Plötsligt förstod jag. Det var som om någon dragit undan slöjan från mina ögon. Håkan hade rätt. Det fanns inget hopp kvar för mänskligheten. Den svarta ålen stillade sig med ens och lade sig till ro i min mage. På morgonen ringde jag kanslit och sjukanmälde mig.
+
+### Datum ###
+
+Jag satt i källaren och arbetade på en speldosa, när det ringde på ytterdörren.
+
+"Öppnar du, Lars-Erik?" ropade Märta uppifrån.
+
+Jag svarade inte. Efter en stund hörde jag hennes hasande steg, hennes käpp mot parketten. Sedan ljudet av ytterdörren som öppnades och mumlet av röster. Källardörren öppnades och Håkan kom ner för trappan.
+
+"Lars-Erik", sa han. "Vi är oroliga för dig."
+
+"Varför? För att jag missade mötet?"
+
+"Ja."
+
+Jag ryckte på axlarna. "Jag mådde inte bra."
+
+Håkan drog fram en stol och satte sig bredvid mig. Han såg rakt in i mina ögon, men jag vände bort blicken.
+
+"Vad står på?" sa han.
+
+Jag ryckte på axlarna igen och la ifrån mig urmakarskruvmejseln på arbetsbordet.
+
+"Du har rätt", sa jag efter en stund.
+
+"Hur sa?"
+
+Jag berättade om prefekten och om hur jag insett att hoppet var ute. Håkan nickade och la en hand på min axel.
+
+"Du är mogen", sa han. "Kom så åker vi och tar en kopp kaffe."
+
+## Datum ##
+
+<!-- Ändra på LEs klädsel till blus öppen över bröstet, med snara runt halsen. Se inledningen till Dan Browns Den förlorade symbolen. -->
+
+Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i november och ett ösregn smattrade mot vindrutan.
+
+"Jag väntar i bilen", sa han. "Lycka till."
+
+"Kan du inte vänta inomhus åtminstone?"
+
+"Nej. När Riddarna av det Heliga Lammet sammanträder är vi andra inte välkomna i huset."
+
+Jag stod på trottoaren utanför det putsade vita huset och såg på honom. Han vevade ner vindrutan och log.
+
+"In med dig nu, innan du blir dyngsur."
+
+Jag höjde handen till avsked och gick mot ingången. Det fanns inga tända facklor idag. Hållarna gapade svarta och tomma, där de stod nerpålade i marken på var sin sida om grusgången. Utebelysningen lyste svagt ovanför trappan upp mot dörren.
+
+Professor Nilsonne väntade på mig i hallen. Han tog min våta överrock och ledde mig vidare in till ceremonisalen, utan att säga ett ord. Han såg allvarlig ut, såg bara rakt framför sig när han gick. Lamporna i ceremonisalen var släckta, men tända stearinljus lyste upp altaret, som en ö av ljus i mörkret. Stolar stod i en halvcirkel framför. Vid stolarna stod tio män, draperade i röda högtidsdräkter, med blänkande ordenskors kring halsen. Jag kände igen dem allihop från de vanliga ordensmöterna, även om jag aldrig umgåtts mera direkt med dem. Bankir Jakobsson nickade åt mig, men log inte. Vid altaret stod Gunnar Hierta med en avlång huvudbonad på sig, som en biskops mitra. Rubiner glittrade i skenet från stearinljusen.
+
+"Stig fram, broder", sa Hierta.
+
+Jag passerade stolarna och tygen prasslade när de tio männen satte sig. Jag föll på knä framför Hierta. Han la eggen av en kniv mot min strupe och jag svor att aldrig yppa det som skulle sägas i denna sal.
+
+Därefter följde ett skådespel, vars like jag aldrig tidigare upplevt. De visade mig hur bräckligt Guds rike är här på jorden, hur det ständigt utsätts för attacker från mörkret. De visade mig hur Riddarna av det Heliga Lammet fått till uppdrag att skydda riket från angrepp -- hur man skyddar mänskligheten från undergång.
+
+Jag kände hur bindeln föll från mina ögon. Plötsligt såg jag världen som den var. Saker jag tidigare tagit för självklara framstod i en helt ny dager. Jag hade fått en uppgift -- en livsuppgift -- den viktigaste uppgiften en människa kan ha. Jag hade fått det yttersta uppdraget.
+
+Hierta la knivbladet på min högra axel, sedan på min vänstra.
+
+"Jag dubbar dig till Riddare av det Heliga Lammet", sa han.
+
+Han vände sig till de andra och lyfte en gyllene bägare från altaret.
+
+"Nu samlas vi kring tecknet -- låt oss doppa våra fingrar i lammets blod."
+
+Bägaren gick runt bland männen. En efter en doppade de sitt högra pekfinger i en mörkt röd vätska. Bägaren kom sist till mig. Jag doppade mitt finger, drog upp det och lät vätskan droppa av innan jag räckte bägaren till Hierta. Han höjde den över sitt huvud.
+
+"Detta är lammets tecken", sa han. "Lammets tecken som förenar oss."
+
+Efter ceremonin samlades vi i matsalen och åt middag. En brasa knastrade i den öppna spisen och drev sakta ut den fuktiga kylan. Vi åt under tystnad till en början, men så småningom kom samtalen igång. Jag kände spänningen rinna av mig och jag tror att jag drack för mycket vin -- så pass mycket att jag inte har ett tydligt minne av resten av kvällen.
+
+Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt rödfärgade pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
+
