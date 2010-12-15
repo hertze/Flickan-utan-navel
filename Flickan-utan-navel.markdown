@@ -5649,6 +5649,67 @@ Först kunde jag inte röra mig. Jag låg alldeles stilla, inlåst i min egen kr
 
 Så här kan det inte fortsätta. Jag står inte ut.
 
+<!-- 
+	Här behövs partier om hur Lars-Erik och Håkan träffades.
+-->
+
+### Datum ###
+
+<!-- 
+	Ändra på LEs klädsel till blus öppen över bröstet, med snara runt halsen. Se inledningen till Dan Browns Den förlorade symbolen. 
+
+-->
+
+Håkan parkerade sin gula Saab utanför vårt hus och ringde på dörren. Märta öppnade, men när hon såg vem det var gick hon bara därifrån utan att säga ett ord. Jag knöt min fluga framför spegeln i hallen, medan jag bad om ursäkt. Jag kände att jag ville förklara för honom -- berätta varför det är som det är mellan min hustru och mig, men han hejdade mig med en hand på min axel.
+
+"Det är er angelägenhet, Lars-Erik", sa han. "Du gör vad du behöver göra."
+
+Han körde oss genom Malmö och ut på Fridhem. Jag hade inte burit min frack sedan min promovering och tyget skar in i magen när jag satt. Det var en lättnad att få kliva ur bilen. Håkan hade parkerat bilen under en väldig kastanj och vi gick den sista biten till ett stort vitt hus av sten och puts.
+
+"Då var vi här", sa Håkan.
+
+Jag kände hjärtat slå häftigare när vi stod utanför en hög järngrind. En grusgång sträckte sig fram mot huset, med brinnande facklor stod i långa rader på var sin sida. Det var som en allé av eld.
+
+Håkan såg på sitt armbandsur. "Det är dags att gå in. Beredd?"
+
+Jag nickade bara till svar. Hur skulle jag kunna vara beredd? Jag hade ju ingen aning om vad som skulle hända. Jag litade till att vår fader vägledde mig.
+
+Vi gick längs grusgången under tystnad. Värmen från facklorna pulserade när vi passerade. På trappan upp mot entrén band Håkan en svart bindel för mina ögon, innan han tog mig under armen och ledde mig vidare. Jag hörde gångjärn knarra och ljudet av våra klackar mot trägolv. Det doftade av tobaksrök. Jag oroade mig för min klädsel. Jag hade inte hunnit kemtvätta fracken. Var det skitig? Förmodligen. Skulle någon märka det? En klump växte i min mage.
+
+Luften blev kyligare, trägolvet försvann och ersattes av sten. Ljudet av våra steg ekade omkring mig. Tobaksdoften övergick i dovare toner av fuktig sten och stearin. Det luktade precis som i Domkyrkan. Ett mummel av röster växte i styrka och omgav mig snart. Håkan ledde mig rakt fram, hejdade mig, släppte min arm och försvann.
+
+Jag stod själv, blind som en nyfödd hundvalp, i vad som kändes som en evighet. Slutligen tystnade sorlet och jag trä som skrapade mot sten.
+
+"Lars-Erik Wagner", sa en röst alldeles intill mitt ansikte. "Är du redo att dö, för att uppstå på nytt? Är du redo att upptas i vårt bröderneskap?"
+
+Jag fuktade mina läppar. Munnen var torr som en öken.
+
+"Jag är redo", sa jag. "Jag är redo att dö."
+
+Jag kände någon lossa min fluga och knäppa upp min skjorta, så mitt bröst och min strupe blottades.
+
+"Då börjar vi", sa rösten.
+
+Det som hände därefter har jag svurit att aldrig yppa -- jag har svurit inför Gud Fader Allsmäktig -- ett löfte vars brott bestraffas med döden. Jag kan inte säga hur länge ceremonin pågick, ty den upplevda tiden är ju som bekant relativ. När den var över -- när jag hade återuppstått som en broder -- avlägsnades bindeln och jag såg.
+
+Det tog en stund för mina ögon att vänja sig vid ljuset, även om det i själva verket var rätt skumt. Jag stod i en väldig sal, byggd av sten. Kolonner stod i rader och strävade upp mot det välvda taket. Långs däruppe skänkte Gud människan livet genom en beröring av pekfingret, precis som jag nu skänkts livet åter.
+
+Längs med raderna av kolonner stod stolar med röda dynor. På stolarna satt män klädda i frack, alla med blicken fäst vid mig. Jag kände en hand på min axel och jag såg till sist mannen, vars röst väglett mig. Den var en liten man, med glasögon och vitt hår, klädd i mörk mantel, med ett rött hakkors i en guldkedja kring halsen.
+
+"Välkommen in i gemenskapen, broder", sa han och log.
+
+Jag tog ett steg ut i rummet. Det svartnade för ögonen benen vek sig. Jag vacklade till och föll ner på knä. Håkan hjälpte mig upp.
+
+"Mår du dåligt?" sa han.
+
+"Nej. Blodtrycksfall. Jag har stått och spänt mig för länge."
+
+De andra männen reste sig från sina stolar och kom fram för att gratulera mig. Jag kände igen ett fåtal av dem. Prästen som döpt min dotter var där, Märtas läkare likaså. Jag såg några bekanta ansikten från universitetet också, men jag kunde inte minnas deras namn.
+
+"Välkommen, broder" sa de alla.
+
+I andra ändan av salen, framför en väldig trädörr, stod en lång man, med kutig rygg och svart hår kammat bakåt. Han såg rakt mot mig, med uttryckslös min. Bredvid honom stod en gestalt helt klädd i svart, med ansiktet i skugga. Det var som om hela han var en skugga.
+
 ### Datum ###
 
 Håkan stod och väntade på mig på parkeringen utanför Fysikum. Han stod med ryggen lutad mot sin bil och rökte en cigarett. Jag blev förvånad över att se honom.
@@ -5816,8 +5877,6 @@ Jag berättade om prefekten och om hur jag insett att hoppet var ute. Håkan nic
 "Du är mogen", sa han. "Kom så åker vi och tar en kopp kaffe."
 
 ## Datum ##
-
-<!-- Ändra på LEs klädsel till blus öppen över bröstet, med snara runt halsen. Se inledningen till Dan Browns Den förlorade symbolen. -->
 
 Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i november och ett ösregn smattrade mot vindrutan.
 
