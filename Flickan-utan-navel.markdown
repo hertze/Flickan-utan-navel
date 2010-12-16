@@ -5918,3 +5918,116 @@ Efter ceremonin samlades vi i matsalen och åt middag. En brasa knastrade i den 
 
 Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt rödfärgade pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
 
+### Datum ###
+
+Grenom Broder Lauréns försorg har jag till sist kommit i kontakt med en man i Gdansk, som lovat hjälpa mig med det material jag behöver. Jag körde till Karlskrona för att möta honom. Han visade sig vara en obehaglig liten typ, med smala rödsprängda ögon, som om han hade ständig hösnuva mitt i vintern. Det glimmade av guld varje gång han log. Han var inte den sortens man jag skulle lita på i vanliga fall, men det här är ju knappast ett vanligt fall. Dessutom har ju Laurén gått i god för honom.
+
+Polacken lät meddela att det skulle ta två månader att samla in de volymer jag behövde. Kanske en, om betalningen var bättre. Jag hälsade honom att pengar inte var ett problem.
+
+Jag visade min ritning för Hierta efter mötet i söndags. Jag gjorde mitt bästa för att förklara hur den var tänkt att fungera, men han var inte intresserad av några detaljer.
+
+"Kommer den fungera?" sa han bara.
+
+Jag nickade till svar. Givetvis kan jag inte veta säkert, men jag tror absolut att den kommer klara sin uppgift.
+
+"Kommer den att räcka till?" sa han sedan.
+
+"Ja", sa jag. "Jag har räknat in en betydande marginal."
+
+"Då så", sa Hierta. "Du har fria händer. Din budget är näst intill obegränsad. Säg vad du behöver, så får du det."
+
+Obegräsad budget. Om det hade gällt ett annat projekt hade jag varit överlycklig.
+
+"En sak till", sa Hierta. "Hur stor kommer den att bli?"
+
+"Stor", sa jag. Jag pekade på måtten på ritningen.
+
+"Stor", sa Hierta. "Har du funderat på var vi kan gömma den?"
+
+Det hade jag inte. Jag kliade mig i huvudet.
+
+"Vi tänker ut något", sa Hierta. Han la en hand på min axel. "Du ar gjort ett bra jobb, Wagner. Ett utmärkt jobb."
+
+### Datum ###
+
+Jag vaknade av att Märta skrek på mig från sovrummet intill mitt. Jag rusade yrvaken dit och fann henne på rygg i sängen. Hon flaxade med armarna, vit i ansiktet.
+
+"Hjälp mig, Lars-Erik! Hjälp mig!"
+
+"Vad har hänt?" frågade jag.
+
+"Mina ben rör sig inte", sa hon. "Hur jag än försöker."
+
+Hennes ben låg orörliga i sängen. Jag lyfte upp det ena en bit ovanför madrassen. Det var slappt och tungt, som dött kött. När jag släppte det studsade det i sängen.
+
+"Men gör något!" skrek Märta. "Gör något för helvete!"
+
+Jag klädde mig själv och hjälpte Märta i en klänning. Jag bar ut henne till bilen och körde henne till sjukhuset. Hennes neurolog, Hougaard, kom ner på akuten för att prata med oss. Det var ett skov av hennes sjukdom, sa han. Kanske skulle det gå tillbaka, kanske inte. Han ordinerade en kur kortison och lovade se till att hon skulle få sjukgymnastik, så benet inte skulle stelna.
+
+Jag tog honom avsides i korridoren sjukrummet.
+
+"Finns det verkligen inget mer att göra?" sa jag.
+
+Hougaard tog av sig sina glasögon och såg på mig. Det fanns medlidande i hans blick.
+
+"Jag beklagar. Det finns inte så mycket mer att göra. Inga fler behandlingar än den hon har. Men vi kan hoppas -- hoppas och tro."
+
+Tro? Jag inser att hans ord var avsedda som tröst, med de kändes nästan hånfulla.
+
+När vi kom hem satt Håkan och väntade på trappan utanför huset. Han hjälpte mig att hålla upp dörren när jag bar in Märta. Efteråt satt vi en stund på trappan. Han tände en cigarett och blåste blå rök genom näsborrarna.
+
+"Jag trodde du hade slutat", sa jag.
+
+Håkan sög i sig mer rök.
+
+"Jag har börjat igen. Varför inte, tänkte jag. Med tanke på allt."
+
+Jag nickade.
+
+"Dina grejer har kommit", sa han sedan. "De anlände till hamnen igår. Hierta har redan sett till att flytta dem till byggplatsen."
+
+"Byggplatsen?"
+
+"Ja, har du inte hört? Hierta har tänkt ut det perfekta gömstället."
+
+Jag hörde Märta ropa inifrån huset och jag reste mig upp.
+
+"Jag måste gå", sa jag.
+
+Håkan nickade.
+
+"Du börjar i morgon?"
+
+Jag nickade och vi tog farväl.
+
+### Datum ###
+
+Efter tio år vid universitetet, där jag fick tigga på mina bara knän för att få köpa in nya blyertspennor, var det en aning overkligt att se de resurser som brödraskapet mobiliserat. Hierta hade låtit resa ett tält över byggplatsen, för att skydda från insyn. Jag hörde via avvägar att man spridit en lögn om vad som försiggår där inne -- en genial lögn -- en lögn som var så fräck att ingen ifrågasatte den. Tidningen var till och med där idag och gjorde ett reportage.
+
+Hierta har hyrt in ett femtontal arbetare från Polen och Baltikum. Ingen av dem förstår svenska. De förstår knappt varandra. Jag är säker på att det är avsiktligt. Förmannen talar en smula tyska, så det är honom jag försöker kommunicera med. Det är tur han kan läsa mina ritningar.
+
+Materialet anlände igår natt och hammarslagen har ekat hela morgonen, när kopparslagaren formar plåtarna. Jag har precis börjat arbetet med att foga samman urverket. Med jämna mellanrum svindlar tanken över vad jag håller på med. Det känns som om jag beblandar mig med krafter utom mitt förstånd. Jag kan inte längre bedöma konsekvenserna av mina handlingar, utan litar helt och fullt på att brödraskapet och Gud Fader leder mina händer rätt. Jag är livrädd och uppspelt på en och samma gång. Det har passerat tre nätter utan sömn. Det är sju dagar sedan jag såg min dotter.
+
+### Datum ###
+
+Jag satt uppe i natt igen. Timmarna gick, medan jag låg vaken i min tältsäng i baracken. En klump av oro jäste i min mage. Tänk om det är fel? Tänk om hon hade fel? Jag kunde inte skaka av mig känslan. Till slut steg jag upp, satte mig vid ritbordet och bredde ut ritningarna. Kunde man verkligen vara säker?
+
+Det är för mycket som står på spel. Jag är tvungen att bygga in en säkerhetsbrytare. Jag satt och ritade tills solen gick upp, sedan lämnade jag hålögd över de reviderade ritningarna till förmannen. Han tittade på mig, sedan på ritningarna, innan han nickade och ropade något till sina mannar.
+
+Jag nämnde inget för Hierta eller Håkan. Ingen behöver veta.
+
+### Datum ###
+
+Den är färdig. Maskinen är färdig och begraven. Hierta har skickat hem sina arbetare, tältet är rivet. Det är gjort.
+
+Jag trodde jag skulle känna mig lättad. När jag tidigare såg fram emot den här dagen föreställde jag mig att jag skulle känna mig stolt och glad, men jag känner inget alls. Bara tomhet. Vad ska jag nu ta mig till? Vart ska jag ta vägen? Jag frågade Hierta, men han la bara en hand på min axel och sa att jag skulle återvända till min familj och mitt liv. Men jag har ju inget liv kvar -- bara spillror.
+
+### Datum ###
+
+Något har gått snett. Håkan sökte upp mig på institutionen idag och bad att få prata ostört. Tydligen hade man upptäckt två containrar i hamnen med spår av radioaktivitet. De skulle ha smugglats ut ur Sverige, men något hade gått fel. Håkan berättade att Hierta var bekymrad. Under inga villkor kunde man tillåta att polisen följde spåren till hemligheten vi gömt i Edencronas grav.
+
+Jag har en otäck känsla. Min övertygelse har anfrätts av tvivel. Har vi verkligen gjort rätt? Vem är vi att blanda oss i den uråldriga striden? Vilka tror vi att vi är?
+
+Jag frågade Håkan vad han trodde skulle hända. Han visste inte, men han uppmanade mig att göra mig av med allt som kunde knytas till hemligheten.
+
+Jag måste göra mig av med nycklarna. Jag har en kvar att sätta samman. Det måste bli klart ikväll, sedan måste jag bestämma mig för hur jag ska göra.
