@@ -55,9 +55,7 @@ Rösten omfamnade henne. Hon kände sig varm och trygg. Med ens förstod hon all
 
 # Lammet på kontoret #
 
-<!-- 
-	Vi ser en del av Peders vardag. Vi får ett förebådande av vad som skall komma, när han ser ett lamm i sitt kontorsbås. 
--->
+<!-- Vi ser en del av Peders vardag. Vi får ett förebådande av vad som skall komma, när han ser ett lamm i sitt kontorsbås. -->
 
 ### Märta får MS-diagnos @LES ###
 
@@ -2055,7 +2053,7 @@ Hon nickade.
 
 Hon såg mot utgången under tystnad.
 
-"Det är inte första gången jag har hört om dem. När jag var tio år dog min morfar -- i fängelse. De påstod att han tog sitt liv, men jag har aldrig trott på det. Inte min mamma heller. Min morfar var frimurare, medlem av en ordern med namnet Tolv."
+"Det är inte första gången jag har hört om dem. När jag var tio år dog min pappa -- i fängelse. De påstod att han tog sitt liv, men jag har aldrig trott på det. Inte min mamma heller. Min pappa var frimurare, medlem av en ordern med namnet Tolv."
 
 Peder lutade sig tillbaka i stolen.
 
@@ -2083,7 +2081,7 @@ Peder reste sig upp och tog på sig skinnjackan, medan Cecilia stängde sin kapp
 
 "Varför vill du hjälpa mig?" frågade Peder.
 
-"Jag vill veta vad som hände min morfar", svarade Cecilia. "Du då, varför gör du det här?"
+"Jag vill veta vad som hände min pappa", svarade Cecilia. "Du då, varför gör du det här?"
 
 Peder log. "Jag är journalist. Det här är en sjuhelvetes story. Jag känner det i magen."
 
@@ -2183,7 +2181,7 @@ Cecilia rynkade pannan.
 
 "Var har du fått nyckeln ifrån?" frågade Peder.
 
-"Morfar. Det är det enda jag har kvar efter honom. Jag har haft den kring halsen sedan jag var barn. Kan det vara en slump att den passade i de här speldosorna?"
+"Pappa. Det är det enda jag har kvar efter honom. Jag har haft den kring halsen sedan jag var barn. Kan det vara en slump att den passade i de här speldosorna?"
 
 Peder sög på underläppen. "Det är möjligt, men jag tror allt mindre på slumpen. Det finns ett samband, vi måste bara se det."
 
@@ -2207,19 +2205,19 @@ De var båda tysta en stund.
 
 "Säg."
 
-"Hmm. När jag fyllde fem, sommaren innan min morfar blev satt i fängelse, firade hela familjen min födelsedag hemma i vår trädgård. Mamma och morfar grälade och skrek -- jag ville bara försvinna. Det var sista gången de pratade med varandra över huvud taget. Jag fick en present av morfar, en sak han byggt själv. Han berättade att han lagt ner sin själ i den."
+"Hmm. När jag fyllde fem, sommaren innan min pappa blev satt i fängelse, firade hela familjen min födelsedag hemma i vår trädgård. Mamma och pappa grälade och skrek -- jag ville bara försvinna. Det var sista gången de pratade med varandra över huvud taget. Jag fick en present av pappa, en sak han byggt själv. Han berättade att han lagt ner sin själ i den."
 
 "Vad var det?"
 
 "Det var en speldosa, i formen av ett arabiskt palats. Det hade tinnar och torn, målade i rött och guld. Jag minns hur det glimmade i solen. Längst upp på den största lökkupolen satt en månskära."
 
-Hon rörde vid nyckeln i halskedjan. "Jag fick den här för att kunna dra upp den. Morfar sa att jag aldrig fick skiljas från den -- att den skulle vara vår lilla hemlighet."
+Hon rörde vid nyckeln i halskedjan. "Jag fick den här för att kunna dra upp den. Pappa sa att jag aldrig fick skiljas från den -- att den skulle vara vår lilla hemlighet."
 
 "Månen", sa Peder. "Det måste vara månen!"
 
 "Men tror du verkligen det?"
 
-"Du sa själv att din morfar var medlem av samma orden son Göran stulit från. Han hade stulit de här speldosorna, som dras upp av en nyckel du fått av din morfar. Det kan inte vara en tillfällighet. Det måste vara din morfar som har gjort de här två speldosorna. Han måste ha gjort den tredje också.
+"Du sa själv att din pappa var medlem av samma orden son Göran stulit från. Han hade stulit de här speldosorna, som dras upp av en nyckel du fått av din pappa. Det kan inte vara en tillfällighet. Det måste vara din pappa som har gjort de här två speldosorna. Han måste ha gjort den tredje också.
 
 Han hoppade upp och ställde sig på golvet framför Cecilia.
 
@@ -2242,7 +2240,7 @@ Något förändrades efter kaffet med Håkan. Efter det har jag sett verklighete
 
 ---
 	
-När Cecilia berättade att speldosan hennes morfar byggt var förstörd kände Peder det som om någon ryckt undan mattan under honom. Hur skulle han nu komma vidare? Han var frustrerad och gick av och an utan att säga något. Cecilia stannade kvar en knapp halvtimme. Hon satt på sängen och såg på när Peder muttrade för sig själv. Innan de skiljdes åt bytte de telefonnummer och lovade att höras av om någon av dem fick upp ett nytt spår. På kvällen ringde Peder Jessicas nummer några gånger, men lyckades bara få tag på talsvaret. Efter fjärde försöket lämnade han ett meddelande.
+När Cecilia berättade att speldosan hennes pappa byggt var förstörd kände Peder det som om någon ryckt undan mattan under honom. Hur skulle han nu komma vidare? Han var frustrerad och gick av och an utan att säga något. Cecilia stannade kvar en knapp halvtimme. Hon satt på sängen och såg på när Peder muttrade för sig själv. Innan de skiljdes åt bytte de telefonnummer och lovade att höras av om någon av dem fick upp ett nytt spår. På kvällen ringde Peder Jessicas nummer några gånger, men lyckades bara få tag på talsvaret. Efter fjärde försöket lämnade han ett meddelande.
 
 "Hej, det är jag. Varför ringer du inte tillbaka, Jessica? Jag fattar inte vad som hänt. Kan vi inte prata? Ring mig. Jag har inte kvar mitt gamla mobilnummer, men nu har fått mitt nya. Ring."
 
@@ -2262,9 +2260,9 @@ Mars månad gick långsamt. En sista snöstorm blåste in över Skåne och lamsl
 
 "Jag mår bra. Det var ett missförstånd."
 
-Två timmar senare hade han fått ett mejl med ett par bifogade PDF-filer med inscannade tidningsartiklar. Det var allt Sydsvenskan hade om Cecilias morfar, Lars-Erik Wagner. Där fanns en bröllopsannons från 1949, där Lars-Erik äktade Märta Larsson. Näst efter det kom en dopannons från 1950, där Agneta Wagner, dotter till Lars-Erik och Märta upptogs i den kristna gemenskapen. Sedan kom en liten notis om att Lars-Erik fått ett lektorat vid fysiska institutionen vid Lunds universitet i november 1965. Efter det verkade det ha varit tyst i många år. Fyra artiklar var från 1983. Lars-Erik hade då gripits av polis och anklagats för hot mot rikets säkerhet. Man spekulerade i vad han hade gjort, men fick inga säkra uppgifter. Han hade häktats och åtalats, utan att allmänheten fick reda på orsaken. Rättegången hade hållits i december och Lars-Erik hade då dömts till tjugo års fängelse. Domen hade omedelbart vunnit laga kraft och han hade förts direkt till fängelset. Den sista artikeln lyfte misstankar om justitiemord, med Lars-Erik hade tydligtvis avstått från att överklaga sitt öde.
+Två timmar senare hade han fått ett mejl med ett par bifogade PDF-filer med inscannade tidningsartiklar. Det var allt Sydsvenskan hade om Cecilias pappa, Lars-Erik Wagner. Där fanns en bröllopsannons från 1972, där Lars-Erik äktade Märta Larsson. Näst efter det kom en dopannons från 1979, där Cecilia Wagner, dotter till Lars-Erik och Märta upptogs i den kristna gemenskapen. Sedan kom en liten notis om att Lars-Erik fått ett lektorat vid fysiska institutionen vid Lunds universitet i november 1976. Sedan kom en bunt artiklar var från 1983. Lars-Erik hade då gripits av polis och anklagats för hot mot rikets säkerhet. Man spekulerade i vad han hade gjort, men fick inga säkra uppgifter. Han hade häktats och åtalats, utan att allmänheten fick reda på orsaken. Rättegången hade hållits i december och Lars-Erik hade då dömts till tjugo års fängelse. Domen hade omedelbart vunnit laga kraft och han hade förts direkt till fängelset. Den sista artikeln lyfte misstankar om justitiemord, med Lars-Erik hade tydligtvis avstått från att överklaga sitt öde.
 
-Peder stirrade på artiklarna han spridit ut framför sig. Det var troligt att det var Cecilias morfar som tillverkat de tre speldosorna solen, månen och stjärnorna -- men i vilket syfte? Varför hade två män dött för deras skull?
+Peder stirrade på artiklarna han spridit ut framför sig. Det var troligt att det var Cecilias pappa som tillverkat de tre speldosorna solen, månen och stjärnorna -- men i vilket syfte? Varför hade två män dött för deras skull?
 
 ### Peder flyttar hem ###
 
@@ -2374,7 +2372,7 @@ Det var tyst en stund i luren.
 
 "Han du hittat något nytt?" frågade Cecilia sedan.
 
-"Om speldosorna, menar du? Nej, inte egentligen. Jag har kollat upp en del tidningsartiklar från tiden kring när dig morfar greps."
+"Om speldosorna, menar du? Nej, inte egentligen. Jag har kollat upp en del tidningsartiklar från tiden kring när dig pappa greps."
 
 "Har du?"
 
@@ -3089,7 +3087,7 @@ Peder nickade.
 
 Peder nickade igen och de gick ner till köket. Hans far stekte ägg, som de åt på rostat bröd med salt och tabasco. De bryggde kaffe och dagens första koffein skärpte tanken och mildrade huvudvärken. När hans far promenerat iväg till jobbet gick Peder in i badrummet och studerade sig själv i spegeln. Näsan var nästa dubbelt så stor som vanligt. Torkat blod skavde i näsborrarna. En blåröd bula satt mitt i pannan. Den sprängde när han kände på den med ett finger. Han blötte bomull i varmt vatten från kranen och baddade näsan. Bomullen färgades rosa och röda strimmor rann i vasken, ner mot avloppet. Han klev in i duschkabinen och i de varma vattenstrålarna började musklerna slappna av.
 
-Efter duschen torkade Peder av sig och band handduken kring midjan. Han satte sig i skräddarställning på golvet i sitt pojkrum och tömde ut de båda speldosorna på golvet. Han petade på en av dem med pekfingret, tills de låg precis intill varandra, och tog sedan fram ett en bunt vita papper och la dem framför sig. På ett skrev han "Lars-Erik Wagner", på ett annat "XII" och på ett tredje "Kerstin Larsson". Han placerade arken i en triangel framför sig. *Hänger de ihop?* tänkte han. Speldosorna var tillverkade av Lars-Erik, Cecilias morfar. Cecilia visste att hennes morfar varit frimurare, medlem av en hemlig orden som gick under namnet XII, eller Riddarna av det Heliga Lammet. *Var passar Kerstin Larsson in?* Hon hade varit försvunnen i fem år, hos män i svarta kläder, där en hade kallat sig La Coeur. *Var det ordern som hållit henne gömd? Inte omöjligt.* Peder drog sitt fuktiga hår bakåt med ena handen. *Men vad gör speldosorna så speciella att de mördar folk för dem?*
+Efter duschen torkade Peder av sig och band handduken kring midjan. Han satte sig i skräddarställning på golvet i sitt pojkrum och tömde ut de båda speldosorna på golvet. Han petade på en av dem med pekfingret, tills de låg precis intill varandra, och tog sedan fram ett en bunt vita papper och la dem framför sig. På ett skrev han "Lars-Erik Wagner", på ett annat "XII" och på ett tredje "Kerstin Larsson". Han placerade arken i en triangel framför sig. *Hänger de ihop?* tänkte han. Speldosorna var tillverkade av Lars-Erik, Cecilias pappa. Cecilia visste att hennes pappa varit frimurare, medlem av en hemlig orden som gick under namnet XII, eller Riddarna av det Heliga Lammet. *Var passar Kerstin Larsson in?* Hon hade varit försvunnen i fem år, hos män i svarta kläder, där en hade kallat sig La Coeur. *Var det ordern som hållit henne gömd? Inte omöjligt.* Peder drog sitt fuktiga hår bakåt med ena handen. *Men vad gör speldosorna så speciella att de mördar folk för dem?*
 
 	// Det här behöver kollas. Vad vet han redan? Vilka ledtrådar skall belysas? Är det redan uppenbara saker han tänker över?
 
@@ -3174,7 +3172,7 @@ Han råkade skvalpa ut lite kaffe precis när han ställde ner koppen på bordet
 
 "En öppning, hoppas jag."
 
-Han berättade hur han lusläst pressklippen som rapporterade om hans morfars gripande, om rättegången som följde och om att ingen hade angivit vad han egentligen anklagats för.
+Han berättade hur han lusläst pressklippen som rapporterade om hennes pappas gripande, om rättegången som följde och om att ingen hade angivit vad han egentligen anklagats för.
 
 "Man döljer inte en sådan sak om det inte är något viktigt", sa Peder. "Riktigt viktigt. Det måste ha varit något enormt."
 
@@ -3202,15 +3200,15 @@ Cecilia rynkade pannan.
 
 "Jag är journalist", sa Peder. "Det är mitt jobb att få människor att avslöja sina hemligheter. Jag är rätt bra på det." Han åt upp hela kanelbullen på en gång och slickade sig om fingrarna. "En sak har jag inte fattat. Hur hamnade du på avdelning 87? Hur träffade du Göran och Carsten?"
 
-"Det var en ren slump. Först. Jag hade vikarierat en månad på psykoskliniken -- på avdelning 87 -- när Göran blev intagen. Efter två veckor berättade han vem han arbetat för, en ordern han kallade *Tolv*, samma orden som min morfar varit medlem av." Hon trummade med pekfingret på bordet. "Jag fastnade, blev fixerad. Jag blev besatt av att ta reda på vad som hänt min morfar."
+"Det var en ren slump. Först. Jag hade vikarierat en månad på psykoskliniken -- på avdelning 87 -- när Göran blev intagen. Efter två veckor berättade han vem han arbetat för, en ordern han kallade *Tolv*, samma orden som min pappa varit medlem av." Hon trummade med pekfingret på bordet. "Jag fastnade, blev fixerad. Jag blev besatt av att ta reda på vad som hänt min pappa."
 
-"Du sa att din morfar dog på grund av den här ordern. Varför tror du det?"
+"Du sa att din far dog på grund av den här ordern. Varför tror du det?"
 
-"Det är vad min mamma säger. Mormor och morfars äktenskap höll på att gå i kras ungefär när jag föddes. Först grälade de jämt, sedan slutade de prata med varandra. Min mamma berättar att man kunde skära kylan mellan dem med kniv. Morfar hade alltid varit en religiös man, men nu blev han besatt, fundamentalistisk. Han började smyga ut om kvällarna, sa upp bekantskapen med gemensamma vänner och började umgås med män min mormor aldrig träffat tidigare. När hon tryckte upp honom mot väggen ville han först inte säga något, men efter ett tag kröp det fram att han gått med i en frimurarloge."
+"Det är vad min mamma säger. Deras äktenskap höll på att gå i kras ungefär när jag föddes. Först grälade de jämt, sedan slutade de prata med varandra. Min mamma berättar att man kunde skära kylan mellan dem med kniv. Pappa hade alltid varit en religiös man, men nu blev han besatt, fundamentalistisk. Han började smyga ut om kvällarna, sa upp bekantskapen med gemensamma vänner och började umgås med män min mamma aldrig träffat tidigare. När hon tryckte upp honom mot väggen ville han först inte säga något, men efter ett tag kröp det fram att han gått med i en frimurarloge."
 
-Pede drack ur det sista kaffet ur koppen och ställde den på fatet.
+Peder drack ur det sista kaffet ur koppen och ställde den på fatet.
 
-"Han var alltid frånvarande därhemma", fortsatte Cecilia. "Mamma berättar att han till sist nästan var osynlig. Sommaren när jag fyllde fem år flyttade han hemifrån -- lämnade min mormor. Han hade då blivit invald i en ordern inom frimureriets innersta krets -- Tolv. Mormor hade gett honom ett ultimatum: äktenskapet eller frimureriet. Han hade valt det senare."
+"Han var alltid frånvarande därhemma", fortsatte Cecilia. "Mamma berättar att han till sist nästan var osynlig. Sommaren när jag fyllde tre år flyttade han hemifrån -- lämnade min oss. Han hade då blivit invald i en ordern inom frimureriets innersta krets -- Tolv. Mamma hade gett honom ett ultimatum: äktenskapet eller frimureriet. Han hade valt det senare."
 
 Hon tittade ner i bordsskivan.
 
@@ -3855,7 +3853,7 @@ Cecilia satte sig på Peders säng och tog av sig jackan.
 
 "Så, vad är det du kommit på?" sa hon.
 
-Peder berättade vad den allvetande sagt om speldosorna. Han pekade på pappersarken på väggen och läste högt. "Tolv, domedagsmaskin, profetia -- och speldosor. Tänk om", sa han. "Tänk om din morfar byggt en domedagsmaskin på uppdrag av Riddarna av den heliga lammet -- en maskin avsedd att utplåna hela mänskligheten?"
+Peder berättade vad den allvetande sagt om speldosorna. Han pekade på pappersarken på väggen och läste högt. "Tolv, domedagsmaskin, profetia -- och speldosor. Tänk om", sa han. "Tänk om din pappa byggt en domedagsmaskin på uppdrag av Riddarna av den heliga lammet -- en maskin avsedd att utplåna hela mänskligheten?"
 
 Cecilia rynkade pannan. "Men varför?"
 
@@ -3871,7 +3869,7 @@ Cecilia rynkade pannan. "Men varför?"
 
 Cecilia satt tyst.
 
-"Din morfar var fysiker", fortsatte Peder. "Jag tror han rekryterades för att bygga en domedagsmaskin -- en koboltbomb som skulle täcka planeten med radioaktivt nedfall, som förgör allt liv."
+"Din pappa var fysiker", fortsatte Peder. "Jag tror han rekryterades för att bygga en domedagsmaskin -- en koboltbomb som skulle täcka planeten med radioaktivt nedfall, som förgör allt liv."
 
 "Det här är för mycket", sa Cecilia och skakade på huvudet.
 
@@ -3881,7 +3879,7 @@ Cecilia satt tyst.
 
 "Jag är förstås inte säker", sa Peder. "Men jag tror de låser upp dörrarna till var nu bomben är gömd."
 
-"Du tror alltså att domedagsmaskinen blev byggd? Att min morfar faktiskt byggde klart den?" sa Cecilia.
+"Du tror alltså att domedagsmaskinen blev byggd? Att min pappa faktiskt byggde klart den?" sa Cecilia.
 
 "Polisen hittade aldrig plutoniumet, eller kobolten. Åtminstone två personer har dött på grund av de här." Han pekade på speldosorna. "Det är helt klart att något stort står på spel -- någon är beredd att gå väldigt långt för att hålla detta dolt. Den enda anledning jag kan komma på är att maskinen existerar. Riddarna av det heliga lammet vill förhindra att den hittas, innan den fullföljt sin uppgift."
 
@@ -3905,7 +3903,7 @@ Cecilia lutade sig bakåt mot väggen. Hon såg blek ut, som om allt blod försv
 
 "Men den tredje speldosan", sa Cecilia. "Även om vi hittar bomben har vi inte den tredje speldosan. Vi saknar fortfarande *månen*."
 
-"Kommer du ihåg att du berättade om en speldosa du fick i födelsedagspresent av din morfar?" sa Peder.
+"Kommer du ihåg att du berättade om en speldosa du fick i födelsedagspresent av din pappa?" sa Peder.
 
 "Ja, men den finns ju inte mer."
 
@@ -3988,7 +3986,7 @@ Peder satte sig vid sin dator och surfade runt på olika låstillverkares webbsi
 
 Ljudet strilade in mellan persiennerna när Peder vaknade. Klockan hade hunnit bli tre på eftermiddagen och han vinglade nerför trappan och ut i köket, där han drack en halv liter mjölk direkt ur paketet och startade kaffebryggaren. Han bredde några mackor, la på ostskivor och satte sig och åt vid bordet, medan kaffet rann ner i glaskannan. Han borstade brödsmulorna från bordet, ner i sin handflata och slängde dem i vasken. Han drack två muggar kaffe med mjölk stående vid diskbänken och gick sedan och duschade och klädde sig. Utomhus var det en ljummen dag med tunna molnslöjor över himmeln. Peder lämnade jackan öppen och tog en promenad runt byn.
 
-Han funderade över var Cecilias morfar hade gömt domedagsmaskinen. *En bomb av den kalibern måste var enorm. Var döljer man en sådan? Fanns den också i logen på Fridhem? I källaren? Fast jag såg ingen källaringång. Vilket förstås inte säger någonting. Om den finns där lär de ha dolt ingången.* Han skakade huvudet när han gick. Det verkade osannolikt. Polisen måste ha sökt där på åttiotalet. *Fast kände polisen till att Lars-Erik hörde till Riddarna?* Peder hade inte sett några tecken till det i de handlingar han läst.
+Han funderade över var Cecilias pappa hade gömt domedagsmaskinen. *En bomb av den kalibern måste var enorm. Var döljer man en sådan? Fanns den också i logen på Fridhem? I källaren? Fast jag såg ingen källaringång. Vilket förstås inte säger någonting. Om den finns där lär de ha dolt ingången.* Han skakade huvudet när han gick. Det verkade osannolikt. Polisen måste ha sökt där på åttiotalet. *Fast kände polisen till att Lars-Erik hörde till Riddarna?* Peder hade inte sett några tecken till det i de handlingar han läst.
 
 Han köpte en glass på ICA och slog sig ner på en bänk utanför. Solen bröt igenom molnen och han tog av sig skinnjackan och hängde den över ryggstödet. Bilar parkerade och körde iväg om vart annat på parkeringen framför honom.
 
@@ -4063,7 +4061,7 @@ På bussen slutade en pojke äta av sin Snickers och såg på Peder med öppen m
 
 # Månen #
 
-<!-- De bryter sig in i logen och hittar Månen, samt brev från Cecilias morfar. -->
+<!-- De bryter sig in i logen och hittar Månen, samt brev från Cecilias pappa. -->
 
 ### Upptagen bland riddarna @LES ###
 
@@ -4239,7 +4237,7 @@ Långt efter det att Peder tappat räkningen av hur många lådor han undersökt
 
 "Du, Cecilia", sa han. "Titta." Han räckte över mappen.
 
-Hon läste på det översta arket under tystnad. "Det är brev", sa hon sedan. "Från min morfar." Hon bläddrade i högen.
+Hon läste på det översta arket under tystnad. "Det är brev", sa hon sedan. "Från min pappa." Hon bläddrade i högen.
 
 "Vem är de till?" frågade Peder.
 
@@ -4247,7 +4245,7 @@ Hon läste på det översta arket under tystnad. "Det är brev", sa hon sedan. "
 
 Peder ryckte på axlarna. "Jag vet inte. Jag antar att Riddarna ville hålla dem hemliga. När är de skrivna?"
 
-"De första breven är daterade 1978." Hon bläddrade igenom bunten. "De sista är från 1985. Han måste ha skrivit under tiden han satt i fängelse."
+"De första breven är daterade 1979." Hon bläddrade igenom bunten. "De sista är från 1990. Han måste ha skrivit under tiden han satt i fängelse."
 
 Hon stoppade tillbaka arken i mappen igen. "De här behåller jag."
 
@@ -4416,7 +4414,7 @@ Cecilia slog sig för pannan. "*You hide it in plain sight*", sa hon.
 
 Peder lutade ryggen mot sänggaveln.
 
-Då borde vi leta efter en byggnation, eller något liknande, som uppfördes tiden innan din morfar greps -- någon gång i början av åttiotalet."
+Då borde vi leta efter en byggnation, eller något liknande, som uppfördes tiden innan din pappa greps -- någon gång i början av åttiotalet."
 
 "Hur gör vi det?"
 
@@ -5436,7 +5434,7 @@ Det var oredigt i hans fars sovrum. Peder ställde tillbaka sänglampan, som sla
 
 "Så vad är det du har kommit på?" sa Peder.
 
-"Jag kom på en sak när jag läste breven från min morfar. Vi hade rätt när vi antog att riddarna gömt bomben i en grav."
+"Jag kom på en sak när jag läste breven från min pappa. Vi hade rätt när vi antog att riddarna gömt bomben i en grav."
 
 Peder blåste i koppen och tog en liten klunk.
 
@@ -5691,7 +5689,7 @@ De gick närmare och Peder la en hand mot det svala glaset. Han torkade av damme
 
 De stod stilla en lång stund och såg domedagsmaskinens urverk röra sig i skenet från ficklampan. Det var skrämmande och vackert på en gång.
 
-Till slut tog Peder ett djupt andetag. "Din morfar var ett geni", sa han.
+Till slut tog Peder ett djupt andetag. "Din far var ett geni", sa han.
 
 "Ja."
 
