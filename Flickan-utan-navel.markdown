@@ -55,7 +55,58 @@ Rösten omfamnade henne. Hon kände sig varm och trygg. Med ens förstod hon all
 
 # Lammet på kontoret #
 
-<!-- Vi ser en del av Peders vardag. Vi får ett förebådande av vad som skall komma, när han ser ett lamm i sitt kontorsbås. -->
+<!-- 
+	Vi ser en del av Peders vardag. Vi får ett förebådande av vad som skall komma, när han ser ett lamm i sitt kontorsbås. 
+-->
+
+### Märta får MS-diagnos @LES ###
+
+[Datum direkt som nivå 2-titlar?]
+Märta förlorade synen på ett öga igen. Höger öga, den här gången. Hon vaknade på söndagen och berättade att det molvärkte i huvudet kring ögat. Jag trodde det var vanlig spänningshuvudvärk. Under gudstjänsten grep hon tag in min arm och viskade att hon såg suddigt. Hon var alldeles vit i ansiktet. Hennes underläpp darrade. Vi satt kvar tills gudstjänsten var över och sedan ledde jag henne ut till bilen. Kerstin ryckte Märta i kjolen och frågade vad som var fel, men vi berättade inte.
+
+Märtas syn blev sämre under dagen och på kvällen hade det blivit svart för henne. Hon var helt blind på höger öga. Jag satte familjen i bilen och körde till sjukhuset. Märta undersöktes av en ögonläkare. Han tittade i hennes öga med ett mikroskop och sa att hon hade en inflammation i synnerven. Han bad oss vänta kvar, medan han kallade på en kollega.
+
+Det dröjde. Kerstin blev otålig och slog sina klackar i golvet tills jag trodde jag skulle bli tokig. Hon var nog trött. Säkert hungrig också. Märta kramade min hand tills den vitnade.
+
+Till slut kom ögonläkaren tillbaka med en äldre man i vit rock och glasögon. Han presenterade honom som *Doktor Hougaard*, neurolog. Neurologen bad Märta ligga ner på en brits och så undersökte han hennes muskelkraft, känsel och reflexer. Han frågade henne om hon tyckte det kändes konstigt när hon satte hakan i bröstet. Märta testade och grimaserade av obehag.
+
+"Det ilar längs ryggen", sa hon.
+
+"Du verkar lite svagare i den vänstra handen", sa Hougaard med dansk brytning. "Hur länge har det varit så?"
+
+"Jag vet inte", sa Märta. "Jag är högerhändt. Jag har inte tänkt på det."
+
+"Har du kännt dig fumligare senaste tiden?"
+
+"Ja, lite kanske. Jag tappar saker."
+
+"Har du haft synbekymmer av det här slaget förut?"
+
+Det hade hon. För ett år sedan nästan på dagen. Fast den gången hade det varit det andra ögat. Det hade inte heller blivit lika illa, bara en smula suddigt.
+
+"Jag beklagar", sa Doktor Hougaard. "Jag tror frun lider av en sjukdom som kallas *multipel skleros*.
+
+Märta skakade. Jag frågade om det var allvarligt. Neurologen nickade.
+
+"Det finns ingen bot", sa han. "Sjukdomen leder till döden."
+
+Jag kände blodet försvinna från mitt huvud. Det snurrade och jag sjönk ner på en stol. Kerstin försökte krypa upp i mitt knä.
+
+Doktor Hougaard berättade om sjukdomen, hur små inflammationer i centrala nervsystemets vita substans förstörde nervernas signalvägar och ledde till förlamningar och störd känsel. Jag tänkte på hur en av mina studenter råkat kortsluta en transformator på institutionen, så kablarna smälte och förstördes.
+
+"Hur länge?" sa jag. "Hur långt har hon kvar?"
+
+Kerstin kramade mig. Jag smekte henne över ryggen.
+
+"Flera år. Vanligen lever man med sjukdomen i flera år."
+
+"Och det finns inget att göra?"
+
+"Sjukdomen kan inte botas, men vi kan försöka hejda symtomen med medicin."
+
+Märta sa ingenting när vi körde hem. Jag koncentrerade mig på trafiken så det pulserade i öronen. Händerna värkte, så hårt jag höll i ratten. Kerstin sov i baksätet. I backspegeln såg jag solen gå i moln.
+
+---
 
 Peder satt framåtlutad vid sitt skrivbord på Sydsvenska dagbladet med hakan stödd mot ena handen. Han stirrade på skärmen till sin laptop och läpparna rörde sig när han läste texten tyst för sig själv. Det sved i ögonen och gnuggade dem med baksidan av handen och blinkade några gånger. Han lutade sig tillbaka, suckade och drog fingrarna genom sitt rufsiga blonda hår.
 
@@ -281,6 +332,34 @@ Peder stängde dörren efter dem och återvände till TV-soffan. Han slog på TV
 # Intagen #
 
 <!-- Peder får ett raseriutbrott på sin redaktör och tas in på psyk akut. Han kommer till avdelning precis då man funnit Göran död. -->
+
+### LES är desillusionerad över sitt jobb @LES ###
+
+Jag hade terminens första föreläsningsdag idag -- en alldeles färsk kurs. Salen fylldes av unga män och kvinnor, fortfarande brunbrända efter sommaren. Trots att det är september nu är det varmt. Det var kvavt i föreläsningssalen och min strupe torkade ut redan efter de första timmarna.
+
+När jag såg mig om i salen, på alla ansikten, såg jag inte en enda som verkade lyssna på mig. Alla såg ut att vilja vara någon annanstans. Utomhus, antar jag. Jag klandrade dem inte. Jag ville ju inte heller vara där.
+
+Prefekten säger att det är sista terminen jag behöver föreläsa på grundkursen. Jag hoppas vid allas vår fader att han står vid sitt ord den här gången. Jag har prövats tillräckligt för en karriär. Min själ dör en smula varje dag jag tvingas stå inför elever helt utan intresse och ambition -- som bara sitter av tiden. Jag tar mig gärna an studenter högre upp på utbildningsstegen -- där kurserna kokat ner till de begåvade. Där känner jag stimulans. Där får jag ett meningsutbyte. Där känner jag att jag bidrar till något viktigt, något större än jag själv.
+
+De kunde lika gärna ställa en åsna vid pulpeten på grundkursen. Då skulle åtminstone studenterna vakna till.
+
+### Den deprimerade lunchen @LES ###
+
+Hösten har kommit, men solen värmer fortfarande mitt på dagen. Jag satte mig utomhus på lunchen för att äta mina smörgåsar. Från bänken jag satt på hade jag utsikt över en stor gräsmatta, där studenter satt på sina jackor och åt av sina matsäckar.
+
+Jag såg upp mot himlen och insåg förnuftsmässigt att solstrålarna borde värma min hud, men jag kände ingenting. Det är som om ingenting når fram till mig längre, som om jag har en osynlig hinna mellan mig och omvärlden. Jag känner ingen glädje längre, det är som om inget längre spelar någon roll. Jag förstår inte hur det har kunnat bli så här. Jag vill inte ha det så här, men jag vet inte hur jag ska ta mig ur det.
+
+Nu för tiden är det bara tanken på min dotter som sprider en smula ljus i mitt hjärta.
+
+### Ångest i vargtimmen @LES ###
+
+Jag vaknade i natt igen. Klockan var halv fyra -- vargtimmen. Jag vet inte vad jag drömde, men jag minns känslan av att falla. Det var mörkt i sovrummet. Jag hörde Märta andas bredvid mig. Det kändes som om någon satt på mitt bröst. Jag hade svårt att få luft. Hjärtat bankade. Lakanen var fuktiga av svett.
+
+Först kunde jag inte röra mig. Jag låg alldeles stilla, inlåst i min egen kropp. Paniken slog emot mig som vågor mot en klippstrand. Det ryckte till i min högra fot och jag fick långsamt tillbaka kontrollen över mina muskler. Jag klev upp och gick ner till köket och drack ett glas vatten från kranen. Jag slog mig ner på en köksstol och såg ut genom fönstret på natten utanför. Ett tunt snötäcke låg över gatan. Det gnisstrade och glimmade i ljuset från gatlyktorna. Paniken ebbade ut och lämnade ett hål efter sig. Jag kände mig alldeles tom.
+
+Så här kan det inte fortsätta. Jag står inte ut.
+
+---
 	
 Dörren vräktes upp och slog i väggen med en smäll. Luftdraget blåste en hög med pappersark av skrivbordet och fick gardinerna framför fönstret att bölja. En man i t-tröja och jeans rusade in. Han hade en stor brun fläck över hela bröstet och det våta tyget klibbade mot huden när han rörde sig. Hans blonda kalufs var rufsig och hans ögon rödsprängda. Han höll en hoprullad tidning i ena handen.
 
@@ -723,6 +802,15 @@ Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen
 # Solen, månen och stjärnorna #
 
 <!-- Peder samtalar med Carsten. Något är skumt med Görans död. Peder betuttar sig i underläkaren Cecilia. Carsten dör och Peder får skinnpungen och en ledtråd. -->
+
+<!-- 
+	Här behövs partier om hur Lars-Erik och Håkan träffades.
+-->
+
+### Brev @LES ###
+
+
+---
 
 "Nu har du varit här i några dagar, Peder. Hur trivs du?"
 
@@ -1338,7 +1426,66 @@ Dörren stängdes. Peder tog av sig byxorna och den ljusblå koftan. Han kröp n
 # Flykten från sjukhuset #
 
 <!-- Peder får en tvångsinjektion, eftersom han smusslat med medicinen. Han får en påhälsning av Samuel. Peder planerar sin flykt och sticker. -->
-	
+
+### Upptagen bland Frimurarna @LES ###
+
+<!-- 
+	Ändra på LEs klädsel till blus öppen över bröstet, med snara runt halsen. Se inledningen till Dan Browns Den förlorade symbolen. 
+
+-->
+
+Håkan parkerade sin gula Saab utanför vårt hus och ringde på dörren. Märta öppnade, men när hon såg vem det var gick hon bara därifrån utan att säga ett ord. Jag knöt min fluga framför spegeln i hallen, medan jag bad om ursäkt. Jag kände att jag ville förklara för honom -- berätta varför det är som det är mellan min hustru och mig, men han hejdade mig med en hand på min axel.
+
+"Det är er angelägenhet, Lars-Erik", sa han. "Du gör vad du behöver göra."
+
+Han körde oss genom Malmö och ut på Fridhem. Jag hade inte burit min frack sedan min promovering och tyget skar in i magen när jag satt. Det var en lättnad att få kliva ur bilen. Håkan hade parkerat bilen under en väldig kastanj och vi gick den sista biten till ett stort vitt hus av sten och puts.
+
+"Då var vi här", sa Håkan.
+
+Jag kände hjärtat slå häftigare när vi stod utanför en hög järngrind. En grusgång sträckte sig fram mot huset, med brinnande facklor stod i långa rader på var sin sida. Det var som en allé av eld.
+
+Håkan såg på sitt armbandsur. "Det är dags att gå in. Beredd?"
+
+Jag nickade bara till svar. Hur skulle jag kunna vara beredd? Jag hade ju ingen aning om vad som skulle hända. Jag litade till att vår fader vägledde mig.
+
+Vi gick längs grusgången under tystnad. Värmen från facklorna pulserade när vi passerade. På trappan upp mot entrén band Håkan en svart bindel för mina ögon, innan han tog mig under armen och ledde mig vidare. Jag hörde gångjärn knarra och ljudet av våra klackar mot trägolv. Det doftade av tobaksrök. Jag oroade mig för min klädsel. Jag hade inte hunnit kemtvätta fracken. Var det skitig? Förmodligen. Skulle någon märka det? En klump växte i min mage.
+
+Luften blev kyligare, trägolvet försvann och ersattes av sten. Ljudet av våra steg ekade omkring mig. Tobaksdoften övergick i dovare toner av fuktig sten och stearin. Det luktade precis som i Domkyrkan. Ett mummel av röster växte i styrka och omgav mig snart. Håkan ledde mig rakt fram, hejdade mig, släppte min arm och försvann.
+
+Jag stod själv, blind som en nyfödd hundvalp, i vad som kändes som en evighet. Slutligen tystnade sorlet och jag trä som skrapade mot sten.
+
+"Lars-Erik Wagner", sa en röst alldeles intill mitt ansikte. "Är du redo att dö, för att uppstå på nytt? Är du redo att upptas i vårt bröderneskap?"
+
+Jag fuktade mina läppar. Munnen var torr som en öken.
+
+"Jag är redo", sa jag. "Jag är redo att dö."
+
+Jag kände någon lossa min fluga och knäppa upp min skjorta, så mitt bröst och min strupe blottades.
+
+"Då börjar vi", sa rösten.
+
+Det som hände därefter har jag svurit att aldrig yppa -- jag har svurit inför Gud Fader Allsmäktig -- ett löfte vars brott bestraffas med döden. Jag kan inte säga hur länge ceremonin pågick, ty den upplevda tiden är ju som bekant relativ. När den var över -- när jag hade återuppstått som en broder -- avlägsnades bindeln och jag såg.
+
+Det tog en stund för mina ögon att vänja sig vid ljuset, även om det i själva verket var rätt skumt. Jag stod i en väldig sal, byggd av sten. Kolonner stod i rader och strävade upp mot det välvda taket. Långs däruppe skänkte Gud människan livet genom en beröring av pekfingret, precis som jag nu skänkts livet åter.
+
+Längs med raderna av kolonner stod stolar med röda dynor. På stolarna satt män klädda i frack, alla med blicken fäst vid mig. Jag kände en hand på min axel och jag såg till sist mannen, vars röst väglett mig. Den var en liten man, med glasögon och vitt hår, klädd i mörk mantel, med ett rött hakkors i en guldkedja kring halsen.
+
+"Välkommen in i gemenskapen, broder", sa han och log.
+
+Jag tog ett steg ut i rummet. Det svartnade för ögonen benen vek sig. Jag vacklade till och föll ner på knä. Håkan hjälpte mig upp.
+
+"Mår du dåligt?" sa han.
+
+"Nej. Blodtrycksfall. Jag har stått och spänt mig för länge."
+
+De andra männen reste sig från sina stolar och kom fram för att gratulera mig. Jag kände igen ett fåtal av dem. Prästen som döpt min dotter var där, Märtas läkare likaså. Jag såg några bekanta ansikten från universitetet också, men jag kunde inte minnas deras namn.
+
+"Välkommen, broder" sa de alla.
+
+I andra ändan av salen, framför en väldig trädörr, stod en lång man, med kutig rygg och svart hår kammat bakåt. Han såg rakt mot mig, med uttryckslös min. Bredvid honom stod en gestalt helt klädd i svart, med ansiktet i skugga. Det var som om hela han var en skugga.
+
+---
+
 Peder vaknade av sig själv på morgonen. Det var redan ljust ute. Han drog på sig byxorna och gick på toaletten, innan han gick till matsalen för att äta frukost. En ensam skötare satt och la patients på datorn när han passerade expeditionen. En mager man med stripigt grått hår och gles skäggväxt satt i soffan i korridoren och muttrade för sig själv. Matsalen var i stort sätt tom. Peder bredde två smörgåsar vid serveringsvagnen och försökte fylla en kaffemugg från termosen, men den var tom. Brunt skum pyste ner i hans kopp när han tryckte ner spaken i termoslocket. Syster Inger kom och fyllde på med rykande kaffe från en glaskanna. Hon hällde det sista direkt ner i Peders mugg.
 
 "Tack", sa Peder.
@@ -1665,6 +1812,90 @@ Den förste skötaren ryckte på axlarna och så gick de iväg. De hittade en au
 # Frimurarna på Fridhem #
 
 <!-- Peder bryter sig in i logen på Fridhem. Han får email från någon som verkar veta vad det handlar om. Det visar sig vara underläkaren Cecilia. -->
+
+### Kvinnohärbärget @LES ###
+
+Håkan stod och väntade på mig på parkeringen utanför Fysikum. Han stod med ryggen lutad mot sin bil och rökte en cigarett. Jag blev förvånad över att se honom.
+
+"Hej, Lars-Erik", sa han. "Har du lust att följa med på en kopp kaffe?"
+
+Jag nickade åt min cykel, som stod fastlåst i stället.
+
+"Jag vet inte", sa jag. "Märta väntar på mig därhemma med middagen."
+
+"Det tar inte lång tid. En kopp."
+
+Jag ryckte på axlarna och vi hjälptes åt att lirka in min cykel i bagageutrymmet på hans Saab. Luckan gick inte att stänga helt, så Håkan surrade fast den med ett nylonrep.
+
+"Kaffe", sa jag när vi svängde ut från parkeringen.
+
+"Ja. Jag var på väg upp nå norr i ett ärende och kom att tänka på dig när jag passerade Teknis", sa Håkan.
+
+"Ärende?"
+
+"Jag ska leverera lite grönsaker till ett kvinnohärbärge på Getingevägen." Han vände huvudet mot mig och släppte för en sekund vägen med blicken. "Vill du följa med?"
+
+"Jag vet inte."
+
+"Det tar bara en minut. Jag lovar."
+
+Innan jag hann säga mer saktade han ner och svängde in på en grusuppfart framför ett tvåvåningshus i rött tegel. Ett kastanjeträd stod på gården, så stort att grenarna smekte fasaden.
+
+"Här. Ta den här." Håkan räckte mig en trälåda full av isbergssallad. "Du får inte berätta för någon om det här stället. Lova mig det."
+
+"Varför?"
+
+Jag såg upp mot huset. Det var mörkt och tillbommat. En gardin rörde sig i ett fönster på andra våningen.
+
+"Det är ett härbärge för misshandlade kvinnor", sa Håkan. "Hit flyr kvinnor som blir slagna av sina män. För att de ska vara trygga vill vi inte att platsen blir känd."
+
+"Ok."
+
+Vi gick runt på baksidan, in genom en liten port, och följde en plattlagd gång genom en vanskött trädgård. Fyra trästolar stod kring ett bord. Den bruna färgen flagnade. Håkan låste upp köksdörren och vi gick in.
+
+Köket var rent och prydligt. Rostfria kastruller hängde på väggarna. Håkan ställde ner sina lådor på köksbänken och jag gjorde likadant. Huset var alldeles tyst.
+
+"Bor det någon här nu?"
+
+Håkan nickade.
+
+"Här är fullt. Här är alltid fullt. Huset skulle behöva vara dubbelt så stort."
+
+När jag vände mig om stod en flicka i dörrspringan som skilde köket från resten av huset. Jag är värdelös på att bedöma ålder, men hon såg inte ut att ha varit mer än fem, sex år. Håret var långt och brunt och ögonen sorgsna. Runt ena ögat hade hon en blåtira och hennes överläpp var svullen.
+
+"Hej", sa Håkan. "Vill du ha ett äpple?"
+
+Flickan sa inget, men hon tog emot det gröna äpplet och försvann.
+
+"En del tar med sina barn hit också", sa Håkan. Han skakade på huvudet. "Jag blir alldeles iskall bara tänker på vad den lilla stackaren har fått uppleva." Han gjorde en rörelse med handen åt dörröppningen som flickan försvunnit genom.
+
+Jag kände mig sorgsen när vi lämnade huset. Ledsnaden tyngde hela min kropp. Håkan körde ner till stan och vi tog var sin kopp kaffe på Lundagård.
+
+"Jag har börjat förlora hoppet om människan", sa Håkan när han rörde ner sockret i sin kopp. "Jag har sett så mycket elände. Människan är kapabel till så mycket elände. Hon verkar inte klara att leva upp förtroendet vi fått från Gud."
+
+"Så illa är det inte", försökte jag.
+
+Han såg på mig.
+
+"Inte? Krig, tortyr, misshandel, våldtäkt, barn som slås ihjäl av sina föräldrar, barn som dödar andra barn, skogar som skövlas. Mänskligheten är destruktiv."
+
+"Men också kapabel till kärlek."
+
+"Är den verkligen det? Skulle vår värld se ut som den gör om människan verkligen kunde älska någon annan än sig själv."
+
+Håkan skakade på huvudet.
+
+"Jag tror att det vi kallar kärlek bara är förhärligad egoism. Vi försöker intala oss själva att allt är som det ska. Det är det inte."
+
+Jag tog en mun kaffe.
+
+"Men hoppet finns", sa jag. "Vi kan alltid bättra oss."
+
+"Jag tror inte det", sa Håkan. "Om man ser tillbaka på mänsklighetens historia verkar vi vara oförmögna att lära oss -- att förstå. Situationen har hela tiden blivit värre -- inte bättre."
+
+Vi drack resten av vårt kaffe under tystnad innan Håkan körde mig hem. Hans ord hängde kvar inom mig hela kvällen och jag hade svårt att somna när jag väl låg i sängen. Jag vände och vred på mig, utan att hitta en bekväm ställning. Märta snarkade i rummet intill. Var hoppet verkligen ute för mänskligheten? Kunde vi inte bättra oss? Levande bilder från kvällsnyheterna spelade för mitt inre öga -- bilder av krig, förstörda hem, bedrägeri och mord. Det knöt sig i min mage.
+
+---
 	
 Peder stod på trottoaren i ett villaområde på Fridhem i västra Malmö. Framför honom tornade en hög vitkalkad mur upp sig. Mellan spjälorna i en svartmålad järngrind såg han en stor villa, i gulmålad puts. Det var skymning och den fuktiga kylan trängde in genom kläderna. Peder såg sig omkring och satte sedan foten på en av grindens tvärribbor och hävde sig upp. Han saxade över toppen och hoppade ner på andra sidan. Han landade på en grusgång, täckt av ett tunt lager snö.
 
@@ -2004,6 +2235,12 @@ Cecilia skakade på huvudet. "Nej, den är borta."
 # Den allvetande #
 
 <!-- Peder flyttar hem till sin pappa. Han drömmer om den allvetande och hittar honom till sist. -->
+
+### Hoppet är ute @LES ###
+
+Något förändrades efter kaffet med Håkan. Efter det har jag sett verkligheten omkring mig i ett nytt ljus. Det tycks mig som om världen är full av lidande. Vart jag än vänder min blick ser jag elände. När jag betraktar mina studenter, eller till och med främlingar på stan, ser jag bara självupptagenhet och egoism, oförmåga att se bortom sina egna behov. Har Håkan rätt? Är mänskligheten förtappad? Har vi fallit för långt från Gud? Är det försent?
+
+---
 	
 När Cecilia berättade att speldosan hennes morfar byggt var förstörd kände Peder det som om någon ryckt undan mattan under honom. Hur skulle han nu komma vidare? Han var frustrerad och gick av och an utan att säga något. Cecilia stannade kvar en knapp halvtimme. Hon satt på sängen och såg på när Peder muttrade för sig själv. Innan de skiljdes åt bytte de telefonnummer och lovade att höras av om någon av dem fick upp ett nytt spår. På kvällen ringde Peder Jessicas nummer några gånger, men lyckades bara få tag på talsvaret. Efter fjärde försöket lämnade han ett meddelande.
 
@@ -2469,6 +2706,30 @@ Peder la på och stoppade tillbaka telefonen i fickan. Han tog på sina ytterkl�
 # Flickan utan navel #
 
 <!-- De besöker Kerstin, flickan utan navel. På väg hem väjer Peder för en mörk gestalt på vägen och kraschar sin bil. -->
+
+### Märta har fyllebryt @LES ###
+
+Märta kom ner i min verkstad idag. Hon snubblade fram, stank av alkohol.
+
+"Är det här du gömmer dig?" sa hon och hånflinade. "Sitter du med dina speldosor -- med dina leksaker -- som ett litet barn?"
+
+"Du hedrar vår fader på ditt vis, jag på mitt" sa jag.
+
+Märta fnös.
+
+"Vår fader. En gud som gör så här med kvinnan du älskar." Hon pekade på sig själv. "En gud som ger din hustru ett helvete. Är det någon du vill tjäna?"
+
+Hon sträckte fram handen, la den mot mitt bröst och tryckte till. Hon var rödgråten.
+
+"Vi förstår inte alltid vad Gud vill", sa jag. "Vi är bara människor. Hur skulle vi kunna förstå? Vi måste lita på honom -- att han gör vad som är bäst för oss."
+
+Märta lyfte upp min halvfärdiga speldosa och slungade den genom luften och in i väggen. Höljet sprack och kugghjulen regnade ner över golvet.
+
+"Dra åt helvete", sa hon. "Och ta din gud med dig."
+
+När hon snubblar upp för trappan städade jag upp resterna efter speldosan och satt sedan kvar i mörkret och bad. Jag bad om hjälp att förstå -- förstå varför allt detta hemska kommit in i våra liv. Jag grät för mig själv och hoppades på ett svar, men inget kom.
+
+---
 	
 Peder parkerade på gatan mittemot ingång 52 på sjukhusområdet. Magen kurrade och han öppnade kartongen och tog ett bett av sin hamburgare. Majonäs droppade ner på hans jeans och hans svor till. Dörren på passagerarsidan öppnades och Cecilia hoppade in. Hon var klädd i vita sneakers och en grön canvasjacka.
 
@@ -2691,6 +2952,44 @@ Det ringde i öronen. Det smakade metall i munnen. Något varmt rann ur näsan o
 # På Café Lundagård #
 
 <!-- Fika på Lundagård, där Peder och Cecilia går igenom sina ledtrådar. Ännu mer fika. Ett rätt pratigt kapitel. -->
+
+### Prefektens övergrepp @LES ###
+
+Jag arbetade sent idag. Jag hade en massa labbrapporter att gå igenom och det fanns ingen chans att hinna med det under dagen. Klockan var efter åtta när jag släckte lampan på mitt skrivbord och låste dörren till arbetsrummet jag delade med de andra lektorerna. När jag gick mot utgången hörde jag ett märkligt ljud. Jag stannade och lyssnade i mörkret. En bil passerade på gatan utanför. Mina andetag pep i bröstet. Så kom ljudet igen. Det lät som om någon snyftade. Jag rörde inte en muskel medan jag försökte avgöra varifrån gråten kom. Från administrationsbyggnaden. Det lät som om det kom från administrationsbyggnaden. Jag gick långsamt ditåt, så ljudlöst jag någonsin kunde. Gråten tilltog i styrka och nu hörde jag något annat också -- ett mörkare bakgrundsljud -- mumlet av en mansröst. Ljuden ledde mig fram till prefektens dörr och jag blev stående, med ena handen på dörrhandtaget.
+
+"Nej", sa en kvinnoröst. "Nej, låt bli. Jag vill inte."
+
+"Sluta sjåpa dig", sa mansrösten. "Jag vet vad du vill. Jag ser det i dina ögon."
+
+Gråten växte till skrik. Tankarna ven genom mitt huvud. Tänk om jag hade fel? Jag tryckte ner dörrhandtaget och slängde upp dörren. 
+
+På golvet i prefektens arbetsrum låg en ung kvinna -- en flicka faktiskt -- på rygg. Hennes hår smetade mot hennes panna. Mascara rann utmed hennes kinder. Hennes tröja var upplyft så att brösten var bara. Hennes kjol och trosor var nerdragna till anklarna. En man med nerdragna byxor låg ovanpå henne. Han ryckte till när dörren slog i väggen, snurrade runt och satte sig på golvet, medan han drog upp sina kalsonger och byxor. Ansiktet var högrött och svettigt. Det var prefekten. 
+
+"Wagner", sa han och log. "Kan jag hjälpa dig med något?"
+
+Jag stod tyst och kände äcklet värka i magen.
+
+Han kom på fötter och fumlade med bältet. Flickan fick sina kläder i ordning och sprang ut ur rummet. Snyftandet dog bort i korridoren.
+
+"Det här är inte vad det ser ut som, Wagner. Inte alls."
+
+"Vad var det då?" sa jag.
+
+"Hon ville själv. Det var hon som började. Hon har hetsat mig hela terminen."
+
+"Hon är en student."
+
+Prefekten såg på mig under tystnad. Leendet smälte bort.
+
+"Din skenheliga lilla skit", sa han. "Jag ger väl blanka fan i vad du tycker. Om du vet vad som är bra för dig glömmer du det här."
+
+"Ursäkta?"
+
+"Om du vill ha någon framtid vid det här universitetet -- vid något universitet -- håller du käften. Har jag varit tydlig?"
+
+Jag vände på klacken och gick därifrån. Illamåendet hävde sig över mig i vågor. Jag gick in på en toalett, lutade mig över vasken och öppnade munnen, men ingen kom. Ilskan kokade i mig när jag cyklade hemåt.
+
+---
 
 Peder vaknade av att det knackade på ytterdörren. Han blinkade till i morgonljuset och vred sig runt på sidan i sängen. Det knackade igen, hårdare den här gången. Peder kastade ett blick på klockan på nattduksbordet. Klockan var halv elva. Han hörde ytterdörren öppnas på nedervåningen och ljudet av dämpade röster.
 
@@ -3071,6 +3370,20 @@ På köksbordet stod Cecilias vinglas orört. Peder rynkade pannan och tömde se
 # Anita #
 
 <!-- Peder söker efter nämndemän och finner Anita. Han hinner prata med henne innan hon dör i en brand. Han får reda på att allt handlar om en domedagsmaskin. -->
+
+### Gudstjänsten @LES ###
+
+Vi kom nästan försent till gudstjänsten idag. Märta var svagare i högerbenet och det tog en evighet att hjälpa henne ur badet och i kläderna. Vi stormade in genom porten när klockorna börjat ringa, bara för att se att kyrkan bara var halvfull.
+
+När vi kommit till ro på en bänk slängdes porten upp igen och prefekten kom insläntrandes med sin hustru och tre döttrar. De gick altargången ner, som om de paraderade. Prefekten log och hälsade åt höger och vänster, som om han var en celebritet. Påfågel. Han log brett när han såg mig och blinkade med ena ögat. Jag vände bort blicken. Det smakade illa i munnen. Han är ondskefull. Hur kan han tillåtas komma in i vår kyrka? I Guds hus?
+
+Hela gudstjänsten passerade som i ett töcken. Märta satte en armbåge i sidan på mig varje gång det var dags att stå upp och sjunga. Varje ord i predikan skorrade falsk, varje strof i psalmerna likaså. Gudstjänsten var tom, i det närmaste parodisk. Jag kände mig febersjuk. Så snart det var över drog jag med mig Märta ut till bilen så snabbt jag kunde. Jag hörde prefekten ropa mitt namn från kyrktrappan, men jag låtsades inte höra.
+
+### Genombrottet @LES ###
+
+När natten kom låg jag sömnlös. Jag hörde Märta snarka i rummet intill. Sängkläderna var varma och klibbiga. Jag steg upp, drog fram skrivbordsstolen till fönstret och såg ut på världen utanför. Dimman skapade glorior kring gatlyktorna. Det kändes som en ål sprattlade i mitt inre. Jag kunde se den svarta blänkande kroppen framför mig, dess små själlösa ögon och fixerade mig. Jag tänkte på Håkans ord på cafét. Jag tänkte på profetian från flickan utan navel och på allt elände som fyllde världen. Plötsligt förstod jag. Det var som om någon dragit undan slöjan från mina ögon. Håkan hade rätt. Det fanns inget hopp kvar för mänskligheten. Den svarta ålen stillade sig med ens och lade sig till ro i min mage. På morgonen ringde jag kanslit och sjukanmälde mig.
+
+---
 	
 Nästa morgon hade Peder svårt att komma ur sängen. Huvudet kändes tungt och tungan torr. Klockan var åtta, himlen utanför var mulen. Nere i köket satt hans far med ett vinglas framför sig. Ögonen var rödsprängda, ansiktet var kritvitt och han darrade i hela kroppen.
 
@@ -3387,6 +3700,38 @@ Hans far stod kvar och såg efter honom. Peder gick in på sitt rum och stängde
 # Samuel och nycklarna #
 
 <!-- Den allvetande berättar en historia om Samuel. Peder får ett tips om vad speldosorna kan tänkas vara. Han fixar utrustning till ett andra inbrott i logen. -->
+
+### LES är mogen @LES ###
+
+Jag satt i källaren och arbetade på en speldosa, när det ringde på ytterdörren.
+
+"Öppnar du, Lars-Erik?" ropade Märta uppifrån.
+
+Jag svarade inte. Efter en stund hörde jag hennes hasande steg, hennes käpp mot parketten. Sedan ljudet av ytterdörren som öppnades och mumlet av röster. Källardörren öppnades och Håkan kom ner för trappan.
+
+"Lars-Erik", sa han. "Vi är oroliga för dig."
+
+"Varför? För att jag missade mötet?"
+
+"Ja."
+
+Jag ryckte på axlarna. "Jag mådde inte bra."
+
+Håkan drog fram en stol och satte sig bredvid mig. Han såg rakt in i mina ögon, men jag vände bort blicken.
+
+"Vad står på?" sa han.
+
+Jag ryckte på axlarna igen och la ifrån mig urmakarskruvmejseln på arbetsbordet.
+
+"Du har rätt", sa jag efter en stund.
+
+"Hur sa?"
+
+Jag berättade om prefekten och om hur jag insett att hoppet var ute. Håkan nickade och la en hand på min axel.
+
+"Du är mogen", sa han. "Kom så åker vi och tar en kopp kaffe."
+
+---
 
 "Kan du beskriva honom?"
 
@@ -3720,6 +4065,50 @@ På bussen slutade en pojke äta av sin Snickers och såg på Peder med öppen m
 
 <!-- De bryter sig in i logen och hittar Månen, samt brev från Cecilias morfar. -->
 
+### Upptagen bland riddarna @LES ###
+
+Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i november och ett ösregn smattrade mot vindrutan.
+
+"Jag väntar i bilen", sa han. "Lycka till."
+
+"Kan du inte vänta inomhus åtminstone?"
+
+"Nej. När Riddarna av det Heliga Lammet sammanträder är vi andra inte välkomna i huset."
+
+Jag stod på trottoaren utanför det putsade vita huset och såg på honom. Han vevade ner vindrutan och log.
+
+"In med dig nu, innan du blir dyngsur."
+
+Jag höjde handen till avsked och gick mot ingången. Det fanns inga tända facklor idag. Hållarna gapade svarta och tomma, där de stod nerpålade i marken på var sin sida om grusgången. Utebelysningen lyste svagt ovanför trappan upp mot dörren.
+
+Professor Nilsonne väntade på mig i hallen. Han tog min våta överrock och ledde mig vidare in till ceremonisalen, utan att säga ett ord. Han såg allvarlig ut, såg bara rakt framför sig när han gick. Lamporna i ceremonisalen var släckta, men tända stearinljus lyste upp altaret, som en ö av ljus i mörkret. Stolar stod i en halvcirkel framför. Vid stolarna stod tio män, draperade i röda högtidsdräkter, med blänkande ordenskors kring halsen. Jag kände igen dem allihop från de vanliga ordensmöterna, även om jag aldrig umgåtts mera direkt med dem. Bankir Jakobsson nickade åt mig, men log inte. Vid altaret stod Gunnar Hierta med en avlång huvudbonad på sig, som en biskops mitra. Rubiner glittrade i skenet från stearinljusen.
+
+"Stig fram, broder", sa Hierta.
+
+Jag passerade stolarna och tygen prasslade när de tio männen satte sig. Jag föll på knä framför Hierta. Han la eggen av en kniv mot min strupe och jag svor att aldrig yppa det som skulle sägas i denna sal.
+
+Därefter följde ett skådespel, vars like jag aldrig tidigare upplevt. De visade mig hur bräckligt Guds rike är här på jorden, hur det ständigt utsätts för attacker från mörkret. De visade mig hur Riddarna av det Heliga Lammet fått till uppdrag att skydda riket från angrepp -- hur man skyddar mänskligheten från undergång.
+
+Jag kände hur bindeln föll från mina ögon. Plötsligt såg jag världen som den var. Saker jag tidigare tagit för självklara framstod i en helt ny dager. Jag hade fått en uppgift -- en livsuppgift -- den viktigaste uppgiften en människa kan ha. Jag hade fått det yttersta uppdraget.
+
+Hierta la knivbladet på min högra axel, sedan på min vänstra.
+
+"Jag dubbar dig till Riddare av det Heliga Lammet", sa han.
+
+Han vände sig till de andra och lyfte en gyllene bägare från altaret.
+
+"Nu samlas vi kring tecknet -- låt oss doppa våra fingrar i lammets blod."
+
+Bägaren gick runt bland männen. En efter en doppade de sitt högra pekfinger i en mörkt röd vätska. Bägaren kom sist till mig. Jag doppade mitt finger, drog upp det och lät vätskan droppa av innan jag räckte bägaren till Hierta. Han höjde den över sitt huvud.
+
+"Detta är lammets tecken", sa han. "Lammets tecken som förenar oss."
+
+Efter ceremonin samlades vi i matsalen och åt middag. En brasa knastrade i den öppna spisen och drev sakta ut den fuktiga kylan. Vi åt under tystnad till en början, men så småningom kom samtalen igång. Jag kände spänningen rinna av mig och jag tror att jag drack för mycket vin -- så pass mycket att jag inte har ett tydligt minne av resten av kvällen.
+
+Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt rödfärgade pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
+
+---
+
 "Skit -- här är folk."
 
 Peder och Cecilia stod utanför järngrindarna till den vitputsade villan på Fridhem. Det lyste i fönstren, marschaller brann längs grusgången upp mot huvudentren. Klockan var efter elva på kvällen, men luften var fortfarande ljummen. Peder spejade in över gården. Det syntes inte några vakter.
@@ -4039,6 +4428,99 @@ Peder sök på sin underläpp.
 # En grav i Malmö #
 
 <!-- De går på bibliotek och får reda på att bomben nog är begravd på en kyrkogård. De rekar och bryter sin in i en grav, men finner bara ett lik. Polisen hämtar Peder. Han har blivit förrådd av sins far. -->
+
+### Maskinen planeras @LES ###
+
+Grenom Broder Lauréns försorg har jag till sist kommit i kontakt med en man i Gdansk, som lovat hjälpa mig med det material jag behöver. Jag körde till Karlskrona för att möta honom. Han visade sig vara en obehaglig liten typ, med smala rödsprängda ögon, som om han hade ständig hösnuva mitt i vintern. Det glimmade av guld varje gång han log. Han var inte den sortens man jag skulle lita på i vanliga fall, men det här är ju knappast ett vanligt fall. Dessutom har ju Laurén gått i god för honom.
+
+Polacken lät meddela att det skulle ta två månader att samla in de volymer jag behövde. Kanske en, om betalningen var bättre. Jag hälsade honom att pengar inte var ett problem.
+
+Jag visade min ritning för Hierta efter mötet i söndags. Jag gjorde mitt bästa för att förklara hur den var tänkt att fungera, men han var inte intresserad av några detaljer.
+
+"Kommer den fungera?" sa han bara.
+
+Jag nickade till svar. Givetvis kan jag inte veta säkert, men jag tror absolut att den kommer klara sin uppgift.
+
+"Kommer den att räcka till?" sa han sedan.
+
+"Ja", sa jag. "Jag har räknat in en betydande marginal."
+
+"Då så", sa Hierta. "Du har fria händer. Din budget är näst intill obegränsad. Säg vad du behöver, så får du det."
+
+Obegräsad budget. Om det hade gällt ett annat projekt hade jag varit överlycklig.
+
+"En sak till", sa Hierta. "Hur stor kommer den att bli?"
+
+"Stor", sa jag. Jag pekade på måtten på ritningen.
+
+"Stor", sa Hierta. "Har du funderat på var vi kan gömma den?"
+
+Det hade jag inte. Jag kliade mig i huvudet.
+
+"Vi tänker ut något", sa Hierta. Han la en hand på min axel. "Du ar gjort ett bra jobb, Wagner. Ett utmärkt jobb."
+
+### Märta får ett nytt skov och jobbet påbörjas @LES ###
+
+Jag vaknade av att Märta skrek på mig från sovrummet intill mitt. Jag rusade yrvaken dit och fann henne på rygg i sängen. Hon flaxade med armarna, vit i ansiktet.
+
+"Hjälp mig, Lars-Erik! Hjälp mig!"
+
+"Vad har hänt?" frågade jag.
+
+"Mina ben rör sig inte", sa hon. "Hur jag än försöker."
+
+Hennes ben låg orörliga i sängen. Jag lyfte upp det ena en bit ovanför madrassen. Det var slappt och tungt, som dött kött. När jag släppte det studsade det i sängen.
+
+"Men gör något!" skrek Märta. "Gör något för helvete!"
+
+Jag klädde mig själv och hjälpte Märta i en klänning. Jag bar ut henne till bilen och körde henne till sjukhuset. Hennes neurolog, Hougaard, kom ner på akuten för att prata med oss. Det var ett skov av hennes sjukdom, sa han. Kanske skulle det gå tillbaka, kanske inte. Han ordinerade en kur kortison och lovade se till att hon skulle få sjukgymnastik, så benet inte skulle stelna.
+
+Jag tog honom avsides i korridoren sjukrummet.
+
+"Finns det verkligen inget mer att göra?" sa jag.
+
+Hougaard tog av sig sina glasögon och såg på mig. Det fanns medlidande i hans blick.
+
+"Jag beklagar. Det finns inte så mycket mer att göra. Inga fler behandlingar än den hon har. Men vi kan hoppas -- hoppas och tro."
+
+Tro? Jag inser att hans ord var avsedda som tröst, med de kändes nästan hånfulla.
+
+När vi kom hem satt Håkan och väntade på trappan utanför huset. Han hjälpte mig att hålla upp dörren när jag bar in Märta. Efteråt satt vi en stund på trappan. Han tände en cigarett och blåste blå rök genom näsborrarna.
+
+"Jag trodde du hade slutat", sa jag.
+
+Håkan sög i sig mer rök.
+
+"Jag har börjat igen. Varför inte, tänkte jag. Med tanke på allt."
+
+Jag nickade.
+
+"Dina grejer har kommit", sa han sedan. "De anlände till hamnen igår. Hierta har redan sett till att flytta dem till byggplatsen."
+
+"Byggplatsen?"
+
+"Ja, har du inte hört? Hierta har tänkt ut det perfekta gömstället."
+
+Jag hörde Märta ropa inifrån huset och jag reste mig upp.
+
+"Jag måste gå", sa jag.
+
+Håkan nickade.
+
+"Du börjar i morgon?"
+
+Jag nickade och vi tog farväl.
+
+### Arbetet med maskinen är i gång @LES ###
+
+Efter tio år vid universitetet, där jag fick tigga på mina bara knän för att få köpa in nya blyertspennor, var det en aning overkligt att se de resurser som brödraskapet mobiliserat. Hierta hade låtit resa ett tält över byggplatsen, för att skydda från insyn. Jag hörde via avvägar att man spridit en lögn om vad som försiggår där inne -- en genial lögn -- en lögn som var så fräck att ingen ifrågasatte den. Tidningen var till och med där idag och gjorde ett reportage.
+
+Hierta har hyrt in ett femtontal arbetare från Polen och Baltikum. Ingen av dem förstår svenska. De förstår knappt varandra. Jag är säker på att det är avsiktligt. Förmannen talar en smula tyska, så det är honom jag försöker kommunicera med. Det är tur han kan läsa mina ritningar.
+
+Materialet anlände igår natt och hammarslagen har ekat hela morgonen, när kopparslagaren formar plåtarna. Jag har precis börjat arbetet med att foga samman urverket. Med jämna mellanrum svindlar tanken över vad jag håller på med. Det känns som om jag beblandar mig med krafter utom mitt förstånd. Jag kan inte längre bedöma konsekvenserna av mina handlingar, utan litar helt och fullt på att brödraskapet och Gud Fader leder mina händer rätt. Jag är livrädd och uppspelt på en och samma gång. Det har passerat tre nätter utan sömn. Det är sju dagar sedan jag såg min dotter.
+
+
+---
 
 Klockan var tio på förmiddagen. Peder hade sovit tungt hela natten, men var än mer om i kroppen efter att ha sovit på golvet. Cecilia hade stannat över och hade lånat hans säng och en av hans gamla t-shirts som nattlinne. De hade tagit bussen in till Malmö så snart de hade vaknat och ätit frukost på ett fik. Nu promenerade de längs grusgången som ledde fram till Malmö stadsbibliotek, förbi glasväggen och fram emot huvudingången. Det var en vacker vårdag, varm, utan moln på himmeln. De passerade svängdörrarna och gick fram till receptionen. En kvinna i scarf log mot dem.
 
@@ -4530,6 +5012,22 @@ Den andra polisen tog fram en burk pepparsprej ur jackfickan och fyrade av mot P
 
 <!-- Peder sitter på rum 13. Hierta försöker övertyga honom om att han hallucinerar. Samuel försöker suggestera honom att ta sitt liv. Han lyckas, men Peder stoppas av Cecilia. De flyr och hittar Peders far livlös, efter ett självmordsförsök. Ambulansen hämtar honom. -->
 
+### LES får kalla fötter @LES ###
+
+Jag satt uppe i natt igen. Timmarna gick, medan jag låg vaken i min tältsäng i baracken. En klump av oro jäste i min mage. Tänk om det är fel? Tänk om hon hade fel? Jag kunde inte skaka av mig känslan. Till slut steg jag upp, satte mig vid ritbordet och bredde ut ritningarna. Kunde man verkligen vara säker?
+
+Det är för mycket som står på spel. Jag är tvungen att bygga in en säkerhetsbrytare. Jag satt och ritade tills solen gick upp, sedan lämnade jag hålögd över de reviderade ritningarna till förmannen. Han tittade på mig, sedan på ritningarna, innan han nickade och ropade något till sina mannar.
+
+Jag nämnde inget för Hierta eller Håkan. Ingen behöver veta.
+
+### Maskinen är klar ###
+
+Den är färdig. Maskinen är färdig och begraven. Hierta har skickat hem sina arbetare, tältet är rivet. Det är gjort.
+
+Jag trodde jag skulle känna mig lättad. När jag tidigare såg fram emot den här dagen föreställde jag mig att jag skulle känna mig stolt och glad, men jag känner inget alls. Bara tomhet. Vad ska jag nu ta mig till? Vart ska jag ta vägen? Jag frågade Hierta, men han la bara en hand på min axel och sa att jag skulle återvända till min familj och mitt liv. Men jag har ju inget liv kvar -- bara spillror.
+
+---
+
 Peder var tillbaka på psyk akut igen. Civilpolisen från spaningsroteln visades in direkt till ett rum i korridoren och satte Peder på en brits. Ögonen var fortfarande rödsvullna och rinnande efter pepparsprayen, han såg bara otydliga konturer av vitklädda människor i korridoren utanför. En av poliserna klappade honom på axeln, innan de lämnade honom ensam.
 
 Peder satt stilla på britsen i en timme innan en underläkare knackade i dörrkarmen och kom in. Peder svarade korthugget på frågorna, utan att titta upp. Han lämnades snart ensam igen, innan en skötare kom in, gav honom sjukhuskläder och la hans tillhörigheter i en svart sopsäck. Efter ytterligare en timmes väntan kom två vitklädda män och hämtade honom.
@@ -4579,7 +5077,7 @@ Dörren slog igen och låset klickade till. Peder låg på rygg och stirrade upp
 "Helvete", sa Peder och la sig på sidan. Det spände i ögonen.
 
 
-### scen ###
+### Tillbaka på sjukhuset ###
 
 Han hade inge uppfattning om tiden där han låg, men det hade börjat värka i sidan han låg på när dörren öppnades och Gunnar Hierta kom in. Han bar på en pinnstol, som han ställde ner på golvet innanför dörren och slog sig ner på.
 
@@ -4909,6 +5407,18 @@ Peder såg på henne.
 # En kupol av glas #
 
 <!-- De tar sig till Nevishögs kyrkogård och hittar bomben. De ertappas av Hierta och Samuel. Showdown. -->
+
+### Något har gått snett @LES ###
+
+Något har gått snett. Håkan sökte upp mig på institutionen idag och bad att få prata ostört. Tydligen hade man upptäckt två containrar i hamnen med spår av radioaktivitet. De skulle ha smugglats ut ur Sverige, men något hade gått fel. Håkan berättade att Hierta var bekymrad. Under inga villkor kunde man tillåta att polisen följde spåren till hemligheten vi gömt i Edencronas grav.
+
+Jag har en otäck känsla. Min övertygelse har anfrätts av tvivel. Har vi verkligen gjort rätt? Vem är vi att blanda oss i den uråldriga striden? Vilka tror vi att vi är?
+
+Jag frågade Håkan vad han trodde skulle hända. Han visste inte, men han uppmanade mig att göra mig av med allt som kunde knytas till hemligheten.
+
+Jag måste göra mig av med nycklarna. Jag har en kvar att sätta samman. Det måste bli klart ikväll, sedan måste jag bestämma mig för hur jag ska göra.
+
+---
 	
 De gick upp till badrummet på övervåningen och Cecilia hjälpte Peder tvätta underarmen med tvål och vatten. Hon letade runt bland skåpen tills hon hittade en flaska sårtvätt och en bomullstuss. Det sved i såret när hon rengjorde det och Peder bet ihop käkarna.
 
@@ -5550,484 +6060,3 @@ Cecilia var tyst en stund. "Ska vi ses i kväll", sa hon sedan.
 Peder tog en taxi ut till Spillepengen och promenerade den sista biten till bron där han träffat den allvetande första gången. Trafiken brusade över hans huvud. Kartongerna låg kvar på marken, solkade och skrynkliga. Oljefaten fanns också där, fullt av aska. Peder stack ner ett finger bland de förkolnade träresterna. Askan var kall. Han rynkade pannan och torkade av fingret mot byxbenet.
 
 "Jag ska nog hitta dig", sa han. "Jag vet att du finns och jag ska nog hitta dig."
-
-
-# Breven #
-
-### Datum ###
-
-[Datum direkt som nivå 2-titlar?]
-Märta förlorade synen på ett öga igen. Höger öga, den här gången. Hon vaknade på söndagen och berättade att det molvärkte i huvudet kring ögat. Jag trodde det var vanlig spänningshuvudvärk. Under gudstjänsten grep hon tag in min arm och viskade att hon såg suddigt. Hon var alldeles vit i ansiktet. Hennes underläpp darrade. Vi satt kvar tills gudstjänsten var över och sedan ledde jag henne ut till bilen. Kerstin ryckte Märta i kjolen och frågade vad som var fel, men vi berättade inte.
-
-Märtas syn blev sämre under dagen och på kvällen hade det blivit svart för henne. Hon var helt blind på höger öga. Jag satte familjen i bilen och körde till sjukhuset. Märta undersöktes av en ögonläkare. Han tittade i hennes öga med ett mikroskop och sa att hon hade en inflammation i synnerven. Han bad oss vänta kvar, medan han kallade på en kollega.
-
-Det dröjde. Kerstin blev otålig och slog sina klackar i golvet tills jag trodde jag skulle bli tokig. Hon var nog trött. Säkert hungrig också. Märta kramade min hand tills den vitnade.
-
-Till slut kom ögonläkaren tillbaka med en äldre man i vit rock och glasögon. Han presenterade honom som *Doktor Hougaard*, neurolog. Neurologen bad Märta ligga ner på en brits och så undersökte han hennes muskelkraft, känsel och reflexer. Han frågade henne om hon tyckte det kändes konstigt när hon satte hakan i bröstet. Märta testade och grimaserade av obehag.
-
-"Det ilar längs ryggen", sa hon.
-
-"Du verkar lite svagare i den vänstra handen", sa Hougaard med dansk brytning. "Hur länge har det varit så?"
-
-"Jag vet inte", sa Märta. "Jag är högerhändt. Jag har inte tänkt på det."
-
-"Har du kännt dig fumligare senaste tiden?"
-
-"Ja, lite kanske. Jag tappar saker."
-
-"Har du haft synbekymmer av det här slaget förut?"
-
-Det hade hon. För ett år sedan nästan på dagen. Fast den gången hade det varit det andra ögat. Det hade inte heller blivit lika illa, bara en smula suddigt.
-
-"Jag beklagar", sa Doktor Hougaard. "Jag tror frun lider av en sjukdom som kallas *multipel skleros*.
-
-Märta skakade. Jag frågade om det var allvarligt. Neurologen nickade.
-
-"Det finns ingen bot", sa han. "Sjukdomen leder till döden."
-
-Jag kände blodet försvinna från mitt huvud. Det snurrade och jag sjönk ner på en stol. Kerstin försökte krypa upp i mitt knä.
-
-Doktor Hougaard berättade om sjukdomen, hur små inflammationer i centrala nervsystemets vita substans förstörde nervernas signalvägar och ledde till förlamningar och störd känsel. Jag tänkte på hur en av mina studenter råkat kortsluta en transformator på institutionen, så kablarna smälte och förstördes.
-
-"Hur länge?" sa jag. "Hur långt har hon kvar?"
-
-Kerstin kramade mig. Jag smekte henne över ryggen.
-
-"Flera år. Vanligen lever man med sjukdomen i flera år."
-
-"Och det finns inget att göra?"
-
-"Sjukdomen kan inte botas, men vi kan försöka hejda symtomen med medicin."
-
-Märta sa ingenting när vi körde hem. Jag koncentrerade mig på trafiken så det pulserade i öronen. Händerna värkte, så hårt jag höll i ratten. Kerstin sov i baksätet. I backspegeln såg jag solen gå i moln.
-
-### Datum ###
-
-Jag hade terminens första föreläsningsdag idag -- en alldeles färsk kurs. Salen fylldes av unga män och kvinnor, fortfarande brunbrända efter sommaren. Trots att det är september nu är det varmt. Det var kvavt i föreläsningssalen och min strupe torkade ut redan efter de första timmarna.
-
-När jag såg mig om i salen, på alla ansikten, såg jag inte en enda som verkade lyssna på mig. Alla såg ut att vilja vara någon annanstans. Utomhus, antar jag. Jag klandrade dem inte. Jag ville ju inte heller vara där.
-
-Prefekten säger att det är sista terminen jag behöver föreläsa på grundkursen. Jag hoppas vid allas vår fader att han står vid sitt ord den här gången. Jag har prövats tillräckligt för en karriär. Min själ dör en smula varje dag jag tvingas stå inför elever helt utan intresse och ambition -- som bara sitter av tiden. Jag tar mig gärna an studenter högre upp på utbildningsstegen -- där kurserna kokat ner till de begåvade. Där känner jag stimulans. Där får jag ett meningsutbyte. Där känner jag att jag bidrar till något viktigt, något större än jag själv.
-
-De kunde lika gärna ställa en åsna vid pulpeten på grundkursen. Då skulle åtminstone studenterna vakna till.
-
-## Datum ##
-
-Märta kom ner i min verkstad idag. Hon snubblade fram, stank av alkohol.
-
-"Är det här du gömmer dig?" sa hon och hånflinade. "Sitter du med dina speldosor -- med dina leksaker -- som ett litet barn?"
-
-"Du hedrar vår fader på ditt vis, jag på mitt" sa jag.
-
-Märta fnös.
-
-"Vår fader. En gud som gör så här med kvinnan du älskar." Hon pekade på sig själv. "En gud som ger din hustru ett helvete. Är det någon du vill tjäna?"
-
-Hon sträckte fram handen, la den mot mitt bröst och tryckte till. Hon var rödgråten.
-
-"Vi förstår inte alltid vad Gud vill", sa jag. "Vi är bara människor. Hur skulle vi kunna förstå? Vi måste lita på honom -- att han gör vad som är bäst för oss."
-
-Märta lyfte upp min halvfärdiga speldosa och slungade den genom luften och in i väggen. Höljet sprack och kugghjulen regnade ner över golvet.
-
-"Dra åt helvete", sa hon. "Och ta din gud med dig."
-
-När hon snubblar upp för trappan städade jag upp resterna efter speldosan och satt sedan kvar i mörkret och bad. Jag bad om hjälp att förstå -- förstå varför allt detta hemska kommit in i våra liv. Jag grät för mig själv och hoppades på ett svar, men inget kom.
-
-### Datum ###
-
-Hösten har kommit, men solen värmer fortfarande mitt på dagen. Jag satte mig utomhus på lunchen för att äta mina smörgåsar. Från bänken jag satt på hade jag utsikt över en stor gräsmatta, där studenter satt på sina jackor och åt av sina matsäckar.
-
-Jag såg upp mot himlen och insåg förnuftsmässigt att solstrålarna borde värma min hud, men jag kände ingenting. Det är som om ingenting når fram till mig längre, som om jag har en osynlig hinna mellan mig och omvärlden. Jag känner ingen glädje längre, det är som om inget längre spelar någon roll. Jag förstår inte hur det har kunnat bli så här. Jag vill inte ha det så här, men jag vet inte hur jag ska ta mig ur det.
-
-Nu för tiden är det bara tanken på min dotter som sprider en smula ljus i mitt hjärta.
-
-### Datum ###
-
-Jag vaknade i natt igen. Klockan var halv fyra -- vargtimmen. Jag vet inte vad jag drömde, men jag minns känslan av att falla. Det var mörkt i sovrummet. Jag hörde Märta andas bredvid mig. Det kändes som om någon satt på mitt bröst. Jag hade svårt att få luft. Hjärtat bankade. Lakanen var fuktiga av svett.
-
-Först kunde jag inte röra mig. Jag låg alldeles stilla, inlåst i min egen kropp. Paniken slog emot mig som vågor mot en klippstrand. Det ryckte till i min högra fot och jag fick långsamt tillbaka kontrollen över mina muskler. Jag klev upp och gick ner till köket och drack ett glas vatten från kranen. Jag slog mig ner på en köksstol och såg ut genom fönstret på natten utanför. Ett tunt snötäcke låg över gatan. Det gnisstrade och glimmade i ljuset från gatlyktorna. Paniken ebbade ut och lämnade ett hål efter sig. Jag kände mig alldeles tom.
-
-Så här kan det inte fortsätta. Jag står inte ut.
-
-<!-- 
-	Här behövs partier om hur Lars-Erik och Håkan träffades.
--->
-
-### Datum ###
-
-<!-- 
-	Ändra på LEs klädsel till blus öppen över bröstet, med snara runt halsen. Se inledningen till Dan Browns Den förlorade symbolen. 
-
--->
-
-Håkan parkerade sin gula Saab utanför vårt hus och ringde på dörren. Märta öppnade, men när hon såg vem det var gick hon bara därifrån utan att säga ett ord. Jag knöt min fluga framför spegeln i hallen, medan jag bad om ursäkt. Jag kände att jag ville förklara för honom -- berätta varför det är som det är mellan min hustru och mig, men han hejdade mig med en hand på min axel.
-
-"Det är er angelägenhet, Lars-Erik", sa han. "Du gör vad du behöver göra."
-
-Han körde oss genom Malmö och ut på Fridhem. Jag hade inte burit min frack sedan min promovering och tyget skar in i magen när jag satt. Det var en lättnad att få kliva ur bilen. Håkan hade parkerat bilen under en väldig kastanj och vi gick den sista biten till ett stort vitt hus av sten och puts.
-
-"Då var vi här", sa Håkan.
-
-Jag kände hjärtat slå häftigare när vi stod utanför en hög järngrind. En grusgång sträckte sig fram mot huset, med brinnande facklor stod i långa rader på var sin sida. Det var som en allé av eld.
-
-Håkan såg på sitt armbandsur. "Det är dags att gå in. Beredd?"
-
-Jag nickade bara till svar. Hur skulle jag kunna vara beredd? Jag hade ju ingen aning om vad som skulle hända. Jag litade till att vår fader vägledde mig.
-
-Vi gick längs grusgången under tystnad. Värmen från facklorna pulserade när vi passerade. På trappan upp mot entrén band Håkan en svart bindel för mina ögon, innan han tog mig under armen och ledde mig vidare. Jag hörde gångjärn knarra och ljudet av våra klackar mot trägolv. Det doftade av tobaksrök. Jag oroade mig för min klädsel. Jag hade inte hunnit kemtvätta fracken. Var det skitig? Förmodligen. Skulle någon märka det? En klump växte i min mage.
-
-Luften blev kyligare, trägolvet försvann och ersattes av sten. Ljudet av våra steg ekade omkring mig. Tobaksdoften övergick i dovare toner av fuktig sten och stearin. Det luktade precis som i Domkyrkan. Ett mummel av röster växte i styrka och omgav mig snart. Håkan ledde mig rakt fram, hejdade mig, släppte min arm och försvann.
-
-Jag stod själv, blind som en nyfödd hundvalp, i vad som kändes som en evighet. Slutligen tystnade sorlet och jag trä som skrapade mot sten.
-
-"Lars-Erik Wagner", sa en röst alldeles intill mitt ansikte. "Är du redo att dö, för att uppstå på nytt? Är du redo att upptas i vårt bröderneskap?"
-
-Jag fuktade mina läppar. Munnen var torr som en öken.
-
-"Jag är redo", sa jag. "Jag är redo att dö."
-
-Jag kände någon lossa min fluga och knäppa upp min skjorta, så mitt bröst och min strupe blottades.
-
-"Då börjar vi", sa rösten.
-
-Det som hände därefter har jag svurit att aldrig yppa -- jag har svurit inför Gud Fader Allsmäktig -- ett löfte vars brott bestraffas med döden. Jag kan inte säga hur länge ceremonin pågick, ty den upplevda tiden är ju som bekant relativ. När den var över -- när jag hade återuppstått som en broder -- avlägsnades bindeln och jag såg.
-
-Det tog en stund för mina ögon att vänja sig vid ljuset, även om det i själva verket var rätt skumt. Jag stod i en väldig sal, byggd av sten. Kolonner stod i rader och strävade upp mot det välvda taket. Långs däruppe skänkte Gud människan livet genom en beröring av pekfingret, precis som jag nu skänkts livet åter.
-
-Längs med raderna av kolonner stod stolar med röda dynor. På stolarna satt män klädda i frack, alla med blicken fäst vid mig. Jag kände en hand på min axel och jag såg till sist mannen, vars röst väglett mig. Den var en liten man, med glasögon och vitt hår, klädd i mörk mantel, med ett rött hakkors i en guldkedja kring halsen.
-
-"Välkommen in i gemenskapen, broder", sa han och log.
-
-Jag tog ett steg ut i rummet. Det svartnade för ögonen benen vek sig. Jag vacklade till och föll ner på knä. Håkan hjälpte mig upp.
-
-"Mår du dåligt?" sa han.
-
-"Nej. Blodtrycksfall. Jag har stått och spänt mig för länge."
-
-De andra männen reste sig från sina stolar och kom fram för att gratulera mig. Jag kände igen ett fåtal av dem. Prästen som döpt min dotter var där, Märtas läkare likaså. Jag såg några bekanta ansikten från universitetet också, men jag kunde inte minnas deras namn.
-
-"Välkommen, broder" sa de alla.
-
-I andra ändan av salen, framför en väldig trädörr, stod en lång man, med kutig rygg och svart hår kammat bakåt. Han såg rakt mot mig, med uttryckslös min. Bredvid honom stod en gestalt helt klädd i svart, med ansiktet i skugga. Det var som om hela han var en skugga.
-
-### Datum ###
-
-Håkan stod och väntade på mig på parkeringen utanför Fysikum. Han stod med ryggen lutad mot sin bil och rökte en cigarett. Jag blev förvånad över att se honom.
-
-"Hej, Lars-Erik", sa han. "Har du lust att följa med på en kopp kaffe?"
-
-Jag nickade åt min cykel, som stod fastlåst i stället.
-
-"Jag vet inte", sa jag. "Märta väntar på mig därhemma med middagen."
-
-"Det tar inte lång tid. En kopp."
-
-Jag ryckte på axlarna och vi hjälptes åt att lirka in min cykel i bagageutrymmet på hans Saab. Luckan gick inte att stänga helt, så Håkan surrade fast den med ett nylonrep.
-
-"Kaffe", sa jag när vi svängde ut från parkeringen.
-
-"Ja. Jag var på väg upp nå norr i ett ärende och kom att tänka på dig när jag passerade Teknis", sa Håkan.
-
-"Ärende?"
-
-"Jag ska leverera lite grönsaker till ett kvinnohärbärge på Getingevägen." Han vände huvudet mot mig och släppte för en sekund vägen med blicken. "Vill du följa med?"
-
-"Jag vet inte."
-
-"Det tar bara en minut. Jag lovar."
-
-Innan jag hann säga mer saktade han ner och svängde in på en grusuppfart framför ett tvåvåningshus i rött tegel. Ett kastanjeträd stod på gården, så stort att grenarna smekte fasaden.
-
-"Här. Ta den här." Håkan räckte mig en trälåda full av isbergssallad. "Du får inte berätta för någon om det här stället. Lova mig det."
-
-"Varför?"
-
-Jag såg upp mot huset. Det var mörkt och tillbommat. En gardin rörde sig i ett fönster på andra våningen.
-
-"Det är ett härbärge för misshandlade kvinnor", sa Håkan. "Hit flyr kvinnor som blir slagna av sina män. För att de ska vara trygga vill vi inte att platsen blir känd."
-
-"Ok."
-
-Vi gick runt på baksidan, in genom en liten port, och följde en plattlagd gång genom en vanskött trädgård. Fyra trästolar stod kring ett bord. Den bruna färgen flagnade. Håkan låste upp köksdörren och vi gick in.
-
-Köket var rent och prydligt. Rostfria kastruller hängde på väggarna. Håkan ställde ner sina lådor på köksbänken och jag gjorde likadant. Huset var alldeles tyst.
-
-"Bor det någon här nu?"
-
-Håkan nickade.
-
-"Här är fullt. Här är alltid fullt. Huset skulle behöva vara dubbelt så stort."
-
-När jag vände mig om stod en flicka i dörrspringan som skilde köket från resten av huset. Jag är värdelös på att bedöma ålder, men hon såg inte ut att ha varit mer än fem, sex år. Håret var långt och brunt och ögonen sorgsna. Runt ena ögat hade hon en blåtira och hennes överläpp var svullen.
-
-"Hej", sa Håkan. "Vill du ha ett äpple?"
-
-Flickan sa inget, men hon tog emot det gröna äpplet och försvann.
-
-"En del tar med sina barn hit också", sa Håkan. Han skakade på huvudet. "Jag blir alldeles iskall bara tänker på vad den lilla stackaren har fått uppleva." Han gjorde en rörelse med handen åt dörröppningen som flickan försvunnit genom.
-
-Jag kände mig sorgsen när vi lämnade huset. Ledsnaden tyngde hela min kropp. Håkan körde ner till stan och vi tog var sin kopp kaffe på Lundagård.
-
-"Jag har börjat förlora hoppet om människan", sa Håkan när han rörde ner sockret i sin kopp. "Jag har sett så mycket elände. Människan är kapabel till så mycket elände. Hon verkar inte klara att leva upp förtroendet vi fått från Gud."
-
-"Så illa är det inte", försökte jag.
-
-Han såg på mig.
-
-"Inte? Krig, tortyr, misshandel, våldtäkt, barn som slås ihjäl av sina föräldrar, barn som dödar andra barn, skogar som skövlas. Mänskligheten är destruktiv."
-
-"Men också kapabel till kärlek."
-
-"Är den verkligen det? Skulle vår värld se ut som den gör om människan verkligen kunde älska någon annan än sig själv."
-
-Håkan skakade på huvudet.
-
-"Jag tror att det vi kallar kärlek bara är förhärligad egoism. Vi försöker intala oss själva att allt är som det ska. Det är det inte."
-
-Jag tog en mun kaffe.
-
-"Men hoppet finns", sa jag. "Vi kan alltid bättra oss."
-
-"Jag tror inte det", sa Håkan. "Om man ser tillbaka på mänsklighetens historia verkar vi vara oförmögna att lära oss -- att förstå. Situationen har hela tiden blivit värre -- inte bättre."
-
-Vi drack resten av vårt kaffe under tystnad innan Håkan körde mig hem. Hans ord hängde kvar inom mig hela kvällen och jag hade svårt att somna när jag väl låg i sängen. Jag vände och vred på mig, utan att hitta en bekväm ställning. Märta snarkade i rummet intill. Var hoppet verkligen ute för mänskligheten? Kunde vi inte bättra oss? Levande bilder från kvällsnyheterna spelade för mitt inre öga -- bilder av krig, förstörda hem, bedrägeri och mord. Det knöt sig i min mage.
-
-### Datum ###
-
-Något förändrades efter kaffet med Håkan. Efter det har jag sett verkligheten omkring mig i ett nytt ljus. Det tycks mig som om världen är full av lidande. Vart jag än vänder min blick ser jag elände. När jag betraktar mina studenter, eller till och med främlingar på stan, ser jag bara självupptagenhet och egoism, oförmåga att se bortom sina egna behov. Har Håkan rätt? Är mänskligheten förtappad? Har vi fallit för långt från Gud? Är det försent?
-
-### Datum ###
-
-Jag arbetade sent idag. Jag hade en massa labbrapporter att gå igenom och det fanns ingen chans att hinna med det under dagen. Klockan var efter åtta när jag släckte lampan på mitt skrivbord och låste dörren till arbetsrummet jag delade med de andra lektorerna. När jag gick mot utgången hörde jag ett märkligt ljud. Jag stannade och lyssnade i mörkret. En bil passerade på gatan utanför. Mina andetag pep i bröstet. Så kom ljudet igen. Det lät som om någon snyftade. Jag rörde inte en muskel medan jag försökte avgöra varifrån gråten kom. Från administrationsbyggnaden. Det lät som om det kom från administrationsbyggnaden. Jag gick långsamt ditåt, så ljudlöst jag någonsin kunde. Gråten tilltog i styrka och nu hörde jag något annat också -- ett mörkare bakgrundsljud -- mumlet av en mansröst. Ljuden ledde mig fram till prefektens dörr och jag blev stående, med ena handen på dörrhandtaget.
-
-"Nej", sa en kvinnoröst. "Nej, låt bli. Jag vill inte."
-
-"Sluta sjåpa dig", sa mansrösten. "Jag vet vad du vill. Jag ser det i dina ögon."
-
-Gråten växte till skrik. Tankarna ven genom mitt huvud. Tänk om jag hade fel? Jag tryckte ner dörrhandtaget och slängde upp dörren. 
-
-På golvet i prefektens arbetsrum låg en ung kvinna -- en flicka faktiskt -- på rygg. Hennes hår smetade mot hennes panna. Mascara rann utmed hennes kinder. Hennes tröja var upplyft så att brösten var bara. Hennes kjol och trosor var nerdragna till anklarna. En man med nerdragna byxor låg ovanpå henne. Han ryckte till när dörren slog i väggen, snurrade runt och satte sig på golvet, medan han drog upp sina kalsonger och byxor. Ansiktet var högrött och svettigt. Det var prefekten. 
-
-"Wagner", sa han och log. "Kan jag hjälpa dig med något?"
-
-Jag stod tyst och kände äcklet värka i magen.
-
-Han kom på fötter och fumlade med bältet. Flickan fick sina kläder i ordning och sprang ut ur rummet. Snyftandet dog bort i korridoren.
-
-"Det här är inte vad det ser ut som, Wagner. Inte alls."
-
-"Vad var det då?" sa jag.
-
-"Hon ville själv. Det var hon som började. Hon har hetsat mig hela terminen."
-
-"Hon är en student."
-
-Prefekten såg på mig under tystnad. Leendet smälte bort.
-
-"Din skenheliga lilla skit", sa han. "Jag ger väl blanka fan i vad du tycker. Om du vet vad som är bra för dig glömmer du det här."
-
-"Ursäkta?"
-
-"Om du vill ha någon framtid vid det här universitetet -- vid något universitet -- håller du käften. Har jag varit tydlig?"
-
-Jag vände på klacken och gick därifrån. Illamåendet hävde sig över mig i vågor. Jag gick in på en toalett, lutade mig över vasken och öppnade munnen, men ingen kom. Ilskan kokade i mig när jag cyklade hemåt.
-
-<!-- Här skall nog ett brev till fogas in, med lite annat tema. -->
-
-### Datum ###
-
-Vi kom nästan försent till gudstjänsten idag. Märta var svagare i högerbenet och det tog en evighet att hjälpa henne ur badet och i kläderna. Vi stormade in genom porten när klockorna börjat ringa, bara för att se att kyrkan bara var halvfull.
-
-När vi kommit till ro på en bänk slängdes porten upp igen och prefekten kom insläntrandes med sin hustru och tre döttrar. De gick altargången ner, som om de paraderade. Prefekten log och hälsade åt höger och vänster, som om han var en celebritet. Påfågel. Han log brett när han såg mig och blinkade med ena ögat. Jag vände bort blicken. Det smakade illa i munnen. Han är ondskefull. Hur kan han tillåtas komma in i vår kyrka? I Guds hus?
-
-Hela gudstjänsten passerade som i ett töcken. Märta satte en armbåge i sidan på mig varje gång det var dags att stå upp och sjunga. Varje ord i predikan skorrade falsk, varje strof i psalmerna likaså. Gudstjänsten var tom, i det närmaste parodisk. Jag kände mig febersjuk. Så snart det var över drog jag med mig Märta ut till bilen så snabbt jag kunde. Jag hörde prefekten ropa mitt namn från kyrktrappan, men jag låtsades inte höra.
-
-### Datum ###
-
-När natten kom låg jag sömnlös. Jag hörde Märta snarka i rummet intill. Sängkläderna var varma och klibbiga. Jag steg upp, drog fram skrivbordsstolen till fönstret och såg ut på världen utanför. Dimman skapade glorior kring gatlyktorna. Det kändes som en ål sprattlade i mitt inre. Jag kunde se den svarta blänkande kroppen framför mig, dess små själlösa ögon och fixerade mig. Jag tänkte på Håkans ord på cafét. Jag tänkte på profetian från flickan utan navel och på allt elände som fyllde världen. Plötsligt förstod jag. Det var som om någon dragit undan slöjan från mina ögon. Håkan hade rätt. Det fanns inget hopp kvar för mänskligheten. Den svarta ålen stillade sig med ens och lade sig till ro i min mage. På morgonen ringde jag kanslit och sjukanmälde mig.
-
-### Datum ###
-
-Jag satt i källaren och arbetade på en speldosa, när det ringde på ytterdörren.
-
-"Öppnar du, Lars-Erik?" ropade Märta uppifrån.
-
-Jag svarade inte. Efter en stund hörde jag hennes hasande steg, hennes käpp mot parketten. Sedan ljudet av ytterdörren som öppnades och mumlet av röster. Källardörren öppnades och Håkan kom ner för trappan.
-
-"Lars-Erik", sa han. "Vi är oroliga för dig."
-
-"Varför? För att jag missade mötet?"
-
-"Ja."
-
-Jag ryckte på axlarna. "Jag mådde inte bra."
-
-Håkan drog fram en stol och satte sig bredvid mig. Han såg rakt in i mina ögon, men jag vände bort blicken.
-
-"Vad står på?" sa han.
-
-Jag ryckte på axlarna igen och la ifrån mig urmakarskruvmejseln på arbetsbordet.
-
-"Du har rätt", sa jag efter en stund.
-
-"Hur sa?"
-
-Jag berättade om prefekten och om hur jag insett att hoppet var ute. Håkan nickade och la en hand på min axel.
-
-"Du är mogen", sa han. "Kom så åker vi och tar en kopp kaffe."
-
-## Datum ##
-
-Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i november och ett ösregn smattrade mot vindrutan.
-
-"Jag väntar i bilen", sa han. "Lycka till."
-
-"Kan du inte vänta inomhus åtminstone?"
-
-"Nej. När Riddarna av det Heliga Lammet sammanträder är vi andra inte välkomna i huset."
-
-Jag stod på trottoaren utanför det putsade vita huset och såg på honom. Han vevade ner vindrutan och log.
-
-"In med dig nu, innan du blir dyngsur."
-
-Jag höjde handen till avsked och gick mot ingången. Det fanns inga tända facklor idag. Hållarna gapade svarta och tomma, där de stod nerpålade i marken på var sin sida om grusgången. Utebelysningen lyste svagt ovanför trappan upp mot dörren.
-
-Professor Nilsonne väntade på mig i hallen. Han tog min våta överrock och ledde mig vidare in till ceremonisalen, utan att säga ett ord. Han såg allvarlig ut, såg bara rakt framför sig när han gick. Lamporna i ceremonisalen var släckta, men tända stearinljus lyste upp altaret, som en ö av ljus i mörkret. Stolar stod i en halvcirkel framför. Vid stolarna stod tio män, draperade i röda högtidsdräkter, med blänkande ordenskors kring halsen. Jag kände igen dem allihop från de vanliga ordensmöterna, även om jag aldrig umgåtts mera direkt med dem. Bankir Jakobsson nickade åt mig, men log inte. Vid altaret stod Gunnar Hierta med en avlång huvudbonad på sig, som en biskops mitra. Rubiner glittrade i skenet från stearinljusen.
-
-"Stig fram, broder", sa Hierta.
-
-Jag passerade stolarna och tygen prasslade när de tio männen satte sig. Jag föll på knä framför Hierta. Han la eggen av en kniv mot min strupe och jag svor att aldrig yppa det som skulle sägas i denna sal.
-
-Därefter följde ett skådespel, vars like jag aldrig tidigare upplevt. De visade mig hur bräckligt Guds rike är här på jorden, hur det ständigt utsätts för attacker från mörkret. De visade mig hur Riddarna av det Heliga Lammet fått till uppdrag att skydda riket från angrepp -- hur man skyddar mänskligheten från undergång.
-
-Jag kände hur bindeln föll från mina ögon. Plötsligt såg jag världen som den var. Saker jag tidigare tagit för självklara framstod i en helt ny dager. Jag hade fått en uppgift -- en livsuppgift -- den viktigaste uppgiften en människa kan ha. Jag hade fått det yttersta uppdraget.
-
-Hierta la knivbladet på min högra axel, sedan på min vänstra.
-
-"Jag dubbar dig till Riddare av det Heliga Lammet", sa han.
-
-Han vände sig till de andra och lyfte en gyllene bägare från altaret.
-
-"Nu samlas vi kring tecknet -- låt oss doppa våra fingrar i lammets blod."
-
-Bägaren gick runt bland männen. En efter en doppade de sitt högra pekfinger i en mörkt röd vätska. Bägaren kom sist till mig. Jag doppade mitt finger, drog upp det och lät vätskan droppa av innan jag räckte bägaren till Hierta. Han höjde den över sitt huvud.
-
-"Detta är lammets tecken", sa han. "Lammets tecken som förenar oss."
-
-Efter ceremonin samlades vi i matsalen och åt middag. En brasa knastrade i den öppna spisen och drev sakta ut den fuktiga kylan. Vi åt under tystnad till en början, men så småningom kom samtalen igång. Jag kände spänningen rinna av mig och jag tror att jag drack för mycket vin -- så pass mycket att jag inte har ett tydligt minne av resten av kvällen.
-
-Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt rödfärgade pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
-
-### Datum ###
-
-Grenom Broder Lauréns försorg har jag till sist kommit i kontakt med en man i Gdansk, som lovat hjälpa mig med det material jag behöver. Jag körde till Karlskrona för att möta honom. Han visade sig vara en obehaglig liten typ, med smala rödsprängda ögon, som om han hade ständig hösnuva mitt i vintern. Det glimmade av guld varje gång han log. Han var inte den sortens man jag skulle lita på i vanliga fall, men det här är ju knappast ett vanligt fall. Dessutom har ju Laurén gått i god för honom.
-
-Polacken lät meddela att det skulle ta två månader att samla in de volymer jag behövde. Kanske en, om betalningen var bättre. Jag hälsade honom att pengar inte var ett problem.
-
-Jag visade min ritning för Hierta efter mötet i söndags. Jag gjorde mitt bästa för att förklara hur den var tänkt att fungera, men han var inte intresserad av några detaljer.
-
-"Kommer den fungera?" sa han bara.
-
-Jag nickade till svar. Givetvis kan jag inte veta säkert, men jag tror absolut att den kommer klara sin uppgift.
-
-"Kommer den att räcka till?" sa han sedan.
-
-"Ja", sa jag. "Jag har räknat in en betydande marginal."
-
-"Då så", sa Hierta. "Du har fria händer. Din budget är näst intill obegränsad. Säg vad du behöver, så får du det."
-
-Obegräsad budget. Om det hade gällt ett annat projekt hade jag varit överlycklig.
-
-"En sak till", sa Hierta. "Hur stor kommer den att bli?"
-
-"Stor", sa jag. Jag pekade på måtten på ritningen.
-
-"Stor", sa Hierta. "Har du funderat på var vi kan gömma den?"
-
-Det hade jag inte. Jag kliade mig i huvudet.
-
-"Vi tänker ut något", sa Hierta. Han la en hand på min axel. "Du ar gjort ett bra jobb, Wagner. Ett utmärkt jobb."
-
-### Datum ###
-
-Jag vaknade av att Märta skrek på mig från sovrummet intill mitt. Jag rusade yrvaken dit och fann henne på rygg i sängen. Hon flaxade med armarna, vit i ansiktet.
-
-"Hjälp mig, Lars-Erik! Hjälp mig!"
-
-"Vad har hänt?" frågade jag.
-
-"Mina ben rör sig inte", sa hon. "Hur jag än försöker."
-
-Hennes ben låg orörliga i sängen. Jag lyfte upp det ena en bit ovanför madrassen. Det var slappt och tungt, som dött kött. När jag släppte det studsade det i sängen.
-
-"Men gör något!" skrek Märta. "Gör något för helvete!"
-
-Jag klädde mig själv och hjälpte Märta i en klänning. Jag bar ut henne till bilen och körde henne till sjukhuset. Hennes neurolog, Hougaard, kom ner på akuten för att prata med oss. Det var ett skov av hennes sjukdom, sa han. Kanske skulle det gå tillbaka, kanske inte. Han ordinerade en kur kortison och lovade se till att hon skulle få sjukgymnastik, så benet inte skulle stelna.
-
-Jag tog honom avsides i korridoren sjukrummet.
-
-"Finns det verkligen inget mer att göra?" sa jag.
-
-Hougaard tog av sig sina glasögon och såg på mig. Det fanns medlidande i hans blick.
-
-"Jag beklagar. Det finns inte så mycket mer att göra. Inga fler behandlingar än den hon har. Men vi kan hoppas -- hoppas och tro."
-
-Tro? Jag inser att hans ord var avsedda som tröst, med de kändes nästan hånfulla.
-
-När vi kom hem satt Håkan och väntade på trappan utanför huset. Han hjälpte mig att hålla upp dörren när jag bar in Märta. Efteråt satt vi en stund på trappan. Han tände en cigarett och blåste blå rök genom näsborrarna.
-
-"Jag trodde du hade slutat", sa jag.
-
-Håkan sög i sig mer rök.
-
-"Jag har börjat igen. Varför inte, tänkte jag. Med tanke på allt."
-
-Jag nickade.
-
-"Dina grejer har kommit", sa han sedan. "De anlände till hamnen igår. Hierta har redan sett till att flytta dem till byggplatsen."
-
-"Byggplatsen?"
-
-"Ja, har du inte hört? Hierta har tänkt ut det perfekta gömstället."
-
-Jag hörde Märta ropa inifrån huset och jag reste mig upp.
-
-"Jag måste gå", sa jag.
-
-Håkan nickade.
-
-"Du börjar i morgon?"
-
-Jag nickade och vi tog farväl.
-
-### Datum ###
-
-Efter tio år vid universitetet, där jag fick tigga på mina bara knän för att få köpa in nya blyertspennor, var det en aning overkligt att se de resurser som brödraskapet mobiliserat. Hierta hade låtit resa ett tält över byggplatsen, för att skydda från insyn. Jag hörde via avvägar att man spridit en lögn om vad som försiggår där inne -- en genial lögn -- en lögn som var så fräck att ingen ifrågasatte den. Tidningen var till och med där idag och gjorde ett reportage.
-
-Hierta har hyrt in ett femtontal arbetare från Polen och Baltikum. Ingen av dem förstår svenska. De förstår knappt varandra. Jag är säker på att det är avsiktligt. Förmannen talar en smula tyska, så det är honom jag försöker kommunicera med. Det är tur han kan läsa mina ritningar.
-
-Materialet anlände igår natt och hammarslagen har ekat hela morgonen, när kopparslagaren formar plåtarna. Jag har precis börjat arbetet med att foga samman urverket. Med jämna mellanrum svindlar tanken över vad jag håller på med. Det känns som om jag beblandar mig med krafter utom mitt förstånd. Jag kan inte längre bedöma konsekvenserna av mina handlingar, utan litar helt och fullt på att brödraskapet och Gud Fader leder mina händer rätt. Jag är livrädd och uppspelt på en och samma gång. Det har passerat tre nätter utan sömn. Det är sju dagar sedan jag såg min dotter.
-
-### Datum ###
-
-Jag satt uppe i natt igen. Timmarna gick, medan jag låg vaken i min tältsäng i baracken. En klump av oro jäste i min mage. Tänk om det är fel? Tänk om hon hade fel? Jag kunde inte skaka av mig känslan. Till slut steg jag upp, satte mig vid ritbordet och bredde ut ritningarna. Kunde man verkligen vara säker?
-
-Det är för mycket som står på spel. Jag är tvungen att bygga in en säkerhetsbrytare. Jag satt och ritade tills solen gick upp, sedan lämnade jag hålögd över de reviderade ritningarna till förmannen. Han tittade på mig, sedan på ritningarna, innan han nickade och ropade något till sina mannar.
-
-Jag nämnde inget för Hierta eller Håkan. Ingen behöver veta.
-
-### Datum ###
-
-Den är färdig. Maskinen är färdig och begraven. Hierta har skickat hem sina arbetare, tältet är rivet. Det är gjort.
-
-Jag trodde jag skulle känna mig lättad. När jag tidigare såg fram emot den här dagen föreställde jag mig att jag skulle känna mig stolt och glad, men jag känner inget alls. Bara tomhet. Vad ska jag nu ta mig till? Vart ska jag ta vägen? Jag frågade Hierta, men han la bara en hand på min axel och sa att jag skulle återvända till min familj och mitt liv. Men jag har ju inget liv kvar -- bara spillror.
-
-### Datum ###
-
-Något har gått snett. Håkan sökte upp mig på institutionen idag och bad att få prata ostört. Tydligen hade man upptäckt två containrar i hamnen med spår av radioaktivitet. De skulle ha smugglats ut ur Sverige, men något hade gått fel. Håkan berättade att Hierta var bekymrad. Under inga villkor kunde man tillåta att polisen följde spåren till hemligheten vi gömt i Edencronas grav.
-
-Jag har en otäck känsla. Min övertygelse har anfrätts av tvivel. Har vi verkligen gjort rätt? Vem är vi att blanda oss i den uråldriga striden? Vilka tror vi att vi är?
-
-Jag frågade Håkan vad han trodde skulle hända. Han visste inte, men han uppmanade mig att göra mig av med allt som kunde knytas till hemligheten.
-
-Jag måste göra mig av med nycklarna. Jag har en kvar att sätta samman. Det måste bli klart ikväll, sedan måste jag bestämma mig för hur jag ska göra.
