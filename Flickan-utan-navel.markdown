@@ -1,11 +1,13 @@
 Title:		Flickan utan navel 
-Author:		Joakim Hertze    
+Author:		Joakim Hertze
+Copyright:	Joakim Hertze
 Address:	Porfyrvägen 5  
 			245 45 Staffanstorp  
 			tfn: 0709-469802  
 			e-post: joakim@hertze.com
 Language:	Swedish
 LaTeX XSLT:	utkast.xslt
+XHTML XSLT:	xhtml-epub.xslt
 
 
 # Brädet är uppställt och pjäserna sätts i rörelse #
@@ -805,8 +807,73 @@ Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen
 	Här behövs partier om hur Lars-Erik och Håkan träffades.
 -->
 
-### Brev @LES ###
+### LE ser Håkan för första gången @LES ###
 
+Märta kände sig dålig idag, så jag åkte till gudstjänsten själv. Cecilia är förkyld och vaknade med feber med jämna mellanrum, så jag kände tyngden av sömnbrist när klockan ringde. Det var en eländigt regnig morgon, vilket jag tror märktes på församlingen. Kyrkan var bara fylld till en tredjedel. Resten låg säkert hemma i sängen och läste morgontidningen. Jag önskade att jag kunde ha gjort likadant, men just nu behöver jag Gud mer än någonsin. Om någon kan rädda mig ur mitt hål så är det han.
+
+Jag känner igen de flesta ur församlingen vid det här laget, men idag var där ett nytt ansikte. Det var en man som såg ut att vara ungefär i min ålder, med rödlätt mustache och begynnande flint. Han satt på bänken längst bak, till synes själv. Jag sneglade mot honom när vi reste oss till psalmerna och jag såg att han sneglade tillbaka. När klockorna ringde ut var han försvunnen.
+
+### Håkan tar kontakt @LES ###
+
+Efter gudstjänsten idag kom den rödlätte mannen fram till mig och presenterade sig. Han hette Håkan. Han påstod att han kände igen mig, men inte riktigt kunde placera mig.
+
+"Trots att jag har letat i minnet hela veckan", sa han.
+
+Jag var rätt säker på att vi aldrig träffats förut, men han var trevlig och vi gick och tog en kopp kaffe i församlingshemmet. Håkan var lektor på matematiska instutitionen -- kanske var det därför han kände igen mig. Vi pratade en del om umbärandena vid universitetet och vi kände igen oss i varandras bekymmer. Kanske har jag funnit en själsfrände. 
+
+"Men hur kommer det sig att jag aldrig sett dig här i kyrkan?" sa jag.
+
+"Jag flyttade till Lund förra året. Jag har tänkt gå hit länge, men det har bara inte blivit av. Du vet hur det är."
+
+"Jo, jag vet."
+
+Vi skildes åt med ett handslag och lovade varandra en fika efter gudstjänsten nästa söndag igen. Jag kände mig varm i magen när jag cyklade hemåt -- för första gången på länge.
+
+### Håkan lobbar för frimureriet @LES ###
+
+Under de månader som gått har jag och Håkan blivit allt bättre vänner. Det känns som om jag kan anförtro honom med vad som helst -- till och med mitt trasiga äktenskap.
+
+"Du har burit på mycket smärts under alltför lång tid", sa han när vi satt bredvid varandra på en parkbänk i Lundagård. Det var vinter och luften var hög och kall. "Du behöver inte bära den själv, vet du."
+
+"Jag önskar att jag kunde vara mer som du", sa jag.
+
+"Hur då?"
+
+"Du verkar ha bättre motståndskraft mot livets svårigheter."
+
+Han ryckte på axlarna.
+
+"Jag är nog lika känslig som du, men jag har stöd."
+
+"Stöd?"
+
+"Vi behöver alla ett sammanhang -- en mening med allt. Jag har funnit mitt bland likasinnade."
+
+"Du menar i kyrkan?"
+
+"Kyrkan, ja. Men något annat också. Jag är frimurare."
+
+"Frimurare?" Jag trodde han skojade först, men han såg helt allvarlig ut.
+
+"Ja. Jag är med i en loge i Malmö. Jag har varit med i över tio år. Jag kan inte ens uttrycka i ord hur mycket det har hjälpt mig genom åren."
+
+Han vände sig mot mig och såg mig rakt i ögonen.
+
+"Jag skulle vilja att du kom med mig dit -- att du blev medlem du också."
+
+"Menar du allvar?" sa jag.
+
+Håkan nickade. Han menade vad han sa.
+
+Jag bad att få fundera på saken. När jag på kvällen satt på golvet och lekte med Cecilia insåg jag att det var värt en chans. För hennes skull var jag tvungen att göra vad som krävdes för att livet skulle bli bättre. Jag ville skänka min dotter en bättre barndom än vad hon nu hade. Jag gick till telefonen och slog numret till Håkan.
+
+"Kan man gå ur, om det visar sig att det inte är något för mig?" sa jag.
+
+"Absolut", sa Håkan på andra sidan. "Det är ingen sekt, som många tror."
+
+"Då provar jag."
+
+Det kändes som om något lossnade i mig när jag sa det, som om ett gruskorn som länge varit fastkilat mellan två kugghjul äntligen ramlade bort. Jag var så upprymd att jag hade svårt att somna på natten.
 
 ---
 
@@ -5401,7 +5468,6 @@ Peder såg på henne.
 
 "Jag har kommit på något", sa hon. "Om jag har rätt har vi inte mycket tid på oss."
 
-
 # En kupol av glas #
 
 <!-- De tar sig till Nevishögs kyrkogård och hittar bomben. De ertappas av Hierta och Samuel. Showdown. -->
@@ -5415,6 +5481,38 @@ Jag har en otäck känsla. Min övertygelse har anfrätts av tvivel. Har vi verk
 Jag frågade Håkan vad han trodde skulle hända. Han visste inte, men han uppmanade mig att göra mig av med allt som kunde knytas till hemligheten.
 
 Jag måste göra mig av med nycklarna. Jag har en kvar att sätta samman. Det måste bli klart ikväll, sedan måste jag bestämma mig för hur jag ska göra.
+
+### LE blir syndabock ###
+
+Jag blev kallad till Hierta idag, men jag visste redan vad han skulle säga. Polisen var oss på spåren. Den polska sjökaptenen som skulle ha smugglat ut de tomma containrarna ur Sverige hade fått kalla fötter och försvunnit med betalningen. Vi måste sopa igen våra spår, om inte allt ska vara förgäves.
+
+"Lars-Erik, du är en god broder och vän", sa han. "Men jag har en svår sak jag måste be dig om."
+
+Han satt på andra sidan skrivbordet med läsglasögonen i ena handen och såg medlidsamt på mig.
+
+"Jag måste be dig offra dig, så vår hemlighet kan bevaras. Mänsklighetens räddning hänger på det."
+
+Jag nickade. Jag hade redan förberett mig på detta. Det kändes nästan som en lättnad. Plötsligt hade jag ett syfte, en mening med min existens. Det var jag som skulle bevara den stora hemligheten.
+
+"Vad kommer att hända?" sa jag.
+
+"Vi kommer lägga ett spår som leder polisen till dig, utan att Riddarna blir inblandade. Det kommer förmodligen bli en rättegång och jag tror att du kommer att dömas till fängelse."
+
+"Men vad ska jag säga till polisen?"
+
+"Ingenting. Du behöver inte ljuga, utan säg ingenting."
+
+Jag nickade igen.
+
+"Hur lång tid har jag på mig?"
+
+"Någon vecka. Hinner du få dina affärer i ordning på den tiden?"
+
+"Ja. Vem tar hand om min familj?"
+
+"Brödraskapet ser till att de har vad de behöver. Du behöver inte bekymra dig för din hustru, eller din dotter."
+
+Han tackade mig och jag gick därifrån. Det var då mycket jag var tvungen att ordna på den korta tid jag hade kvar i frihet.
 
 ---
 	
@@ -6054,6 +6152,18 @@ Cecilia var tyst en stund. "Ska vi ses i kväll", sa hon sedan.
 
 
 ### Vid Spillepengen ###
+
+### Lars-Eriks sista brev @LES ###
+
+Lång tid har gått sedan jag skrev senast. Dagarna här inne flyter ihop till veckor, som flyter ihop till månader. Rätt vad det är har flera år gått. Jag tror att jag är lycklig här, i mitt lilla sammanhang. Tiden utanför fängelset känns alltmer som en avlägsen dröm.
+
+På sistone har jag funderat över om vi verkligen gjorde rätt när vi byggde maskinen -- när vi satte oss till doms över mänsklighetens vilja att bli bättre. Av och till har jag fått brev från Håkan och jag har svarat så ofta jag orkat. Jag tror inte att brödraskapet har upptäckt mina nycklar. Jag tror Håkan skulle ha sagt något i så fall.
+
+Jag ska få besök i morgon, mitt första på flera år. Märta hälsade på mig någon gång i början, ibland med Cecilia, men inte de senaste åren. I morgon kommer Samuel förbi, med viktiga nyheter.
+
+Det ska bli trevligt att se någon från brödraskapet.
+
+---
 
 Peder tog en taxi ut till Spillepengen och promenerade den sista biten till bron där han träffat den allvetande första gången. Trafiken brusade över hans huvud. Kartongerna låg kvar på marken, solkade och skrynkliga. Oljefaten fanns också där, fullt av aska. Peder stack ner ett finger bland de förkolnade träresterna. Askan var kall. Han rynkade pannan och torkade av fingret mot byxbenet.
 
