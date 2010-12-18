@@ -172,7 +172,7 @@ De tog på sig vinterjackor och vantar. Jesper drog en stickad grön mössa öve
 
 ### Kinakrogen ###
 
-De tog hissen ner och promenerade tillsammans längs trottoaren mot kinakrogen på hörnet. Vinden var iskall. Snön som fallt får några dagar sedan hade förvandlats till brun sörja längs vägkanten.
+De tog hissen ner och promenerade tillsammans längs trottoaren mot kinakrogen på hörnet. Vinden var iskall. Snön som fallit får några dagar sedan hade förvandlats till brun sörja längs vägkanten.
 
 Matoset slog emot dem när de öppnade dörren till restaurangen. De betalade för var sin dagens vid bardisken och hängde sina jackor på stolsryggarna vid ett ledigt bord längst in i lokalen, mellan ett gäng byggare i blåkläder och en vägg. Peder fyllde sin tallrik med ris, biff och bambuskott och la en hög friterade räkor i sötsur sås på toppen. Jesper stirrade på den när han ställde ner den på bordet.
 
@@ -228,7 +228,7 @@ Peder nickade.
 
 "Nej, tack", sa Peder. "Jag ordnar det själv."
 
-De åt upp resten av mate under tystnad. Peder kände en begynnande huvudvärk mola vid ena tinningen och han masserade området med ena handen.
+De åt upp resten av maten under tystnad. Peder kände en begynnande huvudvärk mola vid ena tinningen och han masserade området med ena handen.
 
 De lämnade tallrikarna på bordet, tog på ytterkläderna och promenerade tillbaka till tidningen.
 
@@ -329,6 +329,27 @@ De båda unga männen såg på honom med medlidande.
 
 Peder stängde dörren efter dem och återvände till TV-soffan. Han slog på TV:n och DVD-spelaren. *Princessa på vift*, med Audrey Hepburn låg kvar i spelaren och han startade filmen från början. Han tog upp sin laptop från ryggsäcken, startade den och öppnade texteditorn. *Snart klar*, tänkte han. *Sedan blir allt annorlunda.*
 
+### Drömmen om mamma ###
+
+Peder somnade med filmen surrande på TV:n. När han vaknade till var klockan efter tre på natten. Datorn hade glidit ur hans knä och låg i soffan bredvid honom. En vit lysdiod tändes och släktes i takt med hans andetag. Han ställde igen locket och gick och la sig i sin säng utan att borsta tänderna.
+
+Han väcktes igen av ljudet av porlande vatten. När han slog upp ögonen badade rummet i blått, skimrande ljus. Det såg ut som när man lyste med en ficklampa under vatten. På en stol vid fotändan av hans säng satt en kvinna i vit klänning. Hennes svarta hår böljade omkring hennes huvud och skymde hennes ansikte. Hennes hud var täckt av gröna alger.
+
+"Mamma?" sa Peder.
+
+Kvinnans huvud rörde sig, håret sveptes åt sidan och hon såg på honom. Hennes ögon var täckt av en vit hinna.
+
+"Peder. Jag älskar dig. Vad som än händer."
+
+Hennes röst var grötig.
+
+"Mamma!"
+
+Peder kastade täcket åt sidan, hoppade ur sängen och sprang fram till kvinnan. Han sträckte fram sin hand och la den mot hennes kind. Bitar av vitt kött lossnade och ramlade ner på hans axel.
+
+Peder ryckte till och slog upp ögonen. Han låg i sin säng. Det hade varit en dröm. Hjärtat bankade hårt i hans bröst. Han satte sig upp på sängkanten och dolde ansiktet i händerna.
+
+"Fy fan", sa han.
 
 # Intagen #
 
