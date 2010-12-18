@@ -760,7 +760,7 @@ Underläkaren Cecilia stod bredvid Gunnar. Hon var tyst, men såg rakt mot Peder
 
 Han såg på sina patienter, nickade kort och lämnade rummet, med Cecilia i släptåg. Patienterna stod kvar en stund och lämnade sedan rummet en och en.
 
-Vid sjutiden gick Peder till matsalen igen och åt två smörgåsar med ost och skinka. Han stoppade en banan i fickan, som han sedan åt på sängen. Ögonlocken kändes allt tyngre och vid niotiden tog han av sig sina kläder, kröp ner under täcket och somnade.
+Vid sjutiden gick Peder till matsalen igen och åt två smörgåsar med ost och skinka. Han fick tillåtelse att ringa ett samtal och slog numret till Jessicas mobil, men den verkade vara avstängd. Ingen svarade på hemnumret heller. På vägen tillbaka till rummet plockade han till sig en banan från serveringsvagnen i korridoren, som han sedan skadade och åt på sängen. Ögonlocken kändes allt tyngre och vid niotiden tog han av sig sina kläder, kröp ner under täcket och somnade.
 
 
 ### Peder drömmer ###
