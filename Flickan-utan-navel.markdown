@@ -14,11 +14,13 @@ XHTML XSLT:	xhtml-epub.xslt
 
 <!-- Kerstin får sin uppenbarelse. Samuel sätter spelet i rörelse. -->
 
-Rösterna kom från alla håll. De sköljde över henne som vågor mot en strand. Män och kvinnor skrattade, grät och skrek om vartannat. Flickan satt i mörkret på golvet, med knäna uppdragna mot hakan. Hon tryckte handflatorna mot öronen och blundade hårt. Hennes tår kramade heltäckningsmattan.
+Rösterna kom från alla håll. De sköljde över henne som vågor mot en strand. Män och kvinnor skrattade, grät och skrek om vartannat. Det gick inte att urskilja några ord. Flickan satt på golvet i mörkret, med knäna uppdragna mot hakan. Hon tryckte handflatorna mot öronen och blundade hårt -- så hårt att hon såg stjärnor. Hennes tår kramade heltäckningsmattan.
 
-"Sluta!", skrek flickan och grät. "Sluta!"
+"Sluta!", skrek flickan. "Sluta!"
 
-Rösterna fortsatte, men det gick inte att urskilja några ord. En mörk mansröst dånade från sängen i hörnet. En barnröst svarade från lampan i taket. Ett skrik kom emot flickan med sådan kraft att hon kastade sig åt sidan. Med skriket följde en stank av ruttna ägg. Flickan drog ihop sig i fosterställning, med händerna framför ansiktet. Hon andades snabbt och ytligt. Ett surrande ljud växte i styrka, tills hon kände det vibrera i magen.
+Tårar rann ner för hennes kinder och fuktade hennes läppar.
+
+Rösterna fortsatte, som om de inte hade hört henne. En mörk mansröst dånade från sängen i hörnet. En barnröst svarade från lampan i taket. Ett skrik kom emot flickan med sådan kraft att hon kastades åt sidan. Efter skriket följde en stank av ruttna ägg. Flickan la sig ner på golvet i fosterställning, med händerna framför ansiktet. Hon andades allt snabbare och ett surrande ljud växte i styrka omkring henne, tills hon kände det vibrera i magen.
 
 "Sluta, jag orkar inte mer", viskade hon. Hon var röd och svullen kring ögonen.
 
@@ -30,29 +32,29 @@ Dörrhandtaget ryckte upp och ner, men dörren rubbades inte. En hand slog mot t
 
 "Öppna dörren, Kerstin! Varför har du låst?"
 
-Rösterna sänktes till viskningar och försvann sedan helt. Det var overkligt tyst i rummet. Flickan öppnade ögonen. Rummet var mörkt. Spetsgardinen i fönstret rörde sig. Hon kunde höra sin mor slå mot dörren, men det lät dämpat, avlägset.
+Rösterna sänktes till viskningar och dog sedan långsamt ut. Flickan öppnade ögonen. Rummet var mörkt och overkligt tyst. Hon kunde höra sin mor slå mot dörren, men det lät dämpat, avlägset, som om det hände i ett annat rum, långt därifrån.
 
-"Mitt barn."
+Spetsgardinen framför det stängda fönstret fladdrade till och så hörde hon en annan röst, en röst hon inte kände igen, som lät från en punkt mitt i hennes huvud.
 
-Rösten lät från en punkt mitt i flickans huvud. Hon en knuten näve mot pannan. 
+"Mitt barn. Kom till mig."
 
-"Kom till mig."
+Flickan tryckte en knuten näve mot pannan. 
 
-"Vem är du?" frågade flickan. Det kom inget svar.
+"Vem är du?" frågade hon. 
 
-Hon reste sig upp till stående. Den vita blusen var genomblöt av svett. Tyget kändes kallt mot huden. Hennes manchesterkjol hade vridit sig ett halv varv i midjan. Hon stirrade ut i mörkret.
+Det kom inget svar. De avlägsna slagen mot dörren tystnade.
+
+Hon satte sig upp på knä och reste sig sedan upp, med händerna stödda mot låren. Hennes vita blus var genomblöt av svett och tyget var kallt mot huden. Hennes manchesterkjol hade vridit sig ett halv varv i midjan. Hon stirrade ut i mörkret.
 
 "Var är du?"
 
-Fåtöljen bredvid fönstret skakade till och vred sig mot henne. Luften omkring den skälvde till och sedan tog den fyr. Blå lågor slog upp mot taket och spred sig åt sidorna. Flickan tog ett steg mot elden och sträckte fram en handflata. Hon kände ingen värme.
+Fåtöljen bredvid hoppade till och vred sig kring sin axel, mot henne. Luften omkring den skälvde till och sedan tog den fyr. Blå lågor exploderade uppåt och slickade taket. Flickan stod stilla en stund i ljusskenet tog sedan ett steg mot elden.
 
 "Kom till mig."
 
-Rösten kom nu från fåtöljen. Flickan sträckte sin hand in i elden. Lågorna omslöt armen, slickade den, utan att göra skada. Det kändes svalt mot huden. Hon tog ett steg till och satte sig i fåtöljen. Lågorna omslöt henne och färgade rummet fluorescerande blått. Hon kände en andedräkt mot ansiktet. Den doftade av mandel och honung.
+Rösten kom nu från fåtöljen. Flickan sträckte fram sin arm och lågorna omslöt den, smekte den, utan att göra skada. Det kändes svalt mot huden. Hon tog ett steg till, la sin hand på armstödet och satte sig i fåtöljen. Lågorna omfamnade henne och färgade rummet i fluorescerande blått. Hon kände en andedräkt mot ansiktet. Den doftade av mandel och honung.
 
-"Mitt barn. Du har ett högre syfte."
-
-Rösten omfamnade henne. Hon kände sig varm och trygg. Med ens förstod hon allt.
+"Käraste dotter, jag behöver din hjälp."
 
 
 # Lammet på kontoret #
