@@ -65,11 +65,11 @@ Rösten kom nu från fåtöljen. Flickan sträckte fram sin arm och lågorna oms
 
 #### 3 maj, 1979 ####
 
-Märta förlorade synen på ett öga igen. Höger öga, den här gången. Hon vaknade på söndagen och berättade att det molvärkte i huvudet kring ögat. Jag trodde det var vanlig spänningshuvudvärk. Under gudstjänsten grep hon tag in min arm och viskade att hon såg suddigt. Hon var alldeles vit i ansiktet. Hennes underläpp darrade. Vi satt kvar tills gudstjänsten var över och sedan ledde jag henne ut till bilen. Kerstin ryckte Märta i kjolen och frågade vad som var fel, men vi berättade inte.
+Märta förlorade synen på ett öga igen. Höger öga, den här gången. Hon vaknade på söndagen och berättade att det molvärkte i huvudet kring ögat. Jag trodde det var vanlig spänningshuvudvärk. Under gudstjänsten grep hon tag in min arm och viskade att hon såg suddigt. Hon var alldeles vit i ansiktet. Hennes underläpp darrade. Vi satt kvar tills gudstjänsten var över och sedan ledde jag henne ut till bilen, med Cecilia på armen.
 
 Märtas syn blev sämre under dagen och på kvällen hade det blivit svart för henne. Hon var helt blind på höger öga. Jag satte familjen i bilen och körde till sjukhuset. Märta undersöktes av en ögonläkare. Han tittade i hennes öga med ett mikroskop och sa att hon hade en inflammation i synnerven. Han bad oss vänta kvar, medan han kallade på en kollega.
 
-Det dröjde. Kerstin blev otålig och slog sina klackar i golvet tills jag trodde jag skulle bli tokig. Hon var nog trött. Säkert hungrig också. Märta kramade min hand tills den vitnade.
+Det dröjde. Cecilia blev otålig i min famn och skrek tills jag trodde jag skulle bli tokig. Hon var förstås trött. Säkert hungrig också. Mitt i allt elände hade vi missat hennes sovstund. Märta kramade min hand tills den vitnade.
 
 Till slut kom ögonläkaren tillbaka med en äldre man i vit rock och glasögon. Han presenterade honom som *Doktor Hougaard*, neurolog. Neurologen bad Märta ligga ner på en brits och så undersökte han hennes muskelkraft, känsel och reflexer. Han frågade henne om hon tyckte det kändes konstigt när hon satte hakan i bröstet. Märta testade och grimaserade av obehag.
 
@@ -77,7 +77,7 @@ Till slut kom ögonläkaren tillbaka med en äldre man i vit rock och glasögon.
 
 "Du verkar lite svagare i den vänstra handen", sa Hougaard med dansk brytning. "Hur länge har det varit så?"
 
-"Jag vet inte", sa Märta. "Jag är högerhändt. Jag har inte tänkt på det."
+"Jag vet inte", sa Märta. "Jag är högerhänt. Jag har inte tänkt på det."
 
 "Har du kännt dig fumligare senaste tiden?"
 
@@ -113,7 +113,7 @@ Märta sa ingenting när vi körde hem. Jag koncentrerade mig på trafiken så d
 
 Peder satt framåtlutad vid sitt skrivbord på Sydsvenska dagbladet med hakan stödd mot ena handen. Han stirrade på skärmen till sin laptop och läpparna rörde sig när han läste texten tyst för sig själv. Det sved i ögonen och gnuggade dem med baksidan av handen och blinkade några gånger. Han lutade sig tillbaka, suckade och drog fingrarna genom sitt rufsiga blonda hår.
 
-Det surrade av ljud från kontorslandskapet omkring honom. Han hörde klickandet av tangenter blandas med telefonsamtal. Över kanten på skärmarna som begränsade hans arbetsyta såg han överdelen av kollegors huvuden. Trots att det nästan var lunchtid orkade den bleka februarisolen knappt lysa in genom fönstren.
+Det surrade av ljud från kontorslandskapet omkring honom. Han hörde klickandet av tangenter blandas med telefonsamtal. Över kanten på skärmarna som begränsade hans arbetsyta såg han överdelen av kollegors huvuden. Där var Gunnar på kulturdelen, med sin sensationella överkamning, Kristin på sporten, som aldrig tvättade håret och den där blonda tjejen till praktikant, som han aldrig mindes namnet på. Trots att det nästan var lunchtid orkade den bleka februarisolen knappt lysa in genom fönstren.
 
 Peder slog igen skärmen till sin dator, lyfte den fasta telefonen och slog ett nummer. Efter sju signaler kom han fram till en telefonsvarare.
 
@@ -174,9 +174,9 @@ De tog på sig vinterjackor och vantar. Jesper drog en stickad grön mössa öve
 
 ### Kinakrogen ###
 
-De tog hissen ner och promenerade tillsammans längs trottoaren mot kinakrogen på hörnet. Vinden var iskall. Snön som fallit får några dagar sedan hade förvandlats till brun sörja längs vägkanten.
+De tog hissen ner till gatuplan och promenerade tillsammans längs trottoaren mot kinakrogen på hörnet. Vinden var iskall. Snön som fallit får några dagar sedan hade förvandlats till brun sörja längs vägkanten.
 
-Matoset slog emot dem när de öppnade dörren till restaurangen. De betalade för var sin dagens vid bardisken och hängde sina jackor på stolsryggarna vid ett ledigt bord längst in i lokalen, mellan ett gäng byggare i blåkläder och en vägg. Peder fyllde sin tallrik med ris, biff och bambuskott och la en hög friterade räkor i sötsur sås på toppen. Jesper stirrade på den när han ställde ner den på bordet.
+Matoset slog emot dem när de öppnade dörren till restaurangen. De betalade för var sin dagens vid bardisken och hängde sina jackor på stolsryggarna vid ett ledigt bord längst in i lokalen, inklämt mellan ett gäng byggare i blåkläder och en vägg. Peder fyllde sin tallrik med ris, biff och bambuskott och la en hög friterade räkor i sötsur sås på toppen. Jesper stirrade på den när han ställde ner den på bordet.
 
 "Ska du inte ha någon sallad?"
 
@@ -249,11 +249,11 @@ Han rätade på sig och ropade med hög röst, ut över kontorslandskapet.
 
 "Ha, ha. Riktigt jävla kul. Vems är lammet?"
 
-Alla ansikten vändes mot honom, men ingen skrattade. Tvärtom såg alla att vara obehagliga till mods. Jesper stod i dörrhålet en bit bort, med kaffe i en pappmugg.
+Alla ansikten vändes mot honom, men ingen skrattade. Tvärtom såg alla ut att vara obehagliga till mods. Jesper stod i dörrhålet en bit bort, med kaffe i en pappmugg.
 
 "Någon måste ha ställt lammet här", sa Peder.
 
-När han vände tillbaka blicken var hans bås toms. Peder såg sig omkring och flackade med blicken över rummet. Lammet syntes inte till. Peder bet sig i underläppen.
+När han vände tillbaka blicken var hans bås tomt. Peder såg sig omkring och flackade med blicken över rummet. Lammet syntes inte till. Peder bet sig i underläppen.
 
 "Va, fan", sa han tyst och sjönk ner på sin skrivbordsstol.
 
@@ -333,9 +333,9 @@ Peder stängde dörren efter dem och återvände till TV-soffan. Han slog på TV
 
 ### Drömmen om mamma ###
 
-Peder somnade med filmen surrande på TV:n. När han vaknade till var klockan efter tre på natten. Datorn hade glidit ur hans knä och låg i soffan bredvid honom. En vit lysdiod tändes och släktes i takt med hans andetag. Han ställde igen locket och gick och la sig i sin säng utan att borsta tänderna.
+Peder somnade med filmen surrande på TV:n. När han vaknade till var klockan efter tre på natten. Datorn hade glidit ur hans knä och låg i soffan bredvid honom. En vit lysdiod tändes och släktes i takt med hans andetag. Han slog igen locket och gick och la sig i sin säng utan att borsta tänderna. Inom en minut snarkade han tjockt.
 
-Han väcktes igen av ljudet av porlande vatten. När han slog upp ögonen badade rummet i blått, skimrande ljus. Det såg ut som när man lyste med en ficklampa under vatten. På en stol vid fotändan av hans säng satt en kvinna i vit klänning. Hennes svarta hår böljade omkring hennes huvud och skymde hennes ansikte. Hennes hud var täckt av gröna alger.
+Han vaknade igen till ljudet av porlande vatten. När han slog upp ögonen badade rummet i blått, skimrande ljus. Det såg ut som när man lyste med en ficklampa under vatten. På en stol vid fotändan av hans säng satt en kvinna i vit klänning. Hennes svarta hår böljade omkring hennes huvud och skymde hennes ansikte. Hennes hud var täckt av gröna alger.
 
 "Mamma?" sa Peder.
 
@@ -347,7 +347,7 @@ Hennes röst var grötig.
 
 "Mamma!"
 
-Peder kastade täcket åt sidan, hoppade ur sängen och sprang fram till kvinnan. Han sträckte fram sin hand och la den mot hennes kind. Bitar av vitt kött lossnade och ramlade ner på hans axel.
+Peder kastade täcket åt sidan, hoppade ur sängen och sprang fram till kvinnan. Han sträckte fram sin hand och la den mot hennes kind. Bitar av vitt kött lossnade och ramlade ner på hennes axel.
 
 Peder ryckte till och slog upp ögonen. Han låg i sin säng. Det hade varit en dröm. Hjärtat bankade hårt i hans bröst. Han satte sig upp på sängkanten och dolde ansiktet i händerna.
 
