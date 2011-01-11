@@ -958,9 +958,11 @@ Jag bad att få fundera på saken. När jag på kvällen satt på golvet och lek
 
 "Då provar jag."
 
-Det kändes som om något lossnade i mig när jag sa det, som om ett gruskorn som länge varit fastkilat mellan två kugghjul äntligen ramlade bort. Jag var så upprymd att jag hade svårt att somna på natten.
+Det kändes som om något lossnade i mig när jag sa det, som om ett gruskorn som länge varit fastkilat mellan två kugghjul äntligen ramlade bort. Jag var så upprymd att jag hade svårt att sova på natten.
 
 ---
+
+### Nytt bedömningssamtal ###
 
 "Nu har du varit här i några dagar, Peder. Hur trivs du?"
 
@@ -1044,9 +1046,9 @@ Peder ryckte på axlarna.
 
 "Växte du upp med båda föräldrarna?"
 
-"Till en början. Min mor tog livet av sig när jag var sju år. Efter det var det bara min farsa."
+"Ja, jag växte upp med båda föräldrarna. Min mamma försvann för fyra år sedan, men då hade jag redan flyttat hemifrån."
 
-"Varför tog din mor livet av dig?"
+"Försvann? Vart då?"
 
 "Vet inte."
 
@@ -1072,7 +1074,7 @@ Peder rynkade pannan.
 
 "Inte vad jag minns."
 
-Underläkaren strök luggen från ögonen. De lyste klarblått. Peder såg på henne.
+Underläkaren strök luggen från ögonen. De lyste klarblå. Peder såg på henne.
 
 "Är det bara du som skall ställa frågor?" sa han.
 
@@ -1159,7 +1161,9 @@ Peder vandrade upp och ner i korridoren tills han hade lugnat sig. Då stannade 
 
 "Han har väl sina skäl, antar jag", svarade en manlig röst. "Har det inte med polisutredningen att göra?"
 
-"Polisutredningen, pyttsan. Inte tusan lär polisen komma hit och göra en teknisk undersökning för ett självmord. Snarare lär väl Socialstyrelsen nagelfara vår journalföring tills vi blir blå."
+"Polisutredningen -- det är bara skitsnack. Tror du verkligen polisen kommer hit och göra en teknisk undersökning för ett självmord? Hur många gånger har det hänt genom åren, va? Nä, snarare lär väl Socialstyrelsen nagelfara vår journalföring tills de hittar något att gnälla på. Som de alltid hittar -- förr eller senare."
+
+"Ofta förr, på det här stället."
 
 Peder tog en tugga av äpplet, men satte i halsen. Han hostade våldsamt och sköt iväg äpplebiten som en projektil. Den slog i väggen på andra sidan korridoren och lämnade en våt fläck efter sig. Inger kom utspringande från expeditionen.
 
@@ -1177,7 +1181,7 @@ Peder fyllde ännu en mugg med vatten och drack med djupa klunkar. Kläderna var
 
 "Kom med så skall vi kolla", sa Inger.
 
-Inger gick tillbaka in på expeditionen och lämnade Peder stående i dörrhålet. En manlig skötare, kort i växten, med mörkt kortklippt hår och mustasch satt vi en av datorerna. Han nickade till hälsning. Peder såg sig omkring. På en av hyllorna stod arton numrerade pärmar, hälften röda och hälften blå. De var av samma typ som den pärm överläkaren brukade ha med sig till deras samtal.
+Inger gick tillbaka in på expeditionen och lämnade Peder stående i dörrhålet. En manlig skötare, kort i växten, med mörkt kortklippt hår och mustasch satt vi en av datorerna. Han nickade till hälsning. Peder såg sig omkring. På en av hyllorna stod tjugo numrerade pärmar, hälften röda och hälften blå. De var av samma typ som den pärm överläkaren brukade ha med sig till deras samtal. Man verkade ha hoppat över pärm nummer tretton.
 
 "Då skall vi se", sa Inger och tog ner en grön pärm från en av hyllorna. Hennes pekfinger löpte längs flikarna, tills hon hittade rätt. "Här." Hon vände upp en sida. "Nej, jag beklagar. Här står inget."
 
@@ -1320,7 +1324,7 @@ Syster Inger kom in genom dörren. Hon höll en liten genomskinlig mugg av plast
 
 Peder suckade.
 
-"Den jag. Den hade jag glömt."
+"Den, ja. Den hade jag glömt."
 
 "Du har haft den förut, förstår jag. Då vet du att man brukar bli rätt trött i början."
 
@@ -1355,7 +1359,7 @@ Cecilia klev upp i sängen och satte sig gränsle över Peder. Hon var barfota. 
 
 "Åh, Gud", sa han.
 
-Peders hand gled in genom tyget i toppen, in genom huden. I brösthålan kunde han känna hennes hjärta i sin öppna hand. Det slog stark och regelbundet. Hennes lungor ökade och minskade i volym runt omkring. Hon såg på honom. Hennes ögon lyste isblå.
+Peders hand gled in genom tyget i toppen, in genom huden. I brösthålan kunde han känna hennes hjärta i sin öppna hand. Det slog stark och regelbundet. Hennes lungor vidgades runt omkring. Hon såg på honom, med självlysande isblå ögon.
 
 "Jag drömmer", sa Peder.
 
@@ -1430,7 +1434,7 @@ Peder smög ut ur rummet. I taket utanför sjuksköterskeexpeditionen blinkade s
 
 "Fan."
 
-Peder ställde tillbaka pärmen igen och såg sig om i rummet. Datorn på skrivbordet var upplåst. Någon hade uppenbarligen blivit avbruten i sin journalföring. Peder lutade sig över skrivbordet, tog musen och klickade runt på skärmen. Han hittade en drop-down meny med alla avdelningens patienter, men han kunde inte se någon som hette Göran. Han rätade på sig igen. En papperskorg stod under skrivbordet, men den innehöll bara ett bananskal och en snusprilla.
+Peder ställde tillbaka pärmen igen och såg sig om i rummet. Datorn på skrivbordet var upplåst. Någon hade uppenbarligen blivit avbruten i sin journalföring. Peder lutade sig över skrivbordet, tog musen och klickade runt på skärmen. Han hittade en rullgardinsmeny med alla avdelningens patienter, men han kunde inte se någon som hette Göran. Han rätade på sig igen. En papperskorg stod under skrivbordet, men den innehöll bara ett bananskal och en snusprilla.
 
 På väg ut såg Peder att dörren till läkemedelsrummet var öppen. Han gläntade på den. Ingen var där. Rummet var upptänt. På bänken under läkemedelshyllorna låg ett antal medicinlistor. Peder gick fram till bänken och bläddrade igenom listorna. Ingen Göran. Han vände sig om och såg en rondvagn stå parkerad mot ena väggen. På vagnen låg några placeringslistor i en liten hög. Peder löpte med pekfingret nerför rumsnumren. Tio, elva, tolv. Vid sidan om tolvan fanns ett namn och ett personnummer: Göran Eilertsson, 480713-1234.
 
@@ -1552,9 +1556,9 @@ Han la en hand på Peders axel.
 
 "Gå och lägg dig nu, Peder. Du kan inte sitta här ute i korridoren."
 
-Peder reste sig långsamt upp och gick tillbaka till sitt rum. Han la sig på sängen och stirrade upp i taket. Tankarna rusade och han kunde inte somna. Varje gång han slöt ögonen såg han Carsten framför sig i en pöl av blod. Han spruckna läppar rörde sig och han hörde hans sista ord, om och om igen. *Hitta månen, sök den allvetande, rädda oss alla*. Han låg kvar och vred sig i två timmar innan han steg upp och smög ut i korridoren igen. Den var helt öde. En radio skvalade lågt på sjuksköterskeexpeditionen. Han gick med korta steg längs ena väggen, tills han stod utanför Carstens rum igen. Han tryckte ner dörrhandtaget och öppnade dörren på glänt. Lamporna var släckta, men ett blekt månljus silade in genom fönstret. Blodpölen var upptorkad. Peder drog fram en stol till väggen under ventilationstrumman och klev upp. Gallret var fäst med två skruvar. Han såg sig om i rummet. Sängen var fortfarande obäddad. Garderobsdörren stod på glänt. Han hoppade ner på golvet och drog ut lådan i nattduksbordet. Den var tom så när som på ett paket näsdukar och några mynt. Peder tog en femtioöring mellan tummen och pekfingret och klev upp på stolen igen. Han skruvade ut skruvarna med myntet, lossade gallret och ställde ner det på golvet. Ventilationstrumman var mörk. Det brummande svagt långt därinne. Peder stack in armen kände över den släta plåten. Längst därinne kände han något, hårda föremål inuti något mjukt. Han tryckte in sin arm en bit till och fick grepp om det. Han drog ut det och höll upp det i månljuset. Det var en liten påse av skinn, hopknuten med en rem. Peder stoppade den innanför byxlinningen och satte tillbaka gallret och stolen på sina platser. Han smög tillbaka till sitt eget rum, förbi köket där några samtalade med dämpade röster.
+Peder reste sig upp och gick långsamt tillbaka till sitt rum. Han la sig på sängen och stirrade upp i taket. Tankarna rusade och han kunde inte somna. Varje gång han slöt ögonen såg han Carsten framför sig i en pöl av blod. Han spruckna läppar rörde sig och han hörde hans sista ord, om och om igen. *Hitta månen, sök den allvetande, rädda oss alla*. Han låg kvar och vred sig i två timmar innan han steg upp och smög ut i korridoren igen. Den var helt öde. En radio skvalade lågt på sjuksköterskeexpeditionen. Han gick med korta steg längs ena väggen, tills han stod utanför Carstens rum igen. Han tryckte ner dörrhandtaget och öppnade dörren på glänt. Lamporna var släckta, men ett blekt månljus silade in genom fönstret. Blodpölen var upptorkad. Peder drog fram en stol till väggen under ventilationstrumman och klev upp. Gallret var fäst med två skruvar. Han såg sig om i rummet. Sängen var fortfarande obäddad. Garderobsdörren stod på glänt. Han hoppade ner på golvet och drog ut lådan i nattduksbordet. Den var tom så när som på ett paket näsdukar och några mynt. Peder tog en femtioöring mellan tummen och pekfingret och klev upp på stolen igen. Han skruvade ut skruvarna med myntet, lossade gallret och ställde ner det på golvet. Ventilationstrumman var mörk. Det brummande svagt långt därinne. Peder stack in armen kände över den släta plåten. Längst därinne kände han något, hårda föremål inuti något mjukt. Han tryckte in sin arm en bit till och fick grepp om det. Han drog ut det och höll upp det i månljuset. Det var en liten påse av skinn, hopknuten med en rem. Peder stoppade den innanför byxlinningen och satte tillbaka gallret och stolen på sina platser. Han smög tillbaka till sitt eget rum, förbi köket där några samtalade med dämpade röster.
 
-Han stängde försiktigt dörren efter sig och tände sänglampan. I det varma glödlampsskenet undersökte han påsen. Den var stor som en knuten näve, sydd i brunt sprucket skinn. Peder nöp med naglarna för att lossa den knutna remmen kring pungens hals, vidgade öppningen den med två fingrar och tömde ut innehållet på lakanen. Det var två identiska föremål av metall, stora som tändsticksaskar. Peder plockade upp den ena och vred på den. På en platta av metall satt en liten metallcylinder, med upphöjda prickar. Mot cylindern vilade ett metallbleck, uppslitsat i fingrar av olika längder. Det såg ut som mekaniken till en speldosa. Peder vände upp och ner på föremålet. På undersidan satt en gyllene sjutaggad stjärna infälld i metallplattan. Han vände upp undersidan på den andra speldosan. Där fanns en gyllene cirkel, omgiven av strålar. *En stjärna och en sol*, tänkte Peder. *Varför är de här speldosorna så viktiga?* Han kände med pekfingret längs en av metallcylindrarna. Det kändes precis som blindskrift.
+Han stängde försiktigt dörren efter sig och tände sänglampan. I det varma glödlampsskenet undersökte han påsen. Den var stor som en knuten näve, sydd i brunt sprucket skinn. Peder nöp med naglarna för att lossa den knutna remmen kring pungens hals, vidgade öppningen den med två fingrar och tömde ut innehållet på lakanen. Det var två identiska föremål av metall, stora som tändsticksaskar. Peder plockade upp den ena och vred på den. På en platta av metall satt en liten metallcylinder, med upphöjda prickar. Mot cylindern vilade ett metallbleck, uppslitsat i fingrar av olika längder. Det såg ut som mekaniken till en speldosa. Peder vände upp och ner på föremålet. På undersidan satt en gyllene sjutaggad stjärna infälld i metallplattan. Han vände upp undersidan på den andra speldosan. Där fanns en gyllene cirkel, omgiven av strålar. Han kände med pekfingret längs en av metallcylindrarna. Det kändes precis som blindskrift.
 
 Peder stoppade tillbaka speldosorna i skinnpungen och knöt ihop den. Han drog fram stolen från hörnet och gömde den i sin egen ventilationstrumma. Han hann precis kliva ner på golvet igen innan dörren öppnades och en skötare stack in huvudet.
 
@@ -1569,6 +1573,10 @@ Peder satte sig på sängkanten.
 "Nej, tack. Jag lägger mig och läser istället."
 
 "Som du vill."
+
+"Förresten", sa Peder. "Har ni hört något om Carsten?"
+
+"Nej, inte än."
 
 Dörren stängdes. Peder tog av sig byxorna och den ljusblå koftan. Han kröp ner under täcket och öppnade sin pocketbok. Han hann läsa tre sidor innan han somnade.
 
@@ -1658,7 +1666,17 @@ Inger satte tillbaka locket på termosen och la sedan en hand på Peders axel.
 
 "Du kommer också få gå på permission, Peder. Det är bara en tidsfråga. Ta upp det med doktorn idag."
 
-Inger gick ut till köket med den tomma kannan. Peder hällde en skvätt mjölk i sin kopp och tömde den i några få djupa klunkar. Kaffet brände på tungan. Han ställde disken på vagnen och gick tillbaka till sitt rum. Där satte han sig i sängen och läste det sista kapitlet i sin pocketbok och väntade på att klockan skulle bli elva.
+"Hur är det med Carsten?" sa Peder.
+
+Inger hejdade sig och var tyst en stund.
+
+"Han klarade sig inte. För mycket blod. Han hade förlorat för mycket blod."
+
+Hon la sin fria hand på Peders axel.
+
+"Jag är ledsen."
+
+Inger gick ut till köket med den tomma kannan. Peder hällde en skvätt mjölk i sin kopp och tömde den i några få djupa klunkar. Kaffet brände på tungan. Han ställde disken på vagnen och gick tillbaka till sitt rum. Där satte han sig i sängen och stirrade rakt ut i luften och väntade på att klockan skulle bli elva.
 
 ### Samtal med överläkaren ###
 
