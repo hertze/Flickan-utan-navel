@@ -870,10 +870,6 @@ Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen
 
 <!-- Peder samtalar med Carsten. Något är skumt med Görans död. Peder betuttar sig i underläkaren Cecilia. Carsten dör och Peder får skinnpungen och en ledtråd. -->
 
-<!-- 
-	Här behövs partier om hur Lars-Erik och Håkan träffades.
--->
-
 ### LE ser Håkan för första gången @LES ###
 
 #### 11 oktober, 1980 ####
@@ -881,6 +877,14 @@ Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen
 Märta kände sig dålig idag, så jag åkte till gudstjänsten själv. Cecilia är förkyld och vaknade med feber med jämna mellanrum, så jag kände tyngden av sömnbrist när klockan ringde. Det var en eländigt regnig morgon, vilket jag tror märktes på församlingen. Kyrkan var bara fylld till en tredjedel. Resten låg säkert hemma i sängen och läste morgontidningen. Jag önskade att jag kunde ha gjort likadant, men just nu behöver jag Gud mer än någonsin. Om någon kan rädda mig ur mitt hål så är det han.
 
 Jag känner igen de flesta ur församlingen vid det här laget, men idag var där ett nytt ansikte. Det var en man som såg ut att vara ungefär i min ålder, med rödlätt mustache och begynnande flint. Han satt på bänken längst bak, till synes själv. Jag sneglade mot honom när vi reste oss till psalmerna och jag såg att han sneglade tillbaka. När klockorna ringde ut var han försvunnen.
+
+### LE nattar Cecilia ###
+
+#### 13 oktober, 1980 ####
+
+I kväll var det min tur att lägga Cecilia. Jag satt på stolen bredvid hennes spjälsäng och sjöng vår sång för henne med låg röst. Hon låg på rygg, med tunga ögon och surrade på sin napp, tills hon somnande. Jag satt kvar en stund och såg hennes lilla bröstkorg höjas och sänkas. Hon ryckte till några gånger på väg ner i sömnen och gnydde oroligt, men sedan såg hon så fridfull ut. Tänk att få vara som ett barn. Tänk hur underbar vår värld hade varit om alla hade varit mer som barn. Förankrade i nuet, utan ruelse för det som varit, eller fruktan för det som skall komma.
+
+Jag kände en fars kärlek välla upp inom mig, där jag satt. För ett kort ögonblick drev den ut förtvivlan från min kropp och jag kände mig lätt och rusig.
 
 ### Håkan tar kontakt @LES ###
 
@@ -900,10 +904,17 @@ Jag var rätt säker på att vi aldrig träffats förut, men han var trevlig och
 
 Vi skildes åt med ett handslag och lovade varandra en fika efter gudstjänsten nästa söndag igen. Jag kände mig varm i magen när jag cyklade hemåt -- för första gången på länge.
 
+### LE kopplar av med en speldosa ###
+
+#### 14 november, 1980 ####
+
+Det har varit en själadödande vecka. Jag har gett föreläsningar varje förmiddag och har handlett laborationer varje eftermiddag, med högar av labbrapporter att bedöma. Egentligen borde jag ha börjat med det redan i kväll, men jag orkade bara inte. Inte på en fredagkväll. Märta hade huvudvärk och gick och la sig tidigare. När Cecilia somnat hällde jag upp ett glas vin till mig själv och gick ner i källaren. Jag satte på Händels Messias på skivspelare och la på den röda sammetsfilten på arbetsbordet. Där dukade jag upp allt jag behövde: kullhjul, hävarmar, cylindrar, skruvar, muttrar, fjädrar och verktyg -- allt logiskt och prydligt. Sedan lutade jag mig tillbaka, tog en mun vin och beundrade skönheten i ordningen. Jag gick upp helt i stunden, omvärlden försvann och ersattes av frid.
+
+Jag satt uppe till långt efter midnatt. Jag har bara skalet var att måla, sedan är speldosan klar. Den är det bästa jag byggt så här långt. Den är det bästa jag åstadkommit sedan Cecilia föddes.
+
 ### Håkan lobbar för frimureriet @LES ###
 
 #### 17 december, 1980 ####
-
 
 Under de månader som gått har jag och Håkan blivit allt bättre vänner. Det känns som om jag kan anförtro honom med vad som helst -- till och med mitt trasiga äktenskap.
 
