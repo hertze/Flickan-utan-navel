@@ -55,9 +55,6 @@ Rösten kom nu från fåtöljen. Flickan sträckte fram sin arm och lågorna oms
 "Käraste dotter, jag behöver din hjälp."
 
 
-
-<!-- Vi ser en del av Peders vardag. Vi får ett förebådande av vad som skall komma, när han ser ett lamm i sitt kontorsbås. -->
-
 # Maj, 1979 #
 
 ### Märta får MS-diagnos @LES ###
@@ -853,6 +850,7 @@ En skötare stod utanför expeditionen och såg åt Peder.
 "Inget", sa den första. "Gå och lägg dig, Peder."
 
 Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen, men kunde inte somna om.
+
 
 # Oktober till december, 1980 
 
