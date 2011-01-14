@@ -3974,6 +3974,8 @@ Jag berättade om prefekten och om hur jag insett att hoppet var ute. Håkan nic
 
 ---
 
+### Hos den allvetande igen, om Samael ###
+
 "Kan du beskriva honom?"
 
 Mannen som kallades den allvetande satt med korslagda ben på sin hög av kartong och rörde i elden med sin pinne. Ljuset från elden lyste upp de snirklande mönstren i hans ansikte.
@@ -3996,7 +3998,7 @@ Han stirrade in i den falnande elden. Dagen började gry i öster och horisonten
 
 Det pirrade i Peders ena ben och han bytte ställning.
 
-"Mongolernas anförare Jamberg lämnade emellertid en liten avskedspresent. I tredje veckan slungade la han ett pestsmittat lik i katapulten och slunga det över muren till Kaffa. Köpmännen fick panik, inom ett par dagar hade hamnens alla skepp flytt -- spritts till Europas alla hörn -- och de hade tagit pesten med sig."
+"Mongolernas anförare Jamberg lämnade emellertid en liten avskedspresent. I tredje veckan slungade la han ett pestsmittat lik i katapulten och slungade det över muren till Kaffa. Köpmännen fick panik, inom ett par dagar hade hamnens alla skepp flytt -- spritts till Europas alla hörn -- och de hade tagit pesten med sig."
 
 "Digerdöden", sa Peder.
 
@@ -4030,11 +4032,13 @@ Den allvetande tog en dosa i var hand och synade dem.
 
 "Ja, men de spelar ingen melodi vi kan känna igen."
 
-"Somliga saker är menade att vara tillsammans." Han gav tillbaka speldosorna till Peder. "Har ni provat att låta dem spela samtidigt?"
+"Somliga saker är menade att vara tillsammans." Han gav tillbaka speldosorna till Peder.
 
-Peder rynkade pannan. "Samtidigt?"
+Peder rynkade pannan.
 
-"Ingenting är nytt under solen", sa den allvetande. "År 1713 lät Ludvig XIV sina ingenjörer konstruera en hemlig kammare under spegelsalen på slottet i Versailles. Låset till kammaren öppnades inte med en vanlig nyckel, utan med tre speldosor, som var tvungna att spela tillsammans. Ludvig lämnade en speldosa till barnbarnsbarn, en till sin hustru och en till sin favoritälskarinna."
+"Samtidigt? Jag fattar inte."
+
+"Ingenting är nytt under solen", sa den allvetande. "År 1713 lät Ludvig XIV sina ingenjörer konstruera en hemlig kammare under spegelsalen på slottet i Versailles. Låset till kammaren öppnades inte med en vanlig nyckel, utan med tre speldosor, som var tvungna att spela samtidigt -- tillsammans. Ludvig lämnade en speldosa till barnbarnsbarn, en till sin hustru och en till sin favoritälskarinna."
 
 Peder såg på speldosorna i sin hand. En sol och en stjärna av mässing glimmade i morgonljuset.
 
@@ -4150,7 +4154,7 @@ Cecilia lutade sig bakåt mot väggen. Hon såg blek ut, som om allt blod försv
 
 "Ja, men den finns ju inte mer."
 
-"Kanske, kanske inte." Peder öppnade locket till sin laptop och vände skärmen mot Cecilia. En inscannad tidningsartikel från 1986 berättade om en villabrand, som lämnat en ensamstående mor och två barn hemslösa.
+"Kanske, kanske inte." Peder öppnade locket till sin laptop och vände skärmen mot Cecilia. En inscannad tidningsartikel från 1986 berättade om en villabrand, som lämnat en ensamstående mor och hennes dotter hemlösa.
 
 "Vårt hus", sa Cecilia.
 
@@ -4277,17 +4281,17 @@ Peder tog emot kuvertet och började öppna det, men hejdades av Boris.
 
 "Behövs det ström till chipet? Ett batteri?"
 
-Boris skakade på huvudet. "Nej, chipet är passivt. Det sitter en avläsare vid låscylindern. Se bara till att hålla chipet i närheten när du dyrkar upp låset."
+Boris skakade på huvudet. "Nej, chipet är passivt. Det sitter en läsare vid låscylindern. Se bara till att hålla chipet i närheten när du dyrkar upp låset."
 
 Peder la skinnetuit och kuvertet i sin egen jackficka och Boris reste sig upp.
 
-"En sak bara, Peder. De här grejerna kommer nog låta dig komma genom dörren, men de hindrar dig inte från att bli uppräckt."
+"En sak bara, Peder. De här grejerna kommer nog låta dig komma genom dörren, men de hindrar dig inte från att bli upptäckt."
 
 "Vad menar du?"
 
 "Sådana här elektroniska låssystem är ofta uppkopplade mot en datacentral. I bästa fall syns du bara som en rad i en loggfil, som någon ser långt efteråt. I sämsta fall övervakas systemet kontinuerligt och då kommer någon att slå larm."
 
-Peder nickade. "Jag fattar. Tack, Bruno."
+Peder nickade. "Jag fattar. Tack, Boris."
 
 "Lycka till", sa den rödhåriga mannen och banade sig väg genom folkhavet. "Vi är kvitt."
 
