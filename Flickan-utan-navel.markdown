@@ -2065,7 +2065,7 @@ När jag vände mig om stod en flicka i dörrspringan som skilde köket från re
 
 Flickan sa inget, men hon tog emot det gröna äpplet och försvann.
 
-"En del tar med sina barn hit också", sa Håkan. Han skakade på huvudet. "Jag blir alldeles iskall bara tänker på vad den lilla stackaren har fått uppleva." Han gjorde en rörelse med handen åt dörröppningen som flickan försvunnit genom.
+"En del tar med sina barn hit också", sa Håkan. Han skakade på huvudet. "Jag blir alldeles iskall bara jag tänker på vad den lilla stackaren har fått uppleva." Han gjorde en rörelse med handen åt dörröppningen som flickan försvunnit genom.
 
 Jag kände mig sorgsen när vi lämnade huset. Ledsnaden tyngde hela min kropp. Håkan körde ner till stan och vi tog var sin kopp kaffe på Lundagård.
 
@@ -2094,8 +2094,11 @@ Jag tog en mun kaffe.
 Vi drack resten av vårt kaffe under tystnad innan Håkan körde mig hem. Hans ord hängde kvar inom mig hela kvällen och jag hade svårt att somna när jag väl låg i sängen. Jag vände och vred på mig, utan att hitta en bekväm ställning. Märta snarkade i rummet intill. Var hoppet verkligen ute för mänskligheten? Kunde vi inte bättra oss? Levande bilder från kvällsnyheterna spelade för mitt inre öga -- bilder av krig, förstörda hem, bedrägeri och mord. Det knöt sig i min mage.
 
 ---
+
+
+### Peder utanför frimurarlogen ###
 	
-Peder stod på trottoaren i ett villaområde på Fridhem i västra Malmö. Framför honom tornade en hög vitkalkad mur upp sig. Mellan spjälorna i en svartmålad järngrind såg han en stor villa, i gulmålad puts. Det var skymning och den fuktiga kylan trängde in genom kläderna. Peder såg sig omkring och satte sedan foten på en av grindens tvärribbor och hävde sig upp. Han saxade över toppen och hoppade ner på andra sidan. Han landade på en grusgång, täckt av ett tunt lager snö.
+Peder stod på trottoaren i ett villaområde på Fridhem i västra Malmö. Framför honom tornade en hög vitkalkad mur upp sig. Mellan spjälorna i en svartmålad järngrind såg han en stor villa, i vitmålad puts. Det var skymning och den fuktiga kylan trängde in genom kläderna. Peder såg sig omkring och satte sedan foten på en av grindens tvärribbor och hävde sig upp. Han saxade över toppen och hoppade ner på andra sidan. Han landade på en grusgång, täckt av ett tunt lager snö.
 
 ### Tillbakablick ###
 
@@ -2105,7 +2108,7 @@ Han hade ägnat två dagar åt att spåra Göran Eilertsson, mannen som dött sa
 
 ### Inbrott i logen ###
 
-Peder sträckte på sig och lyssnade. Trafiken brusade i fjärran, men annars var det tyst. Villan har helt nersläckt. Snön låg i drivor upp mot huvudentrén, en enorm trädörr i två delar. Brevid gången upp mot huset dolde en ängel av brons ansiktet i händerna och doppade ena foten i en frusen fontän. Peder gick runt på baksidan av huset och lämnade mörka fotavtryck i snön. Det var mörkt i fönstren även på baksidan. Han kände på handtaget till en bakdörr, men den var låst. Han klev ner i rabatten och gick fram till ett av fönstren. Han fällde upp det minsta bladet på sin fickkniv, stack in det mellan fönsterkarmen och fönstret och drog det uppåt. Med ett dämpat klirrande lyftes haspen ur öglan och fönstret gled upp. Peder tog sats och hävde sig över karmen och in i huset. Han tog upp en liten ficklampa ut fickan, tände den och riktade ljuset in mot rummet. Han befann sig i någon typ av bibliotek. Väggarna var klädda med mörka träpaneler. Längs två av väggarna stod bokhyllor, fulla av böcker. Två fåtöljer i brunt skinn stod mitt i rummet, på röd matta, med ett litet bord emellan dem.
+Peder sträckte på sig och lyssnade. Trafiken brusade i fjärran, men annars var det tyst. Villan har helt nersläckt. Snön låg i drivor upp mot huvudentrén, en enorm trädörr i två delar. Brevid gången upp mot huset dolde en ängel av brons ansiktet i händerna och doppade ena foten i en frusen fontän. Peder gick runt på baksidan av huset och lämnade mörka fotavtryck i snön. Det var mörkt i fönstren även på baksidan. Han kände på handtaget till en bakdörr, men den var låst. Han klev ner i rabatten och gick fram till ett av fönstren. Han fällde upp det minsta bladet på sin fickkniv, stack in det mellan fönsterkarmen och fönstret och drog det uppåt. Med ett dämpat skrammel lyftes haspen ur öglan och fönstret gled upp. Peder tog sats och hävde sig över karmen och in i huset. Han tog upp en liten ficklampa ut fickan, tände den och riktade ljuset in mot rummet. Han befann sig i någon typ av bibliotek. Väggarna var klädda med mörka träpaneler. Längs två av väggarna stod bokhyllor, fulla av böcker. Två fåtöljer i brunt skinn stod mitt i rummet, på röd matta, med ett litet bord emellan dem.
 
 Peder drog fingrarna över över bokryggarna. De flesta var klädda i skinn, med titlarna tryckta i guldfärg. Han la huvudet på sned och läste.
 
@@ -2121,7 +2124,7 @@ Alla männen var avbildade med svarta pekfingrar.
 
 Han riktade ficklampan åt höger. Korridoren ledde in till ett kök, med rostfria bänkar och glimmande kastruller hängande från krokar på väggarna. Peder tog åt vänster istället och kom in i ett större rum med ett runt bord i mörkt trä, mitt på golvet. Tolv stolar med höga ryggar stod kring bordet. Fler porträtt smyckade väggarna. Ett rött sammetsdraperi täckte en av väggarna. Peder gick genom rummet och fram till två enorma motstående dörrar. Han tog tag i de båda dörrhandtagen och drog. Dörrarna gled upp med ett knirrande. Sval luft slog mot Peders ansikte. Det luktade stearin och fuktig sten. Han lyfte ficklampan och lyste framför sig. Ett gigantiskt avlångt rum öppnade upp sig. Peder tog ett steg och befann sig i ena kortändan. Han såg sig omkring. Det var åtminstone tre meter upp till taket. Pelare av marmor bildade en allé genom rummet, fram mot ett altare täckt av en blodröd sidenduk. På väggen bakom altaret hängde en oljemålning, åtminstone två meter hög. På en kulle av gräs stod ett vitt lamm och såg rakt mot betraktaren. Den hade ett sår i sidan och ullen var färgad röd av blod. Över lammet hängde mörka ovädersmoln, kring ett öga inneslutet i en glödande triangel.
 
-Peder lyste över tavlan. Munnen kändes torr, det susade i öronen. Han kände igen det här. Var hade han sett den här tavlan förut? Tiden bromsade in och stod stilla. Det sved i Peders ögon och han blev till sist tvungen att blinka. Förtrollningen bröts och han skadade av sig känslan. 
+Peder lyste över tavlan. Munnen kändes torr, det susade i öronen. Han kände igen det här. Var hade han sett den här tavlan förut? Tiden bromsade in och stod stilla. Det sved i Peders ögon och han blev till sist tvungen att blinka. Förtrollningen bröts och han skakade av sig känslan. 
 
 Han skiftade ljuset åt vänster. Bakom ett draperi skymtade han en dörr. Han drog tyget åt sidan och kände på handtaget. Den var låst. Över låscylindern blinkade en lysdiod i rött. *Någon slags elektroniskt säkerhetslås*, tänkte Peder. Han såg sig om i rummet, på marmorpelarna, de röda sammetsdraperierna och på oljemålningen. Ett elektroniskt säkerhetslås verkade malplacerat här. *Någon har något att dölja.* 
 
@@ -2147,7 +2150,7 @@ Peder rynkade pannan. *Mocka? Som i cafét?"* Han stängde av TV:n och laptopen,
 
 ### På cafét ###
 
-När Peder öppnade ögonen igen var det redan ljust ute. Han såg på sin armbandsklocka. Den visade redan halv tio. Han duschade snabbt och gick ner och åt frukost i matsalen, sedan promenerade han till Centralstationen och hoppade på en buss mot Triangeln. Han var fem minuter sen när han gick uppför trappstegen till Mocka. Värme slog emot honom när han öppnade dörren. En ung kvinna i mörkt hår och svart t-shirt stod bakom disken och skummade mjölk i en kanna av rostfritt stål. Ångröret på espressomaskinen spottade och fräste.
+När Peder öppnade ögonen igen var det redan ljust ute. Han såg på sin armbandsklocka. Den visade redan halv tio. Han duschade snabbt och gick ner och åt frukost i matsalen, sedan promenerade han till Centralstationen och hoppade på en buss mot Triangeln. Han var fem minuter sen när han gick uppför trappan till Mocka. Värme slog emot honom när han öppnade dörren. En ung kvinna i mörkt hår och svart t-shirt stod bakom disken och skummade mjölk i en kanna av rostfritt stål. Ångröret på espressomaskinen spottade och fräste.
 
 "Hej", sa hon. "Vad får det lov att vara?"
 
@@ -2187,7 +2190,7 @@ Hon slog sig ner på en stol och lossade på halsduken.
 
 "Vill du ha något?"
 
-"Nej, tack."
+"Nej, tack", sa hon.
 
 "Så", sa Peder. "Göran och Carsten."
 
@@ -2199,7 +2202,7 @@ Peder nickade.
 
 "Fortsätt."
 
-"Göran kom till psyk akut med polis ungefär en vecka innan du blev inskriven. De hade hittat honom under en bro, alkhoholpåverkad. Han pratade om jordens undergång -- om en stor konspiration -- så de gjorde som de brukade och dumpade honom på sjukhuset."
+"Göran kom till psyk akut med polis ungefär en månad innan du blev inskriven. De hade hittat honom under en bro, alkhoholpåverkad. Han pratade om jordens undergång -- om en stor konspiration -- så de gjorde som de brukade och dumpade honom på sjukhuset."
 
 Hon la båda händerna på bordet och gned de nariga fingrarna. Hon hade inga ringar.
 
@@ -2215,7 +2218,7 @@ Peder tömde sin mugg och ställde den åt sidan. Han tog en mun vatten för att
 
 "Menar du att han kände Hierta?"
 
-"Det verkar ju så. Fast det är svårt att veta med en sådan typ av patient. Ibland hänger de upp sig på en person utan anledning, blir omotiverat paranoida på någon de kanske aldrig träffat tidigare."
+"Det verkade så. Fast det är svårt att veta med en sådan typ av patient. Ibland hänger de upp sig på en person utan anledning, blir omotiverat paranoida på någon de kanske aldrig träffat tidigare."
 
 "Men du tror inte det?"
 
@@ -2271,13 +2274,13 @@ Cecilias ögon vidgades. "Vad?"
 
 "Jag kan inte berätta", sa Peder. "Men jag kan visa dig. Har du tid?"
 
-Cecilia såg på sitt armbandsur. "Jag har tid."
+Cecilia såg på sitt armbandsur, sedan på Peder. Hon drog tungspetsen över tänderna och rynkade pannan. "Jag har tid", sa hon sedan.
 
 "Kom." 
 
 Peder reste sig upp och tog på sig skinnjackan, medan Cecilia stängde sin kappa och drog halsduken tätare kring halsen. De lämnade cafét tillsammans och promenerade ner genom stan.
 
-### Promenad genom stan ###
+### Promenad genom stan, Samuel och de undersöker speldosorna ###
 
 "Varför vill du hjälpa mig?" frågade Peder.
 
@@ -2317,15 +2320,15 @@ Hon log och skakade igen på huvudet.
 
 "Jag har en pappa en bit utanför stan. I Staffanstorp. Inga syskon. Min mor -- min mor vet jag inte riktigt var hon är. Hon stack för ett par år sedan."
 
-Peder stannade till. På andra sidan gatan, i en trappuppgång knappt tio meter bort, stod en man i svarta kläder och hatt. Peder hade solen i ryggen, men mannens låg ändå i skugga. Människor rusade fram och tillbaka som om de inte kunde se honom. Peder rös -- mannen stirrade rakt emot honom.
+Peder stannade till. På andra sidan gatan, i en trappuppgång knappt tio meter bort, stod en man i svarta kläder och hatt. Peder hade solen i ryggen, men mannens låg ändå i skugga. Människor svärmade omkring honom, som om han var osynlig för dem. Mannen stirrade rakt emot honom och Peder kände en ilning i maggropen.
 
 "Vad är det?" frågade Cecilia.
 
-Peder vred huvudet och såg på henne. "Den där mannen i svart, som stirrar på oss, jag såg honom på sjukhuset när Carsten dog."
+Peder såg på henne. "Den där mannen i svart, som stirrar på oss, jag såg honom på sjukhuset när Carsten dog."
 
 "Vilken man?"
 
-Han vände blicken mot trappuppgången igen. Den var tom. Han såg sig om kring. Den svartklädda mannen var borta. Peder skakade på huvudet.
+Peder vände blicken mot trappuppgången igen. Den var tom. Han sökte omkring sig med blicken, men den svartklädda mannen var borta. Peder skakade på huvudet.
 
 "Han var där för en sekund sedan. Jag är kanske tokig trots allt."
 
@@ -2353,7 +2356,7 @@ Han visade på det lilla hålet i sidan på en av dosorna. Cecilia tog den ur ha
 
 Peder rätade på sig. Nyckeln såg ut att passa. Cecilia lossade den från kedjan, satte den i hålet och vred. Fjädern tickade när den spändes, tills det inte gick att vrida mer. Cecilia drog ut nyckeln, men inget hände.
 
-"Nu du?"
+"Nu, då?"
 
 Peder tog dosan. "Det sitter en liten spärr här", sa han och tryckte in en liten knapp på toppen. Cylindern började snurra och dosan började spela. Cecilia tog den igen och höll den mot örat.
 
@@ -2417,7 +2420,7 @@ Hon rörde vid nyckeln i halskedjan. "Jag fick den här för att kunna dra upp d
 
 "Men tror du verkligen det?"
 
-"Du sa själv att din pappa var medlem av samma orden son Göran stulit från. Han hade stulit de här speldosorna, som dras upp av en nyckel du fått av din pappa. Det kan inte vara en tillfällighet. Det måste vara din pappa som har gjort de här två speldosorna. Han måste ha gjort den tredje också.
+"Du sa själv att din pappa var medlem av samma orden som Göran stulit från. Han hade stulit de här speldosorna, som dras upp av en nyckel du fått av din pappa. Det kan inte vara en tillfällighet. Det måste vara din pappa som har gjort de här två speldosorna. Han måste ha gjort den tredje också."
 
 Han hoppade upp och ställde sig på golvet framför Cecilia.
 
