@@ -1598,7 +1598,7 @@ Håkan parkerade sin gula Saab utanför vårt hus och ringde på dörren. Märta
 
 "Det är er angelägenhet, Lars-Erik", sa han. "Du gör vad du behöver göra."
 
-Han körde oss genom Malmö och ut på Fridhem. Jag hade inte burit min frack sedan min promovering och tyget skar in i magen när jag satt. Det var en lättnad att få kliva ur bilen. Håkan hade parkerat bilen under en väldig kastanj och vi gick den sista biten till ett stort vitt hus av sten och puts.
+Han körde oss genom Malmö och ut på Fridhem. Jag hade inte burit min frack sedan min promovering och tyget skar in i magen när jag satt. Det var en lättnad att få kliva ur bilen. Håkan hade parkerat under en väldig kastanj och vi gick den sista biten till ett stort vitt hus av sten och puts.
 
 "Då var vi här", sa Håkan.
 
@@ -1610,6 +1610,16 @@ Jag nickade bara till svar. Hur skulle jag kunna vara beredd? Jag hade ju ingen 
 
 Vi gick längs grusgången under tystnad. Värmen från facklorna pulserade när vi passerade. På trappan upp mot entrén band Håkan en svart bindel för mina ögon, innan han tog mig under armen och ledde mig vidare. Jag hörde gångjärn knarra och ljudet av våra klackar mot trägolv. Det doftade av tobaksrök. Jag oroade mig för min klädsel. Jag hade inte hunnit kemtvätta fracken. Var det skitig? Förmodligen. Skulle någon märka det? En klump växte i min mage.
 
+Håkan tryckte min arm och stannade mig.
+
+"Du behöver byta om", sa han.
+
+"Allt?"
+
+"Nej, bara upptill."
+
+Han hjälpte mig ur frackjackan, västen och skjortan och i något som kändes som en drängskjorta i kraftigt tyg. Sömmarna skavde mot min hud. Han la ett kraftigt rep kring min hals och knöt det till en snara. Sedan la han en hand på min axel och vi började gå igen.
+
 Luften blev kyligare, trägolvet försvann och ersattes av sten. Ljudet av våra steg ekade omkring mig. Tobaksdoften övergick i dovare toner av fuktig sten och stearin. Det luktade precis som i Domkyrkan. Ett mummel av röster växte i styrka och omgav mig snart. Håkan ledde mig rakt fram, hejdade mig, släppte min arm och försvann.
 
 Jag stod själv, blind som en nyfödd hundvalp, i vad som kändes som en evighet. Slutligen tystnade sorlet och jag trä som skrapade mot sten.
@@ -1620,13 +1630,11 @@ Jag fuktade mina läppar. Munnen var torr som en öken.
 
 "Jag är redo", sa jag. "Jag är redo att dö."
 
-Jag kände någon lossa min fluga och knäppa upp min skjorta, så mitt bröst och min strupe blottades.
-
 "Då börjar vi", sa rösten.
 
 Det som hände därefter har jag svurit att aldrig yppa -- jag har svurit inför Gud Fader Allsmäktig -- ett löfte vars brott bestraffas med döden. Jag kan inte säga hur länge ceremonin pågick, ty den upplevda tiden är ju som bekant relativ. När den var över -- när jag hade återuppstått som en broder -- avlägsnades bindeln och jag såg.
 
-Det tog en stund för mina ögon att vänja sig vid ljuset, även om det i själva verket var rätt skumt. Jag stod i en väldig sal, byggd av sten. Kolonner stod i rader och strävade upp mot det välvda taket. Långs däruppe skänkte Gud människan livet genom en beröring av pekfingret, precis som jag nu skänkts livet åter.
+Det tog en stund för mina ögon att vänja sig vid ljuset, även om det i själva verket var rätt skumt. Jag stod i en väldig sal, byggd av sten. Räta rader av kolonner strävade upp mot det välvda taket. Långt däruppe skänkte Gud människan livet genom en beröring av pekfingret, precis som jag nu skänkts livet åter.
 
 Längs med raderna av kolonner stod stolar med röda dynor. På stolarna satt män klädda i frack, alla med blicken fäst vid mig. Jag kände en hand på min axel och jag såg till sist mannen, vars röst väglett mig. Den var en liten man, med glasögon och vitt hår, klädd i mörk mantel, med ett rött hakkors i en guldkedja kring halsen.
 
@@ -1645,6 +1653,8 @@ De andra männen reste sig från sina stolar och kom fram för att gratulera mig
 I andra ändan av salen, framför en väldig trädörr, stod en lång man, med kutig rygg och svart hår kammat bakåt. Han såg rakt mot mig, med uttryckslös min. Bredvid honom stod en gestalt helt klädd i svart, med ansiktet i skugga. Det var som om hela han var en skugga.
 
 ---
+
+### Andra dygnet ###
 
 Peder vaknade av sig själv på morgonen. Det var redan ljust ute. Han drog på sig byxorna och gick på toaletten, innan han gick till matsalen för att äta frukost. En ensam skötare satt och la patients på datorn när han passerade expeditionen. En mager man med stripigt grått hår och gles skäggväxt satt i soffan i korridoren och muttrade för sig själv. Matsalen var i stort sätt tom. Peder bredde två smörgåsar vid serveringsvagnen och försökte fylla en kaffemugg från termosen, men den var tom. Brunt skum pyste ner i hans kopp när han tryckte ner spaken i termoslocket. Syster Inger kom och fyllde på med rykande kaffe från en glaskanna. Hon hällde det sista direkt ner i Peders mugg.
 
@@ -1704,6 +1714,20 @@ Peder bet sig i läppen.
 
 "Aha."
 
+"Hur är det med sömnen nu?"
+
+"Sådär. Jag verkar ha svårt att sova på sjukhus."
+
+"Men du vill inte ha någon sömnmedicin?"
+
+Peder skakade på huvudet.
+
+"Hur sov du innan du kom till sjukhuset? Dagarna innan? Veckorna innan?"
+
+"Jag sov ok", sa Peder. "Jag har haft mycket att göra den senaste tiden, så sömnen har kanske blivit lidande. Jag kan inte se något konstigt med det."
+
+"Kanske inte."
+
 Överläkaren slog upp en pärm och tittade igenom Peders medicinlista.
 
 "Nu har du stått på Zyprexa i en vecka. Känner du av några biverkningar? Är du väldigt trött?"
@@ -1717,6 +1741,8 @@ Peder skakade på huvudet.
 Överläkaren satte på sig glasögonen igen och stirrade stint på Peder.
 
 "Är du säker på det?"
+
+Peder rynkade pannan.
 
 "Hur skulle jag inte kunna vara säker på det? Ni kommer ju med pillren vareviga kväll. Ni vet väl om ni har gett dem till mig eller inte."
 
@@ -1744,7 +1770,7 @@ Peder mötte inte hans blick.
 
 "Hursa? Se på mig när jag pratar med dig, Peder.
 
-Peder höjde rösten. "Ni har ju själva gett mig pillren. Kanske är det fel på blodprovet."
+Peder höjde rösten. "Ni har ju själva gett mig pillren. Det måste vara något del på blodprovet. Det kan inte vara första gången."
 
 "Peder, nu får du ge dig. Vi har hittat tabletterna under din kudde. Det är inte första gången en patient smusslar med mediciner här."
 
@@ -1770,7 +1796,7 @@ Peder åt sin lunch under tystnad, ensam vid sitt bord. Tre av hans medpatienter
 
 Peder sträckte sig efter fjärrkontrollen och höjde volymen. Kvinnan höll för öronen, reste sig och gick.
 
-När mörkret föll utanför fönstret kände Peder urinblåsan spänna. Han stängde av TV:n och vandrade ut i korridoren. Toaletten mittemot var ledig och han låste in sig. Lysröret i taket blinkade till innan det tändes. Det doftade starkt av desinfektionsmedel. Peder fällde ner sittringen och satte sig. Det tog en stund för strålen att komma igång och han suckade när spänningen släppte. Han satt kvar en stund, med pannan i händerna. Varför hade två människor dött för ett par speldosors skull? Vad menade Carsten med "hitta månen"? Peder skakade på huvudet. Vad det än var måste det vara något viktigt. Han måste vara något gigantiskt på spåren. Han rev av en bit toalettpapper från rullen och torkade sig. När han reste sig föll ett par droppar urin och fläckade kalsongerna. Peder suckade och torkade sig på nytt, sedan spolade han, tvättade händerna och gick ut.
+När mörkret föll utanför fönstret kände Peder urinblåsan spänna. Han stängde av TV:n och vandrade ut i korridoren. Toaletten mittemot var ledig och han låste in sig. Lysröret i taket blinkade till innan det tändes. Det doftade starkt av desinfektionsmedel. Peder fällde ner sittringen och satte sig. Det tog en stund för strålen att komma igång och han suckade när spänningen släppte. Han satt kvar en stund, med pannan i händerna. Varför hade två människor dött för ett par speldosors skull? Vad menade Carsten med "hitta månen"? Peder skakade på huvudet. Vad det än var måste det vara något viktigt. Han rev av en bit toalettpapper från rullen och torkade sig. När han reste sig föll ett par droppar urin och fläckade kalsongerna. Peder suckade och torkade sig på nytt, sedan spolade han, tvättade händerna och gick ut.
 
 När han rundande hörnet och gick korridoren fram förbi sjuksköterskeexpeditionen såg han en svartklädd gestalt gå in på hans rum och stänga dörren efter sig. Peder backade några steg och blev stående. Korridoren var tom på folk.
 
@@ -1818,7 +1844,7 @@ Den ena skötaren fångade Peders ena arm. Peder försökte vrida sig loss.
 
 Adrenalinet pumpade genom hans kropp. Synfältet smalnade av. Han slog till skötaren i magen med sin fria hand. Sköterskan la en arm kring hans hals och drog honom bakåt, de två andra skötarna tvingade ner honom på golvet. Han låg med magen neråt med ett knä i ryggslutet och det blev svårt att få luft. Han väste mellan sammanbitna tänder.
 
-"Ring på Hierta!"
+"Ring på Hierta!" skrek sköterskan.
 
 Peder ryckte och drog, men han satt som i ett skruvstäd.
 
@@ -1836,7 +1862,7 @@ De fyra vitklädda männen bar Peder in till hans rum, la honom på mage i säng
 
 "Kan du andas?" frågade en av skötarna.
 
-Peder svarade inte. Hans hjärta slog så hårt att sängen vibrerade. Sköterskan drog ner Peders byxor och kalsonger. Han tvättade ett litet hudområde på skinkan med en spritsudd, stack in sprutkanylen, kontrollerade att spetsen inte låg i ett blodkärl och injicerade. Peder kände det spänna till i skinkan och han grymtade ner i sängkläderna.
+Peder svarade inte. Hans hjärta slog så hårt att sängen vibrerade. Sköterskan drog ner Peders byxor och kalsonger. Han tvättade ett litet hudområde på skinkan med en spritsudd, stack in kanylen, drog tillbaka kolven en smula, innan han långsamt tryckte ner den och injicerade sprutans innehåll. Peder kände det spänna till i skinkan och han grymtade ner i sängkläderna.
 
 "Vi vänder på honom."
 
@@ -1860,7 +1886,7 @@ Nästa gång Peder öppnade ögonen var fåtöljen tom. Veckotidningen låg upps
 
 "Hallå?" sa Peder svagt. "Är det någon där?"
 
-Det kom ingen svar, men Peder hörde andetag. Rummet var kyligt och han frös.
+Det kom ingen svar, men Peder hörde andetag. Rummet var iskallt och Peder kände sig stel av köld. Hans andedräkt slog ut som en vit rökpelare.
 
 "Jag hör att det är någon här."
 
@@ -1886,7 +1912,7 @@ Gestalten rosslade. Det mullrade från bröstet. Peder förstod att den skrattad
 
 "Så du vill leka? Du kan inte lura mig. Jag vet att Carsten lämnade över den innan han dog."
 
-Peder ljudet av metall mot metall. Gestalten höjde sin hand. I den höll han en kniv med ett blad smitt till en skära. Metallen blänkte i det svaga ljuset från sänglampan, en ljuskatt svepte över Peders bröst.
+Peder hörde ett metalliskt knäppande. Gestalten höjde sin hand. I den höll han en kniv med ett blad smitt till en skära. Metallen blänkte i det svaga ljuset från sänglampan, en ljuskatt svepte över Peders bröst.
 
 "Du kommer att berätta var den finns", sa den mörka gestalten. "Vare sig du vill eller inte."
 
@@ -1920,13 +1946,13 @@ Han låste upp remmarna och hjälpte Peder upp i sittande. Musklerna kändes ste
 
 Peder ställde den tomma koppen på vagnen och gick in till sjuksköterskeexpeditionen. Han bad om en kort stund på innergården och fick tillstånd efter att sköterskan betraktat honom en stund under tystnad. Peder hämtade sin ljusblå kofta på rummet och plockade också fram skinnpungen ur ventilationstrumman och gömde den i kalsongerna. En skötare följde honom till dörren och Peder lovade att knacka när han ville in igen.
 
-Luften var råkall och det började skymma. Peder gick över gården och såg sig omkring. Han var helt ensam. Silhuetter rörde sig i den upplysta fönstren i tegelhusen som omgav honom. Han gick emot det höga planket, som avskiljde gården från gatan utanför. Han kände med handen över de målade träplanken och la sig sedan ner på alla fyra. Det fanns en springa på en knapp decimeter mellan marken och plankets underkant. På andra sidan växte tuja, gröna i vintermörkret. Peder plockade fram skinnpungen och föste den under planket och in under en buske. Han rätade på sig och la avståndet till tegelväggen på minnet. Han drog närmare kroppen och gick tillbaka och knackade på dörren. En annan skötare släppte in honom.
+Luften var råkall och det började skymma. Peder gick över gården och såg sig omkring. Han var helt ensam. Silhuetter rörde sig i de upplysta fönstren i tegelhusen som omgav honom. Han gick emot det höga planket, som avskiljde gården från gatan utanför. Han kände med handen över de målade träplanken och la sig sedan ner på alla fyra. Det fanns en springa på en knapp decimeter mellan marken och plankets underkant. På andra sidan växte tuja, gröna i vintermörkret. Peder plockade fram skinnpungen och föste den under planket och in under en buske. Han rätade på sig och la avståndet till tegelväggen på minnet. Han drog koftan närmare kroppen och gick tillbaka och knackade på dörren. En annan skötare släppte in honom.
 
 "Skönt med frisk luft?"
 
 "Nej."
 
-Skötaren skrockade. I korridoren utanför expeditionen föll Peder ihop på golvet. Han låg på sidan i fosterställning, sträckte ut sig i sprättbåde och rullade över på rygg. Han blev högröd i ansiktet och hela kroppen ryckte i konvulsioner. Han skrek hest och en våt fläck spred sig i grenen. Skötaren som gått efter Peder rusade fram mot honom.
+Skötaren skrockade. I korridoren utanför expeditionen föll Peder ihop på golvet. Först drog han ihop kroppen till fosterställning, sedan sträckte han ut sig i sprättbåge och rullade över på rygg. Ansiktsfärgen skiftade från vitt till blårött och hela kroppen ryckte i konvulsioner. Peder skrek hest, nästan som ett råmande, och en våt fläck spred sig i grenen. Skötaren rusade fram till honom.
 
 "Helvete!" skrek han. "Peder är dålig!"
 
@@ -1966,7 +1992,7 @@ Sköterskan suckade och läste det gula pappret.
 
 "Ni får ställa sängen i korridoren så länge. Vi har inga rum lediga. Allt är fullt, som ni ser."
 
-De ställde sängen vid ena väggen och väntade. Efter en halvtimme hade fortfarande ingen läkare tagit sig an Peder och den ena skötaren började bli hungrig.
+De ställde sängen vid ena väggen och väntade. De såg patientsängar i rostfritt stål rullas fram och tillbaka och vårdpersonal som skyndade mellan rummen i korridorerna. Peder låg på sidan och rosslade när han andades. Efter en halvtimme hade fortfarande ingen läkare tagit sig an dem och den ena skötaren började bli hungrig.
 
 "Du, jag sticker och letar efter en godisautomat."
 
@@ -1976,7 +2002,7 @@ De ställde sängen vid ena väggen och väntade. Efter en halvtimme hade fortfa
 
 "Äh, det dräller ju av sjukvårdspersonal här. Vad skulle kunna hända?"
 
-Den förste skötaren ryckte på axlarna och så gick de iväg. De hittade en automat i väntrummet och tryckte ut var sin snickers. När de kom tillbaka var sängen tom.
+Den förste skötaren ryckte på axlarna och så gick de iväg. De hittade en automat i väntrummet och tryckte ut var sin snickers. När de kom tillbaka var Peders säng tom.
 
 
 # Frimurarna på Fridhem #
