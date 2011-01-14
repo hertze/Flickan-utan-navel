@@ -12,8 +12,6 @@ XHTML XSLT:	xhtml-epub.xslt
 
 # Brädet är uppställt och pjäserna sätts i rörelse #
 
-<!-- Kerstin får sin uppenbarelse. Samuel sätter spelet i rörelse. -->
-
 Rösterna kom från alla håll. De sköljde över henne som vågor mot en strand. Män och kvinnor skrattade, grät och skrek om vartannat. Det gick inte att urskilja några ord. Flickan satt på golvet i mörkret, med knäna uppdragna mot hakan. Hon tryckte handflatorna mot öronen och blundade hårt -- så hårt att hon såg stjärnor. Hennes tår kramade heltäckningsmattan.
 
 "Sluta!", skrek flickan. "Sluta!"
@@ -57,13 +55,12 @@ Rösten kom nu från fåtöljen. Flickan sträckte fram sin arm och lågorna oms
 "Käraste dotter, jag behöver din hjälp."
 
 
-# Lammet på kontoret #
 
 <!-- Vi ser en del av Peders vardag. Vi får ett förebådande av vad som skall komma, när han ser ett lamm i sitt kontorsbås. -->
 
-### Märta får MS-diagnos @LES ###
+# Maj, 1979 #
 
-#### 3 maj, 1979 ####
+### Märta får MS-diagnos @LES ###
 
 Märta förlorade synen på ett öga igen. Höger öga, den här gången. Hon vaknade på söndagen och berättade att det molvärkte i huvudet kring ögat. Jag trodde det var vanlig spänningshuvudvärk. Under gudstjänsten grep hon tag in min arm och viskade att hon såg suddigt. Hon var alldeles vit i ansiktet. Hennes underläpp darrade. Vi satt kvar tills gudstjänsten var över och sedan ledde jag henne ut till bilen, med Cecilia på armen.
 
@@ -109,7 +106,7 @@ Kerstin kramade mig. Jag smekte henne över ryggen.
 
 Märta sa ingenting när vi körde hem. Jag koncentrerade mig på trafiken så det pulserade i öronen. Händerna värkte, så hårt jag höll i ratten. Kerstin sov i baksätet. I backspegeln såg jag solen gå i moln.
 
----
+# Lammet på kontoret #
 
 ### Jesper ###
 
@@ -355,13 +352,9 @@ Peder ryckte till och slog upp ögonen. Han låg i sin säng. Det hade varit en 
 
 "Fy fan", sa han.
 
-# Intagen #
-
-<!-- Peder får ett raseriutbrott på sin redaktör och tas in på psyk akut. Han kommer till avdelning precis då man funnit Göran död. -->
+# September 1979 till februari, 1980 #
 
 ### LES är desillusionerad över sitt jobb @LES ###
-
-#### 3 september, 1979 ####
 
 Jag hade terminens första föreläsningsdag idag -- en alldeles färsk kurs. Salen fylldes av unga män och kvinnor, fortfarande brunbrända efter sommaren. Trots att det är september nu är det varmt. Det var kvavt i föreläsningssalen och min strupe torkade ut redan efter de första timmarna.
 
@@ -373,8 +366,6 @@ De kunde lika gärna ställa en åsna vid pulpeten på grundkursen. Då skulle �
 
 ### Den deprimerade lunchen @LES ###
 
-#### 18 september, 1980 ####
-
 Hösten har kommit, men solen värmer fortfarande mitt på dagen. Jag satte mig utomhus på lunchen för att äta mina smörgåsar. Från bänken jag satt på hade jag utsikt över en stor gräsmatta, där studenter satt på sina jackor och åt av sina matsäckar.
 
 Jag såg upp mot himlen och insåg förnuftsmässigt att solstrålarna borde värma min hud, men jag kände ingenting. Det är som om ingenting når fram till mig längre, som om jag har en osynlig hinna mellan mig och omvärlden. Jag känner ingen glädje längre, det är som om inget längre spelar någon roll. Jag förstår inte hur det har kunnat bli så här. Jag vill inte ha det så här, men jag vet inte hur jag ska ta mig ur det.
@@ -383,15 +374,13 @@ Nu för tiden är det bara tanken på min dotter som sprider en smula ljus i mit
 
 ### Ångest i vargtimmen @LES ###
 
-#### 11 februari, 1980 ####
-
 Jag vaknade i natt igen. Klockan var halv fyra -- vargtimmen. Jag vet inte vad jag drömde, men jag minns känslan av att falla. Det var mörkt i sovrummet. Jag hörde Märta andas bredvid mig. Det kändes som om någon satt på mitt bröst. Jag hade svårt att få luft. Hjärtat bankade. Lakanen var fuktiga av svett.
 
 Först kunde jag inte röra mig. Jag låg alldeles stilla, inlåst i min egen kropp. Paniken slog emot mig som vågor mot en klippstrand. Det ryckte till i min högra fot och jag fick långsamt tillbaka kontrollen över mina muskler. Jag klev upp och gick ner till köket och drack ett glas vatten från kranen. Jag slog mig ner på en köksstol och såg ut genom fönstret på natten utanför. Ett tunt snötäcke låg över gatan. Det gnisstrade och glimmade i ljuset från gatlyktorna. Paniken ebbade ut och lämnade ett hål efter sig. Jag kände mig alldeles tom.
 
 Så här kan det inte fortsätta. Jag står inte ut.
 
----
+# Intagen #
 
 ### Chefredaktören, Peder flyr från vakten ##
 
@@ -865,14 +854,9 @@ En skötare stod utanför expeditionen och såg åt Peder.
 
 Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen, men kunde inte somna om.
 
-
-# Solen, månen och stjärnorna #
-
-<!-- Peder samtalar med Carsten. Något är skumt med Görans död. Peder betuttar sig i underläkaren Cecilia. Carsten dör och Peder får skinnpungen och en ledtråd. -->
+# Oktober till december, 1980 
 
 ### LE ser Håkan för första gången @LES ###
-
-#### 11 oktober, 1980 ####
 
 Märta kände sig dålig idag, så jag åkte till gudstjänsten själv. Cecilia är förkyld och vaknade med feber med jämna mellanrum, så jag kände tyngden av sömnbrist när klockan ringde. Det var en eländigt regnig morgon, vilket jag tror märktes på församlingen. Kyrkan var bara fylld till en tredjedel. Resten låg säkert hemma i sängen och läste morgontidningen. Jag önskade att jag kunde ha gjort likadant, men just nu behöver jag Gud mer än någonsin. Om någon kan rädda mig ur mitt hål så är det han.
 
@@ -880,15 +864,11 @@ Jag känner igen de flesta ur församlingen vid det här laget, men idag var dä
 
 ### LE nattar Cecilia ###
 
-#### 13 oktober, 1980 ####
-
 I kväll var det min tur att lägga Cecilia. Jag satt på stolen bredvid hennes spjälsäng och sjöng vår sång för henne med låg röst. Hon låg på rygg, med tunga ögon och surrade på sin napp, tills hon somnande. Jag satt kvar en stund och såg hennes lilla bröstkorg höjas och sänkas. Hon ryckte till några gånger på väg ner i sömnen och gnydde oroligt, men sedan såg hon så fridfull ut. Tänk att få vara som ett barn. Tänk hur underbar vår värld hade varit om alla hade varit mer som barn. Förankrade i nuet, utan ruelse för det som varit, eller fruktan för det som skall komma.
 
 Jag kände en fars kärlek välla upp inom mig, där jag satt. För ett kort ögonblick drev den ut förtvivlan från min kropp och jag kände mig lätt och rusig.
 
 ### Håkan tar kontakt @LES ###
-
-#### 18 oktober, 1980 ####
 
 Efter gudstjänsten idag kom den rödlätte mannen fram till mig och presenterade sig. Han hette Håkan. Han påstod att han kände igen mig, men inte riktigt kunde placera mig.
 
@@ -906,15 +886,11 @@ Vi skildes åt med ett handslag och lovade varandra en fika efter gudstjänsten 
 
 ### LE kopplar av med en speldosa ###
 
-#### 14 november, 1980 ####
-
 Det har varit en själadödande vecka. Jag har gett föreläsningar varje förmiddag och har handlett laborationer varje eftermiddag, med högar av labbrapporter att bedöma. Egentligen borde jag ha börjat med det redan i kväll, men jag orkade bara inte. Inte på en fredagkväll. Märta hade huvudvärk och gick och la sig tidigare. När Cecilia somnat hällde jag upp ett glas vin till mig själv och gick ner i källaren. Jag satte på Händels Messias på skivspelare och la på den röda sammetsfilten på arbetsbordet. Där dukade jag upp allt jag behövde: kullhjul, hävarmar, cylindrar, skruvar, muttrar, fjädrar och verktyg -- allt logiskt och prydligt. Sedan lutade jag mig tillbaka, tog en mun vin och beundrade skönheten i ordningen. Jag gick upp helt i stunden, omvärlden försvann och ersattes av frid.
 
 Jag satt uppe till långt efter midnatt. Jag har bara skalet var att måla, sedan är speldosan klar. Den är det bästa jag byggt så här långt. Den är det bästa jag åstadkommit sedan Cecilia föddes.
 
 ### Håkan lobbar för frimureriet @LES ###
-
-#### 17 december, 1980 ####
 
 Under de månader som gått har jag och Håkan blivit allt bättre vänner. Det känns som om jag kan anförtro honom med vad som helst -- till och med mitt trasiga äktenskap.
 
@@ -960,7 +936,8 @@ Jag bad att få fundera på saken. När jag på kvällen satt på golvet och lek
 
 Det kändes som om något lossnade i mig när jag sa det, som om ett gruskorn som länge varit fastkilat mellan två kugghjul äntligen ramlade bort. Jag var så upprymd att jag hade svårt att sova på natten.
 
----
+
+# Solen, månen och stjärnorna #
 
 ### Nytt bedömningssamtal ###
 
@@ -1580,19 +1557,9 @@ Peder satte sig på sängkanten.
 
 Dörren stängdes. Peder tog av sig byxorna och den ljusblå koftan. Han kröp ner under täcket och öppnade sin pocketbok. Han hann läsa tre sidor innan han somnade.
 
-
-# Flykten från sjukhuset #
-
-<!-- Peder får en tvångsinjektion, eftersom han smusslat med medicinen. Han får en påhälsning av Samuel. Peder planerar sin flykt och sticker. -->
+# December, 1980 #
 
 ### Upptagen bland Frimurarna @LES ###
-
-#### 21 december, 1980 ####
-
-<!-- 
-	Ändra på LEs klädsel till blus öppen över bröstet, med snara runt halsen. Se inledningen till Dan Browns Den förlorade symbolen. 
-
--->
 
 Håkan parkerade sin gula Saab utanför vårt hus och ringde på dörren. Märta öppnade, men när hon såg vem det var gick hon bara därifrån utan att säga ett ord. Jag knöt min fluga framför spegeln i hallen, medan jag bad om ursäkt. Jag kände att jag ville förklara för honom -- berätta varför det är som det är mellan min hustru och mig, men han hejdade mig med en hand på min axel.
 
@@ -1652,7 +1619,8 @@ De andra männen reste sig från sina stolar och kom fram för att gratulera mig
 
 I andra ändan av salen, framför en väldig trädörr, stod en lång man, med kutig rygg och svart hår kammat bakåt. Han såg rakt mot mig, med uttryckslös min. Bredvid honom stod en gestalt helt klädd i svart, med ansiktet i skugga. Det var som om hela han var en skugga.
 
----
+
+# Flykten från sjukhuset #
 
 ### Andra dygnet ###
 
@@ -2005,13 +1973,9 @@ De ställde sängen vid ena väggen och väntade. De såg patientsängar i rostf
 Den förste skötaren ryckte på axlarna och så gick de iväg. De hittade en automat i väntrummet och tryckte ut var sin snickers. När de kom tillbaka var Peders säng tom.
 
 
-# Frimurarna på Fridhem #
-
-<!-- Peder bryter sig in i logen på Fridhem. Han får email från någon som verkar veta vad det handlar om. Det visar sig vara underläkaren Cecilia. -->
+# Maj, 1982 #
 
 ### Kvinnohärbärget @LES ###
-
-#### 6 maj, 1982 ####
 
 Håkan stod och väntade på mig på parkeringen utanför Fysikum. Han stod med ryggen lutad mot sin bil och rökte en cigarett. Jag blev förvånad över att se honom.
 
@@ -2093,8 +2057,8 @@ Jag tog en mun kaffe.
 
 Vi drack resten av vårt kaffe under tystnad innan Håkan körde mig hem. Hans ord hängde kvar inom mig hela kvällen och jag hade svårt att somna när jag väl låg i sängen. Jag vände och vred på mig, utan att hitta en bekväm ställning. Märta snarkade i rummet intill. Var hoppet verkligen ute för mänskligheten? Kunde vi inte bättra oss? Levande bilder från kvällsnyheterna spelade för mitt inre öga -- bilder av krig, förstörda hem, bedrägeri och mord. Det knöt sig i min mage.
 
----
 
+# Frimurarna på Fridhem #
 
 ### Peder utanför frimurarlogen ###
 	
@@ -2441,18 +2405,13 @@ Cecilia skakade på huvudet. "Nej, den är borta."
 "Mitt barndomshem brann ner när jag var tolv år. Allt förstördes -- det fanns inget kvar."
 
 
-# Den allvetande #
-
-<!-- Peder flyttar hem till sin pappa. Han drömmer om den allvetande och hittar honom till sist. -->
+# Juni, 1982 #
 
 ### Hoppet är ute @LES ###
 
-#### 11 maj, 1982 ####
-
-
 Något förändrades efter kaffet med Håkan. Efter det har jag sett verkligheten omkring mig i ett nytt ljus. Det tycks mig som om världen är full av lidande. Vart jag än vänder min blick ser jag elände. När jag betraktar mina studenter, eller till och med främlingar på stan, ser jag bara självupptagenhet och egoism, oförmåga att se bortom sina egna behov. Har Håkan rätt? Är mänskligheten förtappad? Har vi fallit för långt från Gud? Är det försent?
 
----
+# Den allvetande #
 
 ### Peder letar efter spår av den allvetande ###
 
@@ -2925,14 +2884,9 @@ Peder såg på sitt armbandsur. Klockan var nästan fem.
 Peder la på och stoppade tillbaka telefonen i fickan. Han tog på sina ytterkläder, tog bilnycklarna från faderns jacka och klev in i bilen. Bensinmätaren visade på rött, men han hoppades att det skulle klara sig in till Malmö. På väg ut ur Staffanstorp stannade han till vid James Grill och köpte med sig en hamburgare och en kola.
 
 
-# Flickan utan navel #
-
-<!-- De besöker Kerstin, flickan utan navel. På väg hem väjer Peder för en mörk gestalt på vägen och kraschar sin bil. -->
+# Juli, 1982 #
 
 ### Märta har fyllebryt @LES ###
-
-#### 14 juli, 1982 ####
-
 
 Märta kom ner i min verkstad idag. Hon snubblade fram, stank av alkohol.
 
@@ -2954,7 +2908,8 @@ Märta lyfte upp min halvfärdiga speldosa och slungade den genom luften och in 
 
 När hon snubblar upp för trappan städade jag upp resterna efter speldosan och satt sedan kvar i mörkret och bad. Jag bad om hjälp att förstå -- förstå varför allt detta hemska kommit in i våra liv. Jag grät för mig själv och hoppades på ett svar, men inget kom.
 
----
+
+# Flickan utan navel #
 
 ### Peder hämtar upp Cecilia på sjukhusområdet och de träffar flickan utan navel ###
 
@@ -3178,13 +3133,9 @@ Luftkudden krympte undan efter någon minut. Det luktade krut och gas. Han fumla
 Det ringde i öronen. Det smakade metall i munnen. Något varmt rann ur näsan och han torkade av sig på handryggen. Han såg röda strimmor av blod i ljuset från bilen. Han böjde sig in i kupén och slog av motorn. Ljusen slocknade och åkern blev mörk igen. Han gick ut till vägen och började följa den mot Staffanstorp. Han hade en obehaglig känsla av att vara iakttagen, men när han såg sig om fanns ingen där.
 
 
-# På Café Lundagård #
-
-<!-- Fika på Lundagård, där Peder och Cecilia går igenom sina ledtrådar. Ännu mer fika. Ett rätt pratigt kapitel. -->
+# Mars, 1983 #
 
 ### Prefektens övergrepp @LES ###
-
-#### 17 mars, 1983 ####
 
 Jag arbetade sent idag. Jag hade en massa labbrapporter att gå igenom och det fanns ingen chans att hinna med det under dagen. Klockan var efter åtta när jag släckte lampan på mitt skrivbord och låste dörren till arbetsrummet jag delade med de andra lektorerna. När jag gick mot utgången hörde jag ett märkligt ljud. Jag stannade och lyssnade i mörkret. En bil passerade på gatan utanför. Mina andetag pep i bröstet. Så kom ljudet igen. Det lät som om någon snyftade. Jag rörde inte en muskel medan jag försökte avgöra varifrån gråten kom. Från administrationsbyggnaden. Det lät som om det kom från administrationsbyggnaden. Jag gick långsamt ditåt, så ljudlöst jag någonsin kunde. Gråten tilltog i styrka och nu hörde jag något annat också -- ett mörkare bakgrundsljud -- mumlet av en mansröst. Ljuden ledde mig fram till prefektens dörr och jag blev stående, med ena handen på dörrhandtaget.
 
@@ -3220,7 +3171,8 @@ Prefekten såg på mig under tystnad. Leendet smälte bort.
 
 Jag vände på klacken och gick därifrån. Illamåendet hävde sig över mig i vågor. Jag gick in på en toalett, lutade mig över vasken och öppnade munnen, men inget kom. Ilskan kokade i mig när jag cyklade hemåt.
 
----
+
+# På Café Lundagård #
 
 ### Peder berättar för sin far om hur han kvaddat bilen ###
 
@@ -3600,13 +3552,9 @@ Peder nickade. "Ok. Jag följer dig ut. Skall jag följa dig till busshållsplat
 På köksbordet stod Cecilias vinglas orört. Peder rynkade pannan och tömde sedan glaset själv i tre djupa klunkar. Det snurrade ordentligt i huvudet och han fick hålla sig i räcket när han gick uppför trappan till sitt sovrum. När han tog av sig byxorna svajade han till och satte sig på golvet med en duns. Han krånglade av sig strumporna och la sig på sängen i bara kalsongerna. Han dåsade bort. Alkoholen luckrade upp hans drömmar till osammanhängande bilder som fladdrade förbi. Han hörde inte sin far skrika längre ner i korridoren.
 
 
-# Anita #
-
-<!-- Peder söker efter nämndemän och finner Anita. Han hinner prata med henne innan hon dör i en brand. Han får reda på att allt handlar om en domedagsmaskin. -->
+# Mars till april, 1983 #
 
 ### Gudstjänsten @LES ###
-
-#### 19 mars, 1983 ####
 
 Vi kom nästan försent till gudstjänsten idag. Märta var svagare i högerbenet och det tog en evighet att hjälpa henne ur badet och i kläderna. Vi stormade in genom porten när klockorna börjat ringa, bara för att se att kyrkan bara var halvfull.
 
@@ -3616,11 +3564,10 @@ Hela gudstjänsten passerade som i ett töcken. Märta satte en armbåge i sidan
 
 ### Genombrottet @LES ###
 
-#### 15 april, 1983 ####
-
 När natten kom låg jag sömnlös. Jag hörde Märta snarka i rummet intill. Sängkläderna var varma och klibbiga. Jag steg upp, drog fram skrivbordsstolen till fönstret och såg ut på världen utanför. Dimman skapade glorior kring gatlyktorna. Det kändes som en ål sprattlade i mitt inre. Jag kunde se den svarta blänkande kroppen framför mig, dess små själlösa ögon och fixerade mig. Jag tänkte på Håkans ord på cafét. Jag tänkte på profetian från flickan utan navel och på allt elände som fyllde världen. Plötsligt förstod jag. Det var som om någon dragit undan slöjan från mina ögon. Håkan hade rätt. Det fanns inget hopp kvar för mänskligheten. Den svarta ålen stillade sig med ens och lade sig till ro i min mage. På morgonen ringde jag kanslit och sjukanmälde mig.
 
----
+
+# Anita #
 	
 ### Peders far dricker på morgonen ###	
 
@@ -3936,13 +3883,9 @@ Peder svarade inte. Han tog av sin leriga skinnjacka och sina skor. Hans far kom
 Hans far stod kvar och såg efter honom. Peder gick in på sitt rum och stängde dörren efter sig. Han drog ner persiennerna och drog för gardinerna, sedan sjönk han ner på golvet med ryggen mot väggen. Han skakade i hela kroppen, tårar vällde upp i ögonen. Illamåendet steg och sjönk i magen, det stack i fingrar och läppar. Peder var livrädd.
 
 
-# Samuel och nycklarna #
-
-<!-- Den allvetande berättar en historia om Samuel. Peder får ett tips om vad speldosorna kan tänkas vara. Han fixar utrustning till ett andra inbrott i logen. -->
+# April, 1983 #
 
 ### LES är mogen @LES ###
-
-#### 22 april, 1983 ####
 
 Jag satt i källaren och arbetade på en speldosa, när det ringde på ytterdörren.
 
@@ -3972,7 +3915,8 @@ Jag berättade om prefekten och om hur jag insett att hoppet var ute. Håkan nic
 
 "Du är mogen", sa han. "Kom så åker vi och tar en kopp kaffe."
 
----
+
+# Samuel och nycklarna #
 
 ### Hos den allvetande igen, om Samael ###
 
@@ -4306,14 +4250,9 @@ Han ställde sig vid busshållsplatsen och väntade. Han var ensam i kuren, luft
 På bussen slutade en pojke äta av sin Snickers och såg på Peder med öppen mun. Chokladen smälte mellan hans fingrar, gled ur hans grepp och föll på golvet i mittgången. Pojken rörde sig inte ur fläcken.
 
 
-# Månen #
-
-<!-- De bryter sig in i logen och hittar Månen, samt brev från Cecilias pappa. -->
+# Maj, 1983 #
 
 ### Upptagen bland riddarna @LES ###
-
-#### 7 maj, 1983 ####
-
 
 Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i maj och ett kraftigt vårregn smattrade mot vindrutan.
 
@@ -4355,7 +4294,8 @@ Efter ceremonin samlades vi i matsalen och åt middag. En brasa knastrade i den 
 
 Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt mörkröda pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
 
----
+
+# Månen #
 
 ### Nytt inbrott i logen ###
 
@@ -4687,13 +4627,9 @@ Peder sök på sin underläpp.
 "Jag tror jag har en idé", sa han.
 
 
-# En grav i Malmö #
-
-<!-- De går på bibliotek och får reda på att bomben nog är begravd på en kyrkogård. De rekar och bryter sin in i en grav, men finner bara ett lik. Polisen hämtar Peder. Han har blivit förrådd av sins far. -->
+# Maj till juni, 1983 #
 
 ### Maskinen planeras @LES ###
-
-#### 15 maj, 1983 ####
 
 Grenom Broder Lauréns försorg har jag till sist kommit i kontakt med en man i Gdansk, som lovat hjälpa mig med det material jag behöver. Jag körde till Karlskrona för att möta honom. Han visade sig vara en obehaglig liten typ, med smala rödsprängda ögon, som om han hade ständig hösnuva mitt i vintern. Det glimmade av guld varje gång han log. Han var inte den sortens man jag skulle lita på i vanliga fall, men det här är ju knappast ett vanligt fall. Dessutom har ju Laurén gått i god för honom.
 
@@ -4724,9 +4660,6 @@ Det hade jag inte. Jag kliade mig i huvudet.
 "Vi tänker ut något", sa Hierta. Han la en hand på min axel. "Du har gjort ett bra jobb, Wagner. Ett utmärkt jobb."
 
 ### Märta får ett nytt skov och jobbet påbörjas @LES ###
-
-#### 25 maj, 1983 ####
-
 
 Jag vaknade av att Märta skrek på mig från sovrummet intill mitt. Jag rusade yrvaken dit och fann henne på rygg i sängen. Hon flaxade med armarna, vit i ansiktet.
 
@@ -4780,15 +4713,14 @@ Jag nickade och vi tog farväl.
 
 ### Arbetet med maskinen är i gång @LES ###
 
-#### 4 juni, 1983 ####
-
 Efter tio år vid universitetet, där jag fick tigga på mina bara knän för att få köpa in nya blyertspennor, var det en aning overkligt att se de resurser som brödraskapet mobiliserat. Hierta hade låtit resa ett tält över byggplatsen, för att skydda från insyn. Jag hörde via avvägar att man spridit en lögn om vad som försiggår där inne -- en genial lögn -- en lögn som var så fräck att ingen ifrågasatte den. Tidningen var till och med där idag och gjorde ett reportage.
 
 Hierta har hyrt in ett femtontal arbetare från Polen och Baltikum. Ingen av dem förstår svenska. De förstår knappt varandra. Jag är säker på att det är avsiktligt. Förmannen talar en smula tyska, så det är honom jag försöker kommunicera med. Det är tur han kan läsa mina ritningar.
 
 Materialet anlände igår natt och hammarslagen har ekat hela morgonen, när kopparslagaren formar plåtarna. Jag har precis börjat arbetet med att foga samman urverket. Med jämna mellanrum svindlar tanken över vad jag håller på med. Det känns som om jag beblandar mig med krafter utom mitt förstånd. Jag kan inte längre bedöma konsekvenserna av mina handlingar, utan litar helt och fullt på att brödraskapet och Gud Fader leder mina händer rätt. Jag är livrädd och uppspelt på en och samma gång. Det har passerat tre nätter utan sömn. Det är sju dagar sedan jag såg min dotter.
 
----
+
+# En grav i Malmö #
 
 ### På biblioteket ###
 
@@ -5281,13 +5213,9 @@ Peder tryckte på och försökte klämma sig fram mellan dem. Den ena polismanne
 Den andra polisen tog fram en burk pepparsprej ur jackfickan och fyrade av mot Peders ögon. Det brände som eld. Tårarna sprutade och Peder föll ner på knä. De satte handfängsel på honom, lyfte upp honom på fötter och förde ut honom till en svart Volvo, som väntade ute på gårdsplanen. Vid köksbordet satt Peders far och grät.
 
 
-# Rum tretton #
-
-<!-- Peder sitter på rum 13. Hierta försöker övertyga honom om att han hallucinerar. Samuel försöker suggestera honom att ta sitt liv. Han lyckas, men Peder stoppas av Cecilia. De flyr och hittar Peders far livlös, efter ett självmordsförsök. Ambulansen hämtar honom. -->
+# Juli till augusti, 1983 #
 
 ### LES får kalla fötter @LES ###
-
-#### 15 juli, 1983 ####
 
 Jag satt uppe i natt igen. Timmarna gick, medan jag låg vaken i min tältsäng i baracken. En klump av oro jäste i min mage. Tänk om det är fel? Tänk om hon hade fel? Jag kunde inte skaka av mig känslan. Till slut steg jag upp, satte mig vid ritbordet och bredde ut ritningarna. Kunde man verkligen vara säker?
 
@@ -5297,13 +5225,12 @@ Jag nämnde inget för Hierta eller Håkan. Ingen behöver veta.
 
 ### Maskinen är klar @ LES ###
 
-#### 6 augusti, 1983 ####
-
 Den är färdig. Maskinen är färdig och begraven. Hierta har skickat hem sina arbetare, tältet är rivet. Det är gjort.
 
 Jag trodde jag skulle känna mig lättad. När jag tidigare såg fram emot den här dagen föreställde jag mig att jag skulle känna mig stolt och glad, men jag känner inget alls. Bara tomhet. Vad ska jag nu ta mig till? Vart ska jag ta vägen? Jag frågade Hierta, men han la bara en hand på min axel och sa att jag skulle återvända till min familj och mitt liv. Men jag har ju inget liv kvar -- bara spillror.
 
----
+
+# Rum tretton #
 
 ### Intagen igen ###
 
@@ -5692,13 +5619,10 @@ Peder såg på henne.
 
 "Jag har kommit på något", sa hon. "Om jag har rätt har vi inte mycket tid på oss."
 
-# En kupol av glas #
 
-<!-- De tar sig till Nevishögs kyrkogård och hittar bomben. De ertappas av Hierta och Samuel. Showdown. -->
+# September till oktober, 1983 #
 
 ### Något har gått snett @LES ###
-
-#### 13 september, 1983 ####
 
 Något har gått snett. Håkan sökte upp mig på institutionen idag och bad att få prata ostört. Tydligen hade man upptäckt två containrar i hamnen med spår av radioaktivitet. De skulle ha smugglats ut ur Sverige, men något hade gått fel. Håkan berättade att Hierta var bekymrad. Under inga villkor kunde man tillåta att polisen följde spåren till hemligheten vi gömt i Edencronas grav.
 
@@ -5709,8 +5633,6 @@ Jag frågade Håkan vad han trodde skulle hända. Han visste inte, men han uppma
 Jag måste göra mig av med nycklarna. Jag har en kvar att sätta samman. Det måste bli klart ikväll, sedan måste jag bestämma mig för hur jag ska göra.
 
 ### LE blir syndabock ###
-
-#### 1 oktober, 1983 ####
 
 Jag blev kallad till Hierta idag, men jag visste redan vad han skulle säga. Polisen var oss på spåren. Den polska sjökaptenen som skulle ha smugglat ut de tomma containrarna ur Sverige hade fått kalla fötter och försvunnit med betalningen. Vi måste sopa igen våra spår, om inte allt ska vara förgäves.
 
@@ -5742,10 +5664,10 @@ Jag nickade igen.
 
 Han tackade mig och jag gick därifrån. Det var så mycket jag var tvungen att ordna på den korta tid jag hade kvar i frihet.
 
----
+
+# En kupol av glas #
 	
 ### Cecilias hypotes ###
-
 
 De gick upp till badrummet på övervåningen och Cecilia hjälpte Peder tvätta underarmen med tvål och vatten. Hon letade runt bland skåpen tills hon hittade en flaska sårtvätt och en bomullstuss. Det sved i såret när hon rengjorde det och Peder bet ihop käkarna.
 
@@ -6317,13 +6239,9 @@ Peder skakade på huvudet.
 "Inte en chans."
 
 
-# Början på något nytt #
-
-<!-- Tillbaka till livet. -->
+# Juni, 1990 #
 
 ### Lars-Eriks sista brev @LES ###
-
-#### 22 juni, 1990 ####
 
 Lång tid har gått sedan jag skrev senast. Dagarna här inne flyter ihop till veckor, som flyter ihop till månader. Rätt vad det är har flera år gått. Jag tror att jag är lycklig här, i mitt lilla sammanhang. Tiden utanför fängelset känns alltmer som en avlägsen dröm.
 
@@ -6333,7 +6251,8 @@ Jag ska få besök i morgon, mitt första på flera år. Märta hälsade på mig
 
 Det ska bli trevligt att se någon från brödraskapet.
 
----
+
+# Början på något nytt #
 
 ### Tillbaka på tidningen ###
 
