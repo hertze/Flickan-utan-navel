@@ -5305,13 +5305,15 @@ Jag trodde jag skulle känna mig lättad. När jag tidigare såg fram emot den h
 
 ---
 
-Peder var tillbaka på psyk akut igen. Civilpolisen från spaningsroteln visades in direkt till ett rum i korridoren och satte Peder på en brits. Ögonen var fortfarande rödsvullna och rinnande efter pepparsprayen, han såg bara otydliga konturer av vitklädda människor i korridoren utanför. En av poliserna klappade honom på axeln, innan de lämnade honom ensam.
+### Intagen igen ###
+
+Peder var tillbaka på psyk akut igen. Civilpolisen från spaningsroteln visades in direkt till ett rum i korridoren och satte Peder på en brits. Ögonen var fortfarande rödsvullna och rann efter pepparsprayen, han såg bara otydliga konturer av vitklädda människor i korridoren utanför. En av poliserna klappade honom på axeln, innan de lämnade honom ensam.
 
 Peder satt stilla på britsen i en timme innan en underläkare knackade i dörrkarmen och kom in. Peder svarade korthugget på frågorna, utan att titta upp. Han lämnades snart ensam igen, innan en skötare kom in, gav honom sjukhuskläder och la hans tillhörigheter i en svart sopsäck. Efter ytterligare en timmes väntan kom två vitklädda män och hämtade honom.
 
 "Kom, Peder", sa de. "Du har fått en plats på avdelning."
 
-Peder tyckte rösten lät bekant och han kisade för att försöka se bättre, men ansikterna var otydliga. De gick genom korridoren, passerade en glasdörr och en dörr i stål och kom in i en ny korridor. Peder kände igen lukten av desinfektionsmedel. Ett lysrör flimrade över hans huvud.
+Peder tyckte rösten lät bekant och han kisade för att försöka se bättre, men ansikterna var suddiga. De gick genom korridoren, passerade en glasdörr och en dörr i stål och kom in i en ny korridor. Peder kände igen lukten av desinfektionsmedel. Ett lysrör flimrade över hans huvud.
 
 "Ja, Peder. Välkommen tillbaka till oss."
 
@@ -5354,9 +5356,9 @@ Dörren slog igen och låset klickade till. Peder låg på rygg och stirrade upp
 "Helvete", sa Peder och la sig på sidan. Det spände i ögonen.
 
 
-### Tillbaka på sjukhuset ###
+### Vårdintygsprövning ###
 
-Han hade inge uppfattning om tiden där han låg, men det hade börjat värka i sidan han låg på när dörren öppnades och Gunnar Hierta kom in. Han bar på en pinnstol, som han ställde ner på golvet innanför dörren och slog sig ner på.
+Han hade ingen uppfattning om tiden där han låg, men det hade börjat värka i sidan han låg på när dörren öppnades och Gunnar Hierta kom in. Han bar på en pinnstol, som han ställde ner på golvet innanför dörren och slog sig ner på.
 
 "Så", sa han. "Du är här igen, Peder. Vi hade börjat bli oroliga."
 
@@ -5390,7 +5392,7 @@ Peder stannade framför överläkaren.
 
 Hierta lutade sig tillbaka i stolen och betraktade honom över glasögonen. Han sa ingenting, medan Peder började gå igen.
 
-"Jag vet att ni tänker döda alla människor på jorden och att ni tänker göra det snart -- men jag fattar inte varför."
+"Jag vet att ni tänker försöka mörda alla människor på jorden och att ni tänker göra det snart -- men jag fattar inte varför."
 
 Han stannade igen.
 
@@ -5444,7 +5446,15 @@ Syster Inger nickade åt skötarna och de la sig ner på knä och höll fast Ped
 
 ### Mardröm om Cecilia ###
 
-Peder drömde. Han stod på en äng, med böljande gräs så långt ögat kunde se. Vita blommor lyste som stjärnor mot det gröna. Luften var ljummen och det var vindstilla. I drömmen vände sig Peder om och såg Cecilia stå en bit bort med ryggen mot honom. Han öppnade munnen för att säga något, men det kom inga ljud. Han tog ett steg mot Cecilia, sedan ett till och ett till. När han sträckte fram sin hand för att vidröra henne försvann hon. Förvirrad vände han sig om. Cecilia stod nu en bit bort åt andra hållet, fortfarande med ryggen mot honom. När han närmade sig försvann hon igen och dök upp på en ny plats, precis utom räckhåll. I drömmen kände Peder paniken skölja över honom. Han rörde sig oroligt på madrassen. I drömmen värmde solen och det blåste upp en svag vind, som fick gräsfälten att bölja. Cecilia vände sig långsamt om och Peder såg att hon var ihålig. Där hennes ansikte skulle vara fanns ingenting, bara mörker.
+Peder drömde. Han stod på en äng, med böljande gräs så långt ögat kunde se. Vita blommor lyste som stjärnor mot allt det gröna. Luften var ljummen och det var alldeles vindstilla.
+
+I drömmen vände sig Peder och såg Cecilia stå en bit bort med ryggen mot honom. Han lyfte sin hand och öppnade munnen för att säga något, men det kom inget ljud. Förvånad öppnade och stängde han munnen, som om han skulle kunna kräkas fram orden.
+
+Peder tog ett par steg mot Cecilia och kunde nästan vidröra henne, när han snubblade till över en ojämnhet i marken och ramlade ner på knä. När han kommit på fötter igen var Cecilia borta. Förvirrad såg han sig omkring. Cecilia stod bakom honom igen, ett par meter bort, fortfarande med ansiktet frånvänt.
+
+Peder gick mot henne igen, trevande för att inte ramla. När han nästan var framme fladdrade hon till och försvann igen. Den här gången dök hon upp längre bort. 
+
+I drömmen kände Peder paniken skölja över honom. Han rörde sig oroligt på madrassen, på golvet i den kala rummet med betonggolv. I blåste det upp en svag vind, som fick gräsfältet att bölja. Cecilia vände sig långsamt om och Peder såg att hon var ihålig, som en gammal trädstam. Där hennes ansikte skulle vara fanns ingenting, bara mörker.
 
 
 ### Hierta bearbetar Peder ###
@@ -5481,7 +5491,7 @@ Hierta suckade. "Cecilia är inte verklig."
 
 "Du ljuger."
 
-"Har någon annan sett henne? Vet du var hon bor? Har du sett henne äta och dricka? Har du sett henne gå på toaletten?" Han tog av sig glasögonen och höll skalmen mellan tummen och pekfingret. "Cecilia finns inte i verkligheten. Du har skapat henne, Peder."
+"Gör jag? Har någon annan sett henne? Vet du var hon bor? Har du sett henne äta och dricka? Har du sett henne gå på toaletten?" Han tog av sig glasögonen och höll skalmen mellan tummen och pekfingret. "Cecilia finns inte i verkligheten. Du har skapat henne, Peder."
 
 Peder skakade på huvudet. Tårar rann nerför hans kinder och samlades i en pöl på madrassens plastöverdrag. Gunnar reste sig och lyfte stolen från golvet.
 
@@ -5520,7 +5530,7 @@ Rösten skar genom Peder och han huttrade. Den svartklädda gestalten vände upp
 
 "Fantastiskt rum, det här", sa han. "Ett rum för de allra tokigaste -- ett rum utan fönster, utan hopp. En plats för dem bortom räddning."
 
-Peder kröp ihop ytterligare mot väggen, med knäna uppdragna mot hakan. Samuel satte sig på huk framför honom. Den kyliga andedräkten strömmade i vågor mot Peders ansikte. Den doftade jord.
+Peder kröp ihop ytterligare mot väggen, med knäna uppdragna mot hakan. Samuel satte sig på huk framför honom. Den kyliga andedräkten strömmade i vågor mot Peders ansikte. Den mandel och honung.
 
 "Kan du känna det, Peder? Känner du galenskapen sprida sig i din kropp? Känner du den flyta genom dina ådror? Känner du hur den blandar sig i hela ditt livsvatten? Hur den tränger ut allt som är friskt i dig?"
 
@@ -5532,7 +5542,7 @@ Peder vände ner blicken.
 
 Han reste sig upp till stående.
 
-"Jag känner hopplösheten i dig. Jag känner hur den äter upp dig. Min blick ser långt, Peder. Jag ser din flickvän Jessica. Hon är tillsammans med Jesper. Är inte det din vän? De njuter av varandras kroppar i vardagsrummet -- i soffan som du och Jessica köpte tillsammans på IKEA. Kommer du ihåg när ni köpte den, Peder? Hur ni provsatt i den, skrattade i den, lovade varandra trohet? Nu är hon med din vän. Hon verkar tycka om sex trots allt -- hon tycks inte ha någon huvudvärk ikväll."
+"Jag känner hopplösheten i dig. Jag känner hur den äter upp dig. Min blick ser långt, Peder. Jag ser din flickvän Jessica. Hon är tillsammans med Jesper. Är inte det din vän? De njuter av varandras kroppar i vardagsrummet -- i soffan som du och Jessica köpte tillsammans på IKEA. Kommer du ihåg när ni köpte den, Peder? Hur ni provsatt i den, skrattade i den, lovade varandra trohet? Nu är hon med din vän. Hon verkar tycka om sex trots allt -- hon tycks inte vara för trött i kväll."
 
 Han strök sin behandskade hand mot tyget i ytterrocken.
 
@@ -5542,7 +5552,7 @@ Peder grät. Tårar och snor rann nerför hans ansikte. Han hulkade högljutt.
 
 "Jag ser dig, Peder -- tjugo år från idag, ensam i en nerrökt lägenhet, fet och impotent av alla mediciner. Dina händer skakar, du har svårt att få cigaretten till dina läppar. Dina nikotingula fingrar slinter kring spritglaset. Ingen älskar dig, ingen vet att du finns -- förutom din kontaktperson på psyk, som har gett upp hoppet om dig. Du önskar att du hade haft modet att försvinna, medan du ännu hade förmågan. Nu klarar du inte ens att ta livet av dig. Du är patetisk, Peder. En ynklig parodi av en människa. Detta är din framtid. Detta är vad du har att se fram emot. Ett liv som psykiskt sjuk -- precis som din mamma."
 
-Samuel skrattade, raspigt och rosslande. Peder höll händerna för öronen och blundade hårt. Tårarna smakade salt. För sin inre syn såg han sig själv, hjälplös i en förfallen fåtölj, med tunt fettglasigt hår. Hans vattniga ögon stirrade tomt framför sig, på en TV som spydde ut meningslösa dagsåpor. Hans t-shirt hade hål efter fallande cigarettglöd. Hans kalsonger var fläckade av gammal urin. Huden var täckt av infekterade sår, eksem om utslag.
+Samuel skrattade, raspigt och rosslande. Peder höll händerna för öronen och blundade hårt. Tårarna smakade salt. För sin inre syn såg han sig själv, hjälplös i en förfallen fåtölj, med tunt fettglasigt hår. Hans vattniga ögon stirrade tomt framför sig, på en TV som spydde ut meningslösa dagsåpor. Hans t-shirt hade hål efter fallande cigarettglöd. Hans kalsonger var fläckade av gammal urin. Huden var täckt av infekterade sår, eksem och utslag.
 
 Snoret rann bakåt i svalget och ner i magen. Peder kände en våg av illamående skölja genom kroppen. Han knep ihop munnen och försökte hålla tillbaka kräkreflexen. Ett metalliskt klingande fick honom att öppna ögonen. Samuel var borta. Han var ensam igen. Mitt på golvet låg ett rakblad och blänkte i ljuset från lysröret.
 
@@ -5551,9 +5561,11 @@ Snoret rann bakåt i svalget och ner i magen. Peder kände en våg av illamåend
 
 Peder satt länge och stirrade på rakbladet. Det såg så litet och harmlöst ut där det låg på betonggolvet. Så oskyldigt. Peder kände mörkret växa inom sig. Det åt upp allt hopp, tills bara förtvivlan fanns kvar. Vad hade han att leva för? Han var sinnessjuk -- lika galen som sin mor. Vore det inte lika bra att göra slut på det? Innan det var för sent? Medan han ännu kunde? Han reste sig upp på stela ben och plockade upp rakbladet. Han höll det framför sig, mellan tummen och pekfingret. En ljuskatt svepte över hans ansikte när han vred det, som ett ljus i mörkret.
 
-Han satte sig på golvet i skräddarställning, vände upp handflatan och la rakbladet platt mot underarmens hud. Det rörde sig upp och ner, i takt med blodets pulsationer i artärerna. Metallen kändes sval. Förtvivlan smälte undan och lämnade en känsla av frid efter sig. Peder tog upp rakbladet, la eggen mot huden och drog till. En skarp smärta sköt genom kroppen, som ringar på vatten. Huden på underarmen vitnade först, men efter några sekunder blev där ett rött streck. *Inte tillräckligt hårt*, tänkte Peder. Han la eggen mot huden igen och drog -- hårdare den här gången. Det kändes inte lika mycket. Huden vitnade, men snart vällde det upp blod. Det fyllde glipan i huden, rann över kanterna, samlades på armens undersida och droppade ner på golvet. Handleden pulserade av värme.
+Han satte sig tillrätta på golvet i skräddarställning, vände upp handflatan och la rakbladet platt mot underarmens hud. Det rörde sig upp och ner, i takt med blodets pulsationer i artärerna. Metallen kändes sval. Förtvivlan smälte undan och lämnade en känsla av frid efter sig. Peder tog upp rakbladet, la eggen mot huden och drog till. En skarp smärta sköt genom kroppen, som ringar på vatten. Huden på underarmen vitnade först, men efter några sekunder blev där ett rött streck. *Inte tillräckligt hårt*, tänkte Peder. Han la eggen mot huden igen och drog -- hårdare den här gången. Det kändes inte lika mycket. Huden vitnade, men snart vällde det upp blod. Det fyllde glipan i huden, rann över kanterna och samlades på armens undersida, innan det droppade ner på golvet. Handleden pulserade av värme.
 
-Peder slöt ögonen och väntade. Kroppen kändes lätt och sorglös för första gången på länge. Han ville försvinna bort, men inget hände. Han öppnade ögonen igen. Blödningen hade avstannat. En mörkröd fläck spred sig på byxbenet. Han suckade, satte rakbladet på plats igen. *Tredje gången gillt.* Han spände armmusklerna och pressade eggen hårt mot huden. *Nu*, tänkte han. *Nu, jävlar.*
+Peder slöt ögonen och väntade. Kroppen kändes lätt och sorglös för första gången på länge. Det pirrade som av sockerdricka över hela ryggen. Han ville försvinna bort, smälta ner i mörkret.
+
+Efter en stund öppnade han ögonen igen. Han levde fortfarande. Blödningen hade avstannat och en mörkröd fläck torkade på byxbenet. Han suckade, satte rakbladet på plats igen. *Tredje gången gillt.* Han spände armmusklerna och pressade eggen hårt mot huden. *Nu*, tänkte han. *Nu, jävlar.*
 
 
 ### Cecilia till undsättning ###
@@ -5586,7 +5598,7 @@ Hon ledde Peder genom korridoren, drog sitt passerkort i läsaren vid dörren oc
 
 "Uppför trappan."
 
-Hon förste honom framför sig uppför stentrappan och ut genom glasdörrarna. Ute på trottoaren slöt Peder ögonen igen och drog in den friska vårluften genom näsan. Den doftade av blommor.
+Hon förste honom framför sig uppför stentrappan och ut genom glasdörrarna. Ute på trottoaren slöt Peder ögonen igen och drog in den friska vårluften genom näsan. Den doftade av syren.
 
 "Hitåt", sa Cecilia. "Jag har en taxi som väntar."
 
@@ -5637,9 +5649,9 @@ Hans far låg nerbäddad i sängen. Han låg på sidan och var alldeles stilla.
 
 Peder ruskade honom i axeln och hans far rullade över på rygg. Kudden var täckt av maginnehåll, som torkat in i bomullstyget och hans fars hår. En tom whiskyflaska och en tom burk sömntabletter stod på nattduksbordet.
 
-"Nej", sa Peder. "Nej! Helvete!"
+"Nej", sa Peder. "Nej, nej, nej!"
 
-Han ruskade sin far ännu häftigare. Huvudet studsade fram och tillbaka på kudden. Munnen var vidöppen, ögonen slutna. Hans far var vit blåröd i ansiktet.
+Han ruskade sin far ännu häftigare. Huvudet studsade fram och tillbaka på kudden. Munnen var vidöppen, ögonen slutna. Hans far var vir blåröd i ansiktet.
 
 Cecilia kom in i rummet. Hon tvekade först i dörrhålet, men sprang sedan fram till sängen och föste undan Peder. Hon la örat mot faderns mun och lyssnade. Sedan la hon två fingrar på hans hals.
 
