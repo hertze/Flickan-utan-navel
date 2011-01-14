@@ -3218,9 +3218,11 @@ Prefekten såg på mig under tystnad. Leendet smälte bort.
 
 "Om du vill ha någon framtid vid det här universitetet -- vid något universitet -- håller du käften. Har jag varit tydlig?"
 
-Jag vände på klacken och gick därifrån. Illamåendet hävde sig över mig i vågor. Jag gick in på en toalett, lutade mig över vasken och öppnade munnen, men ingen kom. Ilskan kokade i mig när jag cyklade hemåt.
+Jag vände på klacken och gick därifrån. Illamåendet hävde sig över mig i vågor. Jag gick in på en toalett, lutade mig över vasken och öppnade munnen, men inget kom. Ilskan kokade i mig när jag cyklade hemåt.
 
 ---
+
+### Peder berättar för sin far om hur han kvaddat bilen ###
 
 Peder vaknade av att det knackade på ytterdörren. Han blinkade till i morgonljuset och vred sig runt på sidan i sängen. Det knackade igen, hårdare den här gången. Peder kastade ett blick på klockan på nattduksbordet. Klockan var halv elva. Han hörde ytterdörren öppnas på nedervåningen och ljudet av dämpade röster.
 
@@ -3248,11 +3250,11 @@ Peder satte sig på sängen.
 
 "Jag lånade bilen igår för att köra in till Malmö. På vägen hem råkade jag ut för en olycka. Något stod på vägen och jag var tvungen att väja. Jag är ledsen."
 
-Hans far satte sig bredvid honom på sängen och stök undan hans lugg med ena handen.
+Hans far stod tyst en stund. Ansiktsfärgen ljusnade och han slappnade av i sina händer. Han satte sig på sängen och stök undan Peders lugg med ena handen.
 
 "Men hur ser du ut, Peder? Du behöver ju komma in till sjukhuset."
 
-Peder skakade på huvudet. "Det är ok. Det ser värre ut än vad." Han såg ner i golvet. "Får du problem nu?"
+Peder skakade på huvudet. "Det är ok. Det ser värre ut än vad der är." Han såg ner i golvet. "Får du problem nu?"
 
 "Jag vet inte. Jag tror inte det. De verkade inte tro på allvar att det var jag som kvaddat bilen. De tog upp en polisanmälan för bilstöld. För försäkringen och så."
 
@@ -3320,11 +3322,11 @@ Peder nickade.
 
 Peder nickade igen och de gick ner till köket. Hans far stekte ägg, som de åt på rostat bröd med salt och tabasco. De bryggde kaffe och dagens första koffein skärpte tanken och mildrade huvudvärken. När hans far promenerat iväg till jobbet gick Peder in i badrummet och studerade sig själv i spegeln. Näsan var nästa dubbelt så stor som vanligt. Torkat blod skavde i näsborrarna. En blåröd bula satt mitt i pannan. Den sprängde när han kände på den med ett finger. Han blötte bomull i varmt vatten från kranen och baddade näsan. Bomullen färgades rosa och röda strimmor rann i vasken, ner mot avloppet. Han klev in i duschkabinen och i de varma vattenstrålarna började musklerna slappna av.
 
-Efter duschen torkade Peder av sig och band handduken kring midjan. Han satte sig i skräddarställning på golvet i sitt pojkrum och tömde ut de båda speldosorna på golvet. Han petade på en av dem med pekfingret, tills de låg precis intill varandra, och tog sedan fram ett en bunt vita papper och la dem framför sig. På ett skrev han "Lars-Erik Wagner", på ett annat "XII" och på ett tredje "Kerstin Larsson". Han placerade arken i en triangel framför sig. *Hänger de ihop?* tänkte han. Speldosorna var tillverkade av Lars-Erik, Cecilias pappa. Cecilia visste att hennes pappa varit frimurare, medlem av en hemlig orden som gick under namnet XII, eller Riddarna av det Heliga Lammet. *Var passar Kerstin Larsson in?* Hon hade varit försvunnen i fem år, hos män i svarta kläder, där en hade kallat sig La Coeur. *Var det ordern som hållit henne gömd? Inte omöjligt.* Peder drog sitt fuktiga hår bakåt med ena handen. *Men vad gör speldosorna så speciella att de mördar folk för dem?*
+Efter duschen torkade Peder av sig och band handduken kring midjan. Han satte sig i skräddarställning på golvet i sitt pojkrum och tömde ut de båda speldosorna på golvet. Han petade på en av dem med pekfingret, tills de låg precis intill varandra, och tog sedan fram ett en bunt vita papper och la dem framför sig. På ett skrev han "Lars-Erik Wagner", på ett annat "XII" och på ett tredje "Kerstin Larsson". Han placerade arken i en triangel framför sig. *Hänger de ihop?* tänkte han. Speldosorna var tillverkade av Lars-Erik, Cecilias pappa. Cecilia visste att hennes pappa varit frimurare, medlem av en hemlig orden som gick under namnet XII, eller Riddarna av det Heliga Lammet. *Var passar Kerstin Larsson in?* Hon hade varit försvunnen i femton år, hos män i svarta kläder, där en hade kallat sig La Coeur. *Var det ordern som hållit henne gömd? Inte omöjligt.* Peder drog sitt fuktiga hår bakåt med ena handen. *Men vad gör speldosorna så speciella att de mördar folk för dem?*
 
 	// Det här behöver kollas. Vad vet han redan? Vilka ledtrådar skall belysas? Är det redan uppenbara saker han tänker över?
 
-Peder satt tyst och lyssnade på bruset av tankar. Han kände att svaret fanns framför näsan på honom, men varje gång han närmade sig gled det undan, likt rök. Han försökte värka fram det, tills det kröp i kroppen och han slog näven i golvet.
+Peder satt tyst och lyssnade på bruset av tankar. Han kände att svaret fanns framför näsan på honom, men varje gång han närmade sig gled det undan. Det var som att jaga rök med bara händerna. Han försökte värka fram det, tills det kröp i kroppen och han slog näven i golvet.
 
 "Fan. Jag blir tokig. De har kanske rätt. Håller jag på att bli galen?"
 
@@ -3345,7 +3347,7 @@ Peder vaknade med ett ryck. Han andades häftigt och en erektion spände i kalso
 
 ### Fika med Cecilia i Lund ###
 
-Drömmen var bara ett otydligt minne när han vaknade nästa morgon. Hans mobiltelefon vibrerade på nattduksbordet bredvid honom.
+Drömmen var bara ett suddigt minne när han vaknade nästa morgon. Hans mobiltelefon vibrerade på nattduksbordet bredvid honom.
 
 "Hallå?"
 
@@ -3431,9 +3433,9 @@ Cecilia rynkade pannan.
 
 "Tror du?"
 
-"Jag är journalist", sa Peder. "Det är mitt jobb att få människor att avslöja sina hemligheter. Jag är rätt bra på det." Han åt upp hela kanelbullen på en gång och slickade sig om fingrarna. "En sak har jag inte fattat. Hur hamnade du på avdelning 87? Hur träffade du Göran och Carsten?"
+"Jag är journalist", sa Peder. "Det är mitt jobb att få människor att avslöja sina hemligheter. Jag är rätt bra på det." Han åt upp hela kanelbullen på en gång och slickade sig om fingrarna. "En sak har jag inte fattat. Hur hamnade du på avdelning 87?"
 
-"Det var en ren slump. Först. Jag hade vikarierat en månad på psykoskliniken -- på avdelning 87 -- när Göran blev intagen. Efter två veckor berättade han vem han arbetat för, en ordern han kallade *Tolv*, samma orden som min pappa varit medlem av." Hon trummade med pekfingret på bordet. "Jag fastnade, blev fixerad. Jag blev besatt av att ta reda på vad som hänt min pappa."
+"Det var en ren slump. Först. Jag hade vikarierat en månad på psykoskliniken -- på avdelning 87 -- när Göran blev intagen. När han till slut berättade om Tolv lät det bekant, men jag kunde inte komma på varför. Det dröjde säkert en vecka innan jag fattade. Det var pappas frimurarorden." Hon trummade med pekfingret på bordet. "Jag fastnade, blev fixerad. Jag blev besatt av att ta reda på vad som hänt min pappa."
 
 "Du sa att din far dog på grund av den här ordern. Varför tror du det?"
 
@@ -3441,11 +3443,11 @@ Cecilia rynkade pannan.
 
 Peder drack ur det sista kaffet ur koppen och ställde den på fatet.
 
-"Han var alltid frånvarande därhemma", fortsatte Cecilia. "Mamma berättar att han till sist nästan var osynlig. Sommaren när jag fyllde tre år flyttade han hemifrån -- lämnade min oss. Han hade då blivit invald i en ordern inom frimureriets innersta krets -- Tolv. Mamma hade gett honom ett ultimatum: äktenskapet eller frimureriet. Han hade valt det senare."
+"Han var alltid frånvarande därhemma", fortsatte Cecilia. "Mamma berättar att han till sist nästan var osynlig. Sommaren när jag fyllde fyra år flyttade han hemifrån -- lämnade min oss. Han hade då blivit invald i en ordern inom frimureriets innersta krets -- Tolv. Mamma hade gett honom ett ultimatum: äktenskapet eller frimureriet. Han hade valt det senare."
 
 Hon tittade ner i bordsskivan.
 
-"Min mamma förlät honom aldrig. Åren efter separationen blev allt konstigare och konstigare. Han blev arrestera och dömd för ett brott ingen ville avslöja. Han sattes i fängelse och tog sitt liv. De påstod i alla fall att han tog sitt liv."
+"Min mamma förlät honom aldrig. Året efter separationen blev allt konstigare och konstigare. Han blev arrestera och dömd för ett brott ingen ville avslöja. Han sattes i fängelse och tog sitt liv. De påstod i alla fall att han tog sitt liv."
 
 "Tror du inte på det?"
 
@@ -3453,7 +3455,7 @@ Cecilia skakade på huvudet.
 
 "Varför?"
 
-"Han var djupt religiös. Att ta sitt eget liv -- vilket liv som helst -- vore otänkbart. Det vore inte en del av den gudomliga planen." Hon fiskade upp nyckeln ur halslinningen. "Sommaren innan han dog skickade han den här till mig med ett brev, där han önskade mig en glad födelsedag. Han lät glad i brevet."
+"Han var djupt religiös. Att ta sitt eget liv -- vilket liv som helst -- vore otänkbart. Det vore inte en del av den gudomliga planen."
 
 "Skall vi gå?" frågade Peder.
 
@@ -3461,7 +3463,7 @@ Cecilia nickade. De tog på sina ytterkläder och lämnade kafét.
 
 "Du", sa Peder. "Du vill inte hänga med hem till mig och fortsätta prata?"
 
-"Jag vet inte. Jag behöver komma isäng i tid i kväll."
+"Jag vet inte. Jag behöver komma i säng i tid i kväll."
 
 "Bara en liten stund, då. Det behöver inte bli så sent."
 
@@ -3561,7 +3563,7 @@ Han snurrade vinet i glaset.
 
 "Lever hon?"
 
-"Jag vet inte. Om jag skall vara helt ärlig tror jag inte det. Farsan är övertygad om att hon lever någonstans därute -- om att hon kommer tillbaka."
+"Jag vet inte. Om jag skall vara helt ärlig tror jag inte det. Farsan är övertygad om att hon finns någonstans därute."
 
 Han tömde vinglaset och skakade på huvudet. "Nog med elände", sa han, reste sig och fyllde på sitt vinglas igen. Lådan började ta slut och han fick vrida och vända på den för att få ut det sista.
 
@@ -3573,7 +3575,7 @@ De pratade en stund till och böcker, film och till slut om religion.
 
 "Men de har gjort det i skydd av religionen, ibland till och med för att religionen har påbjudit det."
 
-"Om det inte hade varit religion så hade dt varit något annat", sa Cecilia. "Människor är djur. Vi slåss mot varandra för välståndet för vår lilla grupp. Det är bara så det är."
+"Om det inte hade varit religion så hade det varit något annat", sa Cecilia. "Människor är djur. Vi slåss mot varandra för välståndet för vår lilla grupp. Det är bara så det är."
 
 "Det finns en värre sida av religionen också", sa Peder. "Den ger människor en ursäkt för att sitta på sina händer medan världen är full av orättvisor. Istället för att göra något åt problemen säger man att det är Guds vilja. *Ske Guds vilja!* Religion förlamar förnuftet, förtvinar humanismen i oss alla."
 
