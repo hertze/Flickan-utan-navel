@@ -5740,10 +5740,13 @@ Jag nickade igen.
 
 "Brödraskapet ser till att de har vad de behöver. Du behöver inte bekymra dig för din hustru, eller din dotter."
 
-Han tackade mig och jag gick därifrån. Det var då mycket jag var tvungen att ordna på den korta tid jag hade kvar i frihet.
+Han tackade mig och jag gick därifrån. Det var så mycket jag var tvungen att ordna på den korta tid jag hade kvar i frihet.
 
 ---
 	
+### Cecilias hypotes ###
+
+
 De gick upp till badrummet på övervåningen och Cecilia hjälpte Peder tvätta underarmen med tvål och vatten. Hon letade runt bland skåpen tills hon hittade en flaska sårtvätt och en bomullstuss. Det sved i såret när hon rengjorde det och Peder bet ihop käkarna.
 
 "Har ni något förband?"
@@ -5784,7 +5787,7 @@ Cecilias ögon glittrade.
 
 "Här."
 
-"I Malmö täckte de graven och låtsades öppna graven. I Staffanstorp byggde de ett helt mausoleum. Finns det ett bättre tillfälle att gömma en bomb?"
+"I Malmö täckte de graven och låtsades öppna den. I Staffanstorp däremot byggde de ett helt mausoleum. Tält och byggrejer måste ha varit på plats i flera veckor. Finns det ett bättre tillfälle att gömma en bomb?"
 
 Peder välte omkull sin kopp och en pöl av kaffe spred sig över bordet. Han rynkade pannan och bet sig i underläppen.
 
@@ -5798,7 +5801,7 @@ Peder välte omkull sin kopp och en pöl av kaffe spred sig över bordet. Han ry
 
 Hon hämtade en disktrasa från diskhon och försökte fösa ihop kaffet innan det började droppa ner på golvet.
 
-"Det kan också vara mindre", sa hon. "Det verkade ju inte som Hierta ens visste exakt när den ska detonera."
+"Det kan också vara mindre", sa hon. "Det verkade ju inte som Hierta ens visste exakt när den ska detonera. Du hörde ju vad han sa, när vi gömde oss under skrivbordet."
 
 Peder drog av papper från hushållsrullen på bordet och började torka han också.
 
@@ -5811,7 +5814,7 @@ När det städat upp i köket gick Peder upp på övervåningen och hämtade ski
 
 "Är det långt?" sa Cecilia.
 
-Peder skakade på huvudet. "Näe. Inget ligger långt bort här i Staffanstorp. Det tar väl en halvtimme att promenera gå."
+Peder skakade på huvudet. "Näe. Inget ligger långt bort här i Staffanstorp. Vi är där inom en halvtimme."
 
 De åt bananerna under tystnad och slängde skalen i en papperskorg, som hängde i en lyktstolpe. När de passerat centrum tog de av in på en cykelväg som skar genom de vidsträckta villaområdena. Vårkvällen var ljummen. Ljuset från den nergående solen fick träd och buskar att lysa i varma gröna färger. Lövverken ovanför deras huvud sjöd av liv.
 
@@ -5883,13 +5886,15 @@ De gick längs gångarna och läste.
 
 Tjugo minuter senare kände Peder modet sjunka för varje rad han avverkade. När de möttes i bortre ändan av kyrkogården skakade Cecilia bara på huvudet.
 
-"Fan", sa Peder. Han drog handen genom håret och bort mot horisonten.
+"Jag är ledsen, Peder. Finns det fler delar av kyrkogården?"
 
-"Jag är ledsen, Peder. Finns det fler delar av kyrgogården?"
+"Jag tror inte det. Så vitt jag vet är det här allt."
 
-"Jag tror inte det. Det här är allt."
+Han drog handen genom håret och såg bort mot fälten vid horisonten.
 
-Cecilia la en hand på hans axel.
+"Fan."
+
+Peders händer skakade. Cecilia la en hand på hans axel.
 
 "Jag vet inte vad jag ska säga. Jag var säker på att den skulle finnas här", sa hon.
 
@@ -5903,13 +5908,13 @@ Han sjönk ner på en grönmålad parkbänk, som stod med ryggen åt en hög bux
 
 Cecilia satte sig bredvid honom.
 
-"Du kan inte veta att det är kört", sa hon. "Vi vet inte hur mycket tid vi har kvar."
+"Vi är fortfarande här", sa hon. "Vi vet inte hur mycket tid vi har kvar."
 
-"Det spelar ingen roll. Jag har inga fler idéer. Jag vet inte vad vi skall göra." Han lutade sig framåt och gömde ansiktet i händerna. "Jag har inte en jävla aning."
+"Vad spelar det för roll? Jag har inga fler idéer. Jag vet inte vad vi skall göra." Han lutade sig framåt och gömde ansiktet i händerna. "Jag har inte en jävla aning."
 
-Han satt framåtböjd tills han kände blodet pulsera vid tinningarna och det susade i öronen. När han rätade på sig och öppnade ögonen såg han något vitt avteckna sig mot den mörka häcken en bit bort.
+Han satt framåtböjd tills han kände blodet pulsera vid tinningarna. När han rätade på sig och öppnade ögonen såg han något vitt avteckna sig mot den mörka häcken en bit bort.
 
-"Kolla", sa han. "Ett lamm. Det står ta-mig-fan ett lamm där borta."
+"Du, kolla", sa han. "Ett lamm. Ser inte det där ut som ett lamm."
 
 Cecilia såg det hon också.
 
@@ -5917,19 +5922,19 @@ Cecilia såg det hon också.
 
 Djuret stod stilla och såg rakt mot dem, med gula ögon.
 
-"Nej", sa Peder. "Jag tror inte det har rymt. Jag tror det vill säga oss något."
+"Nej", sa Peder. Han sög på sin underläpp. "Jag tror inte det har rymt. Jag tror det vill säga oss något."
 
 Lammet vände sig från dem och började gå.
 
 "Kom", sa Peder och följde efter.
 
-Lammet ledde dem längs kyrkogårdens kortsida och stannade framför den höga buxbumhäcken i hörnet. Den vände huvudet, som för att försäkra sig om att de följde med, sedan försvann den in genom en öppning.
+Lammet ledde dem längs kyrkogårdens kortsida och stannade framför den höga buxbumhäcken i hörnet. Det vände huvudet, som för att försäkra sig om att de följde med, innan det försvann in genom en öppning.
 
 "Huh", sa Peder. "Varför såg vi inte den innan?"
 
 Häcken låg om lott, vilket nästan gjorde öppningen osynlig. Peder och Cecilia gick genom den och stod i en lång smal korridor, med buxbom på båda sidor. Peder ställde sig på tå, men kunde inte se över kanten. Lammet stod några meter bort och väntade tills de närmade sig, innan det rundade ett hörn och försvann utom synhåll. Peder och Cecilia skyndade på stegen och hann precis få syn på lammet igen, innan det rundade ett annat hörn längre fram. Solen sjönk under horisonten och färgerna ersattes av en gråskala.
 
-"En labyrint", sa Cecilia. "Det är en labyrint". Hon drog fingrarna genom de tjocka glansiga bladen. "Vad är det här för människor?"
+"En labyrint", sa Cecilia. "Det är en labyrint". Hon drog fingrarna genom de tjocka glansiga bladen.
 
 Häcken, som såg ut att en gång ha varit omsorgsfullt formklippt, var nu vildvuxen. Grästuvor sprängde upp mitt i grusgången.
 
@@ -5939,7 +5944,7 @@ Häcken, som såg ut att en gång ha varit omsorgsfullt formklippt, var nu vildv
 
 Lammet höll sig hela tiden ett par meter framför dem och väntade in dem varje gång de kom på efterkälken. Peder försökte memorera vägen, men fick ge upp.
 
-"Jag går inte att komma ihåg alla svängar vi gjort", sa han. "Det är helt omöjligt."
+"Det går inte att komma ihåg alla svängar vi gjort", sa han. "Det är helt omöjligt."
 
 "Vi skulle haft ett garnnystan", sa Cecilia. "Eller brödsmulor."
 
@@ -5989,7 +5994,7 @@ Han lyfte stenen över hänglåset och lät den falla. Den slog i metallen, stud
 
 "Förlåt."
 
-Peder lös mot dörren. Hänglåset satt kvar. Metallenn glimmade, där rosten slagits bort.
+Peder lös mot dörren. Hänglåset satt kvar. Metallen glimmade, där rosten slagits bort.
 
 "Skit."
 
@@ -5999,11 +6004,11 @@ Han räckte ficklampan till Cecilia, bar upp stenen igen och lyfte den högt öv
 
 De drog upp dörren tillsammans. Trät skrapade mot stengolvet när den svängde upp och doften av fuktig sten rann ut över dem och nerför trappan. Peder riktade ljuskäglan in mot mörkret.
 
-Mausoleet bestod av ett enda kvadratiskt rum, med väggar av vit sten. Golvet var av skrovlig granit. Det var kvavt därinne, som om det fanns för lite syre.
+Mausoleet bestod av ett enda kvadratiskt rum, med väggar av vit sten. Golvet var av skrovlig granit. Det var kvavt därinne, som om där fanns för lite syre.
 
 "Kolla", sa Peder och riktade ljuset mot mitten av rummet. Han var torr i munnen och ficklampan gled i hans svettiga hand.
 
-Mitt på golvet stod en kupol av glas, en knapp halvmeter hög, med en krage av ärgad koppar. Kupolen var täckt av damm, men de kunde se något röra sig bakom glaset.
+Mitt på golvet stod en kupol av glas, en knapp halvmeter hög, med en krage av ärgad koppar. Kupolen var täckt av vitt damm.
 
 "Är det..."
 
@@ -6035,7 +6040,7 @@ Peder knackade mot glaset.
 
 Han drog handen längs kupolen och ner på kragen av koppar. Fingrarna fastnade i en liten fördjupning på sidan. I ljuset från ficklampan upptäckte han en rektangulär försänkning, med en infälld månskära i botten.
 
-"Så klart", sa han. Han gick ett varv runt kupolen och fann två försänkningar till, jämt spridda längs omkretsen. "Vi har ju nyckeln."
+"Så klart", sa han. Han gick ett varv runt kupolen och fann två försänkningar till, jämt spridda längs omkretsen. "Vi har ju nycklarna."
 
 "Speldosorna", sa Cecilia.
 
@@ -6145,9 +6150,9 @@ Samuel skrattade.
 
 "Du ljuger", sa Peder. "Du ljög för honom."
 
-"Varför skulle jag ljuga när sanningen gör så mycket mer ont?" Han tog ett steg till mot dem. "Vet du vad det bästa är, Peder? Precis när din mor slog i vattnet ångrade hon sig -- hon ville leva. Hon kämpade för sitt liv i svallvågorna efter båten. Är det inte underbart?" Han skrattade igen och tog ett steg till mot dem. Han vred nacken så det knakade. "Drygt två timmar kvar", sa han. "Två timmar, sedan är den här lilla charaden över."
+"Varför skulle jag ljuga när sanningen gör så mycket mer ont?" Han tog ett steg till mot dem. "Vet du vad det bästa är, Peder? Precis när din mor slog i vattnet ångrade hon sig. Hon kämpade för sitt liv i svallvågorna efter båten. Är det inte underbart?" Han skrattade igen och tog ett steg till mot dem. Han vred nacken så det knakade. "Drygt två timmar kvar", sa han. "Två timmar, sedan är den här lilla charaden över."
 
-En eld tändes i Samuels mun och blå lågor slickade hans tänder. Luften framför hans ansikte vibrerade av värmen.
+En eld tändes i Samuels mun och blå lågor slickade hans tänder. Luften framför hans ansikte vibrerade av värmen. En doft av mandel och honung stod omkring honom.
 
 "Samuel, stanna där borta", sa Hierta. "Du ska vakta utgången."
 
@@ -6155,7 +6160,7 @@ Samuel låtsades inte om honom utan tog ett steg till mot Peder och Cecilia. Ped
 
 "Hör du vad jag säger, Samuel?" Hiertas röst lät annorlunda.
 
-"De ska ingenstans", sa Samuel. "Inte du heller. Min plan är nära fullbordan. Ingen kan stoppa den nu." Eldslågor och rök slog ut från hans mun när han talade. 
+"De ska ingenstans", sa Samuel. "Inte du heller. Min plan är nära fullbordan. Ingen människa kan stoppa den nu." Eldslågor och rök slog ut från hans mun när han talade. 
 
 Hierta riktade pistolen mot honom.
 
@@ -6169,7 +6174,7 @@ Hierta avfyrade ett skott mot Samuel. Knallen ekade mellan stenänglarna och en 
 
 "Vem är du?" skrek han.
 
-Luften kring Samuel skälvde, som om han var en hägring.
+Luften kring Samuel skälvde, som om han vore en hägring.
 
 "Jag är fruktansvärd", sa han.
 
@@ -6195,9 +6200,9 @@ Samuel nickade.
 
 Samuel satte sin hand mot Hiertas hals, grävde in fingrarna och slet loss luftstrupen. Överläkaren for upp på fötter med händerna tryckta mot hålet i strupen och tog ett par steg. En kvast av blod slog ut mellan hans fingrar, innan han sjönk ner på marken igen. Det bubblade och gurglade när han försökte andas vid Samuels fötter. Han krälade i gruset, famlade med händerna bland grästuvorna och låg sedan stilla. Väsandet upphörde.
 
-"Idiot", sa Samuel. "Ni kan inte ens dö med värdighet."
+"Patetiskt", sa Samuel. "Ni kan inte ens dö med värdighet."
 
-Samuel vände sig mot Peder och Cecilia.
+Han vände sig mot Peder och Cecilia.
 
 "Så, Peder. Vår lilla lek har nått sitt slut."
 
@@ -6213,9 +6218,9 @@ När Samuel sträckte sin hand mot Peders hals cirklade Cecilia runt bakom dem. 
 
 "Envis", sa han.
 
-Han snurrade runt så snabbt att Peders ögon inte hann med, lyfte Cecilia i nacken och kastade iväg henne som om hon varit en docka. Hon flög genom luften, studsade mot en av stenänglarna och slog i gräsmattan ett par meter bort. Hon rullade några varv och låg stilla.
+Han snurrade runt så snabbt att Peders ögon inte hann med, lyfte Cecilia i nacken och kastade iväg henne som om hon varit en docka. Hon flög genom luften, studsade mot en av stenänglarna och slog i gräsmattan ett par meter bort. Hon rullade några varv och låg sedan stilla.
 
-Peder kastade sig åt sidan och började springa. Han sprang ut mellan två stenänglar och ut på gräsmattan och rusade mot öppningen i buxbomhäcken. Gräsvipporna smattrade mot hans lår.
+Peder kastade sig åt sidan och började springa. Han sprang ut mellan två stenänglar, ut på gräsmattan och rusade mot öppningen i buxbomhäcken. Gräsvipporna smattrade mot hans lår.
 
 "Vart ska du, lilla lamm", sa Samuel. Han lät road.
 
@@ -6225,7 +6230,7 @@ Han valde vägen till höger och satte fart igen. Mörkret omgav honom, fotstege
 
 "Fan, fan fan."
 
-Han sprang planlöst nu -- höger, vänster, höger. Sprang han i en cirkel? Kändes inte den kröken bekant? Blodsmak vällde upp i munnen. *Jag orkar inte mer*, tänkte han. *Det är nog. Jag har fått nog.* Han sjönk ner på knä i gruset och hostade. Då såg han den, ett par meter längre fram -- en öppning i häcken. Han for upp på fötter och kastade sig framåt, snubblade precis i öppningen och föll på utsträckta armar. Det brände till i huden, när händerna gled i gruset.
+Han sprang planlöst nu -- höger, vänster, höger. Sprang han i en cirkel? Kändes inte den kröken bekant? Blodsmak vällde upp i munnen. *Jag orkar inte mer*, tänkte han. *Det är nog. Jag har fått nog.* Han sjönk ner på knä i gruset och hostade. Då såg han den, ett par meter längre fram -- en öppning i häcken. Han for upp på fötter och kastade sig framåt, snubblade precis i öppningen och föll med utsträckta armar. Det brände till i huden, när händerna gled i gruset.
 
 "Välkommen åter", sa en raspig röst.
 
@@ -6241,7 +6246,7 @@ Den svarta gestalten närmade sig. Peder orkade inte lyfta blicken, utan satt kv
 
 "Nöjet har varit på min sida", sa Samuel, sträckte fram sin hand och la fingrarna mot Peders hals. Hans beröring brände mot huden. Peder slöt sina ögon och tänkte inte på någonting alls.
 
-Han hörde ljudet av sten som rörde sig mot sten och ett vinande for genom luften. Trycket mot hans hals släppte och Peder öppnade ögonen. En ängel av sten höll sin hand kring Samuels handled och tvingade den åt sidan. Samuel blottade sina tänder och elden i hans mun flammade het. En andra ängel tog tag i den andra armen och Samuel drogs bakåt, bort från Peder.
+Så hörde han ljudet av sten som rörde sig mot sten och ett vinande for genom luften. Trycket mot hans hals släppte och Peder öppnade ögonen. En ängel av sten höll sin hand kring Samuels handled och tvingade den åt sidan. Samuel blottade sina tänder och elden i hans mun flammade het. En andra ängel tog tag i den andra armen och Samuel drogs bakåt, bort från Peder.
 
 Samuel skrek. Blå lågor sprutade ur hans mun. Det började ryka om hans kläder och hela hans kropp exploderade i ett hav av eld. Fler stenänglar tog tag i hans ben och midja och de tvingade ner honom platt på marken.
 
@@ -6249,9 +6254,9 @@ Samuel skrek. Blå lågor sprutade ur hans mun. Det började ryka om hans kläde
 
 "Jag är här."
 
-På trappan till mausoleet stod den allvetande. Han hade sin käpp i handen och den glödde orange, som om den legat i en eld.
+På trappan till mausoleet stod den allvetande. Han hade sin stav i handen och den glödde orange, som om den legat i en eld.
 
-Samuel vreds sig under tyngden av stenänglarna och sparkade och slog omkring sig. De levande statyerna sjönk ner i marken och drog Samuel med sig. Han försvann en liten bit i taget, tills bara huvudet och bröstet var synligt ovan jord.
+Samuel vreds sig under tyngden av stenänglarna och sparkade och slog omkring sig. Skurar av gnistor regnade omkring honom. De levande statyerna sjönk ner i marken och drog Samuel med sig. Han försvann en liten bit i taget, tills bara huvudet och bröstet var synligt ovan jord.
 
 "Den här gången har jag vunnit, hör du det! Denna gången har jag vunnit!" skrek han.
 
@@ -6275,9 +6280,9 @@ Peder haltade mot mausoleet och tog upp ficklampan, som låg slängd utanför. H
 
 "Bara nästan."
 
-Hon höll om sin högra hand. Handleden var onaturligt böjd.
+Hon höll om sin högra hand. Handleden var onaturligt bockad.
 
-"Jag tror den är bruten", sa hon. "Den gör ont som fan. Behöver du hjälp?"
+"Jag tror den är bruten", sa hon. "Den gör skitont, i alla fall. Behöver du hjälp?"
 
 Peder log. "Om jag gör."
 
@@ -6287,13 +6292,13 @@ Cecilia grymtade till när hon satte sig ner vid en av speldosorna.
 
 Peder nickade.
 
-Hon räknade ner och så släppte de spärrarna. Speldosorna surrade igång och började spela. De spröda tonerna ekade mot stenväggarna och musiken fyllde mausoleet.
+Hon räknade ner och så släppte de spärrarna. Speldosorna surrade igång och började spela. De spröda tonerna ekade mot stenväggarna och Bachs Matteuspassion fyllde mausoleet.
 
 "Händer det något?" sa Cecilia.
 
 "Vänta..."
 
-Det kom ett metalliskt klickande från maskineriet under glaskupolen. Det största kugghjulet bromsade in och stannade, sedan ett mindre. Kugghjulen stannade ett efter ett, tills allt stod stilla. Räkneverket fastnade mellan två siffror och det skälvde till under deras fötter.
+Maskineriet under glaskupolen klickade till. Det största kugghjulet snurrade allt långsammare, tills det stannat helt. Sedan bromsade ett mindre kugghjul in och den hävarm det drivit frös fast. Maskineriet stannade, bit för bit, tills all rörelse upphört. Det var som om livet sakta sugits ur det. Marken under deras fötter skälvde till och räkneverket fastnade, mellan två siffror.
 
 Peder andades långsamt ut.
 
@@ -6303,7 +6308,7 @@ Cecilia hasade sig runt kupolen och lutade sig mot hans axel.
 
 "Tack gode gud", sa hon.
 
-De lämnade mausoleet tillsammans. Gården utanför låg öde. En rökpelare steg upp från platsen där Samuel dragits ner under jorden. Den allvetande var försvunnen. Tolv hål i gräset var det enda spåret efter änglarna av sten.
+De lämnade mausoleet tillsammans. Gården utanför låg öde. En rökpelare steg upp från platsen där Samuel dragits ner under jorden. Den allvetande var försvunnen. Tolv hål i gräset var de enda spåret efter änglarna av sten.
 
 "Kommer någon att tro oss?" sa Cecilia.
 
@@ -6390,7 +6395,7 @@ Cecilia var tyst en stund. "Ska vi ses i kväll", sa hon sedan.
 
 "Jag har lite jag behöver göra", sa Peder.
 
-"I morgon? Jag bjuder på mat."
+"I morgon? Jag bjuder på mat. Vi kan fira att jag blivit av med mitt gips. Du kan få hjälpa mig att raka underarmen."
 
 "Då säger vi det. I morgon. Vi ses."
 
