@@ -4315,7 +4315,7 @@ På bussen slutade en pojke äta av sin Snickers och såg på Peder med öppen m
 #### 7 maj, 1983 ####
 
 
-Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i november och ett ösregn smattrade mot vindrutan.
+Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i maj och ett kraftigt vårregn smattrade mot vindrutan.
 
 "Jag väntar i bilen", sa han. "Lycka till."
 
@@ -4329,15 +4329,15 @@ Jag stod på trottoaren utanför det putsade vita huset och såg på honom. Han 
 
 Jag höjde handen till avsked och gick mot ingången. Det fanns inga tända facklor idag. Hållarna gapade svarta och tomma, där de stod nerpålade i marken på var sin sida om grusgången. Utebelysningen lyste svagt ovanför trappan upp mot dörren.
 
-Professor Nilsonne väntade på mig i hallen. Han tog min våta överrock och ledde mig vidare in till ceremonisalen, utan att säga ett ord. Han såg allvarlig ut, såg bara rakt framför sig när han gick. Lamporna i ceremonisalen var släckta, men tända stearinljus lyste upp altaret, som en ö av ljus i mörkret. Stolar stod i en halvcirkel framför. Vid stolarna stod tio män, draperade i röda högtidsdräkter, med blänkande ordenskors kring halsen. Jag kände igen dem allihop från de vanliga ordensmöterna, även om jag aldrig umgåtts mera direkt med dem. Bankir Jakobsson nickade åt mig, men log inte. Vid altaret stod Gunnar Hierta med en avlång huvudbonad på sig, som en biskops mitra. Rubiner glittrade i skenet från stearinljusen.
+Professor Nilsonne väntade på mig i hallen. Han tog min våta överrock och ledde mig vidare in till ceremonisalen, utan att säga ett ord. Han såg allvarlig ut, såg bara rakt framför sig när han gick. Lamporna i ceremonisalen var släckta, men tända stearinljus lyste upp altaret, som en ö av ljus i mörkret. Tio män, draperade i röda högtidsdräkter och smyckade med blänkande ordenskors, stod i en halvcirkel framför altaret, bredvid varsin stol. Jag kände igen dem allihop från de vanliga ordensmöterna, även om jag aldrig umgåtts mera direkt med dem. Bankir Jakobsson nickade åt mig, men log inte. Vid altaret stod Gunnar Hierta med en avlång huvudbonad på sig, som en biskops mitra. Rubiner glittrade i skenet från stearinljusen.
 
 "Stig fram, broder", sa Hierta.
 
-Jag passerade stolarna och tygen prasslade när de tio männen satte sig. Jag föll på knä framför Hierta. Han la eggen av en kniv mot min strupe och jag svor att aldrig yppa det som skulle sägas i denna sal.
+Jag passerade stolarna och det prasslade av tyg när männen satte sig. Jag föll på knä framför Hierta. Han la eggen av en kniv mot min strupe och jag svor att aldrig yppa det som skulle sägas i denna sal.
 
 Därefter följde ett skådespel, vars like jag aldrig tidigare upplevt. De visade mig hur bräckligt Guds rike är här på jorden, hur det ständigt utsätts för attacker från mörkret. De visade mig hur Riddarna av det Heliga Lammet fått till uppdrag att skydda riket från angrepp -- hur man skyddar mänskligheten från undergång.
 
-Jag kände hur bindeln föll från mina ögon. Plötsligt såg jag världen som den var. Saker jag tidigare tagit för självklara framstod i en helt ny dager. Jag hade fått en uppgift -- en livsuppgift -- den viktigaste uppgiften en människa kan ha. Jag hade fått det yttersta uppdraget.
+Jag kände hur fjällen föll från mina ögon. Plötsligt såg jag världen som den var. Saker jag tidigare tagit för självklara framstod i en helt ny dager. Jag hade fått en uppgift -- en livsuppgift -- den viktigaste uppgiften en människa kan ha. Jag hade fått det yttersta uppdraget.
 
 Hierta la knivbladet på min högra axel, sedan på min vänstra.
 
@@ -4353,9 +4353,11 @@ Bägaren gick runt bland männen. En efter en doppade de sitt högra pekfinger i
 
 Efter ceremonin samlades vi i matsalen och åt middag. En brasa knastrade i den öppna spisen och drev sakta ut den fuktiga kylan. Vi åt under tystnad till en början, men så småningom kom samtalen igång. Jag kände spänningen rinna av mig och jag tror att jag drack för mycket vin -- så pass mycket att jag inte har ett tydligt minne av resten av kvällen.
 
-Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt rödfärgade pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
+Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrummet såg jag mitt mörkröda pekfinger. Jag försökte tvätta det rent, först med tvål, sedan med borste, men färgen satt där den satt. Som en tatuering.
 
 ---
+
+### Nytt inbrott i logen ###
 
 "Skit -- här är folk."
 
@@ -4365,7 +4367,7 @@ Peder och Cecilia stod utanför järngrindarna till den vitputsade villan på Fr
 
 "Vi väntar", sa Peder. Han satte en fot på en tvärslå i grinden och hävde sig upp. "Vi väntar där inne."
 
-Cecilia följde efter honom över grinden och de smög tillsammans fram mot huset. De gick i en halvcirkel över gården och försökte hålla sig bland skuggorna. Gräsmattan var svampig av fukt. De passerade fontänen, som nu var avtäckt, men fortfarande torrlagd. En naken bronsängel sträckte sina armar mot skyn. Peder och Cecilia rundade husknuten och närmade sig det fönster Peder tagit sig in genom förra gången. Dämpade röster lät inifrån huset.
+Cecilia följde efter honom över grinden och de smög tillsammans fram mot huset. De gick i en halvcirkel över gården och försökte hålla sig bland skuggorna. Gräsmattan var svampig av fukt. De passerade fontänen, som nu var avtäckt, men fortfarande torrlagd. En naken bronsängel grät i sina händer. Peder och Cecilia rundade husknuten och närmade sig det fönster Peder tagit sig in genom förra gången. Dämpade röster lät inifrån huset.
 
 "Det är tur det har blivit varmare", sa Cecilia och sjönk ner på trappan vid bakdörren.
 
@@ -4383,7 +4385,7 @@ Det såg ut som Peder mindes det. Väggar täckta av bokhyllor, två klubbfåtö
 
 En dörr slog igen någonstans i huset och ljudet av klackar mot parkett närmade sig. Peder stelnade till.
 
-"Helvete", viskade han, la en hand kring Cecilias midja och föste henne mot fönstret, men det var för sent. Dörrhandtaget trycktes ner och dörren öppnades. Två mansröster bröt tystnaden. Peder tryckte ner Cecilia på golvet och drog henne med sig in under skrivbordet. Hennes ögonvitor lyste i skumrasket, Peder la ett finger på hennes läppar.
+"Helvete", viskade han, la en hand kring Cecilias midja och föste henne mot fönstret, men det var för sent. Dörrhandtaget trycktes ner och dörren öppnades. Två mansröster bröt tystnaden. Peder tryckte ner Cecilia på golvet och drog henne med sig in under skrivbordet. Hennes ögonvitor var självlysande i skumrasket, Peder la ett finger på hennes läppar.
 
 "Du behöver inte bekymra dig", sa en röst som Peder kände igen. Det var överläkare Gunnar Hierta. "Allt är under kontroll."
 
@@ -4403,7 +4405,7 @@ Det skramlade metalliskt när någon undersökte fönsterhaspen. Under skrivbord
 
 "Skitfönster?"
 
-"Jam haspade enkelglasfönster. Vinden blåser rakt igenom. Det är ju inte lönt att göra något åt det nu, eller hur."
+"Ja, haspade enkelglasfönster. Vinden blåser rakt igenom. Det är ju inte lönt att göra något åt det nu, eller hur."
 
 Fönstret smällde mot karmen och haspades fast. Mannen med den ljus rösten var tyst, sedan harklade han sig. "När är det dags?" frågade han.
 
@@ -4459,7 +4461,7 @@ Cecilia tog emot ficklampan och riktade ljuset mot låsspringan. Peder stack in 
 
 "Går det?"
 
-Peder svarade inte, utan mumlade tyst för sig själv. Han drog ut den dyrken och stack in den andra på nyckelringen. Sedan nästa. Efter tredje försöket svor, ställde sig upp och sträckte ut ryggen.
+Peder svarade inte, utan mumlade tyst för sig själv. Han drog ut den dyrken och stack in den andra på nyckelringen. Sedan nästa. Efter tredje försöket svor han, ställde sig upp och sträckte ut ryggen.
 
 "För fan, Boris. Det här går ju inte."
 
@@ -4515,7 +4517,7 @@ Hon räckte ner den till Peder. Den kändes solid i hans händer.
 
 "De jävlarna."
 
-Peder vände upp och ner på speldosan. I botten satt en platta, fäst med fyra kryss-skruvar. Han fällde upp bladet på sin fickkniv igen och lossade dem en efter en, stack bladet i springan och bände loss den. Under den satt mekaniken fäst med ytterligare två skruvar. När han lossat dem lyfte han ut en liten apparat stor som en tändsticka, men en metallcylinder och en metallgaffel. Den var identisk med de två speldosorna han hade i skinnpungen. På undersidan satt en månskära i gyllene metall infattad.
+Peder vände upp och ner på speldosan. I botten satt en platta, fäst med fyra kryss-skruvar. Han fällde upp bladet på sin fickkniv igen och lossade dem en efter en, stack bladet i springan och bände loss den. Under den satt mekaniken fäst med ytterligare två skruvar. När han lossat dem lyfte han ut en liten apparat stor som en tändsticksask, men en metallcylinder och en metallgaffel. Den var identisk med de två speldosorna han hade i skinnpungen. På undersidan satt en månskära i gyllene metall infattad.
 
 "Månen", sa Peder. "Hitta månen, rädda oss alla."
 
@@ -4524,6 +4526,18 @@ Han la tillbaka palatset i kartongen och Cecilia ställde tillbaka den på samma
 "Nu drar vi", sa Peder. "Vi har vad vi kom för, plus lite till."
 
 De stängde säkerhetsdörren bakom sig och lysdioden slog om till rött igen. Peder huttrade till, temperaturen hade sjunkit och det kom vit rök över deras läppar när de andades.
+
+"Helvete", sa han tyst.
+
+"Vad?"
+
+"Det här är inte bra. Känner du kylan?"
+
+"Ja."
+
+"Jag tror det är han. Samuel."
+
+De stod tysta bredvid bredvid varandra och lyssnade. Peder hörde sin egen puls susa i ögonen. Så bröts tystnaden.
 
 "Lilla lamm, lilla lamm -- har du funnit det du sökte?"
 
@@ -4658,13 +4672,13 @@ Cecilia slog sig för pannan. "*You hide it in plain sight*", sa hon.
 
 "Man försöker inte gömma undan den, man placerar den mitt framför ögonen på folk -- utan att de förstår vad det är."
 
-"Som ett kamouflage, typ?"
+"Du menar att man kamouflerar den?"
 
 "Precis."
 
 Peder lutade ryggen mot sänggaveln.
 
-Då borde vi leta efter en byggnation, eller något liknande, som uppfördes tiden innan din pappa greps -- någon gång i början av åttiotalet."
+"Då borde vi leta efter en byggnation, eller något liknande, som uppfördes tiden innan din pappa greps -- någon gång i början av åttiotalet."
 
 "Hur gör vi det?"
 
