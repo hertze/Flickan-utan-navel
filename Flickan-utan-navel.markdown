@@ -2955,7 +2955,9 @@ Märta lyfte upp min halvfärdiga speldosa och slungade den genom luften och in 
 När hon snubblar upp för trappan städade jag upp resterna efter speldosan och satt sedan kvar i mörkret och bad. Jag bad om hjälp att förstå -- förstå varför allt detta hemska kommit in i våra liv. Jag grät för mig själv och hoppades på ett svar, men inget kom.
 
 ---
-	
+
+### Peder hämtar upp Cecilia på sjukhusområdet och de träffar flickan utan navel ###
+
 Peder parkerade på gatan mittemot ingång 52 på sjukhusområdet. Magen kurrade och han öppnade kartongen och tog ett bett av sin hamburgare. Majonäs droppade ner på hans jeans och hans svor till. Dörren på passagerarsidan öppnades och Cecilia hoppade in. Hon var klädd i vita sneakers och en grön canvasjacka.
 
 "Hej", sa hon.
@@ -2970,13 +2972,13 @@ Cecilia tog upp en beige pappersmapp ur sin axelväska och räckte den till Pede
 
 "Jag hittade fyra Kerstin Larsson i vårt arkiv, men bara en som stämde in åldersmässigt. Enligt folkbokföringen är hon bosatt på ett gruppboende på Bokgatan, nära Nobelvägen. Hon har inte varit aktuell de senaste åren, så det finns bara en pappersjournal."
 
-Peder öppnade mappen och bläddrade bland papperna. De flesta var maskinskrivna i ojämna rader. Den tidigaste anteckningen var daterad den tjugofemte september 1967, på Östra sjukhuset i Malmö. Kerstin blev intagen med tvång under misstanke om debuterande schizofreni. Ett litet svartvitt fotosatt fasthäftad högst upp på första arket. En flicka i de sena tonåren stirrade rakt in i kameran, bakom glasögon med markerade svarta bågar. Hennes ansikte avslöjade inga känslor.
+Peder öppnade mappen och bläddrade bland papperna. De flesta var maskinskrivna i ojämna rader. Den tidigaste anteckningen var daterad den tjugofemte september 1967, på Östra sjukhuset i Malmö. Kerstin blev intagen med tvång under misstanke om debuterande schizofreni. Ett litet svartvitt foto satt fasthäftad högst upp på första arket. En flicka i de sena tonåren stirrade rakt in i kameran, bakom glasögon med markerade svarta bågar. Hennes ansikte avslöjade inga känslor.
 
 Peder bläddrade vidare. "Första oktober, trettonde november -- och sedan?"
 
-"Jag vet inte", sa Cecilia. "Det finns inga anteckningar efter november, inte förrän i juni 1972."
+"Jag vet inte", sa Cecilia. "Det finns inga anteckningar efter november, inte förrän i juni 1983."
 
-Peder rynkade pannan. "Fem år. Hon var försvunnen i fem år." Han läste anteckningarna från sommaren 1972. "Patienten återfanns på en bänk på rastområdet, vid gott mod." Var det ingen som undrade var hon varit?
+Peder rynkade pannan. "Femton år. Hon var försvunnen i fem år." Han läste anteckningarna från sommaren 1972. "Patienten återfanns på en bänk på rastområdet, vid gott mod." Var det ingen som undrade var hon varit?
 
 "Man försökte nog ta reda på det, tror du inte det?" sa Cecilia. "Men det står inget om det."
 
@@ -3120,7 +3122,7 @@ Kerstin dolde ansiktet i händerna och vaggade fram och tillbaka.
 
 "Den nionde september? Nu i år?" Peder bet sig i underläppen och såg på Cecilia. Hon såg allvarlig ut.
 
-"Kerstin, du försvann från sjukhuset och var borta i fem år. Minns du det? Minns du vart du tog vägen?"
+"Kerstin, du försvann från sjukhuset och var borta i femton år. Minns du det? Minns du vart du tog vägen?"
 
 "De kom för mig."
 
@@ -3167,7 +3169,9 @@ Peder nickade. De stod tysta framför varandra. Han ville krama om henne, men fi
 
 När Peder vred om nyckeln i bilens tändningslås lyste en orange lampa på instrumentpanelen. Bensintanken var nästan tom. *Jag chansar*, tänkte Peder och svängde ut på Nobelvägen igen. Han körde ut från stan, genom två rondeller och upp på E22 mot Lund. När han tog av mot Staffanstorp var klockan kvart över sju och det var nästan mörkt ute. Han var ensam på vägen och slog på helljusen. Han funderade på det Kerstin berättat. Hon hade sett jorden gå under, och hon påstod att det skulle ske om ett par månaders tid. Var hon galen, eller hade hon rätt? Eller, galen var hon ju, men hade hon rätt om det här? Vem var det som hållit henne gömd i så många år? La Coeur -- *hjärtat*, var han en av Riddarna av det Heliga Lammet?
 
-Peder fick möte och bländade ner ljuset tills bilen passerat. När han slog på helljuset igen såg han en skugga längre bort på vägen. Han kisade och lutade sig framåt för att se. *Vad fan är det där? Är det ett djur?* Han flyttade foten från gasen till bromsen. Skuggan närmade sig. Det liknade inte ett djur, utan en människa. Billyktorna lyste upp vägen, men den mörka gestalten förblev i skugga, som om den inte reflekterade något ljus. Peder tryckte lätt på bromsen och minskade hastigheten. Han tryckte på signalhornet och en skarp signal ekade ut över vägen. *Flytta dig, din idiot*, tänkte han. Skuggan började röra sig mot honom. Peder drog ratten åt sidan och kände bilen gira. Han flyttade foten igen och trampade på gaspedalen. Motorn skrek till och bilen accelererade. Han växlade ner för att snabbare komma upp i hastighet. Framför honom sträckte skuggan ut svarta vingar och täckte hela vägbanan. Den såg ut som siluetten av en väldig fladdermus, utskuren ur natthimlen. Peder tryckte ner kopplingen och pressade ner bromspedalen i botten. Däcken skrek, bakvagnen lättade och gled från sida till sida, innan bilen började spinna runt, kom över på andra vägbanan och vidare ut över vägkanten. Framvagnen dök rakt ner i diket och bilen voltade över på rygg och gled rakt ut i en åker. Peder hängde upp och ner i förarsätet, fixerad i bilbältet. Han höll upp armarna framför ansiktet. Havreaxen smattrade mot vindrutan. Luftkudden utlöstes med en kraftig knall och Peders huvud kastades bakåt. Det sved till när hans underarmar trycktes in mot hans näsa. Bilen krängde till en sista gång, metallen gnällde och allt blev stilla.
+Han fick allt svårare att se genom vindrutan och förstod först inte varför. Det var först när iskristaller växte över glaset som han insåg att hans andedräkt hade fått det att imma igen. Han kastade ett öga på termometern. *Femton minusgrader? Nu?* Han knackade på glaset över LCD:n, men siffrorna rörde sig inte. Han vred upp värmen och ställde om den så luften blåste upp mot vindrutan. 
+
+Peder fick möte och bländade ner ljuset tills bilen passerat. När han slog på helljuset igen såg han en skugga längre bort på vägen. Han kisade och lutade sig framåt för att se. *Vad fan är det där? Är det ett djur?* Han flyttade foten från gasen till bromsen. Skuggan närmade sig. Det liknade inte ett djur, utan silhuetten av en människa. Billyktorna lyste upp vägen, men den mörka gestalten förblev i skugga, som om den inte reflekterade något ljus. Peder tryckte lätt på bromsen och minskade hastigheten. Han tryckte på signalhornet och en skarp signal ekade ut över vägen. *Flytta dig, din idiot*, tänkte han. Skuggan började röra sig mot honom. Peder drog ratten åt sidan och kände bilen gira. Han flyttade foten igen och trampade på gaspedalen. Motorn skrek till och bilen accelererade. Han växlade ner för att snabbare komma upp i hastighet. Framför honom sträckte skuggan ut svarta vingar och täckte hela vägbanan. Den såg ut som siluetten av en väldig fladdermus, utskuren ur natthimlen. Peder tryckte ner kopplingen och pressade ner bromspedalen i botten. Däcken skrek, bakvagnen lättade och gled från sida till sida, innan bilen började spinna runt, kom över på andra vägbanan och vidare ut över vägkanten. Framvagnen dök rakt ner i diket och bilen voltade över på rygg och gled rakt ut i en åker. Peder hängde upp och ner i förarsätet, fixerad i bilbältet. Han höll upp armarna framför ansiktet. Havreaxen smattrade mot vindrutan. Luftkudden utlöstes med en kraftig knall och Peders huvud kastades bakåt. Det sved till när hans underarmar trycktes in mot hans näsa. Bilen krängde till en sista gång, metallen gnällde och allt blev stilla.
 
 Luftkudden krympte undan efter någon minut. Det luktade krut och gas. Han fumlade efter bilbältesfästet, tryckte ner knappen och föll ur stolen, ner i bilens tak. Han fick upp bildörren och kröp ut. Bilmotorn var fortfarande igång. Helljusen lyste genom åkern, som två gröna kvastar. Peder såg sig om. Tio meter längre bort låg vägen han kommit från. Skuggan syntes inte till.
 
