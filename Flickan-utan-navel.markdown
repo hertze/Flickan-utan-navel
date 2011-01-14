@@ -3622,6 +3622,8 @@ När natten kom låg jag sömnlös. Jag hörde Märta snarka i rummet intill. S�
 
 ---
 	
+### Peders far dricker på morgonen ###	
+
 Nästa morgon hade Peder svårt att komma ur sängen. Huvudet kändes tungt och tungan torr. Klockan var åtta, himlen utanför var mulen. Nere i köket satt hans far med ett vinglas framför sig. Ögonen var rödsprängda, ansiktet var kritvitt och han darrade i hela kroppen.
 
 "Pappa! Vad är det?"
@@ -3661,7 +3663,7 @@ Han valde ut de tre namn tycktes vara ovanligast i Skåne: Greta Jansson, Agneta
 
 En halvtimme senare hade han pratat med alla Greta Jansson i Skåne, utom en. Den sista kvinnan på listan var inte längre i livet, fick han reda på av änkemannen. Ingen av dessa kvinnor ville kännas vid att de arbetat som nämndeman vid Malmö tingsrätt. Peder tog en bensträckare. Örat kändes varmt och svettigt.
 
-När han satte sig igen tog han itu med namn nummer två på sin lista: Agneta Persson. Först pratade han med en pensionerad sjuksköterska, sedan med en sekreterare. Han hade inte stötte tur med de nästa tre kvinnorna på listan, men den sjunde Agneta var annorlunda. Han kände det direkt i magen.
+När han satte sig igen tog han itu med namn nummer två på sin lista: Agneta Persson. Först pratade han med en pensionerad sjuksköterska, sedan med en sekreterare. Han hade inte större tur med de nästa tre kvinnorna på listan, men den sjunde Agneta var annorlunda. Han kände det direkt i magen.
 
 "Hallå?" sa det i luren.
 
@@ -3794,7 +3796,7 @@ Agneta nickade och smuttade på sin kopp. "Polisen följde upp spåret. De hitta
 
 "Tom? Var det en bluff?"
 
-Agneta log. "Det var vad man trodde, men en vecka senare bled de båda poliserna som undersökt containern dåliga. Man förde dem till sjukhus. Först begrep läkarna inte vad det rörde sig om, men det blev snart uppenbart." Hon tog en mun kaffe till. "Strålsjuka. De hade blivit förgiftade av radioaktivitet."
+Agneta log. "Det var vad man trodde, men en vecka senare blev de båda poliserna som undersökt containern dåliga. Man förde dem till sjukhus. Först begrep läkarna inte vad det rörde sig om, men det blev snart uppenbart." Hon tog en mun kaffe till. "Strålsjuka. De hade blivit förgiftade av radioaktivitet."
 
 Peder lutade sig bakåt i stolen. "Åh, fan."
 
@@ -3810,7 +3812,7 @@ Peder visslade till. "Var får man tag på sådana mängder?"
 
 "Östeuropa, tidigt åttiotal. Hade man bara pengar, så."
 
-"Så någon hade smugglar in radioaktivt plutionium och en massa kobolt. Varför?"
+"Så någon hade smugglat in radioaktivt plutionium och en massa kobolt. Varför?"
 
 "Är det inte uppenbart?"
 
