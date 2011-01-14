@@ -4721,7 +4721,7 @@ Obegräsad budget. Om det hade gällt ett annat projekt hade jag varit överlyck
 
 Det hade jag inte. Jag kliade mig i huvudet.
 
-"Vi tänker ut något", sa Hierta. Han la en hand på min axel. "Du ar gjort ett bra jobb, Wagner. Ett utmärkt jobb."
+"Vi tänker ut något", sa Hierta. Han la en hand på min axel. "Du har gjort ett bra jobb, Wagner. Ett utmärkt jobb."
 
 ### Märta får ett nytt skov och jobbet påbörjas @LES ###
 
@@ -4740,7 +4740,7 @@ Hennes ben låg orörliga i sängen. Jag lyfte upp det ena en bit ovanför madra
 
 "Men gör något!" skrek Märta. "Gör något för helvete!"
 
-Jag klädde mig själv och hjälpte Märta i en klänning. Jag bar ut henne till bilen och körde henne till sjukhuset. Hennes neurolog, Hougaard, kom ner på akuten för att prata med oss. Det var ett skov av hennes sjukdom, sa han. Kanske skulle det gå tillbaka, kanske inte. Han ordinerade en kur kortison och lovade se till att hon skulle få sjukgymnastik, så benet inte skulle stelna.
+Jag klädde mig själv och hjälpte Märta i en klänning. Jag bar ut henne till bilen, spände fast Cecilia i bilbarnstolen och körde  till sjukhuset. Märtas neurolog, Hougaard, kom ner på akuten för att prata med oss. Det var ett skov av hennes sjukdom, sa han. Kanske skulle det gå tillbaka, kanske inte. Han ordinerade en kur kortison och lovade se till att hon skulle få sjukgymnastik, så benet inte skulle stelna.
 
 Jag tog honom avsides i korridoren sjukrummet.
 
@@ -4752,7 +4752,7 @@ Hougaard tog av sig sina glasögon och såg på mig. Det fanns medlidande i hans
 
 Tro? Jag inser att hans ord var avsedda som tröst, med de kändes nästan hånfulla.
 
-När vi kom hem satt Håkan och väntade på trappan utanför huset. Han hjälpte mig att hålla upp dörren när jag bar in Märta. Efteråt satt vi en stund på trappan. Han tände en cigarett och blåste blå rök genom näsborrarna.
+När vi kom hem satt Håkan och väntade på trappan utanför huset. Han hjälpte mig att hålla upp dörren när jag bar in Märta. Efteråt satt vi en stund på trappan. Jag hade Cecilia i knät. Håkan tände en cigarett och blåste blå rök genom näsborrarna.
 
 "Jag trodde du hade slutat", sa jag.
 
@@ -4788,10 +4788,11 @@ Hierta har hyrt in ett femtontal arbetare från Polen och Baltikum. Ingen av dem
 
 Materialet anlände igår natt och hammarslagen har ekat hela morgonen, när kopparslagaren formar plåtarna. Jag har precis börjat arbetet med att foga samman urverket. Med jämna mellanrum svindlar tanken över vad jag håller på med. Det känns som om jag beblandar mig med krafter utom mitt förstånd. Jag kan inte längre bedöma konsekvenserna av mina handlingar, utan litar helt och fullt på att brödraskapet och Gud Fader leder mina händer rätt. Jag är livrädd och uppspelt på en och samma gång. Det har passerat tre nätter utan sömn. Det är sju dagar sedan jag såg min dotter.
 
-
 ---
 
-Klockan var tio på förmiddagen. Peder hade sovit tungt hela natten, men var än mer om i kroppen efter att ha sovit på golvet. Cecilia hade stannat över och hade lånat hans säng och en av hans gamla t-shirts som nattlinne. De hade tagit bussen in till Malmö så snart de hade vaknat och ätit frukost på ett fik. Nu promenerade de längs grusgången som ledde fram till Malmö stadsbibliotek, förbi glasväggen och fram emot huvudingången. Det var en vacker vårdag, varm, utan moln på himmeln. De passerade svängdörrarna och gick fram till receptionen. En kvinna i scarf log mot dem.
+### På biblioteket ###
+
+Klockan var tio på förmiddagen. Peder hade sovit tungt hela natten, men var än mer öm i kroppen efter att ha sovit på golvet. Cecilia hade stannat över och lånat hans säng och en av hans gamla t-shirts som nattlinne. De hade tagit bussen in till Malmö så snart de hade vaknat och ätit frukost på ett fik. Nu promenerade de längs grusgången som ledde fram till Malmö stadsbibliotek, förbi fasaden av glas och fram emot huvudingången. Det var en vacker vårdag, varm, utan moln på himmeln. De passerade svängdörrarna och gick fram till receptionen, där en kvinna i scarf log mot dem.
 
 "God förmiddag", sa Peder. "Vi skulle vilja ha tillgång till ert tidningsarkiv."
 
@@ -4815,11 +4816,11 @@ Peder nickade. "Det räcker säkert alldeles utmärkt."
 
 "Kom med här", sa kvinnan. Hon ropade åt en ung man som ordnade broschyrer i ett ställ. "Oskar, tar du över här?"
 
-Peder och Cecilia följde efter kvinnan med scharfen till hissarna och vidare ner till källarplanet. Hissdörrarna öppnade sig ut mot en smal korridor. De följde efter genom en hall där robotarmar sorterade böcker på rullband och vidare in i ett litet rum utan fönster, med fyra skrivbord utmed väggarna. Äldre herrar med mustascher satt vid tre av stationerna och lyfte inte blicken från datorskärmarna för att hälsa nykomlingarna. Kvinnan med scarfen ledde Peder och Cecilia till det fjärde skrivbordet.
+Peder och Cecilia följde efter kvinnan med scarfen till hissarna och vidare ner till källarplanet. Hissdörrarna öppnade sig ut mot en smal korridor. De följde efter genom en hall där robotarmar sorterade böcker på rullband och vidare in i ett litet rum utan fönster, med fyra skrivbord utmed väggarna. Äldre herrar med mustascher satt vid tre av stationerna och lyfte inte blicken från datorskärmarna för att hälsa nykomlingarna. Kvinnan med scarfen ledde Peder och Cecilia till det fjärde skrivbordet.
 
 "Vi har digitaliserat det mesta", sa hon. "En del ligger fortfarande på mikrofilm, tyvärr. Vad är ni ute efter?"
 
-"Sydsvenska och Skånska Dagbladet, mellan 1980 och 1983."
+"Sydsvenska och Skånska Dagbladet, mellan 1980 och 1984."
 
 Kvinnan tänkte efter. "Sydsvenskan ligger i det digitala arkivet, men Skånskan får jag nog hämta på filmrulle." Hon la en hand på förstoringsapparaten bredvid datorn. "Jag är snart tillbaka."
 
@@ -4833,11 +4834,11 @@ Cecilia tog musen ur hans hand och klickade på en länk. Skärmen fylldes av da
 
 "Jag tror vi får bläddra genom varje nummer av tidningen och se om det är något som står ut", sa Cecilia. "Var börjar vi?"
 
-Peder suckade. "Det är över trehundra nummer per år att gå genom. Den här planen lät *definitivt* bättre i går kväll." Han skrollade ner i listan. "Vi börjar i januari 1982 och arbetar oss bakåt."
+Peder suckade. "Det är över trehundra nummer per år att gå genom. Den här planen lät *definitivt* bättre i går kväll." Han skrollade ner i listan. "Vi börjar i januari 1984 och arbetar oss bakåt."
 
 De började skumma genom digitaliserade tidningssidor och hade hunnit gå genom en vecka när bibliotekarien med scarfen kom tillbaka med en brun kartong i famnen.
 
-"Här", sa hon. "Här är mikrofilmerna för Skånskan, mellan den första januari 1980 till den sista december 1983. Vet du hur förstoringsapparaten fungerar?"
+"Här", sa hon. "Här är mikrofilmerna för Skånskan, mellan den första januari 1980 till den sista december 1984. Vet du hur förstoringsapparaten fungerar?"
 
 Peder nickade.
 
@@ -4845,11 +4846,11 @@ Peder nickade.
 
 Cecilia öppnade kartongen. Inuti låg tolv rullar mikrofilm.
 
-"Jaha", sa hon. "Kanske skall jag ta itu med mikrofilmerna, då. Jag börjar bakifrån, så möts vi på mitten."
+"Jaha", sa hon. "Kanske skall jag ta itu med de här mikrofilmerna, då. Jag börjar från början, så möts vi på mitten."
 
 Peder visade henne snabbt hur apparaten fungerade och så satte hon igång.
 
-Efter en timme sved det i Peders ögon. Tidningssidorna seglade förbi på skärmen och han kände sig en smula åksjuk. Han scannade rubrik efter rubrik, utan att hitta något som kändes rätt. Till slut såg han på sitt armbandsur och suckade.
+Efter en timme sved det i Peders ögon. Tidningssidorna seglade förbi på skärmen och han kände sig en smula åksjuk. Han skummade rubrik efter rubrik, utan att hitta något som kändes rätt. Till slut såg han på sitt armbandsur och suckade.
 
 "Bara två och en halv timme kvar", sa han. "Det här går aldrig."
 
@@ -4936,7 +4937,7 @@ Han stängde ner visningsfönstret på datorskärmen och lämnade rummet tillsam
 
 ### Rekognosering på kyrkogården ###
 
-Det tog dem en dryg timme att promenera ut till Sankt Paulis södra kyrkogård. Peder köpte en falafel och försökte äta dem medan ge gick. Sås rann längs hans händer och fläckade hans byxor. Väl framme torkade han av sig på gräset vid järngrinden för ingången från Nobelvgägen. En ung man med långt hår och stora hörlurar krattade en av grusgångarna, med ryggen åt dem.
+Det tog dem en dryg timme att promenera ut till Sankt Paulis södra kyrkogård. Peder köpte en falafel och försökte äta dem medan ge gick. Sås rann längs hans händer och fläckade hans byxor. Väl framme torkade han av sig på gräset vid järngrinden framför ingången från Nobelvägen. En ung man med långt hår och stora hörlurar krattade en av grusgångarna, med ryggen åt dem.
 
 "Ursäkta", sa Peder.
 
@@ -4944,13 +4945,13 @@ Den unge mannen fortsatte att kratta. Peder gick fram och knackade honom på axe
 
 "Ursäkta", sa Peder igen. "Vi letar efter en grav, som fanns här tidigare. Arthur Edencronas grav. Hans kvarlevor flyttades härifrån 1983."
 
-Den unge mannen skakade på huvudet. "Sorry. Jag är bara timanställd -- jag vet inger om gravarna här."
+Den unge mannen skakade på huvudet. "Sorry. Jag är bara timanställd -- jag vet inget om gravarna här."
 
 "Vet du någon annan vi skulle kunna fråga?"
 
 "Hör med min arbetsledare. Han har jobbat här -- typ alltid." Han pekade bort över kyrkogården. "Där borta."
 
-Peder tackade och de gick vidare i mot mitten av kyrkogården. De passerade räta rader av gravar, med huvudstenar av granit, diabas och röd porfyr. Långa gjutjärnsstaket hägnade in gravplatserna. Häckar av buxbom, gräs och blombuketter bonade in dem. Ju längre in de kom, desto äldre verkade gravarna bli. Gravstenarna blev högre, blandades upp av kolonner och mausoleer. Gråtande keruber av sten smyckade viloplatserna.
+Peder tackade och de gick vidare mot mitten av kyrkogården. De passerade räta rader av gravar, med huvudstenar av granit, diabas och röd porfyr. Långa gjutjärnsstaket hägnade in gravplatserna. Häckar av buxbom, gräs och blombuketter bonade in dem. Ju längre in de kom, desto äldre verkade gravarna bli. Gravstenarna blev högre, blandades upp av kolonner och mausoleer. Gråtande keruber av sten smyckade viloplatserna.
 
 En gammal vithårig man stod böjd vid en av gravarna och plockade upp en vissnad bukett från en vas av rostfri stål. Han pustade och stödde ryggen när han rätade upp sig.
 
@@ -4991,7 +4992,7 @@ Han såg sig om. Bakom häckarna var mausoleet var nästan helt avskiljt från r
 
 "Han var i alla fall förmögen", sa Torsten.
 
-Peder gick närmare. Grinden i staketet runt mausoleet var låst. Han kisade in mot byggnaden och såg ett kraftigt hänglås på dörren.
+Peder gick närmare. Grinden i staketet runt mausoleet var olåst, men när han kisade in mot byggnaden såg han ett kraftigt hänglås på dörren.
 
 "Det ser låst ut."
 
@@ -5011,6 +5012,9 @@ Peder och Cecilia tog farväl och gick mot utgången.
 
 "Vi kommer tillbaka i natt", sa Peder. "Vi är nära nu. Jag känner det i magen."
 
+Han stod tyst en kort stund.
+
+"Jag säger det alldeles för ofta, eller hur?"
 
 ### Allt hänger samman ###
 
@@ -5047,11 +5051,11 @@ Peder reste sig.
 
 "Men vart ska du?"
 
-"Jag har ett ärende. Sitt inte uppe och vänta."
+"Sitt inte uppe och vänta."
 
 Hans far såg efter honom när han lämnade rummet.
 
-Peder letade genom förrådet och hittade bultsaxen under en presenning. Han stoppade ner den i sin ryggsäck, men fick inte plats med hela. Han drog igen dragkedjan bäst han kunde, men handtagen fick sticka upp. Han låste förrådet efter sig och började gå mot busshållsplatsen.
+Peder letade genom förrådet och hittade bultsaxen under en presenning. Han stoppade ner den i sin ryggsäck, men fick inte plats med hela. Han drog igen dragkedjan bäst han kunde och lät handtagen sticka upp. Han låste förrådet efter sig och började gå mot busshållsplatsen.
 
 
 ### Inbrott i mausoleet ###
@@ -5060,7 +5064,7 @@ Cecilia väntade vid grinden när Peder kom gående längs trottoaren.
 
 "Förlåt att jag är sen", sa han.
 
-"Inge fara. Har du med dig speldosorna?"
+"Ingen fara. Har du med dig speldosorna?"
 
 Peder klappade på ryggsäcken. "Har du nyckeln?"
 
@@ -5074,7 +5078,7 @@ Den höga järngrinden var olåst och gled upp med ett gnissel. Peder spejade in
 
 "Jag hoppas det", sa Peder.
 
-Allt såg annorlunda ut i mörkret. De gick längs en av de bredare huvudgångarna, som lystes upp av klotformade gatlyktor. Efter ett tag vek de av in mot mitten av kyrkogården och sveptes in i mörkret. Ögonen vande sig snart vid skumrasket och de kunde urskilja konturer av gravstenar och träd mot stadshimmeln som aldrig blev helt svart.
+Allt såg annorlunda ut i mörkret. De gick längs en av de bredare huvudgångarna, som lystes upp av klotformade gatlyktor. Efter ett tag vek de av in mot mitten av kyrkogården och in i mörkret. Ögonen vande sig snart vid skumrasket och de kunde urskilja konturer av gravstenar och träd mot stadshimmeln som aldrig blev helt svart.
 
 "Ditåt", sa Peder och pekade.
 
@@ -5110,7 +5114,7 @@ Han tog i igen, med sammanbitna tänder och spänd mage. Bultsaxen knakade till,
 
 "Lyssna, bara."
 
-Peder höll andan och lyssnade. I fjärran hördes fotsteg i gruset. Först var det så svagt att det knappt gick att uppfatta, med ljudet blev starkare och starkare. Stegen kom närmare. Peders hjärta började slå hårdare i bröstet. Han spärrade upp ögonen och försökte se genom mörkret.
+Peder höll andan och lyssnade. I fjärran hördes fotsteg i gruset. Först var det så svagt att det knappt gick att uppfatta, med ljudet blev starkare och starkare. Stegen närmade sig. Peders hjärta började slå hårdare i bröstet. Han spärrade upp ögonen och försökte se genom mörkret.
 
 "Tror du det är någon?" sa Cecilia.
 
@@ -5126,7 +5130,7 @@ Med kroppen full av adrenalin satte han bultsaxen kring låset på nytt och bän
 
 "Jag menar det!"
 
-Han stoppade tillbaka bultsaxen i ryggsäcken och plockade av hänglåset och la det på trapppan. De fick ta i ordentligt för att dra upp dörrarna. Det suckade när den kyliga nattluften sögs in i mausoleet. Det luktade jord och fuktig sten. Peder svepte med ficklampan över rummet. Väggarna var putsade vita, kvadratiska block av svart sten täckte golvet. Mitt i rummet stod en kista av trä, på ett altare av kalksten.
+Han stoppade tillbaka bultsaxen i ryggsäcken, plockade av hänglåset och la det på trapppan. De fick ta i ordentligt för att dra upp dörrarna och det suckade när den kyliga nattluften sögs in i mausoleet. Det luktade jord och fuktig sten. Peder svepte med ficklampan över rummet. Väggarna var putsade vita, kvadratiska block av svart sten täckte golvet. Mitt i rummet stod en kista av trä, på ett altare av kalksten.
 
 "Huh", sa Peder. "Finns här en kista i alla fall?"
 
@@ -5146,7 +5150,7 @@ De tog tag i var sin kortända och sköt på. Locket gled sakta åt sida och en 
 
 "Skit."
 
-I kistan låg resterna av en man, klädd i svart ordensdräkt, med ett rött ordenskors hängande i en kedja av guld. Mörkbrun hud låg direkt mot benet i skallen. Ögonen var tomma hålor. Läpparna var förkrympta och tillbakadragna över tänderna.
+I kistan låg resterna av en man, klädd i svart ordensdräkt, med ett rött ordenskors i en kedja av guld. Mörkbrun hud låg direkt mot benet i skallen. Ögonen var tomma hålor. Läpparna var förkrympta och tillbakadragna över tänderna.
 
 "Det ligger ju ett lik här", sa Peder. Han stirrade på kadavret. "Jag fattar inte. Det måste ju vara här."
 
@@ -5158,7 +5162,7 @@ Han satte axeln mot kistan och tog spjärn.
 
 "Peder, vad gör du?"
 
-Peder svarade inte, utan pressade på, högröd i ansiktet. Kistan gled av stenaltaret och slog i golvet med ett brak. Kadavret slungades ut och kasade över stengolvet. Skallen lossnade och rullade över golvet, tills den stannade framför Cecilias fötter. Hon tog äcklad ett steg bakåt.
+Peder svarade inte, utan pressade på, högröd i ansiktet. Kistan gled av stenaltaret och slog i golvet med ett brak. Kadavret slungades ut ur kistan, skallen lossnade med ett knäppande ljud och rullade över golvet, tills den stannade framför Cecilias fötter. Hon tog äcklad ett steg bakåt.
 
 "Peder!"
 
@@ -5180,7 +5184,7 @@ Hon försökte vända över kistan på rätt köl, men orkade inte.
 
 "Men vi får aldrig upp kistan på altaret igen", sa Peder. "Inte utan hjälp. Den får stå här."
 
-"Och så var det han då", sa Cecilia och puttade till Edencronas skalle med tåspetsen.
+"Och så var det han då", sa Cecilia och puttade till skallen med tåspetsen.
 
 Peder rynkade på näsan. "Det är väl inte mycket att be för, antar jag." 
 
@@ -5190,7 +5194,7 @@ Han lirkade in händerna under det huvudlösa kadavret och lyfte. Kroppen var f�
 
 "Skojar du", sa Cecilia och satte skallen på plats. Hon torkade av händerna mot byxbenen.
 
-De lämnade den lilla stenbyggnaden och stände dörrarna efter sig. Båda torkade händerna mot det fuktiga gräset nedanför trappan, innan de gick mot utgången. De skiljdes åt ute vid Nobelvägen. Peder ringde efter en taxi, som kom redan efter tio minuter och körde honom hem till Staffanstorp.
+De lämnade den lilla stenbyggnaden och stände dörrarna efter sig. Båda torkade händerna mot det fuktiga gräset nedanför trappan, innan de gick mot utgången. De skiljdes åt ute vid Nobelvägen. Peder ringde efter en taxi och ställde sig och väntade.
 
 
 ### Pappan undrar var han varit ###
@@ -5215,7 +5219,7 @@ Peders far ryckte till och slog upp ögonen. Han var rödmosig i ansiktet.
 
 Peder såg på sina kläder. De svarta jeansen var täckta av smuts.
 
-"Gå och lägg dig, pappa", sa han och lämnade rummet. Han gick upp till övervåningen, tog av sig kläderna och kröp ner i sin säng.
+"Gå och lägg dig, pappa", sa han och gick mot trappan.
 
 
 ### Fångad ###
