@@ -2274,7 +2274,15 @@ Cecilias ögon vidgades. "Vad?"
 
 "Jag kan inte berätta", sa Peder. "Men jag kan visa dig. Har du tid?"
 
-Cecilia såg på sitt armbandsur, sedan på Peder. Hon drog tungspetsen över tänderna och rynkade pannan. "Jag har tid", sa hon sedan.
+Cecilia såg på sitt armbandsur, sedan på Peder. Hon drog tungspetsen över tänderna och rynkade pannan. 
+
+"Jag vet inte", sa hon.
+
+"Snälla", sa Peder. "Det tar inte så lång tid."
+
+Hon stod tyst en stund, sedan nickade hon.
+
+"Ok. En kort stund hinner jag med."
 
 "Kom." 
 
