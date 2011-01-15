@@ -602,7 +602,7 @@ Det senaste dygnet kändes som kvicksand. Ju mer han kämpade, desto djupare sj�
 
 ### Första dagen på avdelning ###
 
-Peder vaknade av att någon rörde vid hans lår. Sömndrucket vände han sig om och öppnade ögonen. Vid fotändan till hans säng stod en kvinna i nattlinne. Månen sken in genom fönstret och reflekterades i hennes salvglänsande ansikte. Hon lyfte täcket och drog sin hand längs hans ben, upp mot skrevet.
+Peder vaknade av att någon rörde vid hans lår. Sömndrucket vände han sig om och öppnade ögonen. Vid fotändan till hans säng stod en kvinna i nattlinne. Månen sken in genom fönstret och reflekterades i hennes salvglänsande ansikte. Hon liknade en vetedeg, penslad med ägg. Kvinnan lyfte täcket och drog sin hand längs Peders ben, upp mot skrevet.
 
 "Springer. Springer, springer, springer", sa hon med onaturligt pipig röst. "Blod, blod, blod."
 
