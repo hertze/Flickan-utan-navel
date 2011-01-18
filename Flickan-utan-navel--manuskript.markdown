@@ -87,13 +87,13 @@ Märta skakade. Jag frågade om det var allvarligt. Neurologen nickade.
 
 "Det finns ingen bot", sa han. "Sjukdomen leder till döden."
 
-Jag kände blodet försvinna från mitt huvud. Det snurrade och jag sjönk ner på en stol. Kerstin försökte krypa upp i mitt knä.
+Jag kände blodet försvinna från mitt huvud. Det snurrade och jag sjönk ner på en stol. Cecilia försökte krypa upp i mitt knä.
 
 Doktor Hougaard berättade om sjukdomen, hur små inflammationer i centrala nervsystemets vita substans förstörde nervernas signalvägar och ledde till förlamningar och störd känsel. Jag tänkte på hur en av mina studenter råkat kortsluta en transformator på institutionen, så kablarna smälte och förstördes.
 
 "Hur länge?" sa jag. "Hur långt har hon kvar?"
 
-Kerstin kramade mig. Jag smekte henne över ryggen.
+Cecilia kramade mig. Jag smekte henne över ryggen.
 
 "Flera år. Vanligen lever man med sjukdomen i flera år."
 
@@ -101,7 +101,7 @@ Kerstin kramade mig. Jag smekte henne över ryggen.
 
 "Sjukdomen kan inte botas, men vi kan försöka hejda symtomen med medicin."
 
-Märta sa ingenting när vi körde hem. Jag koncentrerade mig på trafiken så det pulserade i öronen. Händerna värkte, så hårt jag höll i ratten. Kerstin sov i baksätet. I backspegeln såg jag solen gå i moln.
+Märta sa ingenting när vi körde hem. Jag koncentrerade mig på trafiken så det pulserade i öronen. Händerna värkte, så hårt jag höll i ratten. Cecilia sov i baksätet. I backspegeln såg jag solen gå i moln.
 
 # Lammet på kontoret #
 
