@@ -1208,31 +1208,9 @@ Peder sög på underläppen.
 
 Peder ryckte på axlarna.
 
-"Jag är ingen expert direkt, men jag vet att det inte alltid är så lätt att se tecknen. Min mor tog sitt liv när jag var liten och jag kommer ihåg vilken chock det var för min far. Vi trodde att hon hade blivit bättre. Hon verkade så lugn dagarna innan. Så ändå..."
+"Jag är ingen expert direkt, men jag vet att det inte alltid är så lätt att se tecknen."
 
-Carsten såg på honom genom en rökpuff.
-
-"Hur?"
-
-"Hur vadå?"
-
-"Hur gjorde hon det?"
-
-"Sömntabletter."
-
-"Fy fan."
-
-"Jag vet."
-
-"Hur gammal var du?"
-
-"Sju år."
-
-Carsten skakade på huvudet.
-
-"Fy fan."
-
-Han tog ett bloss till och blåste ut röken genom munnen. Peder såg ut genom fönstret. En man i ljusblå mysbyxor och kofta gick omkring nere på den inhägnade gården.
+Carsten såg på honom genom en rökpuff. Peder såg ut genom fönstret. En man i ljusblå mysbyxor och kofta gick omkring nere på den inhägnade gården.
 
 "Varför var Göran här?" frågade Peder sedan.
 
