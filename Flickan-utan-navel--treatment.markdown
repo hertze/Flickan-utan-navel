@@ -109,3 +109,25 @@ Peder får gå ut på innergården, där han gömmer skinnpungen på utsidan av 
 
 I detta kapitlet skrider Peder till handling. Han skräms av bli hotad av Samuel. Nyfikenheten övergår till viss del i rädsla.
 
+# Kapitel 10 #
+
+Håkan lurar med Lars-Erik till ett härbärge för misshandlade kvinnor och deras barn. Håkans plan är att sakta bryta ner Lars-Eriks hopp för mänskligheten, en förutsättning för att få med honom på deras plan. Lars-Erik blir ledsen och desillusionerad.
+
+# Kapitel 11 #
+
+Peder bryter sin in i fastigheten på Fridhem, där Göran arbetat som vaktmästare. Det visar sig vara frimurarlokaler. Där hänger porträtt av män med svarta pekfingrar. Han hittar en dörr låst med säkerhetslås. Han ser även *XII* skrivet på golvet. Han ser även ett porträtt av Gunnar Hierta.
+
+Peder känner sig ställd. Spåret efter Göran ledde rakt till en frimurarloge, där Gunnar Hierta uppenbarligen var medlem. Var det därför Göran dött? För att han stulit från frimurare?
+
+På hotellrummet får han ett e-brev från någon som säger sig veta varför Göran dog. Han stämmer träff med avsändaren på ett café och väl där visar det sig vara Cecilia, underläkaren från avdelningen. De jämför information. Cecilia bekräftar Peders misstankar. Göran hade kännt igen Hierta på avdelningen och blivit livrädd. Uppenbarligen kände de varandra. Göran hade berättat för Cecilia om en sammanslutning som gått under namnet *Tolv*. Cecilia berättar att hennes pappa varit med i en organisation med samma namn.
+
+De spekulerar i vad Göran kan ha stulit. Peder avslöjar att han vet och han bjuder med sin Cecilia till sitt hotellrum för att visa. Hon tvekar först, med kommer sedan med.
+
+På väg till hotellet avslöjar de vad som motiverar dem till att ta reda på vad som hänt. Cecilia vill veta vad som hänt sin far. Peder har sin journalistiska nyfikenhet, men ser även en chans att tvätta bort sin stämpel som knäpp. Det här är hans chans att exponera frimurarna.
+
+Cecilia visar sig ha en nyckel till att dra upp speldosorna kring halsen. Det är en nyckel hon fick av sin far som liten. Speldosorna spelar inte melodier som går att känna igen.
+
+Cecilia berättar att hon fått en speldosa av sin pappa som liten. Kunde det vara den tredje -- månen? Tyvärr brann hennes barndomshem ner, med speldosa och allt.
+
+I det här kapitlet inser Peder att han är något stort på spåren. Han känner lite rädsla, men nyfikenheten tar överhanden. Det här är hans chans att visa att han inte är galen.
+
