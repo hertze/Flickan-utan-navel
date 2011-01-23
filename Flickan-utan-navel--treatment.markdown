@@ -91,3 +91,21 @@ När allt lugnat sig smyger Peder in på Carstens rum och finner skinnpungen med
 
 I det här kapitlet försöker Peder vara smart, för att slå systemet och bli utsläppt. Han får bakslag igen. Hans journalistiska nyfikenhet väcks och han hamnar i ett nytt mysterium.
 
+# Kapitel 8 #
+
+I detta kapitel upptas Lars-Erik bland frimurarna. På avstånd ser han en yngre Hierta och han får en första skymt av Samuel.
+
+# Kapitel 9 #
+
+Hierta synar Peders bluff. Han konfronterar honom med att han inte tagit sin medicin och hotar med tvångsinjektion om han inte gör det i fortsättningen. Peder reagerar med ilska, som ett litet barn som ertappats med fingrarna i kakburken.
+
+Peder ser en svartklädd gestalt snoka på hans patientrum. Han känner igen gestalten, som den han tidigare sett i korridoren och som snokat på Görans rum. Han blir rädd och slår larm hos sjuksköterskorna, som inte tror honom. Peder blir kränkt över att bli misstrodd, över att bli behandlad om om han vore galen. Han brusar upp, blir hotfull. Personalen reagerar med att övermanna honom och ge honom en spruta med Stesolid.
+
+När Peder vaknar till ur ruset har han besök av Samuel, som vill veta vart han gömt skinnpungen. Samuel hotar honom, men avbryts när personalen kommer tillbaka.
+
+Peder inser att han måste sticka från sjukhus med en gång. On man inte gör det kommer han drogas ner, eller så mördas han av Samuel. Nu sätter han sin plan i verket.
+
+Peder får gå ut på innergården, där han gömmer skinnpungen på utsidan av planket. Sedan simulerar han ett epileptiskt anfall, tar till akuten, där han sticker.
+
+I detta kapitlet skrider Peder till handling. Han skräms av bli hotad av Samuel. Nyfikenheten övergår till viss del i rädsla.
+
