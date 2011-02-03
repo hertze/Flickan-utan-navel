@@ -131,3 +131,25 @@ Cecilia berättar att hon fått en speldosa av sin pappa som liten. Kunde det va
 
 I det här kapitlet inser Peder att han är något stort på spåren. Han känner lite rädsla, men nyfikenheten tar överhanden. Det här är hans chans att visa att han inte är galen.
 
+# Kapitel 12 #
+
+Lars-Erik fortsätter att falla ner i hopplöshet. Vart han än ser sig om lyser elände mot honom. Han börjar tro att det är kört för mänskligheten.
+
+# Kapitel 13 #
+
+Nyheten att den tredje speldosan, månen, är förstörd slår undan benen på Peder. Hittills hade han känt bra moment, att han drev undersökningen framåt. Nu vet han plötsligt inte vad han ska göra. Han drar sig tillbaka in i inaktivitet. Dock letar han efter spår efter den allvetande i alla sina journalistiska kanaler, utan att hitta något. Han ordnar lite tidningsklipp och Cecilias pappa, Lars-Erik, där han läser hur han dömts till ett långt fängelsestraff. Det framgår inte vad det är ha gjort.
+
+Peders pengar tar slut och han flyttar hem till sin pappa, som är pastor i Staffanstorp. Stämningen mellan dem är lite trevande, lite pressad, som om de inte riktigt vet var det har varandra. Det är tydligt att de inte haft så mycket kontakt de senaste åren. Hans far är en sorgsen figur, med för hög alkoholkonsumption. Saknaden efter Peders mamma hänger som en våt tung filt över barndomshemmet.
+
+Peders tankar på Jessica falnar och ersätts av tankar på Cecilia. Han attraheras av henne.
+
+Peder drömmer om vägen till den allvetande. Han väcks av att hans far skriker. Pappan menar att han hemsökts av Satan. Peder kände igen platsen han gått till i sin dröm och kör dit. Där finner han den allvetande, en mörkhyad man med änglasymboler i ansiktet och på händerna. Peder frågar honom om XII och får höra historien om profetian och om hur Riddarna av det heliga lammet blev till. Han får också höra om profetian från flickan utan navel, som förutspådde mänsklighetens undergång.
+
+Hemma försöker Peder städa ut resterna av sin mor, för att tvinga sin far att gå vidare. Hans pappa stoppar honom och ger honom till och med en örfil. Han vägrar tro att hans fru är borta. Kapitlet slutar med att Cecilia lyckats gräva fram den gamla psykjournalen på flickan utan navel.
+
+I det här kapitlet går Peder från att vara nedslagen, till att få upp en nytt spår, med återvändande hopp och entusiasm. Hans barndomshem är ett ångesthål. Man förstår varför han undvikit det.
+
+# Kapitel 14 #
+
+Märta, Lars-Eriks fru, reagerar på sin sjukdom med att supa sig full och håna hans gud. Lars-Erik Gud om hjälp. Mörkret blir tätare.
+
