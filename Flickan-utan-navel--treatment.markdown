@@ -217,4 +217,64 @@ Peder och Cecilia bryter sin in i logen och hittar månen och en massa brev frå
 
 Peder och Cecilia flyr till fots och undkommer. De tar sig tillbaka till Staffanstorp och provar att låta speldosorna spela tillsammans. Plötsligt framträder en igenkännbar melodi. De funderar över var domedagsmaskinen kan vara gömd och misstänker att något kamouflerat den.
 
+# Kapitel 24 #
 
+Lars-Erik sätter igång att bygga domedagsmaskinen. Han lämnar sitt hem och sin familj, för att färdigställa sitt verk.
+
+# Kapitel 25 #
+
+Peder och Cecilia letar efter möjliga gömställen för domedagsmaskinen i tidningsklipp på Stadsbiblioteket. Det får upp ett spår till en grav på kyrkogården i Malmö. Även här är det en främmande person som dumstirrar på Peder.
+
+De tar sig direkt till kyrkogården och hittar graven, som visar sig ligga i ett mausoleum. De återkommer på natten och bryter sig in. De hittar ingen domedagsmaskin, bara ett gammalt lik.
+
+Dagen efter kommer civilpolisen och hämtar Peder. Hans far har angivit honom.
+
+Det här är början till dippen före slutet. Nu är väl allt kört? De hittade inte bomben, de har inga nya idéer och Peder är fast.
+
+# Kapitel 26 #
+
+Lars-Erik får kalla fötter. Tänk om han har fel? Han bestämmer sig för att i smyg bygga in en avstängningsmekanism i maskinen. Jobbet görs klart och maskinen begravs.
+
+# Kapitel 27 #
+
+Peder är tillbaka på avdelningen och tas till ett isoleringsrum i källaren. Hierta försöker övertyga honom om att allt är Peders psykotiska upplevande -- till och med Cecilia. Hierta förnekar att det någonsin funnits en sådan underläkare på avdelningen. Har Peder någonsin tagit i henne? Har han sett henne äta, eller dricka? Gå på toaletten?
+
+När Peder vägrar äta tvångsmedicineras han med neuroleptika.
+
+Peder börjar tvivla på allt. Kan det vara så att han verkligen är galen?
+
+Samuel besöker honom och försöker övertala honom att ta sitt liv. Han lyckas och Peder försöker. Cecilia dyker upp innan han lyckats genomföra det. Hon hjälper honom att rymma. På vägen ut ser han att han suttit i rum nummer tretton.
+
+När de kommer tillbaka till prästgården hittar de Peders far livlös. Han har också försökt ta sitt liv. De ringer en ambulans, som kommer och hämtar honom.
+
+# Kapitel 28 #
+
+Något har gått snett. Polisen har hittat spår efter radioaktivt material och har påbörjat en utredning. Lars-Erik tar på sig att bli syndabock, för att dölja den verkliga hemligheten.
+
+# Kapitel 29 #
+
+Cecilia har insett att graven i Malmö var ett villospår. I själva verket gömde man domedagsmaskinen i Staffanstorp. Nu är det bråttom. Ska de hinna till maskinen innan allt är över. Det är ett nytt hopp, åtminstone.
+
+De tar sig till Nevishögs kyrgogård och letar. Först hittar de inget, men ledda av ett vitt lamm finner de en labyrint, som leder dem till ett mausoleum. Framför mausoleet står en alle av tolv stenänglar.
+
+De bryter sig in i mausoleet och finner en kupol av glas, över ett räkneverk. De ha funnit maskinen. De hittar försänkningar i kupolen, där speldosorna passar. De behöver vara två för att kunna starta alla tre dosorna samtidigt.
+
+Innan de hinner göra det avbryts de av Hierta, som riktar en pistol mot dem. Med honom är Samuel.
+
+# Kapitel 30 #
+
+De leds ut på gården utanför mausoleet. Hierta förklara planen. De tänker frigöra mänsklighetens själar, så de hinner till himmeln innan djävulen vinner det sista slaget om jorden.
+
+Samuel hånar Peder och berättar att han drivit hans far till självmordsförsök. Samuel avslöjar att han utnyttjat Riddarna av det heliga lammet och att allt varit hans plan. Hierta försöker skjuta honom, men dödas själv. Cecilia kastas åt sidan, efter att hon försökt knocka Samuel med en sten. Peder flyr in i labyrinten och irrar runt i panik, innan han kommer ut på grusplanen igen. Samuel sluter fingrarna kring Peders hals. Nu är allt över.
+
+Stenänglarna vaknar till liv och övermannar Samuel. Han vrider sig i ilska. Den allvetande visar sig. Hans käpp flammar som ett svärd. Samuel dras ner under jorden.
+
+Peder och Cecilia stänger av domedagsmaskinen med speldosorna.
+
+# Kapitel 31 #
+
+Lars-Eriks sista brev från fängelset. Han väntar besök från brödraskapet.
+
+# Kapitel 32 #
+
+Peder är tillbaka på tidningen. Han nu efter sanningen om den allvetande. Cecilia ringer. Finns det hopp om en kärleksrelation?

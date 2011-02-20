@@ -3182,7 +3182,7 @@ Hans far stod tyst en stund. Ansiktsfärgen ljusnade och han slappnade av i sina
 
 "Men hur ser du ut, Peder? Du behöver ju komma in till sjukhuset."
 
-Peder skakade på huvudet. "Det är ok. Det ser värre ut än vad der är." Han såg ner i golvet. "Får du problem nu?"
+Peder skakade på huvudet. "Det är ok. Det ser värre ut än vad det är." Han såg ner i golvet. "Får du problem nu?"
 
 "Jag vet inte. Jag tror inte det. De verkade inte tro på allvar att det var jag som kvaddat bilen. De tog upp en polisanmälan för bilstöld. För försäkringen och så."
 
@@ -5657,7 +5657,7 @@ De gick upp till badrummet på övervåningen och Cecilia hjälpte Peder tvätta
 
 Cecilia hittade textilplåster på rulle, klippte av en lång bit och klistrade den på plats över såret. Peder stannade en stund själv på toaletten. Han orkade inte duscha ordentligt, utan  tvättade sig i bara ansiktet och i armhålorna. Han tog av sig sjukhuskläderna och tog på ett par smutsiga jeans och en t-shirt, som låg på stolen i hans sovrum. Till sist kammade han sitt fuktiga hår bakåt.
 
-Det var oredigt i hans fars sovrum. Peder ställde tillbaka sänglampan, som slagits ner från nattduksbordet. Han samlade ihop de spolkade sängkläderna, tog med dem ner och stoppade dem i tvättmaskinen. Han hittade en förpackning tvättmedel med klumpar i ett skåp, fyllde facket och startade maskinen. Under tiden hade Cecilia satt på kaffe ute i köket. De slog sig ner vid köksbordet med var sin ångande kopp. Peder struntade i mjölken.
+Det var oredigt i hans fars sovrum. Peder ställde tillbaka sänglampan, som slagits ner från nattduksbordet. Han samlade ihop de solkade sängkläderna, tog med dem ner och stoppade dem i tvättmaskinen. Han hittade en förpackning tvättmedel med klumpar i ett skåp, fyllde facket och startade maskinen. Under tiden hade Cecilia satt på kaffe ute i köket. De slog sig ner vid köksbordet med var sin ångande kopp. Peder struntade i mjölken.
 
 "Så vad är det du har kommit på?" sa Peder.
 
