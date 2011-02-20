@@ -153,3 +153,68 @@ I det här kapitlet går Peder från att vara nedslagen, till att få upp en nyt
 
 Märta, Lars-Eriks fru, reagerar på sin sjukdom med att supa sig full och håna hans gud. Lars-Erik Gud om hjälp. Mörkret blir tätare.
 
+# Kapitel 15 #
+
+Peder och Cecilia lurar sig in på ett gruppboende och träffar Kerstin, flickan utan navel. Hon är en gravt lederad schizofren kvinna, men hon kan berätta hur profetian lyder. Världen skall gå under senare samma år. Hon namnger även *La Coeur* som en av männen som hållit henne fången.
+
+På väg hem i bilen väjer Peder för en bevingad skugga på vägen och kraschar bilen.
+
+I detta kapitel får de några nya ledtrådar till vad det hela handlar om. Samuel trappar upp sin bevakning av Peder, genom att orsaka en bilkrasch.
+
+# Kapitel 16 #
+
+Lars-Erik ertappar sin prefekt med att försöka våldta en kvinnlig student. Prefekten visar ingen ånger och försöker till och med hota Lars-Erik till tystnad.
+
+# Kapitel 17 #
+
+Peder väcka av att två poliser ringer på dörren på nedervåningen. Han tror att de är där för honom, men det visar sig att de bara berättar för hans far att de hittat bilen i en åker. Peders far blir förstås upprörd, ffa. när Peder fortfarande svarar undvikande på vad det egentligen är han håller på med.
+
+Peders far har läst i Peders anteckningsbok och uttrycker oro för att Peder är sjuk. Peder blir förbannad över att han snokat i hans grejer. Han säger saker han tidigare hållit tillbaka, saker om hans mor och om att hans far super. Sedan ångrar han sig.
+
+Peder sätter sig på golvet och försöker bena bland all information han samlat ihop. Han försöker se samband och känner att han är något på spåren, men han kan inte räkna ut vad speldosorna fyller för funktion -- varför de är så viktiga.
+
+Han läser tidningsartiklar om Lars-Erik igen, där det står att han åtalats för hot mot rikets säkerhet. Var han terrorist? Han ringer tingsrätten och begär en kopia på domen.
+
+Dagen efter hämtar han upp domen och träffar Cecilia på ett fik i Lund. De pratar om hur det kom sig att Cecilia hamnat på avdelning 87 på sjukhuset och hur hon sett sambandet med det som hänt hennes pappa. Vi får höra hennes version av vad hennes far råkat in i. Hon tror inte på att hennes far tagit sitt liv -- det skulle ha varit emot hans religiösa övertygelse.
+
+Peder övertalar Cecilia att hänga med hem till prästgården. Han är tänd på henne och har uppenbara baktankar. Hemma i Staffanstorp hittar de Peders far redlöst berusad och Peder för hjälpa honom i säng.
+
+De pratar om vad som hänt Peders mor. Hon tycktes ha varit bipolär. Hon försvann spårlöst ett par år tidigare.
+
+# Kapitel 18 #
+
+Lars-Erik träffar prefekten på gudstjänsten och golvas av den förfärliga dubbelmoralen att den mannen får träda in i guds hus. Allt faller på plats. Han inser att Håkan har rätt -- hoppet är ute för mänskligheten.
+
+# Kapitel 19 #
+
+Peder söker upp möjliga nämndemän på datorn och ringer runt tills han får napp på en kvinna som heter Anita. Hon vill inte prata med honom, men han åker ändå dit och tjatar sig till en intervju. Hon berättar i förtroende att Lars-Erik åtalades för att ha tillverkat en kobolt-bomb, som man aldrig hittade.
+
+Peder återvänder till Anitas hus för att hämta sin anteckningsbok och hittar henne med halsen avskuren. På bordet ligger en hånfull lapp från Samuel. Han hinner precis ut innan huset exploderar i eld. En polisbil ser honom täckt av blod och han måste fly från dem till fots.
+
+Det är som om Peder plötsligt fattar att det är allvar. Han blir rädd.
+
+# Kapitel 20 #
+
+Håkan hälsar på Lars-Erik, som bekänner att Håkan har rätt om tillståndet i världen. Håkan slår fast att han är redo.
+
+# Kapitel 21 #
+
+Peder besöker den allvetande och berättar om Samuel. Den allvetande blir uppenbart bekymrad. Han berättar legenden om hur digerdöden startade och antyder att det var en man som låg bakom alltihop. De pratar också om speldosorna och den allvetande tipsar honom om att de kanske är nycklar och att de kanske måste låta dem spela samtidigt.
+
+Peder räknar ut vad allt handlar om och ringer upp Cecilia på studs. Cecilia har byggt en domedagsmaskin, avsedd att utplåna mänskligheten. Han har gjort det på uppdrag av de Tolv, efter profetian från flickan utan navel. De måste stoppa maskinen.
+
+Det visar sin att den tredje nyckeln, månen kanske inte har gått förlorad trots allt. Peder tror att den är inlåst bakom säkerhetsdörren i logeslokalen. Peder tar kontakt med en man som fixar utrustning för att kunna forcera låset.
+
+På väg hem märker Peder att en massa främlingar dumstirrar på honom. Är det Samuel som försöker skrämmas?
+
+# Kapitel 22 #
+
+Lars-Erik upptas bland Riddarna av det heliga lammet. Han doppar sitt pekfinger i mörkrött bläck.
+
+# Kapitel 23 #
+
+Peder och Cecilia bryter sin in i logen och hittar månen och en massa brev från Lars-Erik. Samuel dyker upp och hånar Peder. De avbryts av att poliser är på väg. Larmet har gått.
+
+Peder och Cecilia flyr till fots och undkommer. De tar sig tillbaka till Staffanstorp och provar att låta speldosorna spela tillsammans. Plötsligt framträder en igenkännbar melodi. De funderar över var domedagsmaskinen kan vara gömd och misstänker att något kamouflerat den.
+
+
