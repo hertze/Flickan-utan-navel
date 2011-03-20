@@ -18,6 +18,24 @@ layout: default
 	</div>
 	
 	{% unless forloop.last %}<hr />{% endunless %}
+	</div>
+	<div id="nav">
+	{% if paginator.previous_page %}
+		{% if paginator.previous_page == 1 %}
+			<a href="/">Nyare</a> &middot;
+		{% else %}
+			<a href="/page{{ paginator.previous_page }}/">Nyare</a>  &middot;
+		{% endif %}
+  	{% else %}
+			Nyare  &middot;    
+  	{% endif %}
+	{% if paginator.next_page %}
+		<a href="/page{{ paginator.next_page }}/">Äldre</a>
+	{% else %}
+		Äldre
+	{% endif %}
+	
+	
 </div>
 
 {% endfor %}
