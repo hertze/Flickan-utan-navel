@@ -1,0 +1,280 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font: 106.25% Calisto, Georgia;
+	background: #f4f4f2;
+	color: #382e24;
+}
+
+.clearfix:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+* html .clearfix {height: 1%;}
+
+#main {
+	width: 35em;
+	margin: 3em auto 1.5em auto;
+}
+
+#header {
+	width: 35em;
+	margin: 30px auto 0 auto;
+	height: 70px;
+	text-align: right;
+	background: url(/bilder/generic/logo-2011-v3.png) no-repeat right;
+}
+
+#footer-wrapper {
+	width: 100%;
+	background: #e5e4de;
+}
+
+#footer {
+	width: 35em;
+	margin: 0 auto;
+	padding: 1.5em 0;
+	line-height: 1.5em;
+}
+
+#legal {
+	width: 43.75em;
+	margin: 0 auto;
+	padding: 1.3em 0;
+	font: 0.8em/1.875em Helvetica, Arial, san-serif;
+	color: #bebdb8;
+}
+
+#legal a {
+	color: #9babcb;
+}
+
+#menu {
+	float: right;
+	margin: 45px 52px 0 0;
+	font: 14px/15px Helvetica, Arial, san-serif;
+}
+
+#menu li {
+	display: inline;
+	margin-right: 10px;
+}
+
+#menu a {
+	color: #bebdb8;
+}
+
+#menu a:hover {
+	color: #6a84b7;
+}
+
+.post {
+	margin: 3em 0;
+	line-height: 1.5em;
+}
+
+.archive { line-height: 1.5em; }
+
+.post p {
+	margin: 1.5em 0;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: 400;
+	line-height: 1.125em;
+	margin: 0.75em 0;
+}
+
+
+
+h2 {
+	font-size: 1.5em;
+	font-weight: 400;
+	line-height: 1.125em;
+	margin: 1.05em 0;
+}
+
+.post hr {
+	border: none;
+	height: 1px;
+	background-color: #d8d7d2;
+	margin-top: 1em;
+}
+
+.post sup, .post sub {
+	font-size: 0.8em;
+	line-height: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #6a84b7;
+}
+
+img {
+	border: none;
+}
+
+pre {
+	margin: 1.5em 0 1.5em 1.5em;
+	white-space: pre; /* CSS2 */
+	white-space: -moz-pre-wrap; /* Mozilla */
+	white-space: -hp-pre-wrap; /* HP printers */
+	white-space: -o-pre-wrap; /* Opera 7 */
+	white-space: -pre-wrap; /* Opera 4-6 */
+	white-space: pre-wrap; /* CSS 2.1 */
+	white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
+	word-wrap: break-word; /* IE */
+}
+
+code { 
+	font: 0.8em/1.875 "Monaco", Courier, mono;
+	color: #5c5751;
+}
+
+.post blockquote {
+	font-size: 0.9em;
+	line-height: 1.667em;
+	margin: 1.667em 0 1.667em 1.667em;
+}
+
+.typekit-badge {
+	display:none !important;
+}
+
+
+
+.footnotes {
+	font-size: 0.9em;
+	color: #7d776e;
+	line-height: 1.667em;
+	text-align: left;
+}
+
+.footnotes ol {
+	margin-bottom: 1.667em;
+}
+
+.footnotes p {
+	display: inline;
+}
+
+.footnotes hr {
+	width: 200px;
+	margin: 2.667em 0 0.667em 0;
+}
+
+.imagezoom {
+	position: relative;
+}
+
+.imagezoom span {
+	width: 30px;
+	height: 30px;
+	display: block;
+	position: absolute;
+	top: -15px;
+	left: -15px;
+	background: url(/bilder/generic/enlarge.png) no-repeat;
+}
+
+.imagezoom a, .imagezoom a:hover {
+	border: none;
+	background-color: inherit;
+}
+
+
+.archive ul {
+	list-style-type: none;
+	margin: 1.5em 0 1.5em 1.5em;
+}
+
+
+.archive-date {
+	color: #a4a39f;
+	font-size: 0.9em;
+	font-style: italic;
+	margin-left: 0.2em;
+}
+
+#footer #bild {
+	float: left;
+	width: 7em;
+}
+
+#footer #bild img {
+	margin-left: -25px;
+	margin-top: -50px;
+}
+
+#footer #text {
+	float: right;
+	width: 28em;
+}
+
+#footer form {
+	margin: 1em 0;
+}
+
+input[name="q"] {
+	width: 15em;
+	padding: 3px;
+	border: 1px solid #cbcac5;
+	font-size: 0.8em;
+}
+
+.caption {
+	font-style: italic;
+	color: #7d776e;
+}
+
+.archive ul li {
+	margin: 0.8em 0;
+}
+
+.archive ul.archivelist li {
+	margin: -0.5em 0;
+	padding: 0;
+}
+
+.fancy {
+	font-style: italic;
+	color: #a6a291;
+	font-size: 130%;
+	position: relative;
+	top: 0.15em;
+	right: 0.05em;
+}
+
+.imagezoom:after {
+	content:"(Click image to enlarge)";
+	color: #83776e;
+	display: block;
+	margin-top: -1em;
+	font-style: italic;
+	font-size: 0.8em;
+}
+
+.share {
+	margin-top: 1.5em;
+	margin-left: -1px;
+	margin-bottom: 1.5em;
+	height: 1.5em;
+}
+
+.share div {
+	display: inline;
+}
+
+.facebook {
+	position: relative;
+	top: -4px;
+}
