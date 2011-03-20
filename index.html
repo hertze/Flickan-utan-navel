@@ -20,4 +20,13 @@ layout: default
 	{% unless forloop.last %}<hr />{% endunless %}
 </div>
 
+<div class="github">
+	<script>
+	    $(function() {
+	        $('#github-commits').githubInfoWidget(
+	            { user: 'hertze', repo: 'Flickan-utan-navel', branch: 'master' });
+	    });
+	</script>
+</div>
+
 {% endfor %}
