@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Swedish Pixels</title>
+    <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}Flickan utan navel</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=720, maximum-scale=1.0" />
     <link rel="stylesheet" media="screen, projection" href="/css/screen.css" type="text/css">
@@ -21,9 +21,26 @@
 
  	<div id="main" class="clearfix">
       {{ content }}
+		 
+		<div id="nav">
+		{% if paginator.previous_page %}
+			{% if paginator.previous_page == 1 %}
+				<a href="/">Nyare</a> &middot;
+			{% else %}
+				<a href="/page{{ paginator.previous_page }}/">Nyare</a>  &middot;
+			{% endif %}
+	  	{% else %}
+				Nyare  &middot;    
+	  	{% endif %}
+		{% if paginator.next_page %}
+			<a href="/page{{ paginator.next_page }}/">Äldre</a>
+		{% else %}
+			Äldre
+		{% endif %}
+		</div>
     </div>
    	<div id="legal">
-		<p>&copy; 2001-{{ 'now' | date: "%Y" }} Joakim Hertze. Built with <a href="http://jekyllrb.com/">Jekyll</a>, hosted on <a href="http://github">GitHub</a>. Copy set in Calluna, ampersands on the highlights page in Apolline STD, menu in Helvetica and logotype in FF Dax Condensed.</p>
+		<p>&copy; {{ 'now' | date: "%Y" }} Joakim Hertze. Built with <a href="http://jekyllrb.com/">Jekyll</a>, hosted on <a href="http://github">GitHub</a>. Copy set in Helvetica and logotype in FF Dax Condensed.</p>
 	</div>
  </body>
 </html>

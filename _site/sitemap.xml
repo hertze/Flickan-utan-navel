@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+  <loc>http://flickanutannavel.se/</loc>
+  <lastmod>2011-03-20T19:04:56+01:00</lastmod>
+  <changefreq>hourly</changefreq>
+</url>
+
+<url>
+  <loc>http://flickanutannavel.se/arkiv/</loc>
+  <lastmod>2011-03-20T19:04:56+01:00</lastmod>
+  <changefreq>hourly</changefreq>
+</url>
+
+
+<url>
+  <loc>http://flickanutannavel.se/2011/03/test</loc>
+  <lastmod>2011-03-20T00:00:00+01:00</lastmod>
+  <changefreq>hourly</changefreq>
+</url>
+
+<url>
+  <loc>http://flickanutannavel.se/2011/03/test2</loc>
+  <lastmod>2011-03-18T00:00:00+01:00</lastmod>
+  <changefreq>hourly</changefreq>
+</url>
+
+<url>
+  <loc>http://flickanutannavel.se/2011/03/test3</loc>
+  <lastmod>2011-03-17T00:00:00+01:00</lastmod>
+  <changefreq>hourly</changefreq>
+</url>
+
+</urlset>
