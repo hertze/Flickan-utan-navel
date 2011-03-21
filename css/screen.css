@@ -26,10 +26,10 @@ body {
 }
 
 #header {
-	width: 26.9em;
+	width: 29.2em;
 	margin: 30px auto 0 auto;
 	line-height: 1.5em;
-	font-size: 1.3em;
+	font-size: 1.2em;
 	text-shadow: #675d56 1px 1px 2px;
 }
 
@@ -54,7 +54,7 @@ body {
 }
 
 #legal a {
-	color: #c4af69;
+	color: #ffaa63;
 }
 
 .post, .archive {
@@ -90,11 +90,14 @@ h2 {
 }
 
 #header p {
-	text-indent: -0.5em;
+	text-indent: -0.4em;
 }
 
 #header strong {
-	color: #c9c9da;
+	font-weight: normal;
+	font-style: normal;
+	color: #b8b8d8;
+	letter-spacing: 1px;
 }
 
 .post hr {
@@ -111,7 +114,7 @@ h2 {
 
 a {
 	text-decoration: none;
-	color: #f9d13d;
+	color: #ff8c2b;
 }
 
 .post a, .archive a {
@@ -178,7 +181,7 @@ code {
 
 
 .archive ul {
-	list-style-type: circle;
+	list-style-type: square;
 	margin: 1.5em 0 1.5em 1.5em;
 }
 

@@ -5,7 +5,15 @@ title: Archive
 
 <h1>Arkiv</h1>
 
-<p>This is the list of all {{ site.posts.size }} archived posts. You can always use <a href="#cse-search-box">the search field</a> at the bottom of any page. Also, if you&#8217;re not quite sure where to start, I would recommend having a look at <a href="/highlights">the highlights</a>.</p>
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="008173375598823628199:yvwmq79boli" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Sök" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=sv"></script>
 
 {% capture last_month %}{% endcapture %}
 {% capture this_year %}{{ 'now' | date: "%Y" }}{% endcapture %}
