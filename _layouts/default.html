@@ -15,14 +15,21 @@
   </head>
   <body>
     <div id="header">
-		<p>Jag försöker lära mig skriva romaner genom att skriva en roman. Kontakta mig via epost. {% if page.title %}<a href="/">Tillbaka till förstasidan.</a>{% endif %}{% unless page.title == 'Archive' %} Se alla tidigare notat i <a href="/arkiv">arkivet</a>.{% endunless %}</p>
+		<p><strong><p>&#8221;Flickan utan navel&#8221;</strong> är en blivande roman av Joakim Hertze. {% if page.title %}<a href="/">Tillbaka till förstasidan.</a>{% endif %}{% unless page.title == 'Archive' %} Se alla tidigare notat i <a href="/arkiv">arkivet</a>.{% endunless %}</p>
     </div>
 
  	<div id="main" class="clearfix">
       {{ content }}
     </div>
    	<div id="legal">
-		<p>&copy; {{ 'now' | date: "%Y" }} Joakim Hertze. Built with <a href="http://jekyllrb.com/">Jekyll</a>, hosted on <a href="http://github">GitHub</a>. Copy set in Helvetica and logotype in FF Dax Condensed.</p>
+		<img src="/bilder/moon.png" />
+		<p>&copy; {{ 'now' | date: "%Y" }} Joakim Hertze. Built with <a href="http://jekyllrb.com/">Jekyll</a>, hosted on <a href="http://github">GitHub</a>. Copy set in Helvetica. Background art by Gustave Doré</p>
 	</div>
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/jquery.backstretch.min.js"></script>
+	<script type="text/javascript">
+		$.backstretch("/bilder/bg.jpg", {speed: 150});
+	</script>
  </body>
 </html>

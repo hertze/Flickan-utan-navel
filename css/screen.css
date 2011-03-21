@@ -1,14 +1,13 @@
-/* @override http://localhost:4000/css/screen.css */
-
 * {
 	margin: 0;
 	padding: 0;
 }
 
 body {
-	background: #f4f4f2;
-	color: #382e24;
+	background: #100e0c;
+	color: #fffeff;
 	font: 106.25% "Helvetica";
+	
 }
 
 .clearfix:after {
@@ -27,11 +26,11 @@ body {
 }
 
 #header {
-	width: 29.2em;
+	width: 26.9em;
 	margin: 30px auto 0 auto;
-	height: 70px;
 	line-height: 1.5em;
-	font-size: 1.2em;
+	font-size: 1.3em;
+	text-shadow: #675d56 1px 1px 2px;
 }
 
 #footer-wrapper {
@@ -55,40 +54,20 @@ body {
 }
 
 #legal a {
-	color: #c5a687;
+	color: #c4af69;
 }
 
-#menu {
-	float: right;
-	margin: 45px 52px 0 0;
-	font: 14px/15px Helvetica, Arial, san-serif;
-}
-
-#menu li {
-	display: inline;
-	margin-right: 10px;
-}
-
-#menu a {
-	color: #bebdb8;
-}
-
-#menu a:hover {
-	color: #6a84b7;
-}
-
-.post {
+.post, .archive {
 	margin: 3em 0 1.5em 0;
 	line-height: 1.5em;
 	padding: 0.5em 2em;
-	background-color: #d8dad2;
 	-moz-border-radius: 15px;
 border-radius: 15px;
 	-webkit-border-radius: 15px;
 border-radius: 15px;
+	color: #000;
+	background: rgba(186,186,200,0.75) no-repeat right bottom;
 }
-
-
 
 .archive { line-height: 1.5em; }
 
@@ -103,13 +82,19 @@ h1 {
 	margin: 0.75em 0;
 }
 
-
-
 h2 {
 	font-size: 1.5em;
 	font-weight: 400;
 	line-height: 1.125em;
 	margin: 1.05em 0;
+}
+
+#header p {
+	text-indent: -0.5em;
+}
+
+#header strong {
+	color: #c9c9da;
 }
 
 .post hr {
@@ -126,7 +111,12 @@ h2 {
 
 a {
 	text-decoration: none;
-	color: #d69434;
+	color: #f9d13d;
+}
+
+.post a, .archive a {
+	color: #fffeff;
+	text-shadow: #7c7a95 1px 1px 2px;
 }
 
 img {
@@ -188,15 +178,15 @@ code {
 
 
 .archive ul {
-	list-style-type: none;
+	list-style-type: circle;
 	margin: 1.5em 0 1.5em 1.5em;
 }
 
 
 .archive-date {
-	color: #a4a39f;
+	color: #595969;
 	font-size: 0.9em;
-	font-style: italic;
+	
 	margin-left: 0.2em;
 }
 
@@ -282,4 +272,11 @@ input[name="q"] {
 #nav {
 	width: 35em;
 	margin: 0 auto;
+	text-shadow: #675d56 1px 1px 2px;
+}
+
+#legal img {
+	float: right;
+	margin-top: -20px;
+	
 }
