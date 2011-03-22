@@ -111,13 +111,37 @@ Peder satt framåtlutad vid sitt skrivbord på Sydsvenska dagbladet med hakan st
 
 Det surrade av ljud från kontorslandskapet omkring honom. Han hörde klickandet av tangenter blandas med telefonsamtal. Över kanten på skärmarna som begränsade hans arbetsyta såg han överdelen av kollegors huvuden. Där var Gunnar på kulturdelen, med sin sensationella överkamning, Kristin på sporten, som aldrig tvättade håret och den där blonda tjejen till praktikant, som han aldrig mindes namnet på. Alla satt de i sina bås, med blicken fäst vid sina datorskärmar. Trots att det nästan var lunchtid orkade den bleka februarisolen knappt lysa in genom fönstren.
 
-Peder slog igen skärmen till sin dator, lyfte den fasta telefonen och slog ett nummer. Efter sju signaler kom han fram till en telefonsvarare.
+Peder låste datorn och slog igen skärmen. Sedan lyfte han luren till bordstelefonen och slog ett nummer. Efter sju signaler kom han fram till en telefonsvarare.
 
 "Hej, Jessica. Det är jag igen. Peder. Du -- kan vi inte prata om det här? Jag förstår verkligen inte vad som har hänt. Ring mig -- snälla. Jag finns på mobilen."
 
 Han la på och kliade sig i skäggstubben.
 
 "Helvete", sa han tyst.
+
+Nackmusklerna kändes strama, som om han var på väg att få nackspärr. Han gned handen mot ena kappmuskeln och reste sig från skrivbordet. Benen var också stela.
+
+"Gud, jag är som en gammal gubbe", sa han för sig själv och haltade bort genom kontorsbåsen, mot vattenkylaren i korridoren. Han lossade en plastmugg, fyllde den och slukade det kalla vattnet i några stora klunkar. Sedan fyllde han muggen igen. Han såg på kondensen, som bildade små pärlor av vatten på utsidan av plastbehållaren. Han petade till med pekfingret, så några vattenpärlor smälte samman, absorberade fler och fler av grannarna, tills de bildade en droppe som var tung nog att rinna nerför behållaren. *Allt som behövs är en liten utlösande hädelse*, tänkte han. *En liten knuff i rätt riktning.*
+
+"Vågar du dricka från den där?" sa en röst bakom honom.
+
+Peder ryckte till och torkade fingret mot byxorna. Det var Agneta, bildredaktören som bara hade två uppsättningar kläder. Idag hade hon grön tröja och lila kjol. *Jämn vecka, alltså.*
+
+"Hur så?" sa Peder och såg ner i sin mugg.
+
+"Det finns ju E. Coli i sådana där behållare."
+
+"E. Coli?"
+
+"Tarmbakterier. Det är ju aldrig någon som diskar apparaten."
+
+"Det tror jag inte på", sa Peder.
+
+Agneta ryckte på axlarna.
+
+"Skyll dig själv."
+
+Peder knycklade ihop muggen och kastade den i papperskorgen. *Idiot*, tänkte han och gick tillbaka till sitt bås. Han höll huvudet sänkt. Datorn vaknade från viloläget och han skrev in lösenordet.
 
 Jesper stack upp sitt huvud över kanten på ena avdelaren.
 
