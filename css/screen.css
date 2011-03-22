@@ -103,7 +103,7 @@ h2 {
 .post hr {
 	border: none;
 	height: 1px;
-	background-color: #d8d7d2;
+	background-color: #767676;
 	margin-top: 1em;
 }
 
@@ -157,13 +157,17 @@ code {
 
 .footnotes {
 	font-size: 0.9em;
-	color: #7d776e;
+	color: #58585f;
 	line-height: 1.667em;
 	text-align: left;
 }
 
 .footnotes ol {
 	margin-bottom: 1.667em;
+}
+
+.footnotes li {
+	margin-left: 1.3em;
 }
 
 .footnotes p {

@@ -1,0 +1,14 @@
+---
+title: Början
+layout: post
+---
+
+Jag har skrivit på romanen *Flickan utan navel* i drygt ett och ett halvt år och har ett färdigt "shitty first draft"[^1] liggande. Det är andra gången jag nått så här långt med ett romanförsök. Förra gången var det första utkastet så genom*shitty* att jag begravde alltihop efter första genomläsningen. Den här gången skulle jag vilja gå hela vägen och faktiskt skriva ett manus som jag själv tycker är tillräckligt bra för att försöka få utgivet.
+
+För att det ska bli verklighet behöver manuset arbetas om ett par gånger, vilket tar emot. Som vanligt har jag hunnit bli så trött på historien att jag hellre överger den och börjar på något nytt. Tyvärr är det en värdelös strategi om man någonsin vill producera ett presentabelt verk.
+
+Den här gången försöker jag något nytt. Jag har bestämt mig för att skriva romanen med skynket undandraget, med förhoppningen att det sociala trycket ska ge mig en knuff i rätt riktning. Hela manuset finns på [GitHub](https://github.com/hertze/Flickan-utan-navel), fritt för alla att läsa. Jag planerar också att regelbundet publicera korta uppdateringar på den här sidan.
+
+Så, nu börjar vi.
+
+[^1]: En term som myntades av Anne Lamott i boken *Bird ny Bird*.
