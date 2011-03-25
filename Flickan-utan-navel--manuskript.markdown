@@ -403,57 +403,63 @@ Så här kan det inte fortsätta. Jag står inte ut.
 
 ### Chefredaktören, Peder flyr från vakten ##
 
-Dörren vräktes upp och slog i väggen med en smäll. Luftdraget blåste en hög med pappersark av skrivbordet och fick gardinerna framför fönstret att bölja. Peder rusade in. Han hade en stor brun fläck över hela bröstet och det våta tyget klibbade mot huden när han rörde sig. Hans blonda kalufs var rufsig och hans ögon rödsprängda. Han höll en hoprullad tidning i ena handen.
+Dörren vräktes upp och slog i väggen med en smäll. Luftdraget fick gardinerna framför fönstret att bölja och en hög papper virvlade upp från skrivbordet och spreds över golvet. Peder rusade in, med en stor kaffefläck över hela bröstet. Det våta tyget klibbade mot huden när han rörde sig. Han höll en hoprullad tidning i ena handen.
 
 "Vad i helvete menar du med det här?" skrek han.
 
-Bakom skrivbordet satt en gråhårig man med glasögonen nerkasade på nästippen. Han lutade sig tungt tillbaka i stolen, rynkade ögonbrynen och kisade. Bakom honom strilade det bleka februariljuset in mellan persiennerna. 
+Bakom skrivbordet satt en gråhårig man med glasögonen på nästippen. Han lutade sig tungt tillbaka i stolen, rynkade pannan och kisade. Bakom honom strilade det bleka februariljuset in mellan persiennerna.
 
 "Jaha, här kommer du", sa han och föste upp glasögonen mot näsroten.
 
-"Det kan du ge dig fan på! Var är min story?"
+"Var är min story?"
+
+Peder var röd och svullen kring ögonen. Pannan var blank av talg.
 
 "Vilken story?"
 
 "Den som skulle med i dagens upplaga! Den som absolut var tvungen att vara med i dagens upplaga!"
 
-Den blonde mannen lyfte den hoprullade tidningen över huvudet och kastade den med full kraft mot mannen bakom skrivbordet. Den träffade honom i pannan och slog av glasögonen. Huvudet rycktes bakåt av smällen. Den gråhåriga mannen satt först alldeles stilla, med ett häpet uttryck i ansiktet. Sedan böjde han sig ner och plockade upp glasögonen från golvet.
+Han kastade den hoprullade tidningen mot mannen bakom skrivbordet och träffade honom i pannan. Huvudet rycktes bakåt av smällen och glasögonen flög av. Den gråhåriga mannen satt först alldeles stilla, med ett häpet uttryck i ansiktet. Sedan böjde han sig ner och plockade upp glasögonen från golvet.
 
 "Peder, för fan", mumlade han tyst.
 
-"Sixten, jag trodde du var på min sida!" skrek den ljushåriga mannen vid dörren. Underläppen darrade och en salivsträng töjdes mellan tänderna. Han drog händerna genom sitt hår. T-tröjan hade mörka fläckar över armhålorna.
+"Sixten, jag trodde du var på min sida!" skrek Peder. Underläppen darrade och en salivsträng töjdes mellan tänderna. Han drog händerna genom sitt hår.
 
 "Jag trodde du var på min sida."
 
-"Peder, jag *är* på din sida. Jag kunde inte trycka din story. Du hade fått ett helvete, jag hade fått ett helvete. Vi hade blivit polisanmälda för förtal. Du vet mycket väl hur det fungerar."
+"Peder, jag *är* på din sida. Jag kunde inte trycka din story. Du hade fått ett helvete, jag hade fått ett helvete. Vi hade blivit polisanmälda för förtal. Du vet mycket väl hur det här fungerar."
 
-Peder tittade rakt mot Sixten. Hans pupiller vidgades och gjorde ögonen svarta.
+Peder tittade rakt mot Sixten, med pupiller som svarta hål.
 
 "Det skiter väl jag i. Är vi inte en nyhetstidning? Är det inte vårt jobb att förmedla sanningen, oavsett konsekvenserna?"
 
-"Var inte barnslig, Peder. Vi måste ha på fötterna. Du har ju inte en enda namngiven källa för dina påståenden. Hela historien är osannolik. Det är mitt ansvar att sätta stopp."
+"Var inte naiv, Peder. Vi måste ha på fötterna. Du har ju inte en enda namngiven källa för dina påståenden. Hela historien är osannolik. Det är mitt ansvar att sätta stopp."
 
-Peder knöt sina nävar. Han rusade fram till skrivbordet och böjde sig över skivan. Sixten sjönk bakåt ner i stolen.
+Peder knöt sina nävar. Han rusade fram till skrivbordet och böjde sig fram över bordsskivan. Sixten sjönk bakåt, ner i stolen.
 
-"Jag *har* på fötterna!", skrek Peder. Han stödde sig på knogarna. Saliv droppade på vita pappersark.
+"Jag *har* på fötterna!", skrek Peder. Han stödde sig på knogarna. Saliv droppade på pappersarken.
 
 "Sluta, Peder. Gör inte så här. Inte igen."
 
-"Sluta? Jag tänker fan inte sluta! Sanningen skall ut!" 
+"Sluta? Jag tänker fan inte sluta! Sanningen måste ut!" 
 
-Peders röst var gäll, hans ögon uppspärrade. Sixten rullade åt sidan och kom ur stolen och ner på golvet. Han kröp bort mot en bokhylla i hörnet av rummet och kurade in sig i hörnet. Peder följde efter och ställde framför honom, med knutna nävar. Sixten drog upp knäna och skyddade ansiktet med händerna.
+Peders röst var gäll, hans ögon uppspärrade. Han tog tag i kavajslaget och drog den gråhåriga mannen mot sig. Sixten ryckte sig loss, rullade åt sidan och kom ur stolen och ner på golvet. Han kröp bort mot en bokhylla i hörnet av rummet och kurade in sig mot väggen. Peder följde efter och stod över honom, med knutna nävar.
+
+"Peder, gör det inte. Slå mig inte."
+
+Han drog upp knäna mot hakan och skyddade ansiktet med händerna.
 
 "Hallå, vad händer här?"
 
-En Securitasvakt stod i dörröppningen. Han höll handen på batongen i bältet. Sixten slöt ögonen och andades häftigt.
+En Securitasvakt stod i dörröppningen, med handen på batongen i bältet. Sixten slöt ögonen och andades häftigt.
 
 "Tack gode gud", sa han tyst. 
 
-Han reste sig upp på fötter.
+Peder backade ett par steg och såg först på vakten, sedan på sin chefsredaktör. Sixten tog stöd mot väggen och kom på fötter. Hans kläder var skrynkliga.
 
-"Vill du vara vänlig att följa med Peder ut? Vi är färdiga här."
+"Vill du vara vänlig att följa med Peder ut?", sa han. "Vi är färdiga här."
 
-Peder såg från Sixten till vakten i dörrhålet.
+Peder knöt nävarna igen.
 
 "Peder, du behöver ledigt. Jag vill inte se dig här igen förrän du lugnat dig. Ring din läkare, eller åk till sjukhuset. Gör något innan det blir värre."
 
@@ -463,43 +469,47 @@ Peder såg från Sixten till vakten i dörrhålet.
 
 "Du hörde honom", sa vakten. "Kom."
 
-Han spände ut bröstet. Svett fuktade överläppen. Peder sänkte huvudet och iakttog honom under lugg.
+Rösten sprack när han talade. Han harklade sig och spände ut bröstet. Peder sänkte huvudet och iakttog honom under lugg.
 
 "Tror du att du kan ta mig?" frågade han.
 
 "Va?" sa vakten. Han skiftade tyngden från ben till ben. 
 
-Peder stod stilla. Rummet var alldeles tyst. En telefon ringde i rummet utanför. Signal efter signal. Ingen svarade. Peder log ett trött leende, tog sats och började springa mot dörren.
+Peder försökte tänka efter, men tankarna tog omvägar genom huvudet. Skulle han ge upp? Vågade han det? *Aldrig i livet.* Vakten var ung, men storväxt. Det fanns ingen chans att han bara skulle kunna smita förbi honom. *Ett annat sätt, då*. En telefon ringde i rummet utanför. Signal efter signal. Ingen svarade. Vakten flackade med blicken. Peder log ett trött leende, tog sats och började springa mot dörren.
 
-Vakten såg förvånad ut. Han fumlade med knäppningen till hölstret och hann dra upp batongen till hälften, innan Peder träffade honom med en knuten näve rakt i mellangärdet. Vakten gav ifrån sig ett brölande läte när luften slogs ur lungorna. Han föll bakåt mot ena dörrkarmen, men båda händerna tryckta mot magen. Munnen öppnades och slöts som en fisks, när han kämpade efter luft. Peder tryckte undan hans kropp och fortsatte ut i kontorslandskapet på andra sidan dörröppningen.
+Vakten såg förvånad ut. Han fumlade med knäppningen till hölstret och hann dra upp batongen till hälften, innan Peder träffade honom med huvudet rakt i mellangärdet. Vakten gav ifrån sig ett brölande läte när luften slogs ur lungorna. Han föll bakåt mot ena dörrkarmen, men båda händerna tryckta mot magen. Munnen öppnades och stängdes som en fisks, när han kämpade efter luft. Peder tryckte undan hans kropp och fortsatte ut i kontorslandskapet på andra sidan dörröppningen.
 
-Han stannade upp och såg ut över rummet. Peders kollegor var som fastfrusna. En radio skrålade på ett bord. På väggen visade en tv-skärm nyheter från CNN. I andra ändan av rummet, borta vid kopiatorn, riktade en av fotograferna en kamera mot honom. Peder kunde höra slutaren smattra.
+Han stannade upp och såg ut över rummet. Kollegorna var som fastfrusna. En radio skrålade på ett bord. På väggen visade en tv-skärm nyheter från CNN. Den blonda praktikanten gapade så tuggummit föll ur och studsade ner på mattan. I andra ändan av rummet, borta vid kopiatorn, riktade en av fotograferna en kamera mot honom. Peder kunde höra slutaren smattra.
 
-Bakom honom reste sig vakten upp på fötter.
+Bakom honom reste sig vakten upp på knä.
 
-"Din jävel", sa han. Andningen lät ansträngd. "Ring polisen! Ring polisen, någon!"
+"Din jävel", sa han. Andningen var ansträngd. "Ring polisen! Ring polisen, någon!"
 
-Peder satte fart igen. Han sprang rakt in bland båsen och välte en av skärmarna. En kvinna i brun skinnjacka skrek och kastade sig ner på golvet. Hon kastade sin kopp ifrån sig och den flög genom luften med en svans av kaffe. Peder hoppade över skrivbordet i båset intill och råkade sparka till datorskärmen, som föll till golvet med ett brak. Han fortsatte ut i mittgången och zick-zackade sig fram mellan båsen. Vakten började få upp farten bakom honom. Hans kängor dunsade mot golvet.
+Peder satte fart igen. Han sprang rakt in bland båsen och välte en av textilskärmarna. En kvinna i brun skinnjacka skrek och kastade sig ner på golvet. Hennes kopp flög genom luften med en svans av kaffe. Peder hoppade över skrivbordet i båset intill och råkade sparka till datorskärmen, som föll till golvet med ett brak. Han fortsatte ut i mittgången och zick-zackade sig fram mot andra ändan av rummet. Vakten började få upp farten bakom honom. Hans kängor smällde mot golvet.
 
 "Stoppa honom!"
 
-Peder fortsatte förbi kopiatorn och ut i korridoren som ledde mot trapphuset. Fotografen kastade sig åt sidan, men kameran fortsatte smattra. En man i rutig skjorta och hornbågade glasögon stod vid vattenkylaren. Han slängde sin mugg på golvet och tryckte sig platt mot väggen. Peder sprang förbi honom, men halkade i vattenpölen på golvet. Bakhuvudet slog i golvet med en smäll när han landade på rygg och gled in i väggen. Han slog i med skuldran och blev liggande. Bröstkorgen värkte och gjorde det svårt att andas. Huvudet pulserade, han kände sig omtöcknad och illamående.
+Peder rusade förbi kopiatorn och ut i korridoren som ledde mot trapphuset. Fotografen kastade sig åt sidan, men kameran fortsatte smattra. En man i rutig skjorta och hornbågade glasögon stod vid vattenkylaren. Han vaknade till från sin förstening, slängde sin mugg på golvet och tryckte sig platt mot väggen. Peder halkade i vattenpölen på golvet. Bakhuvudet slog i golvet med en smäll och han gled på rygg rakt in i väggen. Bröstkorgen värkte och det var svårt att få luft. Stjärnor dansade för ögonen och ett illamående växte i magen.
 
-Tunga steg närmade sig. Upprörda röster larmade i bakgrunden. Peder hävde sig upp på fötter och fortsatte ut mot hissarna. Ingen av hissarna väntade. Peder tryckte på knappen till bägge två, men inget hände. 
+Tunga steg närmade sig. Upprörda röster larmade i bakgrunden. Peder hävde sig upp på fötter och fortsatte ut till trapphuset. Ingen av hissarna väntade. Han tryckte på knappen till bägge två. 
 
-"Kom igen!"
+"Kom igen! Kog igen, då?"
 
-Steg närmade sig i korridoren. Han sprang mot dörren som ledde till trapphuset, tryckte ner handtaget och drog. Den rörde sig inte. 
+Siffrorna på displayerna rörde sig inte. Han bankade på knapparna med näven.
 
-"Helvete!" Han svor mellan tänderna. 
+"Fan!"
 
-Han såg sig omkring. Det fanns en dörr till på andra sidan rummet. Peder började springa och hade hunnit halvvägs när vakten rusade in i hisshallen. 
+Steg närmade sig i korridoren. Han sprang mot dörren som ledde till trapporna, tryckte ner handtaget och drog. Den rörde sig inte.
+
+"Nej, nej, nej!" 
+
+Han såg sig omkring. Det fanns en dörr till på andra sidan rummet. Sulorna skrek mot golvet när Peder började springa. Han hade hunnit halvvägs när vakten rusade in i hisshallen. 
 
 "Stanna, din jävel!"
 
-Vakten kastade sig ner på golvet, gled mot Peder och sparkade undan hans ben. Peder landade på rygg och vakten kastade sig över honom, rullade över honom på mage och tryckte ner honom mot marken. Peder hade svårt att andas under hans tyngd. Hans armar var låsta på ryggen och han kände ett knä i ryggslutet.
+Vakten kastade sig ner på golvet, gled mot Peder och sparkade undan hans ben. Peder landade på rygg och vakten kastade sig över honom, rullade över honom på mage och tryckte ner honom mot marken. Bröstkorgen trycktes samman under tyngden. Hans armar var låsta på ryggen och han hade ett knä i ryggslutet.
 
-"Nu har jag dig, ditt lilla sicko."
+"Nu har jag dig, din sjuka jävel!"
 
 "Släpp mig", väste Peder.
 
@@ -510,9 +520,9 @@ Polissirener närmade sig från fjärran.
 
 ### Peder hämtas av polis, tas in på psyk akut och vidare till avdelning, och hamnar i ett självmord ###
 
-Peder försökte vrida loss, men vakten höll honom tryckt mot golvet tills två poliser klev ur en av hissarna. En lite folksamling hade hunnit bildas i hisshallen. Sixten gick fram och pratade med den ena polisen, men Peder kunde inte höra vad hans sa. Sedan satte de handfängsel på Peder och tog med honom ner.
+Peder försökte vrida loss, men vakten höll honom tryckt mot golvet tills två poliser klev ur en av hissarna. En liten folksamling hade hunnit bildas i hisshallen. Sixten gick fram och pratade tyst med den ena polisen. Sedan satte de handfängsel på Peder och tog med honom ner.
 
-Från baksätet på radiobilen försökte han prata allvar med poliserna, men de svarade knappt. Han hade svårt att tänka klart, ansiktet blossade. *Varför är folk så sabla dumma? Ser de inte vad som pågår? Om Sixten är inblandad, vem kan jag då lita på?* Han var fortfarande förbannad när bilen svängde in framför entrén till ingång 56 på Universitetssjukhuset MAS.
+Från baksätet på radiobilen försökte han prata med poliserna, men de svarade knappt. Ansiktet blossade. *Varför är folk så sabla dumma? Ser de inte vad som pågår? Om Sixten är inblandad, vem kan jag då lita på?* Han var fortfarande förbannad när bilen svängde in framför entrén till ingång 56 på Universitetssjukhuset MAS. Den ena polismannen klev ur och öppnade dörren till Peder.
 
 "Ni måste skämta. Psyk akut?"
 
@@ -520,19 +530,17 @@ Från baksätet på radiobilen försökte han prata allvar med poliserna, men de
 
 "Glöm det."
 
-Peder klev ur bilen och började gå mot ut mot vägen igen, men en av polismännen la händerna på hans axlar, vred honom runt och puttade honom mot dörren. De gick uppför en trappa och ringde på dörren. En vitklädd kvinna öppnade och visade in dem. Peder och de två poliserna fick vänta i ett avskilt rum, tills en skötare kom. Peder visiterades och fick lämna ifrån sig sin plånbok, sina nycklar, sina skosnören och sitt bälte. Hjärtat slog fort, pulsslagen ekade i huvudet. Rummet tycktes krympa.
+Peder klev ur bilen och började gå mot ut mot vägen igen, men polismannen la händerna på hans axlar, vred honom runt och puttade honom mot dörren. De gick uppför en trappa och ringde på dörren. En vitklädd kvinna öppnade och visade in dem. Peder och de två poliserna fick vänta i ett avskilt rum, tills en skötare kom. Peder visiterades och fick lämna ifrån sig sin plånbok, sina nycklar, sina skosnören och sitt bälte. Hjärtat slog fort, pulsslagen ekade i huvudet. Rummet tycktes krympa.
 
 En dryg timme senare kom en ung kvinnlig läkare, i en alldeles för stor läkarrock, in i rummet och presenterade sig. Peder uppfattade inte namnet. Hon frågade vad som hade hänt och han berättade sin historia. Hon frågade om han kunde tänka sig att stanna på sjukhus och ta medicin.
 
 "Varför då? Jag är inte sjuk, förstår du inte det?" hade Peder svarat.
 
-Den unge läkaren började prata om vårdintyg och Peder kände musklerna spänna sig igen. *De tänker låsa in mig. De tänkte fan-ta-mig låsa in mig. Jävla idioter!* Peder bet ihop käkarna och stirrade ner i golvet. Han knöt nävarna tills knogarna vitnade. 
+Den unge läkaren började prata om vårdintyg och Peder kände musklerna spänna sig igen. *De tänker låsa in mig. De tänkte fan-ta-mig låsa in mig. Jävla idioter!* Peder bet ihop käkarna och stirrade ner i golvet.
 
-När natten föll värkte käkarna av muskelspänningen. Han satt på sin säng i en två-sal. Hans rumskompis snarkade i sängen bredvid. Dörren ut till korridoren var stängd, men vitklädda män och kvinnor tittade in genom ett runt fönster med jämna mellanrum. I ett annat rum skrek en kvinna på ett utländskt språk. Någon bankade i en vägg, en larmsignal ljöd och Peder hörde ljudet av springande fötter. Han la sig ner på sängen och la kudden över huvudet. 
+När natten föll värkte käkarna av muskelspänningen. Han satt på sin säng i en två-sal och stirrade upp i taket. Hans rumskompis snarkade i sängen bredvid. Dörren ut till korridoren var stängd, men vårdpersonal tittade in genom ett runt fönster med jämna mellanrum. Längre bort i korridoren skrek en kvinna på ett utländskt språk. Någon bankade i en vägg, en larmsignal ljöd och Peder hörde ljudet av springande fötter. Han la sig ner på sängen och la kudden över huvudet. 
 
-Peder stirrade ut i mörkret i flera timmar. Vid tio-tiden kom nattsköterskan in och erbjöd honom en sömntablettt. Han tackade nej och vände sig bort.
-
-Han hade fortfarande inte somnat, när gryningsljuset trängde in genom det lilla gallerförsedda fönstret. Han satte sig upp på sängkanten. Huvudet kändes tungt, benen domnade.
+Peder stirrade ut i mörkret i flera timmar. Vid tio-tiden kom nattsköterskan in och erbjöd honom en sömntablettt. Han tackade nej och vände sig bort. Han hade fortfarande inte somnat, när gryningsljuset trängde in genom det lilla gallerförsedda fönstret. Han satte sig långsamt upp på sängkanten. Huvudet kändes tungt, benen domnade.
 
 Han gläntade på dörren och gick ut ur rummet. Korridoren utanför var öde. En TV-apparat stod påslagen i lunchrummet. På soffan låg en vitklädd vårdare och sov. Peder gick vidare mot sjuksköterskeexpeditionen.
 
@@ -548,7 +556,7 @@ Peder gick tillbaka till lunchrummet och tog en tom kaffekopp från den rostfria
 
 Vårdaren mumlade något ohörbart och gick därifrån. Peder slog sig ner i den uppvärmda soffan. På TV:n skvalade Nyhetsmorgon på TV4.
 
-Peder hann dricka två koppar kaffe till, innan han blev hämtad till överläkarsamtalet. Han visades in i ett litet rum, möblerat med ett skrivbord och två stolar. En kortvuxen kvinna med vitt hår och läkarrock presenterade sig och bad honom sitta ner. Hon pratade med en tydlig polsk brytning.
+Peder hann dricka två koppar kaffe till, innan han blev hämtad till överläkarsamtalet. Han visades in i ett litet rum, möblerat med ett skrivbord och två stolar. En kortvuxen kvinna med vitt hår och läkarrock presenterade sig och bad honom sitta ner. Hon bröt på polska.
 
 Peder bliv irriterad när hon frågade samma frågor som läkaren ställt dagen innan. Han vred sig i stolen, foten skrapade i golvet.
 
@@ -566,15 +574,17 @@ Peder tvekade.
 
 "Om du inte pratar med mig kan jag inte hjälpa dig", sa läkaren. Hon la huvudet på sned.
 
-Peder berättade om sin story. Han berättade hur en hemlig förgrening av Frimurarordern infiltrerat alla viktiga maktstrukturer i Sverige och hur nätet sträckte sig ända upp på regeringsnivå. Han la fram bevis för hur denna sammanslutning dikterat alla viktiga beslut i det här landet de senaste trettio åren. Det var upp till honom att föra fram detta i ljuset.
+Peder suckade och berättade om sin story. Han berättade hur en hemlig förgrening av Frimurarordern infiltrerat alla viktiga maktstrukturer i Sverige och hur nätet sträckte sig ända upp på regeringsnivå. Han la fram bevis för hur denna sammanslutning dikterat alla viktiga beslut i det här landet de senaste trettio åren. Det var upp till honom att föra fram detta i ljuset.
 
-Läkaren bet sig i läppen och satt tyst. Peder började känna sig rädd. Hade han sagt för mycket? Tänk om hon också var inblandad?
+Läkaren bet sig i läppen och satt tyst. Peder började känna sig rädd. Hade han sagt för mycket?
+
+Hon klickade med sin kulspetspenna.
 
 "Peder, det är min uppfattning att du behöver stanna hos oss för att få psykiatrisk vård. Jag tänker godkänna vårdintyget och ta in dig för tvångsvård."
 
-Peder kände sig bedövad. Läkaren berättade hur han skulle bära sig åt för att överklaga, men han hörde inte på. Nätet hade dragits åt. Han var fast.
+Peder kände sig som bedövad. Läkaren berättade hur han skulle bära sig åt för att överklaga, men han hörde inte på. Nätet hade dragits åt. Han var fast.
 
-Benen bar honom knappt när vårdaren hjälpte honom upp ur stolen och ut ur rummet. Han höll sig i väggen när han gick tillbaka till sitt rum och la sig på sin säng. Han vägrade stiga upp för att äta lunch och han hoppade över kvällsmaten. När skymningen föll låg han kvar på sin säng och stirrade i taket. Magen värkte av hunger, skinkorna var domnade. Till slut drev han bort i sömn, utan att drömma.
+Benen bar honom knappt när vårdaren hjälpte honom upp ur stolen och ut ur rummet. Han höll sig i väggen när han gick tillbaka till sitt rum och la sig på sin säng. Han vägrade stiga upp för att äta lunch och han hoppade över kvällsmaten. När skymningen föll låg han kvar på sin säng och stirrade i taket. Magen värkte av hunger och skinkorna var domnade. Till slut drev han bort i sömn, utan att drömma.
 
 Han väcktes av en skötare, som ruskade honom i skuldran.
 
@@ -582,7 +592,7 @@ Han väcktes av en skötare, som ruskade honom i skuldran.
 
 Peder steg upp utan att säga ett ord och gick ut och drack kaffe. Han försåg sig av bröd och smör, men struntade i den rumsvarma osten. Sedan eskorterades han ut från avdelningen och via en hiss upp till avdelning 87. Skötaren drog sitt kort i läsaren och de gick in. 
 
-På andra sidan dörren var ett tumult. Sköterskor och skötare sprang genom korridoren in till ett rum längre ner. Larmet ljöd och en display i taket visade nummer 12 i blinkande röd LED-skrift. Män och kvinnor i ljusblå och vita patientkläder vankade av och an. Några pratade oroligt för sig själva, andra vred sina händer. En man med grått helskägg satt i en fåtölj vid väggen och skrattade hysteriskt.
+På andra sidan dörren var ett tumult. Sköterskor och skötare sprang genom korridoren in till ett rum längre ner. Larmet ljöd och en display i taket visade nummer 12 i blinkande röd LED-skrift. Män och kvinnor i ljusblå patientkläder vankade av och an. Några pratade oroligt för sig själva, andra vred sina händer. En man med grått helskägg satt i en fåtölj vid väggen och skrattade hysteriskt.
 
 Skötaren som följt med Peder haffade en av sina kollegor i armen.
 
@@ -606,11 +616,11 @@ Peder ställde sig på tå och kikade över huvudena. I mörkret såg han en sä
 
 Två grönklädda personer trängde sig igenom folkmassan. En av dem bar en blå väska.
 
-Peder gick därifrån och satte sig i en röd soffa, som stod utanför sjuksköterskeexpeditionen. Där satt han i närmare en timme, innan en sköterska kom fram till honom.
+Peder gick därifrån och satte sig i en röd soffa, som stod utanför sjuksköterskeexpeditionen. Där satt han i närmare en timme och såg på folket som kom och gick. Till slut kom en sköterska kom fram till honom.
 
 "Är det Peder? Jag beklagar att du fått vänta. Vi har haft det lite körigt."
 
-Hon såg trött ut. Peder tog hennes utsträckta hand.
+Hon såg trött ut. Peder skakade hennes utsträckta hand.
 
 "Jag heter Inger. Välkommen till oss. Jag hoppas att du skall trivas här."
 
