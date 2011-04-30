@@ -1,9 +1,16 @@
-Title:		Flickan utan navel 
-Author:		Joakim Hertze
-Copyright:	Joakim Hertze
-Language:	Swedish
-LaTeX XSLT:	utkast.xslt
-XHTML XSLT:	xhtml-epub.xslt
+latex input:		manus-header-utkast
+Title:				Flickan utan navel 
+Author:				Joakim Hertze
+Copyright:			Joakim Hertze
+MyAddress:			Porfyrvägen 5  
+					245 45 Staffanstorp  
+					joakim@hertze.com
+MyWordcount:		60000
+Quotes Language:	Swedish
+Base Header Level:	2
+latex input:		manus-begin-doc
+latex footer:		manus-footer
+
 
 
 # Brädet är uppställt och pjäserna sätts i rörelse #
@@ -254,7 +261,7 @@ Peder nickade.
 
 "Som du vill."
 
-Peder rakade upp det sista av såsen och riset på gaffeln och stoppade det i munnan. Sedan lämnade de tallrikarna på bordet, tog på ytterkläderna och gick ut i vinterkylan igen. Kinamaten låg som en klump i magen när de raskt gick tillbaka.
+Peder rakade upp det sista av såsen och riset på gaffeln och stoppade det i munnen. Sedan lämnade de tallrikarna på bordet, tog på ytterkläderna och gick ut i vinterkylan igen. Kinamaten låg som en klump i magen när de raskt gick tillbaka.
 
 "Jag ska ha kaffe", sa Jesper i hisshallen i Sydsvenskanskrapan. "Du?"
 
