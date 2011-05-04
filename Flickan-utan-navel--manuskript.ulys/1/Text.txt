@@ -1,0 +1,12 @@
+latex input:			manus-header-utkast
+Title:					Flickan utan navel 
+Author:				Joakim Hertze
+Copyright:				Joakim Hertze
+MyAddress:				Porfyrvägen 5  
+						245 45 Staffanstorp  
+						joakim@hertze.com
+MyWordcount:			60000
+Quotes Language:		Swedish
+Base Header Level:	2
+latex input:			manus-begin-doc
+latex footer:			manus-footer

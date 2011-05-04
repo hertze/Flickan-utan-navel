@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>additional data</key>
+	<dict>
+		<key>notesView</key>
+		<integer>0</integer>
+	</dict>
+	<key>bookmarks</key>
+	<array/>
+	<key>change date</key>
+	<date>2011-05-04T15:50:47Z</date>
+	<key>deleted</key>
+	<false/>
+	<key>edit</key>
+	<false/>
+	<key>identifier</key>
+	<string>29</string>
+	<key>label</key>
+	<string>23</string>
+	<key>locked</key>
+	<false/>
+	<key>name</key>
+	<string>Kapitel 27</string>
+	<key>selection</key>
+	<array>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWE
+		ASqEhA17X05TUmFuZ2U9SUl9loGyUgCG
+		</data>
+		<data>
+		BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWE
+		ASqEhA17X05TUmFuZ2U9SUl9loGyUgCG
+		</data>
+	</array>
+	<key>status</key>
+	<string>10</string>
+	<key>timestamp</key>
+	<date>2011-05-04T15:50:23Z</date>
+</dict>
+</plist>
