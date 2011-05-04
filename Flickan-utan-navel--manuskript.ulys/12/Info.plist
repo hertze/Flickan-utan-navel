@@ -10,11 +10,11 @@
 	<key>bookmarks</key>
 	<array/>
 	<key>change date</key>
-	<date>2011-05-04T15:11:01Z</date>
+	<date>2011-05-04T17:51:45Z</date>
 	<key>deleted</key>
 	<false/>
 	<key>edit</key>
-	<false/>
+	<true/>
 	<key>identifier</key>
 	<string>12</string>
 	<key>label</key>
@@ -35,8 +35,8 @@
 		</data>
 	</array>
 	<key>status</key>
-	<string>10</string>
+	<string>15</string>
 	<key>timestamp</key>
-	<date>2011-05-04T15:10:35Z</date>
+	<date>2011-05-04T17:47:52Z</date>
 </dict>
 </plist>

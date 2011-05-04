@@ -10,33 +10,33 @@
 	<key>bookmarks</key>
 	<array/>
 	<key>change date</key>
-	<date>2011-05-04T15:58:16Z</date>
+	<date>2011-05-04T17:51:34Z</date>
 	<key>deleted</key>
 	<false/>
 	<key>edit</key>
-	<false/>
+	<true/>
 	<key>identifier</key>
-	<string>2</string>
+	<string>38</string>
 	<key>label</key>
-	<string>29</string>
+	<string>23</string>
 	<key>locked</key>
 	<false/>
 	<key>name</key>
-	<string>Kapitel 1</string>
+	<string>Nytt dokument</string>
 	<key>selection</key>
 	<array>
 		<data>
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWE
-		ASqEhA17X05TUmFuZ2U9SUl9loH0CgCG
+		ASqEhA17X05TUmFuZ2U9SUl9lgAAhg==
 		</data>
 		<data>
 		BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU1ZhbHVlAISECE5TT2JqZWN0AIWE
-		ASqEhA17X05TUmFuZ2U9SUl9loHTAACG
+		ASqEhA17X05TUmFuZ2U9SUl9lgAAhg==
 		</data>
 	</array>
 	<key>status</key>
-	<string>10</string>
+	<string>16</string>
 	<key>timestamp</key>
-	<date>2011-05-04T15:04:26Z</date>
+	<date>2011-05-04T17:46:50Z</date>
 </dict>
 </plist>

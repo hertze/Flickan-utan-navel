@@ -44,12 +44,12 @@
 		<key>search effect</key>
 		<integer>271</integer>
 		<key>search pattern</key>
-		<string>Kerstin</string>
+		<string></string>
 		<key>selection</key>
 		<data>
 		YnBsaXN0MDDUAQIDBAUIGRpUJHRvcFgkb2JqZWN0c1gkdmVyc2lvblkkYXJj
 		aGl2ZXLRBgdUcm9vdIABowkKElUkbnVsbNQLDA0ODxAQEVpOU0xvY2F0aW9u
-		WE5TTGVuZ3RoXE5TUmFuZ2VDb3VudFYkY2xhc3MQAhABgALSExQVGFgkY2xh
+		WE5TTGVuZ3RoXE5TUmFuZ2VDb3VudFYkY2xhc3MQBRABgALSExQVGFgkY2xh
 		c3Nlc1okY2xhc3NuYW1lohYXWk5TSW5kZXhTZXRYTlNPYmplY3RaTlNJbmRl
 		eFNldBIAAYagXxAPTlNLZXllZEFyY2hpdmVyCBEWHygyNTo8QEZPWmNwd3l7
 		fYKLlpmkrbi9AAAAAAAAAQEAAAAAAAAAGwAAAAAAAAAAAAAAAAAAAM8=
@@ -150,7 +150,7 @@
 	<key>general</key>
 	<dict>
 		<key>date</key>
-		<date>2011-05-04T16:01:01Z</date>
+		<date>2011-05-04T17:52:59Z</date>
 		<key>version</key>
 		<integer>10</integer>
 	</dict>
@@ -200,7 +200,7 @@
 			</dict>
 		</array>
 		<key>selected document</key>
-		<string>2</string>
+		<string>38</string>
 	</dict>
 	<key>preferences</key>
 	<dict>
@@ -215,17 +215,17 @@
 					<key>showCharacters</key>
 					<true/>
 					<key>showLabel</key>
-					<true/>
+					<false/>
 					<key>showPages</key>
 					<true/>
 					<key>showState</key>
-					<true/>
+					<false/>
 					<key>showStatus</key>
-					<true/>
+					<false/>
 					<key>showTimestamp</key>
 					<false/>
 					<key>showTitle</key>
-					<true/>
+					<false/>
 					<key>showWords</key>
 					<true/>
 					<key>updateTime</key>
@@ -898,13 +898,14 @@
 					YnBsaXN0MDDUAQIDBAUIFxhUJHRvcFgkb2Jq
 					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
 					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBVTlNS
-					R0JcTlNDb2xvclNwYWNlViRjbGFzc08QHDAg
-					MC4xNjg2Mjc0NTU4IDAuMjExNzY0NzIzMQAQ
-					AoAC0hITFBVYJGNsYXNzZXNaJGNsYXNzbmFt
-					ZaIVFldOU0NvbG9yWE5TT2JqZWN0EgABhqBf
-					EA9OU0tleWVkQXJjaGl2ZXIIERYfKDI1OjxA
-					Rk1TYGeGiIqPmKOmrre8AAAAAAAAAQEAAAAA
-					AAAAGQAAAAAAAAAAAAAAAAAAAM4=
+					R0JcTlNDb2xvclNwYWNlViRjbGFzc08QJzAu
+					OTIxNTY4NjkxNyAwLjg5ODAzOTI4MTQgMC44
+					MjM1Mjk0ODE5ABACgALSEhMUFVgkY2xhc3Nl
+					c1okY2xhc3NuYW1lohUWV05TQ29sb3JYTlNP
+					YmplY3QSAAGGoF8QD05TS2V5ZWRBcmNoaXZl
+					cggRFh8oMjU6PEBGTVNgZ5GTlZqjrrG5wscA
+					AAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAA
+					AAAA2Q==
 					</data>
 					<key>checkSpelling</key>
 					<true/>
@@ -916,27 +917,27 @@
 					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
 					cm9vdIABpAkKExRVJG51bGzUCwwNDg8QERJW
 					TlNTaXplVk5TTmFtZVYkY2xhc3NYTlNmRmxh
-					Z3MjQDIAAAAAAACAAoADEBBfEBVEZWphVnVT
-					YW5zLUV4dHJhTGlnaHTSFRYXGFgkY2xhc3Nl
-					c1okY2xhc3NuYW1lohgZVk5TRm9udFhOU09i
-					amVjdBIAAYagXxAPTlNLZXllZEFyY2hpdmVy
-					CBEWHygyNTo8QUdQV15lbnd5e32VmqOusbjB
-					xgAAAAAAAAEBAAAAAAAAABwAAAAAAAAAAAAA
-					AAAAAADY
+					Z3MjQDIAAAAAAACAAoADEBBfEBBTYWJvbkxU
+					U3RkLVJvbWFu0hUWFxhYJGNsYXNzZXNaJGNs
+					YXNzbmFtZaIYGVZOU0ZvbnRYTlNPYmplY3QS
+					AAGGoF8QD05TS2V5ZWRBcmNoaXZlcggRFh8o
+					MjU6PEFHUFdeZW53eXt9kJWeqayzvMEAAAAA
+					AAABAQAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA
+					0w==
 					</data>
 					<key>fontColor</key>
 					<data>
 					YnBsaXN0MDDUAQIDBAUIFxhUJHRvcFgkb2Jq
 					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
 					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBVTlNS
-					R0JcTlNDb2xvclNwYWNlViRjbGFzc08QJTAu
-					NTc2NDcwNjEzNSAwLjYzMTM3MjU3MSAwLjYz
-					MTM3MjU3MQAQAoAC0hITFBVYJGNsYXNzZXNa
-					JGNsYXNzbmFtZaIVFldOU0NvbG9yWE5TT2Jq
-					ZWN0EgABhqBfEA9OU0tleWVkQXJjaGl2ZXII
-					ERYfKDI1OjxARk1TYGePkZOYoayvt8DFAAAA
-					AAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAA
-					ANc=
+					R0JcTlNDb2xvclNwYWNlViRjbGFzc08QJzAu
+					MzQ1MDk4MDQ4NCAwLjQzMTM3MjU4MjkgMC40
+					NTg4MjM1NjE3ABACgALSEhMUFVgkY2xhc3Nl
+					c1okY2xhc3NuYW1lohUWV05TQ29sb3JYTlNP
+					YmplY3QSAAGGoF8QD05TS2V5ZWRBcmNoaXZl
+					cggRFh8oMjU6PEBGTVNgZ5GTlZqjrrG5wscA
+					AAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAA
+					AAAA2Q==
 					</data>
 					<key>hiddenCharactersColor</key>
 					<data>
@@ -964,14 +965,14 @@
 					YnBsaXN0MDDUAQIDBAUIFxhUJHRvcFgkb2Jq
 					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
 					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBVTlNS
-					R0JcTlNDb2xvclNwYWNlViRjbGFzc08QJzAu
-					MzQ1MDk4MDQ4NCAwLjQzMTM3MjU4MjkgMC40
-					NTg4MjM1NjE3ABACgALSEhMUFVgkY2xhc3Nl
-					c1okY2xhc3NuYW1lohUWV05TQ29sb3JYTlNP
-					YmplY3QSAAGGoF8QD05TS2V5ZWRBcmNoaXZl
-					cggRFh8oMjU6PEBGTVNgZ5GTlZqjrrG5wscA
-					AAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAA
-					AAAA2Q==
+					R0JcTlNDb2xvclNwYWNlViRjbGFzc08QJTAu
+					NTc2NDcwNjEzNSAwLjYzMTM3MjU3MSAwLjYz
+					MTM3MjU3MQAQAoAC0hITFBVYJGNsYXNzZXNa
+					JGNsYXNzbmFtZaIVFldOU0NvbG9yWE5TT2Jq
+					ZWN0EgABhqBfEA9OU0tleWVkQXJjaGl2ZXII
+					ERYfKDI1OjxARk1TYGePkZOYoayvt8DFAAAA
+					AAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAA
+					ANc=
 					</data>
 					<key>showHiddenCharacters</key>
 					<false/>
@@ -10298,14 +10299,13 @@
 					YnBsaXN0MDDUAQIDBAUIFxhUJHRvcFgkb2Jq
 					ZWN0c1gkdmVyc2lvblkkYXJjaGl2ZXLRBgdU
 					cm9vdIABowkKEVUkbnVsbNMLDA0ODxBVTlNS
-					R0JcTlNDb2xvclNwYWNlViRjbGFzc08QKDAu
-					MDI3NDUwOTgyNDggMC4yMTE3NjQ3MjMxIDAu
-					MjU4ODIzNTQzOAAQAoAC0hITFBVYJGNsYXNz
-					ZXNaJGNsYXNzbmFtZaIVFldOU0NvbG9yWE5T
-					T2JqZWN0EgABhqBfEA9OU0tleWVkQXJjaGl2
-					ZXIIERYfKDI1OjxARk1TYGeSlJabpK+yusPI
-					AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAA
-					AAAAANo=
+					R0JcTlNDb2xvclNwYWNlViRjbGFzc08QHDAg
+					MC4xNjg2Mjc0NTU4IDAuMjExNzY0NzIzMQAQ
+					AoAC0hITFBVYJGNsYXNzZXNaJGNsYXNzbmFt
+					ZaIVFldOU0NvbG9yWE5TT2JqZWN0EgABhqBf
+					EA9OU0tleWVkQXJjaGl2ZXIIERYfKDI1OjxA
+					Rk1TYGeGiIqPmKOmrre8AAAAAAAAAQEAAAAA
+					AAAAGQAAAAAAAAAAAAAAAAAAAM4=
 					</data>
 					<key>checkSpelling</key>
 					<false/>
@@ -12980,48 +12980,24 @@
 			</dict>
 			<dict>
 				<key>key</key>
-				<string>12</string>
+				<string>15</string>
 				<key>title</key>
-				<string>Kastat</string>
+				<string>Todo</string>
 			</dict>
 			<dict>
 				<key>key</key>
-				<string>6</string>
+				<string>16</string>
 				<key>title</key>
-				<string>Oskrivet</string>
-			</dict>
-			<dict>
-				<key>key</key>
-				<string>8</string>
-				<key>title</key>
-				<string>Påbörjat</string>
-			</dict>
-			<dict>
-				<key>key</key>
-				<string>2</string>
-				<key>title</key>
-				<string>Utkast</string>
-			</dict>
-			<dict>
-				<key>key</key>
-				<string>11</string>
-				<key>title</key>
-				<string>Färdigt?</string>
-			</dict>
-			<dict>
-				<key>key</key>
-				<string>5</string>
-				<key>title</key>
-				<string>Klart</string>
+				<string>Reviderat</string>
 			</dict>
 		</array>
 		<key>statusNumber</key>
-		<integer>12</integer>
+		<integer>16</integer>
 	</dict>
 	<key>storage</key>
 	<dict>
 		<key>current identifier</key>
-		<integer>35</integer>
+		<integer>38</integer>
 		<key>documents</key>
 		<array>
 			<string>1</string>
@@ -13059,7 +13035,7 @@
 		</array>
 		<key>open documents</key>
 		<array>
-			<string>2</string>
+			<string>38</string>
 		</array>
 	</dict>
 </dict>
