@@ -60,7 +60,7 @@ Rösten kom nu från fåtöljen. Flickan sträckte fram sin arm och lågorna oms
 
 # Maj, 1979 #
 
-### Märta får MS-diagnos @LES ###
+### scenbrytning ###
 
 Märta förlorade synen på ett öga igen. Höger öga, den här gången. Hon vaknade på söndagen och berättade att det molvärkte i huvudet kring ögat. Jag trodde det var vanlig spänningshuvudvärk. Under gudstjänsten grep hon tag in min arm och viskade att hon såg suddigt. Hon var alldeles vit i ansiktet. Hennes underläpp darrade. Vi satt kvar tills gudstjänsten var över och sedan ledde jag henne ut till bilen, med Cecilia på armen.
 
@@ -108,7 +108,7 @@ Märta sa ingenting när vi körde hem. Jag koncentrerade mig på trafiken så d
 
 # Lammet på kontoret #
 
-### Jesper ###
+### scenbrytning ###
 
 Peder satt framåtlutad vid sitt skrivbord med hakan stödd mot ena handen. Läpparna rörde sig när han läste texten på sin datorskärm för sig själv. Ögonen sved och han och gnuggade dem med baksidan av handen och blinkade några gånger. Han hade gått igenom texten så många gånger att bokstäverna flöt samman. Han visste inte längre vilka ord som faktiskt stod där och vilka som bara fanns i hans huvud. Han lutade sig tillbaka, suckade och rufsade till sitt blonda hår. Det molvärkte i ländryggen och båda benen pirrade som om det flutit sockerdricka i blodådrorna.
 
@@ -193,7 +193,7 @@ Peder låste datorn igen och de tog på sig vinterjackor och vantar. Jesper drog
 "För lite extra skydd", sa han.
 
 
-### Kinakrogen ###
+### scenbrytning ###
 
 De tog hissen ner till gatuplan och promenerade tillsammans längs trottoaren mot kinakrogen på hörnet. Snön som fallit för några dagar sedan hade förvandlats till brun sörja längs vägkanten. Trots att det var någon plusgrad var vinden var iskall, som den bara är i Skåne. Fukten gick rakt genom alla kläder och rev i skinnet.
 
@@ -268,7 +268,7 @@ Peder rakade upp det sista av såsen och riset på gaffeln och stoppade det i mu
 "Nä", sa Peder. "Jag har fått vad jag ska ha idag."
 
 
-### Lammet på tidningen ###
+### scenbrytning ###
 
 Han gick in på redaktionen med blicken sänkt och fortsatte genom labyrinten av kontorsbås, tills han var framme vid sitt eget skrivbord. När han lyfte blicken från golvet såg han ett lamm stå vid hans skrivbordsstol. Ullen var kritvit, som tvättad bomull. De bruna ögonen stirrade stint på honom.
 
@@ -287,7 +287,7 @@ När han vände tillbaka blicken var hans bås tomt. Förvirrad flackade han med
 Hjärtat bankade i hans bröst. *Jag behöver vila*, tänkte han. *Så snart det är klart.* Han öppnade locket till laptopen och satte fingarna på tangenterna och skrev in lösenordet till skärmsläckaren. Bokstäverna på skärmen böljade fram och tillbaka, som om han befann sig under vatten. Han knep ihop ögonen. *Det här går inte.* Han sparade filen, stängde av datorn och stoppade ner den i sin väska. Han rafsade ihop sina saker, tog på sig ytterkläderna och gick därifrån. I utkanten av synfältet såg han sina kollegor stirra på honom när han passerade.
 
 
-### Jessica ###
+### scenbrytning ###
 
 Trycket över bröstet lättade när ha klev ut genom glasdörrarna och kom ut på parkeringen utanför. Han knäppte jackan mot vinden och korsade vägen för att komma till busskuren. Det dröjde inte länge förrän en grön stadsbuss svängde in och stannade med ett väsande.
 
@@ -322,7 +322,7 @@ Hon nickade igen.
 "Jag vill att du går nu", sa hon och stängde dörren. Låset klickade till igen.
 
 
-### Hemma i lägenheten ###
+### scenbrytning ###
 
 Peder stod kvar en stund utanför dörren. Det kändes som om allt blod runnit ur honom och bara lämnat ett sugande vaccum efter sig. *Vad var det som just hände?* Allt kändes overkligt. Verkligheten flimmrade omkring honom. Han vände sig om och gick nerför trapporna med långsamma steg. Utanför hade fukten samlat sig till ett duggregn.
 
@@ -354,7 +354,7 @@ De båda unga männen såg på honom med medlidande.
 
 Peder stängde dörren efter dem och återvände till TV-soffan. Han slog på TV:n. *Princessa på vift*, med Audrey Hepburn låg kvar i DVD-spelaren och han startade filmen från början. Han tog upp sin laptop från ryggsäcken, startade den och öppnade texteditorn. *Snart klar*, tänkte han. *Sedan blir allt annorlunda.*
 
-### Drömmen om mamma ###
+### scenbrytning ###
 
 Peder somnade med filmen surrande på TV:n. När han vaknade till var klockan efter tre på natten. Datorn hade glidit ur hans knä och låg i soffan bredvid honom. En vit lysdiod tändes och släcktes i takt med hans andetag. Han slog igen locket och gick och la sig i sin säng utan att borsta tänderna. Inom en minut snarkade han tjockt.
 
@@ -376,7 +376,7 @@ Peder ryckte till och slog upp ögonen. Han låg i sin säng. Det hade varit en 
 
 # September 1979 till februari, 1980 #
 
-### LES är desillusionerad över sitt jobb @LES ###
+### scenbrytning ###
 
 Jag hade terminens första föreläsningsdag idag -- en alldeles färsk kurs. Salen fylldes av unga män och kvinnor, fortfarande brunbrända efter sommaren. Trots att det är september nu är det varmt. Det var kvavt i föreläsningssalen och min strupe torkade ut redan efter de första timmarna.
 
@@ -386,7 +386,7 @@ Prefekten säger att det är sista terminen jag behöver föreläsa på grundkur
 
 De kunde lika gärna ställa en åsna vid pulpeten på grundkursen. Då skulle åtminstone studenterna vakna till.
 
-### Den deprimerade lunchen @LES ###
+### scenbrytning ###
 
 Hösten har kommit, men solen värmer fortfarande mitt på dagen. Jag satte mig utomhus på lunchen för att äta mina smörgåsar. Från bänken jag satt på hade jag utsikt över en stor gräsmatta, där studenter satt på sina jackor och åt av sina matsäckar.
 
@@ -394,7 +394,7 @@ Jag såg upp mot himlen och insåg förnuftsmässigt att solstrålarna borde vä
 
 Nu för tiden är det bara tanken på min dotter som sprider en smula ljus i mitt hjärta.
 
-### Ångest i vargtimmen @LES ###
+### scenbrytning ###
 
 Jag vaknade i natt igen. Klockan var halv fyra -- vargtimmen. Jag vet inte vad jag drömde, men jag minns känslan av att falla. Det var mörkt i sovrummet. Jag hörde Märta andas bredvid mig. Det kändes som om någon satt på mitt bröst. Jag hade svårt att få luft. Hjärtat bankade. Lakanen var fuktiga av svett.
 
@@ -521,7 +521,7 @@ Vakten kastade sig ner på golvet, gled mot Peder och sparkade undan hans ben. P
 Polissirener närmade sig från fjärran.
 
 
-### Peder hämtas av polis, tas in på psyk akut och vidare till avdelning, och hamnar i ett självmord ###
+### scenbrytning ###
 
 Peder försökte vrida loss, men vakten höll honom tryckt mot golvet tills två poliser klev ur en av hissarna. En liten folksamling hade hunnit bildas i hisshallen. Sixten gick fram och pratade tyst med den ena polisen. Sedan satte de handfängsel på Peder och tog med honom ner.
 
@@ -635,7 +635,7 @@ När han var liten hade han sett filmen Lawrence av Arabien, där en ung pojke f
 
 Det senaste dygnet kändes som kvicksand. Ju mer han kämpade, desto djupare sjönk han ner. Det var uppenbarligen dags att byta strategi.
 
-### Första dagen på avdelning ###
+### scenbrytning ###
 
 Peder vaknade av att någon rörde vid hans lår. Sömndrucket vände han sig om och öppnade ögonen. Vid fotändan till hans säng stod en kvinna i nattlinne. Månen sken in genom fönstret och reflekterades i hennes salvglänsande ansikte. Hon liknade en vetedeg, penslad med ägg. Kvinnan lyfte täcket och drog sin hand längs Peders ben, upp mot skrevet.
 
@@ -780,7 +780,7 @@ Underläkaren slog ihop sitt block och följde efter överläkaren ut. Hon gick 
 Peder satt kvar själv i halvdunklet. Han kände sig illamående.
 
 
-### Var är rum nummer 13? ###
+### scenbrytning ###
 
 Peder gick långsamt genom korridoren, med blicken sänkt. Han tvekade där tre korridorer möttes i en T-korsning och tog till vänster. Det såg likadant ut överallt. Gulmålade väggar och ett gråspräckligt plastgolv. Dörrar i gulnad bokfaner. Han läste siffrorna som var målade på dem. Nitton, tjugo, tjugoett. På motsatta sidan låg sexton, sjutton, arton. Han stannade i slutet av korridoren, vid en dörr med ett runt fönster. En kortläsare vid sidan av dörren blinkade rött och låset klickade till. En skötare kom in genom dörren från trapphuset. Hon såg på Peder och la huvudet på sned.
 
@@ -795,7 +795,7 @@ Peder nickade och gick korridoren tillbaka. I korsningen såg han åt vänster, 
 Dörren till rummet till höger öppnades och en kvinna puttade en städvagn över tröskeln. Hon ställde den i korridoren och gick tillbaka in för att hämta en mopp, som hon lämnat lutad mot ena väggen. Peder såg in i rummet och kände igen det. Den döde mannen med snaran kring halsen var borta. Golvet var blött och en doft av alkohol virvlade ut genom dörröppningen. Sängen saknade sängkläder, garderoben stod tom med dörren vidöppen. Städerskan kom ut igen och stängde dörren efter sig. På dörren stod siffran tolv. Peder rynkade pannan. Fjorton och tolv. Var finns rum nummer tretton, tänkte han.
 
 
-### Briefing efter Görans självmord ###
+### scenbrytning ###
 
 Dagen gick långsamt. Peder låg på sängen fram till lunch och försökte läsa ett veckogammalt nummer av Metro, som låg kvarglömt i hans nattduksbord. Han hade svårt att fokusera blicken och bokstäverna flöt in i varandra. Han ryckte till vid halv tolv och insåg att han hade somnat. T-shirten var våt av saliv i halslinningen. Vänsterarmen, som han hade haft bakom huvudet, var avdomnad. Det pirrade i handen, som om han hade sockerdricka i ådrorna.
 
@@ -844,7 +844,7 @@ Han såg på sina patienter, nickade kort och lämnade rummet, med Cecilia i sl�
 Vid sjutiden gick Peder till matsalen igen och åt två smörgåsar med ost och skinka. Han fick tillåtelse att ringa ett samtal och slog numret till Jessicas mobil, men den verkade vara avstängd. Ingen svarade på hemnumret heller. På vägen tillbaka till rummet plockade han till sig en banan från serveringsvagnen i korridoren, som han sedan skalade och åt på rygg i sängen. Ögonlocken kändes allt tyngre och vid niotiden tog han av sig sina kläder, kröp ner under täcket och somnade.
 
 
-### Peder drömmer ###
+### scenbrytning ###
 
 I drömmen var Peder hemma i sin lägenhet. Han stod i hallen. Lamporna var släckta. Bruset av trafiken utanför var det enda som hördes. Peder såg ner och la märke till att han inte hade några kläder på sig. Han tittade upp och såg ett vitt lamm som stod i dörröppningen in till sovrummet. Lammet stod alldeles stilla och såg på honom. Ullen glittrade i skenet från fullmånen utanför. Det såg nästa självlysande ut.
 
@@ -889,19 +889,19 @@ Peder ryckte på axlarna och gick tillbaka till sitt rum. Han la sig på sängen
 
 # Oktober till december, 1980 
 
-### LE ser Håkan för första gången @LES ###
+### scenbrytning ###
 
 Märta kände sig dålig idag, så jag åkte till gudstjänsten själv. Cecilia är förkyld och vaknade med feber med jämna mellanrum, så jag kände tyngden av sömnbrist när klockan ringde. Det var en eländigt regnig morgon, vilket jag tror märktes på församlingen. Kyrkan var bara fylld till en tredjedel. Resten låg säkert hemma i sängen och läste morgontidningen. Jag önskade att jag kunde ha gjort likadant, men just nu behöver jag Gud mer än någonsin. Om någon kan rädda mig ur mitt hål så är det han.
 
 Jag känner igen de flesta ur församlingen vid det här laget, men idag var där ett nytt ansikte. Det var en man som såg ut att vara ungefär i min ålder, med rödlätt mustache och begynnande flint. Han satt på bänken längst bak, till synes själv. Jag sneglade mot honom när vi reste oss till psalmerna och jag såg att han sneglade tillbaka. När klockorna ringde ut var han försvunnen.
 
-### LE nattar Cecilia ###
+### scenbrytning ###
 
 I kväll var det min tur att lägga Cecilia. Jag satt på stolen bredvid hennes spjälsäng och sjöng vår sång för henne med låg röst. Hon låg på rygg, med tunga ögon och surrade på sin napp, tills hon somnande. Jag satt kvar en stund och såg hennes lilla bröstkorg höjas och sänkas. Hon ryckte till några gånger på väg ner i sömnen och gnydde oroligt, men sedan såg hon så fridfull ut. Tänk att få vara som ett barn. Tänk hur underbar vår värld hade varit om alla hade varit mer som barn. Förankrade i nuet, utan ruelse för det som varit, eller fruktan för det som skall komma.
 
 Jag kände en fars kärlek välla upp inom mig, där jag satt. För ett kort ögonblick drev den ut förtvivlan från min kropp och jag kände mig lätt och rusig.
 
-### Håkan tar kontakt @LES ###
+### scenbrytning ###
 
 Efter gudstjänsten idag kom den rödlätte mannen fram till mig och presenterade sig. Han hette Håkan. Han påstod att han kände igen mig, men inte riktigt kunde placera mig.
 
@@ -917,13 +917,13 @@ Jag var rätt säker på att vi aldrig träffats förut, men han var trevlig och
 
 Vi skildes åt med ett handslag och lovade varandra en fika efter gudstjänsten nästa söndag igen. Jag kände mig varm i magen när jag cyklade hemåt -- för första gången på länge.
 
-### LE kopplar av med en speldosa ###
+### scenbrytning ###
 
 Det har varit en själadödande vecka. Jag har gett föreläsningar varje förmiddag och har handlett laborationer varje eftermiddag, med högar av labbrapporter att bedöma. Egentligen borde jag ha börjat med det redan i kväll, men jag orkade bara inte. Inte på en fredagkväll. Märta hade huvudvärk och gick och la sig tidigare. När Cecilia somnat hällde jag upp ett glas vin till mig själv och gick ner i källaren. Jag satte på Händels Messias på skivspelare och la på den röda sammetsfilten på arbetsbordet. Där dukade jag upp allt jag behövde: kullhjul, hävarmar, cylindrar, skruvar, muttrar, fjädrar och verktyg -- allt logiskt och prydligt. Sedan lutade jag mig tillbaka, tog en mun vin och beundrade skönheten i ordningen. Jag gick upp helt i stunden, omvärlden försvann och ersattes av frid.
 
 Jag satt uppe till långt efter midnatt. Jag har bara skalet var att måla, sedan är speldosan klar. Den är det bästa jag byggt så här långt. Den är det bästa jag åstadkommit sedan Cecilia föddes.
 
-### Håkan lobbar för frimureriet @LES ###
+### scenbrytning ###
 
 Under de månader som gått har jag och Håkan blivit allt bättre vänner. Det känns som om jag kan anförtro honom med vad som helst -- till och med mitt trasiga äktenskap.
 
@@ -986,7 +986,7 @@ Hennes röst hade spruckit upp i ett gällt skrik och ytterdörren hade smällt 
 
 Sjukhussängen gnisslade när han snurrade runt och la sig på mage. Plastöverdraget på madrassen fick lakanen att klibba mot hans bara kropp. Han vände kudden och la kinden mot det svala tyget. Hans mamma hade varit galen och nu var han här här, inlåst på en psykavdelning. *Sådan mor sådan son*, tänkte han och sparkade av sig täcket.
 
-### Nytt bedömningssamtal ###
+### scenbrytning ###
 
 "Nu har du varit här i några dagar, Peder. Hur trivs du?"
 
@@ -1177,7 +1177,7 @@ Peder sänkte blicken. Han bet ihop käkarna och knöt nävarna under bordet, ti
 Överläkaren och underläkaren lämnade rummet. Peder satt kvar en stund och stirrade på bordet. Han sög sig på underläppen. Sedan reste han sig upp, gick ut ur rummet och smällde igen dörren efter sig så det ekade i korridoren.
 
 
-### Samtal i rökrummet ###
+### scenbrytning ###
 
 Peder vandrade upp och ner i korridoren tills han hade lugnat sig. Då stannade han vid vagnen av rostfritt stål, där han hällde upp en mugg vatten från tillbringaren och valde ut ett oskatt äpple från fruktskålen. Någon meter bort stod dörren till sjuksköterskeexpeditionen öppen. Peder kände igen syster Ingers röst.
 
@@ -1314,7 +1314,7 @@ Carsten log.
 Peder lyfte handen till farväl.
 
 
-### Kvällsmedicin ###
+### scenbrytning ###
 
 Det knackade på dörren. Peder låg på sängen och läste i samma nummer av Metro han bläddrat i sedan han kom till avdelningen.
 
@@ -1345,7 +1345,7 @@ Hon tog med sig plastmuggen och gick ut ur rummet. Peder la sig på rygg på sä
 Han såg på klockan och suckade. Den var bara åtta. Flera timmar kvar. Han plockade upp Metro igen och började om från början. Han hade bara kommit till sidan fyra när han dåsade till och tappade tidningen.
 
 
-### Erotisk dröm om Cecilia ###
+### scenbrytning ###
 
 Dörren knarrade till. Peder ryckte till i sängen och satte sig upp. Han stirrade på dörren. Allt var tyst. Egendomligt tyst. Peder hörde bara sin egen andhämtning. Så rörde sig dörren och öppnades långsamt -- centimeter för centimeter. I dörrhålet stod en siluett, knappt skönjbar mot den mörka korridoren bakom.
 
@@ -1368,7 +1368,7 @@ Peders hand gled in genom tyget i toppen, in genom huden. I brösthålan kunde h
 Han ryckte till och var vaken. Tankarna var fördunklade. Han satte sig upp på sängkanten med pannan i händerna. Det tog en stund innan erektionen hade lagt sig.
 
 
-### Peder snokar på expeditionen ###
+### scenbrytning ###
 
 Peder såg på sitt armbandsur. Det var dags. Han reste sig upp och sträckte på sig. Sedan smög han ut i korridoren. Allt var nersläckt och dörrarna till alla patientrum var stängda. Tv:n stod på med avstängt ljud i sällskapsrummet. Han fortsatte ner till rum nummer sju och knackade försiktigt på.
 
@@ -1492,7 +1492,7 @@ Peder nickade och blev lämnad ensam på gårdsplanen. Han såg sig om. Gården 
 Peder började frysa och han gick tillbaka uppför trappan till dörren. Han bankade en lång stund innan han blev insläppt. Lunchen hade kommit och Peder tog för sig i matsalen. Eftermiddagen tillbringade han på rummet med pocketboken av Denise Rudberg, med korta pauser för kaffe och toalettbesök. På kvällen kom sköterskan med kvällsmedicinen och Peder låtsades som vanligt svälja ner den med vatten, innan han gömde den med de andra tabletterna. Han somnade tidigt och började drömma.
 
 
-### Peder drömmer om Carsten, Carsten dör ###
+### scenbrytning ###
 
 Peder gick genom ett öde landskap. Marken var stekhet sand, som brände hans fötter. Torra buskar växte glest runt om kring stigen han gick på. Det var vindstilla. Luften var tung att andas. Han nådde basen av en kulle och kisade upp mot solen. En mörk siluett tornade upp sig på krönet. Peder började klättra uppför. Hans fötter blödde och färgade fotspåren röda.
 
@@ -1538,7 +1538,7 @@ Han rosslade till.
 
 Andetagen blev ytligare och ytligare. Kroppen skälvde till och Carsten stönade svagt. Peder sträckte sig upp och tryckte på larmknappen vid sängen. En lampa började lysa rött. Ett högt pipade hördes i korridoren.
 
-### Peder hittar skinnpungen ###
+### scenbrytning ###
 
 De två skötarna kom springande med nattsköterskan i släptåg. De ryggade tillbaka när de såg Peder och Carsten på golvet.
 
@@ -1584,7 +1584,7 @@ Dörren stängdes. Peder tog av sig byxorna och den ljusblå koftan. Han kröp n
 
 # December, 1980 #
 
-### Upptagen bland Frimurarna @LES ###
+### scenbrytning ###
 
 Håkan parkerade sin gula Saab utanför vårt hus och ringde på dörren. Märta öppnade, men när hon såg vem det var gick hon bara därifrån utan att säga ett ord. Jag knöt min fluga framför spegeln i hallen, medan jag bad om ursäkt. Jag kände att jag ville förklara för honom -- berätta varför det är som det är mellan min hustru och mig, men han hejdade mig med en hand på min axel.
 
@@ -1647,7 +1647,7 @@ I andra ändan av salen, framför en väldig trädörr, stod en lång man, med k
 
 # Flykten från sjukhuset #
 
-### Andra dygnet ###
+### scenbrytning ###
 
 Peder vaknade av sig själv på morgonen. Det var redan ljust ute. Han drog på sig byxorna och gick på toaletten, innan han gick till matsalen för att äta frukost. En ensam skötare satt och la patients på datorn när han passerade expeditionen. En mager man med stripigt grått hår och gles skäggväxt satt i soffan i korridoren och muttrade för sig själv. Matsalen var i stort sätt tom. Peder bredde två smörgåsar vid serveringsvagnen och försökte fylla en kaffemugg från termosen, men den var tom. Brunt skum pyste ner i hans kopp när han tryckte ner spaken i termoslocket. Syster Inger kom och fyllde på med rykande kaffe från en glaskanna. Hon hällde det sista direkt ner i Peders mugg.
 
@@ -1681,7 +1681,7 @@ Hon la sin fria hand på Peders axel.
 
 Inger gick ut till köket med den tomma kannan. Peder hällde en skvätt mjölk i sin kopp och tömde den i några få djupa klunkar. Kaffet brände på tungan. Han ställde disken på vagnen och gick tillbaka till sitt rum. Där satte han sig i sängen och stirrade rakt ut i luften och väntade på att klockan skulle bli elva.
 
-### Samtal med överläkaren ###
+### scenbrytning ###
 
 Fem minuter före avtalad tid knackade det på dörren och en skötare tog med Peder till samtalsrummet. Idag var det bara överläkaren som satt där.
 
@@ -1781,7 +1781,7 @@ Peder satt kvar i sin stol och stirrade tomt framför sig. Skötaren la en hans 
 
 Peder följde efter ut ur rummet. Han drog igen dörren efter sig med en skarp smäll, som ekade i korridoren
 
-### Tvångsinjektion ###
+### scenbrytning ###
 
 Peder åt sin lunch under tystnad, ensam vid sitt bord. Tre av hans medpatienter satt tillsammans några bord bort. Peder iakttog dem när de åt. Mannen med det stripiga håret skakade så mycket att han hade svårt att få in minestronesoppan i munnen. Efter maten satte sig Peder i TV-rummet och zappade mellan kanalerna tills han fastnade för Gilmore Girls på kanal fem. En kvinna med fettglänsande ansikte kom in och satte sig i soffan som stod i vinkel till den Peder halvlåg i. Hon stirrade rakt framför sig och upprepade samma fras om och om igen, med pipig entonig röst:
 
@@ -1873,7 +1873,7 @@ Peder stirrade upp i taket. Han började känna sig dåsig och ögonlocken förr
 
 Han försökte vrida huvudet mot ljudet och öppna ögonen, men musklerna ville inte lyda. Till slut lyckades han öppna ett öga och såg skötaren sitta och läsa en veckotidning i skenet från sänglampan. Ljuset stack i Peders ögon. Han öppnade munnen för att säga något, men det kom ingen ljud. Ögat föll samman igen och han försvann bort.
 
-### Mannen i svart ###
+### scenbrytning ###
 
 Nästa gång Peder öppnade ögonen var fåtöljen tom. Veckotidningen låg uppslagen på sitsen. Dörren till rummet var stängd.
 
@@ -1935,7 +1935,7 @@ Peder nickade igen. Han försökte lugna andhämtningen. Sköterskan drog fram s
 
 Han låste upp remmarna och hjälpte Peder upp i sittande. Musklerna kändes stela och det ömmade över anklar och vrister. När han rörde sig i sängen gjorde det ont i ena skinkan. Han kom långsamt på fötter och gick ut till köket och tog ett äpple från fruktkorgen. Han fyllde en kopp med kaffe, hällde i lite mjölk och satte sig vid ett bord. *Vad är det som händer? Håller jag verkligen på att bli galen?* Huden på underarmarna var skrovlig av gåshud, de små ljusa hårstråna stod på ända. Han tog en klunk kaffe och kände värmen sprida sig i kroppen. *Jag måste härifrån -- innan han kommer tillbaka.*
 
-### Rekognosering ###
+### scenbrytning ###
 
 Peder ställde den tomma koppen på vagnen och gick in till sjuksköterskeexpeditionen. Han bad om en kort stund på innergården och fick tillstånd efter att sköterskan betraktat honom en stund under tystnad. Peder hämtade sin ljusblå kofta på rummet och plockade också fram skinnpungen ur ventilationstrumman och gömde den i kalsongerna. En skötare följde honom till dörren och Peder lovade att knacka när han ville in igen.
 
@@ -2000,7 +2000,7 @@ Den förste skötaren ryckte på axlarna och så gick de iväg. De hittade en au
 
 # Maj, 1982 #
 
-### Kvinnohärbärget @LES ###
+### scenbrytning ###
 
 Håkan stod och väntade på mig på parkeringen utanför Fysikum. Han stod med ryggen lutad mot sin bil och rökte en cigarett. Jag blev förvånad över att se honom.
 
@@ -2085,17 +2085,17 @@ Vi drack resten av vårt kaffe under tystnad innan Håkan körde mig hem. Hans o
 
 # Frimurarna på Fridhem #
 
-### Peder utanför frimurarlogen ###
+### scenbrytning ###
 	
 Peder stod på trottoaren i ett villaområde på Fridhem i västra Malmö. Framför honom tornade en hög vitkalkad mur upp sig. Mellan spjälorna i en svartmålad järngrind såg han en stor villa, i vitmålad puts. Det var skymning och den fuktiga kylan trängde in genom kläderna. Peder såg sig omkring och satte sedan foten på en av grindens tvärribbor och hävde sig upp. Han saxade över toppen och hoppade ner på andra sidan. Han landade på en grusgång, täckt av ett tunt lager snö.
 
-### Tillbakablick ###
+### scenbrytning ###
 
 Det hade gått tre dagar sedan Peder rymde från sjukhuset. Han hade gått om sin lägenhet och hämtat några ombyten, sin laptop, mobiltelefon, pass och sitt kreditkort. Han hade gått ut på gatan från en grannport och då sett en svart Volvo som stannade till utanför hans port. Peder hade gått åt andra hållet, hade tömt sina konton i omgångar och sedan gjort sig av med kortet. Han hade slängt SIM-kortet till sin mobil och köpt ett kontantkort i en liten kiosk. Han hade hittat ett litet hotell vid centralstationen, där de accepterade kontant betalning.
 
 Han hade ägnat två dagar åt att spåra Göran Eilertsson, mannen som dött samma dag Peder kom till psykosavdelning 87 på sjukhuset. Carsten hade varit övertygad om Göran inte begått självmord. Göran hade lämnat en skinnpung till Carsten, samma pung som Peder nu hade i sin ägo. Den verkade lämna död efter sig och Peder ville veta varför. Ett registerutdrag från Skatteverket hade listat fyra Göran Eilertsson i Sverige, men bara en som var skriven i Skåne. Den Göran var registrerad som avliden, men hade varit skriven i Arlöv, någon mil utanför Malmö. Han stod angiven som fastighetsskötare för en fastighet på Hellasvägen, den adress som Peder nu befann sig på.
 
-### Inbrott i logen ###
+### scenbrytning ###
 
 Peder sträckte på sig och lyssnade. Trafiken brusade i fjärran, men annars var det tyst. Villan har helt nersläckt. Snön låg i drivor upp mot huvudentrén, en enorm trädörr i två delar. Brevid gången upp mot huset dolde en ängel av brons ansiktet i händerna och doppade ena foten i en frusen fontän. Peder gick runt på baksidan av huset och lämnade mörka fotavtryck i snön. Det var mörkt i fönstren även på baksidan. Han kände på handtaget till en bakdörr, men den var låst. Han klev ner i rabatten och gick fram till ett av fönstren. Han fällde upp det minsta bladet på sin fickkniv, stack in det mellan fönsterkarmen och fönstret och drog det uppåt. Med ett dämpat skrammel lyftes haspen ur öglan och fönstret gled upp. Peder tog sats och hävde sig över karmen och in i huset. Han tog upp en liten ficklampa ut fickan, tände den och riktade ljuset in mot rummet. Han befann sig i någon typ av bibliotek. Väggarna var klädda med mörka träpaneler. Längs två av väggarna stod bokhyllor, fulla av böcker. Två fåtöljer i brunt skinn stod mitt i rummet, på röd matta, med ett litet bord emellan dem.
 
@@ -2123,7 +2123,7 @@ Han började gå åt det håll han kommit ifrån. Ljuskäglan pendlade över gol
 
 Han bet sig i underläppen och betraktade stenen en stund, innan han fortsatte. Han skulle just lämna rummet när han tittade upp på väggen ovanför dörrarna. I en ram av mörkt trä hängde ett porträtt i olja av en vithårig man, draperad i svart, med samma regalia som på alla de andra tavlorna. Den här mannen kände Peder igen. Han kände nackhåren resa sig. Det var överläkare Gunnar Hierta som blicka ner mot honom.
 
-### E-post ###
+### scenbrytning ###
 
 Peder stod som fastfrusen och stirrade upp mot målningen. Tankarna staplades huller om buller på varandra. Vad var det han hade blivit indragen i? Han lämnade rummet och fortsatte ut samma väg han kommit. Han kröp ut genom fönstret, stängde det efter sig och gick mot muren som omgav tomten. *Gunnar Hierta är frimurare -- medlem i en loge, vars lokaler sköts av Göran Eilertsson. Det kan inte vara ett sammanträffande.* Han klättrade över grinden och fortsatte till fots ut ur kvarteret och ner mot ICA-affären vid busshållsplatsen. *Göran hade tagit något han inte borde -- var det något härifrån? Var det härifrån speldosorna kom?* Han hoppade på en grön stadsbuss mot Centralstationen. *Var det en slump att jag blev inlåst på samma avdelning?* Han skakade på huvudet och muttrade för sig själv. Det verkade allt mindre troligt att slumpen hade del i det som hänt. En äldre dam med plommonfärgad filthatt stirrade på honom. Peder mötte hennes blick. Hon hoppade till, flackade hit och dit med blicken, tills hon fäste den vid stolsryggen framför.
 
@@ -2137,7 +2137,7 @@ Peder läste meningen flera gånger. Han klickade på brevhuvudet för att se de
 
 Peder rynkade pannan. *Mocka? Som i cafét?"* Han stängde av TV:n och laptopen, gick in i badrummet och borstade tänderna, sedan kröp han ner i sängen och släckte lampan. Ljuset från månen silade in genom fönstret och fick det vita sänglinnet att se självlysande ut. För en sekund såg Peder skuggan av en man med hatt mot väggen över sängen, men när han blinkade försvann den. Han klev ur sängen och drog för gardinerna. Sedan slog han på TV:n igen på låg volym. Efter en halvtimme hade han somnat.
 
-### På cafét ###
+### scenbrytning ###
 
 När Peder öppnade ögonen igen var det redan ljust ute. Han såg på sin armbandsklocka. Den visade redan halv tio. Han duschade snabbt och gick ner och åt frukost i matsalen, sedan promenerade han till Centralstationen och hoppade på en buss mot Triangeln. Han var fem minuter sen när han gick uppför trappan till Mocka. Värme slog emot honom när han öppnade dörren. En ung kvinna i mörkt hår och svart t-shirt stod bakom disken och skummade mjölk i en kanna av rostfritt stål. Ångröret på espressomaskinen spottade och fräste.
 
@@ -2277,7 +2277,7 @@ Hon stod tyst en stund, sedan nickade hon.
 
 Peder reste sig upp och tog på sig skinnjackan, medan Cecilia stängde sin kappa och drog halsduken tätare kring halsen. De lämnade cafét tillsammans och promenerade ner genom stan.
 
-### Promenad genom stan, Samuel och de undersöker speldosorna ###
+### scenbrytning ###
 
 "Varför vill du hjälpa mig?" frågade Peder.
 
@@ -2432,13 +2432,13 @@ Cecilia skakade på huvudet. "Nej, den är borta."
 
 # Juni, 1982 #
 
-### Hoppet är ute @LES ###
+### scenbrytning ###
 
 Något förändrades efter kaffet med Håkan. Efter det har jag sett verkligheten omkring mig i ett nytt ljus. Det tycks mig som om världen är full av lidande. Vart jag än vänder min blick ser jag elände. När jag betraktar mina studenter, eller till och med främlingar på stan, ser jag bara självupptagenhet och egoism, oförmåga att se bortom sina egna behov. Har Håkan rätt? Är mänskligheten förtappad? Har vi fallit för långt från Gud? Är det försent?
 
 # Den allvetande #
 
-### Peder letar efter spår av den allvetande ###
+### scenbrytning ###
 
 När Cecilia berättade att speldosan hennes pappa byggt var förstörd kände Peder det som om någon ryckt undan mattan under honom. Hur skulle han nu komma vidare? Han var frustrerad och gick av och an utan att säga något. Cecilia stannade kvar en knapp halvtimme. Hon satt på sängen och såg på när Peder muttrade för sig själv. Innan de skiljdes åt bytte de telefonnummer och lovade att höras av om någon av dem fick upp ett nytt spår. På kvällen ringde Peder Jessicas nummer några gånger, men lyckades bara få tag på talsvaret. Efter fjärde försöket lämnade han ett meddelande.
 
@@ -2464,7 +2464,7 @@ Två timmar senare hade han fått ett mejl med ett par bifogade PDF-filer med in
 
 Peder stirrade på artiklarna han spridit ut framför sig. Det var troligt att det var Cecilias pappa som tillverkat de tre speldosorna solen, månen och stjärnorna -- men i vilket syfte? Varför hade två män dött för deras skull?
 
-### Peder flyttar hem ###
+### scenbrytning ###
 
 När april kom hade Peters pengar tagit slut. Han packade ihop sina saker, smet från hotellnotan och hoppade på en gul regionsbuss till Staffanstorp. Han steg av vid busstorget och promenerade den knappa kilometern till den vita prästgården. Ingen öppnade när han knackade på ytterdörren, så han gick runt på baksidan och satte sig på en grönmålad träbänk vid ena husväggen. Solen värmde mot hans ansikte. Gråsparvar hoppade omkring bland buskarna i trädgården. Gräset såg alltjämt brunt och livlöst ut. Efter en halvtimme hörde Peder en bil stanna i gruset på framsidan. Bilmotorn slogs av, en bildörr öppnades och stängdes och en smal man med grått hår kom gående runt husknuten.
 
@@ -2560,7 +2560,7 @@ Peder satt kvar vid köksbordet när ytterdörren stängdes och bilmotorn starta
 
 Vardagsrummet såg ut som det brukade, med en brun skinnsoffa och två fåtöljer framför TV:n. Det stod färre blommor i fönstren och de som var där såg törstiga ut. Den lilla toaletten hade fortfarande samma ljusblå kakel, med blommiga bårder. Han öppnade in till grovköket och såg tomma whiskyflaskor och vinflaskor i papperspåsar under bänken. Peder lyfte på en av flaskorna och rynkade pannan. På övervåningen gläntade han på dörren till föräldrarnas sovrum. Dubbelsängen var bara bäddad på moderns sida. Dammiga böcker låg på hennes nattduksbord, bredvid ett tomt glas. Peder gick vidare på längs korridoren, förbi arbetsrummet, tills han kom fram till sitt eget gamla pojkrum. Det hade fortfarande svartmålade väggar, tapetserade med Depeche Mode-affischer. Han slängde sig på rygg i sängen och stirrade upp i taket. Ögonlocken blev tunga och andhämtningen saktade in. Han somnade på ett par minuter.
 
-### Telefonsamtal med Cecilia ###
+### scenbrytning ###
 
 Peder väcktes av att mobiltelefonen ringde i hans byxficka. Det var Cecilia. Hon undrade hur han hade det. Han berättade att han bodde hemma hos sin far.
 
@@ -2616,7 +2616,7 @@ Efter sena nyheterna reste sig fadern upp.
 
 Peder satt kvar i vardagsrummet och drack ur sin andra ölburk. Han väntade tills ljuden från badrummet på övervåningen tystnat och gick sedan upp och gjorde sig själv i ordning. Sängen var kall när han kröp ner mellan lakanen. Han la sig på sidan och drog upp knäna mot hakan för att inte frysa. Sängen var kortare än ha mindes den och fötterna spjärnade mot ramen. Han tänkte först på Jessica och undrade vad hon gjorde just nu. Sedan gled tankarna över på Cecilia -- på hennes hår, hennes blå ögon och på hennes bröst. Han märkte hur tankarna blev segare och segare, mindre och mindre sammanhängande, tills han föll i sömn.
 
-### Drömmen om den allvetande ###
+### scenbrytning ###
 
 I drömmen stod han mitt i ett böljande kornfält, ljusgrönt som på våren. Det bredde ut sig åt alla håll och mötte en klarblå himmel vid horisonten. Peder drog handen över axen. Håren kittlade mot hans hud. En röst talade från en punkt mitt i hans huvud.
 
@@ -2643,7 +2643,7 @@ Peder följde efter lammet genom fältet. I drömmen gick han i flera timmar. Vi
 "Du hittade mig", sa rösten i Peders huvud.
 
 
-### Peders far skriker i natten ###
+### scenbrytning ###
 
 Ett utdraget skrik skar genom natten. Peder satte sig käpprak i sängen. Först var han inte säker på om han drömt, men så hörde han det igen.
 
@@ -2682,7 +2682,7 @@ Han hjälpte sin far upp på fötter.
 "Du ljuger!" skrek hans far rakt ut i rummet.
 
 
-### På väg till den allvetande ###
+### scenbrytning ###
 
 Peder duschade av sin far, klädde honom i rena kläder och bäddade ner honom i soffan i vardagsrummet. Han städade undan så gott det gick i sovrummet. Efteråt tog han på sina egna kläder och drack ett glas kallt vatten i köket. Den friska kylan väckte honom, fick huvudet att kännas mindre rörigt. Han gick igenom faderns jacka och hittade bilnyckeln i ena innerfickan. Han låste noga ytterdörren bakom sig innan han satte sig i bilen och körde iväg.
 
@@ -2816,7 +2816,7 @@ Peder lyfte handen till farväl och promenerade tillbaka till bilen. Fåglar sj�
 
 Huset var stilla när han klev in genom ytterdörren. Han la tillbaka bilnyckeln i faderns jacka och gick direkt upp och la sig på rygg på sängen, med kläderna på. Han drog en djup suck och somnade omedelbart.
 
-### Peder städar ut sin mor ###
+### scenbrytning ###
 
 Väckarklockan på nattduksbordet visade halv tolv när Peder till sist lyckades sätta sig upp på sängkanten. Han stönade och drog båda händerna genom sin blonda kalufs. Håret kändes flottigt mellan fingrarna. Huvudet sprängde. Han tog varsamt av kläderna och gick in i badrummet. Han ställde sig i duschkabinen och vred på vattnet. Kylan gjorde ont mot huden. Han ropade till och vred upp temperaturvredet. Efter en liten stund värmdes vattnet upp och kroppen började slappna av. Han tvålade in kroppen och schamponerade sitt hår två gånger. *Rinse and repeat* ekade genom hans huvud, gång på gång utan att han kunde stoppa det. Han stod kvar i vattenstrålarna tills varmvattnet började ta slut.
 
@@ -2911,7 +2911,7 @@ Peder la på och stoppade tillbaka telefonen i fickan. Han tog på sina ytterkl�
 
 # Juli, 1982 #
 
-### Märta har fyllebryt @LES ###
+### scenbrytning ###
 
 Märta kom ner i min verkstad idag. Hon snubblade fram, stank av alkohol.
 
@@ -2936,7 +2936,7 @@ När hon snubblar upp för trappan städade jag upp resterna efter speldosan och
 
 # Flickan utan navel #
 
-### Peder hämtar upp Cecilia på sjukhusområdet och de träffar flickan utan navel ###
+### scenbrytning ###
 
 Peder parkerade på gatan mittemot ingång 52 på sjukhusområdet. Magen kurrade och han öppnade kartongen och tog ett bett av sin hamburgare. Majonäs droppade ner på hans jeans och hans svor till. Dörren på passagerarsidan öppnades och Cecilia hoppade in. Hon var klädd i vita sneakers och en grön canvasjacka.
 
@@ -3145,7 +3145,7 @@ Hon log igen. "Ok. I övermorgon. Vi kan väl höras under eftermiddagen -- när
 Peder nickade. De stod tysta framför varandra. Han ville krama om henne, men fick inte upp sina händer ur byxfickorna. Hon log igen, lyfte handen till farväl och gick därifrån längs trottoaren. Peder stod kvar och såg henne försvinna bort i fjärran. Han hoppades att hon skulle vrida huvudet och se på honom, men det gjorde hon inte.
 
 
-### Bilkrasch ###
+### scenbrytning ###
 
 När Peder vred om nyckeln i bilens tändningslås lyste en orange lampa på instrumentpanelen. Bensintanken var nästan tom. *Jag chansar*, tänkte Peder och svängde ut på Nobelvägen igen. Han körde ut från stan, genom två rondeller och upp på E22 mot Lund. När han tog av mot Staffanstorp var klockan kvart över sju och det var nästan mörkt ute. Han var ensam på vägen och slog på helljusen. Han funderade på det Kerstin berättat. Hon hade sett jorden gå under, och hon påstod att det skulle ske om ett par månaders tid. Var hon galen, eller hade hon rätt? Eller, galen var hon ju, men hade hon rätt om det här? Vem var det som hållit henne gömd i så många år? La Coeur -- *hjärtat*, var han en av Riddarna av det Heliga Lammet?
 
@@ -3160,7 +3160,7 @@ Det ringde i öronen. Det smakade metall i munnen. Något varmt rann ur näsan o
 
 # Mars, 1983 #
 
-### Prefektens övergrepp @LES ###
+### scenbrytning ###
 
 Jag arbetade sent idag. Jag hade en massa labbrapporter att gå igenom och det fanns ingen chans att hinna med det under dagen. Klockan var efter åtta när jag släckte lampan på mitt skrivbord och låste dörren till arbetsrummet jag delade med de andra lektorerna. När jag gick mot utgången hörde jag ett märkligt ljud. Jag stannade och lyssnade i mörkret. En bil passerade på gatan utanför. Mina andetag pep i bröstet. Så kom ljudet igen. Det lät som om någon snyftade. Jag rörde inte en muskel medan jag försökte avgöra varifrån gråten kom. Från administrationsbyggnaden. Det lät som om det kom från administrationsbyggnaden. Jag gick långsamt ditåt, så ljudlöst jag någonsin kunde. Gråten tilltog i styrka och nu hörde jag något annat också -- ett mörkare bakgrundsljud -- mumlet av en mansröst. Ljuden ledde mig fram till prefektens dörr och jag blev stående, med ena handen på dörrhandtaget.
 
@@ -3199,7 +3199,7 @@ Jag vände på klacken och gick därifrån. Illamåendet hävde sig över mig i 
 
 # På Café Lundagård #
 
-### Peder berättar för sin far om hur han kvaddat bilen ###
+### scenbrytning ###
 
 Peder vaknade av att det knackade på ytterdörren. Han blinkade till i morgonljuset och vred sig runt på sidan i sängen. Det knackade igen, hårdare den här gången. Peder kastade ett blick på klockan på nattduksbordet. Klockan var halv elva. Han hörde ytterdörren öppnas på nedervåningen och ljudet av dämpade röster.
 
@@ -3310,19 +3310,19 @@ Peder satt tyst och lyssnade på bruset av tankar. Han kände att svaret fanns f
 Han kände sig svettig och tog av handduken. Han öppnade locket till sin laptop och placerade den i knät. Datorns aluminiumskal kändes svalt mot huden. Han plockade fram mejlet han fått från Jesper på Sydsvenskan och läste igenom de bifogade PDF-filerna om Lars-Erik. Han läste om rättegången om och om igen och försökte utläsa vad det var han åtalats för. *Hot mot rikets säkerhet -- på vilket sätt?* Han tog ett tomt papper och skrev "terrorism?" och la det bredvid Lars-Eriks namn. *Var han terrorist? En religiös fanatiker och självmordsbombare? Knappast troligt.* Han bet sig i underläppen och gick ut i hallen och hämtade den bärbara telefonen från basstationen på bordet utanför föräldrarnas sovrum. Han slog numret till nummerupplysningen och bad att bli kopplad till Malmö tingsrätt. När en kvinna svarade i andra ändan presenterade han sig och bad att få en kopia av domslutet från målet mot Lars-Erik Wagner, från den nittionde december 1983. Hon meddelade att han kunde hämta upp handlingarna i receptionen efter klockan femton redan nästa dag. Peder tackade och la på luren. Han ställde sig i fönstret ut mot gatan och lutade sig mot karmen. Det pirrade i magen. Han var nära nu, han kunde lukta det. Nere på gatan pekade en liten flicka på den nakna mannen i prästgårdens fönster. Hennes mamma gapade och drog flickan i armen, men slutade inte stirra.
 
 
-### About town ###
+### scenbrytning ###
 
 Peder var på ett stålande humör resten av dagen. När han klätt sig gick han en promenad i byn. Det var mycket som hade förändrats sedan han flyttade därifrån. Bakom busstationen hade ICA fått en ny fasad och Systembolaget hade blivit en självplock. Nya lägenhetshus hade uppförts bakom biblioteket, där han hade lekt bland träd och buskar som barn. Peder fortsatte runt centrum och åt lunch på Gästis, gästgivargården som tycktes ha bytt ägare och rustats upp. Han satt vid ett fönsterbord och åt färsk pasta från Österlen, med bacon och rotfrukter. Han såg ut genom fönstret mot Citygross, som låg där AG Favör tidigare funnits. Efter lunch gick han in på en frisörsalong och klippte sig kort. Han handlade med sig en kasse mat på vägen och överraskade sin far med lammfärsbiffar med chili och koriander framför TV:n. De satt uppe sent och pratade. För ett par timmar tyckte Peder att allt kändes som förut -- som när han varit en liten pojke.
 
 
-### Cecilia förvandlas till ett lamm ###
+### scenbrytning ###
 
 På natten drömde han om Cecilia. Hon kom emot honom -- naken -- i det gula skenet från stearinljus. Hennes bröstkorg höjde och sänkte sig när hon andades, höfterna svängde från sida till sida när hon gick. Hon kröp upp i sängen och satte sig gränsle över Peder. Han kupade sina händer över hennes bröst. Hon slöt sina ögon, böjde huvudet bakåt och bräkte. Hennes ansikte sprack i en linje från pannan, genom näsan och ner till hakan. Huden föll åt sidan och ett lammhuvud satt på axlarna istället för ett mänskligt huvud. Ullen var tovig av blod. Cecilia bräkte igen. Ögonen var svarta och mörkt blod rann ur hennes mun, ner över brösten och ut på Peders mage.
 
 Peder vaknade med ett ryck. Han andades häftigt och en erektion spände i kalsongerna. Han la den tillrätta, vände sig om på sidan och somnade om.
 
 
-### Fika med Cecilia i Lund ###
+### scenbrytning ###
 
 Drömmen var bara ett suddigt minne när han vaknade nästa morgon. Hans mobiltelefon vibrerade på nattduksbordet bredvid honom.
 
@@ -3579,7 +3579,7 @@ På köksbordet stod Cecilias vinglas orört. Peder rynkade pannan och tömde se
 
 # Mars till april, 1983 #
 
-### Gudstjänsten @LES ###
+### scenbrytning ###
 
 Vi kom nästan försent till gudstjänsten idag. Märta var svagare i högerbenet och det tog en evighet att hjälpa henne ur badet och i kläderna. Vi stormade in genom porten när klockorna börjat ringa, bara för att se att kyrkan bara var halvfull.
 
@@ -3587,14 +3587,14 @@ När vi kommit till ro på en bänk slängdes porten upp igen och prefekten kom 
 
 Hela gudstjänsten passerade som i ett töcken. Märta satte en armbåge i sidan på mig varje gång det var dags att stå upp och sjunga. Varje ord i predikan skorrade falsk, varje strof i psalmerna likaså. Gudstjänsten var tom, i det närmaste parodisk. Jag kände mig febersjuk. Så snart det var över drog jag med mig Märta ut till bilen så snabbt jag kunde. Jag hörde prefekten ropa mitt namn från kyrktrappan, men jag låtsades inte höra.
 
-### Genombrottet @LES ###
+### scenbrytning ###
 
 När natten kom låg jag sömnlös. Jag hörde Märta snarka i rummet intill. Sängkläderna var varma och klibbiga. Jag steg upp, drog fram skrivbordsstolen till fönstret och såg ut på världen utanför. Dimman skapade glorior kring gatlyktorna. Det kändes som en ål sprattlade i mitt inre. Jag kunde se den svarta blänkande kroppen framför mig, dess små själlösa ögon och fixerade mig. Jag tänkte på Håkans ord på cafét. Jag tänkte på profetian från flickan utan navel och på allt elände som fyllde världen. Plötsligt förstod jag. Det var som om någon dragit undan slöjan från mina ögon. Håkan hade rätt. Det fanns inget hopp kvar för mänskligheten. Den svarta ålen stillade sig med ens och lade sig till ro i min mage. På morgonen ringde jag kanslit och sjukanmälde mig.
 
 
 # Anita #
 	
-### Peders far dricker på morgonen ###	
+### scenbrytning ###	
 
 Nästa morgon hade Peder svårt att komma ur sängen. Huvudet kändes tungt och tungan torr. Klockan var åtta, himlen utanför var mulen. Nere i köket satt hans far med ett vinglas framför sig. Ögonen var rödsprängda, ansiktet var kritvitt och han darrade i hela kroppen.
 
@@ -3627,7 +3627,7 @@ Han far nickade. "Fast datorn är sönder. Den hänger upp sig varje gång jag s
 Hans far suckade tungt. "Jag behöver gå och lägga mig -- behöver ta igen lite sömn." Han reste sig och gick uppför trappan.
 
 
-### Peder söker efter nämndemän ###
+### scenbrytning ###
 
 Peder drack ett glas vatten till och letade rätt på en burk Panodil i skåpet över ugnen. Han svalde ner två stycken med sista slatten ur glaset och gick sedan upp på sitt rum och packade upp sin laptop, nätadapter och paketet från tingsrätten. Han bar in allt till faderns arbetsrum och pluggade in ethernetkabeln från faderns PC i sin egen dator. Han stirrade på det grå äpplet på skärmen, medan datorn startade och öppnade sedan webbläsaren och gick in på Eniro. Han vände upp listan över nämndemännen som varit med under Lars-Eriks rättegången och skrev det första namnet, Olof Svensson, i sökrutan. Det fanns trettioåtta män med det namnet i Skåne. Peder skrev ner namnet och antalet på en bit papper, sedan sökte han på nästa namn och nästa igen, tills han hade en komplett lista. Efter det gick han ner till köket igen och satte igång kaffebryggaren. Han stod i fönstret och såg på småfåglarna som byggde bo i buskarna tills den bubblat färdigt. Då hällde han upp en kopp, slog i lite mjölk och återvände upp till datorn.
 
@@ -3664,7 +3664,7 @@ Han skrev ner adressen i sin svarta anteckningsbok, sprang nerför trappan och t
 "Helvete", sa han, gick uppför trappan igen och la tillbaka nyckeln och började gå mot busshållsplatsen.
 
 
-### Hos Anita ###
+### scenbrytning ###
 
 I en liten villaträdgård på Limhamn låg en gråhårig kvinna på knä och rensade ogräs i rabatten ut mot gatan. Jorden var fortfarande fuktig och lucker efter vintern och det gick lätt att dra upp maskrosorna med bara händerna. Hon flyttade sitt sittunderlag i sidled och följde efter själv.
 
@@ -3879,7 +3879,7 @@ Det var tyst en stund. Det var lerigt under presenningen, marken sluttade svagt 
 Det klickade till och en radio kastrade. Den manliga polisen beskrev vad som hänt för sitt yttre befäl och sedan gick de därifrån. Peder låg kvar en stund till i sitt gömställe innan han vågade rulla ut. Han låg på rygg och stirrade upp mot den klarblå himmeln. Solen värmde mot ansiktet. Han reste sig upp på fötter och började gå ut mot vägen. Dold bakom en buske såg han polisbilen köra iväg, innan han hoppade över häcken och började gå längs trottoaren mot busshållsplatsen.
 
 
-### Bussen hem ###
+### scenbrytning ###
 
 Busschauffören stirrade på honom när Peder klev på och la fram en tjuga.
 
@@ -3910,7 +3910,7 @@ Hans far stod kvar och såg efter honom. Peder gick in på sitt rum och stängde
 
 # April, 1983 #
 
-### LES är mogen @LES ###
+### scenbrytning ###
 
 Jag satt i källaren och arbetade på en speldosa, när det ringde på ytterdörren.
 
@@ -3943,7 +3943,7 @@ Jag berättade om prefekten och om hur jag insett att hoppet var ute. Håkan nic
 
 # Samuel och nycklarna #
 
-### Hos den allvetande igen, om Samael ###
+### scenbrytning ###
 
 "Kan du beskriva honom?"
 
@@ -4013,7 +4013,7 @@ Peder såg på speldosorna i sin hand. En sol och en stjärna av mässing glimma
 
 "Nu är det dags, Peder." Han rörde om i der rykande oljefatet. Lågorna hade slocknat. Vit aska virvlade omkring och landade på asfalten.
 
-### Peder berättar hur det hänger ihop ###
+### scenbrytning ###
 
 Peder körde hem genom den begynnande morgontrafiken. Solen var en orange skiva i backspegeln och reflexerna tvingade honom att kisa. Huset var tyst när han klev in genom ytterdörren. Han sparkade av sig skorna och sprang uppför trappan med jackan på. På sitt rum tog han ett tomt pappersark och skrev "speldosor = nyckel. Nyckel till vad?" Han tejpade upp arket på väggen, mitt i klungan av dem som redan satt där. Han tog ett steg tillbaka och studerade vad han skrivit. Det kändes som om något ville ut, som om sambandet låg på tungan. Han rynkade pannan och vandrade av och an i rummet.
 
@@ -4198,7 +4198,7 @@ Det blev tyst igen. "Ok, Peder", sa rösten sedan. "Jag gör vad jag kan. Eposta
 Peder satte sig vid sin dator och surfade runt på olika låstillverkares webbsidor, tills han hittade ett lås som påminde om det han sett på Fridhem. Han skickade länken, med en kort beskrivning av låset ur minnet till sin kontakt. Huvudet kändes dovt igen. *Kanske har jag en hjärntumör*, tänkte Peder medan han gick på toaletten och kissade och drack vatten från kranen. Han klädde av sig och kröp ner i sängen. Det tog inte många minuter innan han hade somnat.
 
 
-### Boris ###
+### scenbrytning ###
 
 Ljudet strilade in mellan persiennerna när Peder vaknade. Klockan hade hunnit bli tre på eftermiddagen och han vinglade nerför trappan och ut i köket, där han drack en halv liter mjölk direkt ur paketet och startade kaffebryggaren. Han bredde några mackor, la på ostskivor och satte sig och åt vid bordet, medan kaffet rann ner i glaskannan. Han borstade brödsmulorna från bordet, ner i sin handflata och slängde dem i vasken. Han drack två muggar kaffe med mjölk stående vid diskbänken och gick sedan och duschade och klädde sig. Utomhus var det en ljummen dag med tunna molnslöjor över himmeln. Peder lämnade jackan öppen och tog en promenad runt byn.
 
@@ -4277,7 +4277,7 @@ På bussen slutade en pojke äta av sin Snickers och såg på Peder med öppen m
 
 # Maj, 1983 #
 
-### Upptagen bland riddarna @LES ###
+### scenbrytning ###
 
 Håkan körde ut mig till logen på Fridhem som vanligt, men idag följde han inte med in. Det var en söndagkväll i maj och ett kraftigt vårregn smattrade mot vindrutan.
 
@@ -4322,7 +4322,7 @@ Jag vaknade morgonen efter hemma i min egen säng, med värkande huvud. I badrum
 
 # Månen #
 
-### Nytt inbrott i logen ###
+### scenbrytning ###
 
 "Skit -- här är folk."
 
@@ -4603,7 +4603,7 @@ Höga röster hördes ovanför dem. Peder kom upp på fötter och de började sp
 De var andfådda och slog av på takten, började gå istället för att springa. De höll sig från huvudlederna, genade genom bostadsområden, genom en park, vidare in på sjukhusområdet och ut vid busstorget på Södervärn. De hann precis med en buss mot Staffanstorp. De satte sig längst bak. Peders benmuskler värkte, ryggen ömmade. Han såg ut genom fönstret, ut i vårnatten som for förbi. De var nära nu, han kände det i hela kroppen.
 
 
-### Speldosorna spelar ###
+### scenbrytning ###
 
 I Peders pojkrum radade de upp de tre speldosorna på sängen -- solen, månen och stjärnan.
 
@@ -4654,7 +4654,7 @@ Peder sök på sin underläpp.
 
 # Maj till juni, 1983 #
 
-### Maskinen planeras @LES ###
+### scenbrytning ###
 
 Grenom Broder Lauréns försorg har jag till sist kommit i kontakt med en man i Gdansk, som lovat hjälpa mig med det material jag behöver. Jag körde till Karlskrona för att möta honom. Han visade sig vara en obehaglig liten typ, med smala rödsprängda ögon, som om han hade ständig hösnuva mitt i vintern. Det glimmade av guld varje gång han log. Han var inte den sortens man jag skulle lita på i vanliga fall, men det här är ju knappast ett vanligt fall. Dessutom har ju Laurén gått i god för honom.
 
@@ -4684,7 +4684,7 @@ Det hade jag inte. Jag kliade mig i huvudet.
 
 "Vi tänker ut något", sa Hierta. Han la en hand på min axel. "Du har gjort ett bra jobb, Wagner. Ett utmärkt jobb."
 
-### Märta får ett nytt skov och jobbet påbörjas @LES ###
+### scenbrytning ###
 
 Jag vaknade av att Märta skrek på mig från sovrummet intill mitt. Jag rusade yrvaken dit och fann henne på rygg i sängen. Hon flaxade med armarna, vit i ansiktet.
 
@@ -4736,7 +4736,7 @@ Håkan nickade.
 
 Jag nickade och vi tog farväl.
 
-### Arbetet med maskinen är i gång @LES ###
+### scenbrytning ###
 
 Efter tio år vid universitetet, där jag fick tigga på mina bara knän för att få köpa in nya blyertspennor, var det en aning overkligt att se de resurser som brödraskapet mobiliserat. Hierta hade låtit resa ett tält över byggplatsen, för att skydda från insyn. Jag hörde via avvägar att man spridit en lögn om vad som försiggår där inne -- en genial lögn -- en lögn som var så fräck att ingen ifrågasatte den. Tidningen var till och med där idag och gjorde ett reportage.
 
@@ -4747,7 +4747,7 @@ Materialet anlände igår natt och hammarslagen har ekat hela morgonen, när kop
 
 # En grav i Malmö #
 
-### På biblioteket ###
+### scenbrytning ###
 
 Klockan var tio på förmiddagen. Peder hade sovit tungt hela natten, men var än mer öm i kroppen efter att ha sovit på golvet. Cecilia hade stannat över och lånat hans säng och en av hans gamla t-shirts som nattlinne. De hade tagit bussen in till Malmö så snart de hade vaknat och ätit frukost på ett fik. Nu promenerade de längs grusgången som ledde fram till Malmö stadsbibliotek, förbi fasaden av glas och fram emot huvudingången. Det var en vacker vårdag, varm, utan moln på himmeln. De passerade svängdörrarna och gick fram till receptionen, där en kvinna i scarf log mot dem.
 
@@ -4892,7 +4892,7 @@ Han stängde ner visningsfönstret på datorskärmen och lämnade rummet tillsam
 "Nä."
 
 
-### Rekognosering på kyrkogården ###
+### scenbrytning ###
 
 Det tog dem en dryg timme att promenera ut till Sankt Paulis södra kyrkogård. Peder köpte en falafel och försökte äta dem medan ge gick. Sås rann längs hans händer och fläckade hans byxor. Väl framme torkade han av sig på gräset vid järngrinden framför ingången från Nobelvägen. En ung man med långt hår och stora hörlurar krattade en av grusgångarna, med ryggen åt dem.
 
@@ -4973,12 +4973,12 @@ Han stod tyst en kort stund.
 
 "Jag säger det alldeles för ofta, eller hur?"
 
-### Allt hänger samman ###
+### scenbrytning ###
 
 De kom överens om att träffas utanför grindarna till kyrkogården vid midnatt. Cecilia gick hem till sig, medan Peder promenerade in mot Malmö centrum och tog bussen hem till Staffanstorp. Huset var tomt när han kom hem. Han tog av sig sina kläder och gick ut i köket i bara kalsongerna, ställde sig vid kylen och drack apelsinjuice direkt ur kartongen. Sedan gick han upp på sitt rum och betraktade pappersarken han satt upp på sin vägg. Han rufsade handen genom håret och tog några pappersark till. På ett skrev han "Samuel" och på ett annat "Edencrona -- mausoleum". Han satte upp dem på väggen, intill de andra. Sedan tog han en röd märkpenna och förband arken med streck -- ett i taget -- tills de bildade en sammanhängande kedja. Allt hörde ihop. Huvudet var tungt. Han skevade persiennerna, kröp ner undet täcket och somnade.
 
 
-### Bultsaxen ###
+### scenbrytning ###
 
 Klockan var efter åtta när han vaknade. Han drog upp persiennerna och såg att skuggorna blivit längre nere på gården. Efter en snabb dusch klädde han sig och gick ner. Hans far satt i vardagsrummet och såg på TV, med ett glas vin i handen. Hans ögon var simmiga.
 
@@ -5015,7 +5015,7 @@ Hans far såg efter honom när han lämnade rummet.
 Peder letade genom förrådet och hittade bultsaxen under en presenning. Han stoppade ner den i sin ryggsäck, men fick inte plats med hela. Han drog igen dragkedjan bäst han kunde och lät handtagen sticka upp. Han låste förrådet efter sig och började gå mot busshållsplatsen.
 
 
-### Inbrott i mausoleet ###
+### scenbrytning ###
 
 Cecilia väntade vid grinden när Peder kom gående längs trottoaren.
 
@@ -5154,7 +5154,7 @@ Han lirkade in händerna under det huvudlösa kadavret och lyfte. Kroppen var f�
 De lämnade den lilla stenbyggnaden och stände dörrarna efter sig. Båda torkade händerna mot det fuktiga gräset nedanför trappan, innan de gick mot utgången. De skiljdes åt ute vid Nobelvägen. Peder ringde efter en taxi och ställde sig och väntade.
 
 
-### Pappan undrar var han varit ###
+### scenbrytning ###
 
 När Peder låste ytterdörren bakom sig var det fortfarande tänt i vardagsrummet. Han kastade en blick på sitt armbandsur, klockan var tre på natten.
 
@@ -5179,7 +5179,7 @@ Peder såg på sina kläder. De svarta jeansen var täckta av smuts.
 "Gå och lägg dig, pappa", sa han och gick mot trappan.
 
 
-### Fångad ###
+### scenbrytning ###
 
 Peder vaknade av att hans far skakade honom.
 
@@ -5240,7 +5240,7 @@ Den andra polisen tog fram en burk pepparsprej ur jackfickan och fyrade av mot P
 
 # Juli till augusti, 1983 #
 
-### LES får kalla fötter @LES ###
+### scenbrytning ###
 
 Jag satt uppe i natt igen. Timmarna gick, medan jag låg vaken i min tältsäng i baracken. En klump av oro jäste i min mage. Tänk om det är fel? Tänk om hon hade fel? Jag kunde inte skaka av mig känslan. Till slut steg jag upp, satte mig vid ritbordet och bredde ut ritningarna. Kunde man verkligen vara säker?
 
@@ -5248,7 +5248,7 @@ Det är för mycket som står på spel. Jag är tvungen att bygga in en säkerhe
 
 Jag nämnde inget för Hierta eller Håkan. Ingen behöver veta.
 
-### Maskinen är klar @ LES ###
+### scenbrytning ###
 
 Den är färdig. Maskinen är färdig och begraven. Hierta har skickat hem sina arbetare, tältet är rivet. Det är gjort.
 
@@ -5257,7 +5257,7 @@ Jag trodde jag skulle känna mig lättad. När jag tidigare såg fram emot den h
 
 # Rum tretton #
 
-### Intagen igen ###
+### scenbrytning ###
 
 Peder var tillbaka på psyk akut igen. Civilpolisen från spaningsroteln visades in direkt till ett rum i korridoren och satte Peder på en brits. Ögonen var fortfarande rödsvullna och rann efter pepparsprayen, han såg bara otydliga konturer av vitklädda människor i korridoren utanför. En av poliserna klappade honom på axeln, innan de lämnade honom ensam.
 
@@ -5308,7 +5308,7 @@ Dörren slog igen och låset klickade till. Peder låg på rygg och stirrade upp
 "Helvete", sa Peder och la sig på sidan. Det spände i ögonen.
 
 
-### Vårdintygsprövning ###
+### scenbrytning ###
 
 Han hade ingen uppfattning om tiden där han låg, men det hade börjat värka i sidan han låg på när dörren öppnades och Gunnar Hierta kom in. Han bar på en pinnstol, som han ställde ner på golvet innanför dörren och slog sig ner på.
 
@@ -5379,7 +5379,7 @@ Han sjönk ner på golvet med ryggen mot dörren. Kylan från stålet gick genom
 Men han kände sig inte längre säker.
 
 
-### Tvångsmedicinering ###
+### scenbrytning ###
 
 En timme senare rasslade det i låset och Peder föstes åt sidan när dörren trycktes upp.
 
@@ -5396,7 +5396,7 @@ Peder var tyst.
 Syster Inger nickade åt skötarna och de la sig ner på knä och höll fast Peders armar och ben. Han rörde inte en muskel när de drog ner hans byxor och stack en nål i hans högra skinka. Han rörde inte en min när Inger injicerade sprutans innehåll och det spände till när vävnaderna pressades isär av vätskan. Världen började snart snurra och Peder gled in i sömn. Ljuset från lysröret i taket mattades och det blev svart.
 
 
-### Mardröm om Cecilia ###
+### scenbrytning ###
 
 Peder drömde. Han stod på en äng, med böljande gräs så långt ögat kunde se. Vita blommor lyste som stjärnor mot allt det gröna. Luften var ljummen och det var alldeles vindstilla.
 
@@ -5409,7 +5409,7 @@ Peder gick mot henne igen, trevande för att inte ramla. När han nästan var fr
 I drömmen kände Peder paniken skölja över honom. Han rörde sig oroligt på madrassen, på golvet i den kala rummet med betonggolv. I blåste det upp en svag vind, som fick gräsfältet att bölja. Cecilia vände sig långsamt om och Peder såg att hon var ihålig, som en gammal trädstam. Där hennes ansikte skulle vara fanns ingenting, bara mörker.
 
 
-### Hierta bearbetar Peder ###
+### scenbrytning ###
 
 När Peder öppnade ögonen igen satt Gunnar Hierta på en stol vid dörren.
 
@@ -5456,7 +5456,7 @@ Han lämnade Peder ensam igen. Det brände i magen, en svidande eld som letade s
 Han slöt ögonen igen och drev in i drömmen.
 
 
-### Samuel eggar Peder till självmord ###
+### scenbrytning ###
 
 Han vaknade av att han frös. Han kröp bort till madrassen igen och kurade ihop sig i fosterställning. Han hackade tänder. Andedräkten var som vit rök. Peder såg sig om, men han var ensam. Ändå hade han känslan av att någon iakttog honom.
 
@@ -5509,7 +5509,7 @@ Samuel skrattade, raspigt och rosslande. Peder höll händerna för öronen och 
 Snoret rann bakåt i svalget och ner i magen. Peder kände en våg av illamående skölja genom kroppen. Han knep ihop munnen och försökte hålla tillbaka kräkreflexen. Ett metalliskt klingande fick honom att öppna ögonen. Samuel var borta. Han var ensam igen. Mitt på golvet låg ett rakblad och blänkte i ljuset från lysröret.
 
 
-### Självmord ###
+### scenbrytning ###
 
 Peder satt länge och stirrade på rakbladet. Det såg så litet och harmlöst ut där det låg på betonggolvet. Så oskyldigt. Peder kände mörkret växa inom sig. Det åt upp allt hopp, tills bara förtvivlan fanns kvar. Vad hade han att leva för? Han var sinnessjuk -- lika galen som sin mor. Vore det inte lika bra att göra slut på det? Innan det var för sent? Medan han ännu kunde? Han reste sig upp på stela ben och plockade upp rakbladet. Han höll det framför sig, mellan tummen och pekfingret. En ljuskatt svepte över hans ansikte när han vred det, som ett ljus i mörkret.
 
@@ -5520,7 +5520,7 @@ Peder slöt ögonen och väntade. Kroppen kändes lätt och sorglös för först
 Efter en stund öppnade han ögonen igen. Han levde fortfarande. Blödningen hade avstannat och en mörkröd fläck torkade på byxbenet. Han suckade, satte rakbladet på plats igen. *Tredje gången gillt.* Han spände armmusklerna och pressade eggen hårt mot huden. *Nu*, tänkte han. *Nu, jävlar.*
 
 
-### Cecilia till undsättning ###
+### scenbrytning ###
 
 Låset klickade till och dörren flög upp. Cecilia stod i dörröppningen.
 
@@ -5563,7 +5563,7 @@ De korsade gatan och hoppade in i en mörkblå taxibil, som stod med motorn på 
 Bilen svängde ut från trottoaren och hade snart lämnat sjukhusområdet bakom sig. Peder sjönk ihop i baksätet. Cecilia la en hand på hans knä.
 
 
-### Peders fars självmordsförsök ###
+### scenbrytning ###
 
 Taxin stannade på innergården tjugo minuter senare. Cecilia betalade kontant och de klev ut.
 
@@ -5620,7 +5620,7 @@ Peder vaknade till liv med ett ryck, sprang ut i korridoren och ringde efter en 
 Peder gick långsamt nerför trappan och ut på gården. Han slog sig ner på bänken vid husväggen och väntade. Tiden gick långsamt. Paniken växte i hans mage. *Kom nu*, tänkte han. *Kom nu.*
 
 
-### Ambulansen kommer ###
+### scenbrytning ###
 
 Till sist hördes ljudet av sirener närma sig. Han gick runt till framsidan och vinkade in ambulansen, som kom körande från centrum. Han berättade för ambulansjukvårdaren vad som hänt, medan de lossade en bår och bar in den i huset. Peder väntade utanför, tills de kom ut med hans far, fastspänd på båren, med en gul filt över kroppen. De rullade in båren i ambulasen och fixerade den. En av sjukvårdarna hoppade in och satte en syrgasmask på plats över faderns näsa och mun.
 
@@ -5647,7 +5647,7 @@ Peder såg på henne.
 
 # September till oktober, 1983 #
 
-### Något har gått snett @LES ###
+### scenbrytning ###
 
 Något har gått snett. Håkan sökte upp mig på institutionen idag och bad att få prata ostört. Tydligen hade man upptäckt två containrar i hamnen med spår av radioaktivitet. De skulle ha smugglats ut ur Sverige, men något hade gått fel. Håkan berättade att Hierta var bekymrad. Under inga villkor kunde man tillåta att polisen följde spåren till hemligheten vi gömt i Edencronas grav.
 
@@ -5657,7 +5657,7 @@ Jag frågade Håkan vad han trodde skulle hända. Han visste inte, men han uppma
 
 Jag måste göra mig av med nycklarna. Jag har en kvar att sätta samman. Det måste bli klart ikväll, sedan måste jag bestämma mig för hur jag ska göra.
 
-### LE blir syndabock ###
+### scenbrytning ###
 
 Jag blev kallad till Hierta idag, men jag visste redan vad han skulle säga. Polisen var oss på spåren. Den polska sjökaptenen som skulle ha smugglat ut de tomma containrarna ur Sverige hade fått kalla fötter och försvunnit med betalningen. Vi måste sopa igen våra spår, om inte allt ska vara förgäves.
 
@@ -5692,7 +5692,7 @@ Han tackade mig och jag gick därifrån. Det var så mycket jag var tvungen att 
 
 # En kupol av glas #
 	
-### Cecilias hypotes ###
+### scenbrytning ###
 
 De gick upp till badrummet på övervåningen och Cecilia hjälpte Peder tvätta underarmen med tvål och vatten. Hon letade runt bland skåpen tills hon hittade en flaska sårtvätt och en bomullstuss. Det sved i såret när hon rengjorde det och Peder bet ihop käkarna.
 
@@ -5755,7 +5755,7 @@ Peder drog av papper från hushållsrullen på bordet och började torka han ock
 "Vi får dra direkt", sa han. "Nevisborgs kyrkogård ligger i utkanten av Staffanstorp, på andra sidan av gamla Malmövägen. Det är lika bra vi promenerar."
 
 
-### Till Nevishögs kyrkogård ###
+### scenbrytning ###
 
 När det städat upp i köket gick Peder upp på övervåningen och hämtade skinnpungen med speldosorna, som han gömt under dukarna i linneskåpet. Han stoppade ner den i ryggsäcken, kontrollerade att ficklampan fungerade och stoppade ner den också. De tog var sin banan från fruktskålen i köket, som de skalade på vägen ut.
 
@@ -6035,7 +6035,7 @@ Peder snurrade runt och riktade ljuset mot rösten. Samuel stod i hörnet, med a
 
 "Samuel känner du ju", sa Hierta.
 
-### Showdown ###
+### scenbrytning ###
 
 Peder och Cecilia gick ut ur mausoleet och ner på grusgången. Överläkaren följde efter, med pistolen riktad mot dem. Samuel cirklade runt och ställde sig på andra sidan. Stenänglarna höjde sig över dem.
 
@@ -6266,7 +6266,7 @@ Peder skakade på huvudet.
 
 # Juni, 1990 #
 
-### Lars-Eriks sista brev @LES ###
+### scenbrytning ###
 
 Lång tid har gått sedan jag skrev senast. Dagarna här inne flyter ihop till veckor, som flyter ihop till månader. Rätt vad det är har flera år gått. Jag tror att jag är lycklig här, i mitt lilla sammanhang. Tiden utanför fängelset känns alltmer som en avlägsen dröm.
 
@@ -6279,7 +6279,7 @@ Det ska bli trevligt att se någon från brödraskapet.
 
 # Början på något nytt #
 
-### Tillbaka på tidningen ###
+### scenbrytning ###
 
 Peder satt vid sitt skrivbord på tidningen och stirrade på skärmen till sin laptop. Efter en rekordvarm sommar var september här och luften hade börjar bli svalare. Han svettades ändå där han satt och när han flätade fingrarna bakom huvudet syntes mörka fläckar på tyget i hans armhålor.
 
@@ -6343,7 +6343,7 @@ Cecilia var tyst en stund. "Ska vi ses i kväll", sa hon sedan.
 
 "Då säger vi det. I morgon. Vi ses."
 
-### Peder åker till Spillepengen ###
+### scenbrytning ###
 
 Peder tog en taxi ut till Spillepengen och promenerade den sista biten till bron där han träffat den allvetande första gången. Trafiken brusade över hans huvud. Kartongerna låg kvar på marken, solkade och skrynkliga. Oljefaten fanns också där, fullt av aska. Peder stack ner ett finger bland de förkolnade träresterna. Askan var kall. Han rynkade pannan och torkade av fingret mot byxbenet.
 
