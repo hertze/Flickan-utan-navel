@@ -972,6 +972,20 @@ Det kändes som om något lossnade i mig när jag sa det, som om ett gruskorn so
 
 # Solen, månen och stjärnorna #
 
+"Men du får i alla fall ta på dig kläder om du ska gå ut."
+
+"Varför skulle jag det? Det är ju sommar. På sommaren behöver man inga kläder."
+
+Peder hade legat på soffan i vardagsrummet och lyssnat på sina föräldrar ute i köket. Ögonlocken var tunga och svullna och han hade glidit in och ut ur slummer. Hans mamma hade varit uppe hela natten och spelat musik så ingen annan hade kunnat sova. Peder hade legat i mörkret och sett på när de röda sifforna på klockradion sakta räknade fram minuterna, medan Krister Sjögrens smörstämma och ett irriterande dansbandskomp skakade huset. Nu rusade hans mamma förbi vardagsrummet och ut i hallen, med de nakna brösten studsande mot bröstkorgen. Hennes hår var ett svettigt råttbo. Efter henne rusade Peders pappa med en öppen morgonrock fladdrande mellan händerna.
+
+"Du får inte gå ut naken", ropade han. "Snälla."
+
+"Dra år helvete. Jag gör väl som jag vill!"
+
+Hennes röst hade spruckit upp i ett gällt skrik och ytterdörren hade smällt igen. Peder hade suckat och vänt sig om på sidan, med en kudde tryckt över örat. Hans mamma var galen igen. Det hade hållit på så här i en vecka. Snart skulle det slå över och hon skulle sluta stiga ur sängen. Det var söndag förmiddag och Peder visste inte hur han skulle klara av att gå till skolan dagen efter.
+
+Sjukhussängen gnisslade när han snurrade runt och la sig på mage. Plastöverdraget på madrassen fick lakanen att klibba mot hans bara kropp. Han vände kudden och la kinden mot det svala tyget. Hans mamma hade varit galen och nu var han här här, inlåst på en psykavdelning. *Sådan mor sådan son*, tänkte han och sparkade av sig täcket.
+
 ### Nytt bedömningssamtal ###
 
 "Nu har du varit här i några dagar, Peder. Hur trivs du?"
