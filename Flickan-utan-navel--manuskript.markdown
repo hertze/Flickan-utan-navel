@@ -1,15 +1,15 @@
-latex input:		manus-header-utkast
-Title:				Flickan utan navel 
-Author:				Joakim Hertze
-Copyright:			Joakim Hertze
-MyAddress:			Porfyrvägen 5  
-					245 45 Staffanstorp  
-					joakim@hertze.com
-MyWordcount:		60000
-Quotes Language:	Swedish
+latex input:		    manus-header-utkast
+Title:				      Flickan utan navel 
+Author:				      Joakim Hertze
+Copyright:			    Joakim Hertze
+MyAddress:			    Porfyrvägen 5  
+					          245 45 Staffanstorp  
+					          joakim@hertze.com
+MyWordcount:		    60000
+Quotes Language:	  Swedish
 Base Header Level:	2
-latex input:		manus-begin-doc
-latex footer:		manus-footer
+latex input:		    manus-begin-doc
+latex footer:		    manus-footer
 
 
 
@@ -116,7 +116,7 @@ Det surrade av ljud från kontorslandskapet omkring honom. Klickandet av tangent
 
 Nackmusklerna kändes strama, som om han var på väg att få nackspärr. Han tryckte in fingrarna i ena kappmuskeln och reste sig från skrivbordet.
 
-Gud, jag är som en gammal gubbe", sa han för sig själv och haltade bort genom kontorsbåsen, mot vattenkylaren i korridoren. Han lossade en plastmugg, fyllde den och slukade det kalla vattnet i några stora klunkar. Sedan fyllde han muggen igen. Han såg på kondensen, som bildade små pärlor av vatten på utsidan av plastbehållaren. Han petade till med pekfingret, så några vattenpärlor smälte samman, absorberade fler och fler av grannarna, tills de bildade en droppe som var tung nog att rinna nerför behållaren. *Allt som behövs är en liten utlösande hädelse*, tänkte han. *En liten knuff i rätt riktning.*
+"Gud, jag är som en gammal gubbe", sa han för sig själv och haltade bort genom kontorsbåsen, mot vattenkylaren i korridoren. Han lossade en plastmugg, fyllde den och slukade det kalla vattnet i några stora klunkar. Sedan fyllde han muggen igen. Han såg på kondensen, som bildade små pärlor av vatten på utsidan av plastbehållaren. Han petade till med pekfingret, så några vattenpärlor smälte samman, absorberade fler och fler av grannarna, tills de bildade en droppe som var tung nog att rinna nerför behållaren. *Allt som behövs är en liten utlösande hädelse*, tänkte han. *En liten knuff i rätt riktning.*
 
 "Vågar du dricka från den där?" sa en röst bakom honom.
 
@@ -974,21 +974,21 @@ Det kändes som om något lossnade i mig när jag sa det, som om ett gruskorn so
 
 "Men du får i alla fall ta på dig kläder om du ska gå ut."
 
-"Varför skulle jag det? Det är ju sommar. På sommaren behöver man inga kläder."
+"Varför? Det är ju sommar. På sommaren behöver man inga kläder."
 
-Peder hade legat på soffan i vardagsrummet och lyssnat på sina föräldrar ute i köket. Ögonlocken var tunga och svullna och han hade glidit in och ut ur slummer. Hans mamma hade varit uppe hela natten och spelat musik så ingen annan hade kunnat sova. Peder hade legat i mörkret och sett på när de röda sifforna på klockradion sakta räknade fram minuterna, medan Krister Sjögrens smörstämma och ett irriterande dansbandskomp skakade huset. Nu rusade hans mamma förbi vardagsrummet och ut i hallen, med de nakna brösten studsande mot bröstkorgen. Hennes hår var ett svettigt råttbo. Efter henne rusade Peders pappa med en öppen morgonrock fladdrande mellan händerna.
+Peder hade legat på soffan i vardagsrummet och lyssnat på sina föräldrar ute i köket. Ögonlocken var tunga och svullna och han hade glidit in och ut ur slummer. Hans mamma hade varit uppe hela natten och spelat musik så ingen annan hade kunnat sova. Peder hade legat i mörkret och sett på när de röda sifforna på klockradion sakta räknade fram minuterna, medan Christer Sjögrens smörstämma och ett irriterande dansbandskomp skakade huset. Nu rusade hans mamma förbi vardagsrummet och ut i hallen, med de nakna brösten studsande mot bröstkorgen. Hennes hår var ett svettigt råttbo. Efter henne rusade Peders pappa med en öppen morgonrock fladdrande mellan händerna.
 
 "Du får inte gå ut naken", ropade han. "Snälla."
 
-"Dra år helvete. Jag gör väl som jag vill!"
+"Men, dra åt helvete. Jag gör väl som jag vill!"
 
-Hennes röst hade spruckit upp i ett gällt skrik och ytterdörren hade smällt igen. Peder hade suckat och vänt sig om på sidan, med en kudde tryckt över örat. Hans mamma var galen igen. Det hade hållit på så här i en vecka. Snart skulle det slå över och hon skulle sluta stiga ur sängen. Det var söndag förmiddag och Peder visste inte hur han skulle klara av att gå till skolan dagen efter.
+Hennes röst hade spruckit upp i ett gällt skrik och ytterdörren hade smällt igen. Peder hade suckat och vänt sig om på sidan, med en kudde tryckt över örat. Hans mamma var galen igen. Det hade börjat för en vecka sedan, smygande först, men sedan blivit allt värre. Snart skulle det slå över och hon skulle sluta stiga ur sängen. Det var söndag förmiddag och Peder visste inte hur han skulle klara av att gå till skolan dagen efter.
 
-Sjukhussängen gnisslade när han snurrade runt och la sig på mage. Plastöverdraget på madrassen fick lakanen att klibba mot hans bara kropp. Han vände kudden och la kinden mot det svala tyget. Hans mamma hade varit galen och nu var han här här, inlåst på en psykavdelning. *Sådan mor sådan son*, tänkte han och sparkade av sig täcket.
+Sjukhussängen gnisslade när han snurrade runt och la sig på mage. Plastöverdraget på madrassen fick lakanen att klibba mot hans bara kropp. Han vände kudden och la kinden mot det svala tyget. Hans mamma hade varit galen, men ingen hade hjälpt henne. Nu var han här här istället, inlåst på en psykavdelning. *Ironiskt*, tänkte han och sparkade av sig täcket. *De har låst in fel Abrahamsson*. Han la sig tillrätta i militärposition och somnade. I korridoren utanför ljöd larmet.
 
 ### scenbrytning ###
 
-"Nu har du varit här i några dagar, Peder. Hur trivs du?"
+"Så, nu har du varit här i några dagar, Peder. Hur trivs du?"
 
 De satt i samma samtalsrum, kring det lilla bordet. Peder satt återigen närmast dörren, med överläkaren och underläkaren mittemot sig. Peder var trött. Håret hängde på ända. Det hade varit en orolig natt.
 
